@@ -7,25 +7,36 @@ from nltk.tokenize import word_tokenize
 
 stop_words = set(stopwords.words("english"))
 ps = PorterStemmer()
+import os
 
 # Read from file
 def read_text_files_from_folder(folder_path):
-    # documents = []
-    # for file_name in os.listdir(folder_path):
-    #     file_path = os.path.join(folder_path, file_name)
-    #     if os.path.isfile(file_path):
-    #         with open(file_path, "r") as file:
-    #             documents.append(file.read())
-    # return documents
-
     documents = []
-    for i in range(1, 4):
-        with open(f"{folder_path}/doc{i}.txt", "r") as file:
-            documents.append(file.read())
-    return documents
+    d=[]
+    for file_name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file_name)
+        d.append(file_name)
+        if os.path.isfile(file_path):
+            with open(file_path, "r") as file:
+                documents.append(file.read())
+    print(d)
+    return {"content":documents,"dirs":d}
+
+    # documents = []
+    # for i in range(1, 6):
+    #     with open(f"{folder_path}/doc{i}.txt", "r") as file:
+    #         documents.append(file.read())
+    # return documents
+def filter(string):
+    import re
+    fi=re.compile(r'[^a-zA-Z]')
+
+    return fi.sub("",string)
 def start_indexing():
     inv_index = {}
-    docs=read_text_files_from_folder("docs")
+    file=read_text_files_from_folder("docs")
+    docs=file["content"]
+    dirs=file["dirs"]
     docIndex=0
 
     for doc in docs:
@@ -33,8 +44,10 @@ def start_indexing():
         docs[docIndex]=tokens
         res=0
         for term in tokens:
-            if term in stop_words:
+            term=filter(term)
+            if term in stop_words or term.strip()=="":
                 continue
+            
             term = ps.stem(term)
             if term not in inv_index:
                 inv_index[term] = {}
@@ -53,9 +66,9 @@ def start_indexing():
         docIndex+=1
 
     sorted_dict = dict(sorted(inv_index.items()))
-    with open("index3.py", "w") as file:
+    with open("index3.py", "w",encoding="utf-8") as file:
         file.write(f"index={sorted_dict}")
-    meta={"total_doc":len(docs),"tw":[len(item) for item in docs]}
+    meta={"total_doc":len(docs),"tw":[len(item) for item in docs],"dirs":dirs}
     with open("index3.py","a") as file:
         file.write(f"\nmeta={meta}")
 
@@ -65,7 +78,7 @@ def start_indexing():
 
 
 
-def search(query):
+def search(query,off=10):
     import index3
     import math
     query_vector = {term:0 for term in index3.index}
@@ -73,15 +86,14 @@ def search(query):
 
     for term in toknized_q:
         raw_t=term
-        if term in stop_words: continue
+        term=filter(term)
+        if term in stop_words or term.strip()=="": continue
         term = ps.stem(term)
         if term in index3.index:
             tf=toknized_q.count(raw_t)/len(toknized_q)
-            print(tf)
             idf=math.log2(index3.meta["total_doc"]/index3.index[term]["df"])
             query_vector[term] = tf*idf
     vectors = []
-    print(query_vector)
     for i in range(index3.meta["total_doc"]):
         vector = []
         for term in index3.index  :
@@ -96,9 +108,7 @@ def search(query):
                 vector.append(0)
         vectors.append(vector)
     query_vector=list(query_vector.values())
-    print(query_vector)
     similarities = [np.dot(query_vector, vector) for vector in vectors]
-    print(similarities)
 
     ranked = sorted(enumerate(similarities, 1), key=lambda x: x[1], reverse=True)
     headers = ["Rank", "Score", "Document"]
@@ -107,38 +117,18 @@ def search(query):
     r = 0
     for rank, score in ranked:
         r = r + 1
-        data.append([r, score, f"doc{rank}"])
-    print(tabulate(data, headers, tablefmt="fancy_grid"))
+        data.append([r, score, f"{index3.meta['dirs'][rank-1]}"])
+    print(tabulate(data[:off], headers, tablefmt="fancy_grid"))
 
 
 
-# Create vector space model
-# vectors = []
-# for doc in documents:
-#     vector = []
-#     terms = doc.split()
-#     for term in inv_index:
-#         tf = terms.count(term) / len(terms)
-#         vector.append(tf)
-#     vectors.append(vector)
+import sys
 
-# Calculate similarity
-# query = "machine learning"
-# query_vector = [0] * len(inv_index)
-# for term in word_tokenize(query):
-#     stemmer = PorterStemmer()
-#     term = stemmer.stem(term)
-#     if term in inv_index:
-#         query_vector[list(inv_index).index(term)] = 1
-# similarities = [np.dot(query_vector, vector) for vector in vectors]
-# ranked = sorted(enumerate(similarities, 1), key=lambda x: x[1], reverse=True)
-
-# Print results in table format
-
-
-# start_indexing()
-search("machine learning Science")
-
-
-if __name__ == "__main__":
-    pass
+if("index" in sys.argv and sys.argv[1]=="index"):
+    print("indexing started...")
+    
+    start_indexing()
+elif ("search" in sys.argv and sys.argv[1]):
+    query=input("Enter query: ")
+    # n=input("Enter number of Documents to retrieve: ")
+    search(query)

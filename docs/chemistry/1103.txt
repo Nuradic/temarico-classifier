@@ -1,0 +1,2810 @@
+Almost everything a person sees or touches in daily life, like the air we breathe, the
+food we eat, the clothes we wear, are the result of chemical bonds. The concept of
+chemical bonding lies at the very core of chemistry; it is what enables about little over
+one hundred elements to form millions of known chemical substances that make up
+our physical world.
+In Grade 9, you have learned about chemical bonding and its types such as ionic,
+covalent and metallic bonding and their characteristics. In this unit, we will discuss
+some new concepts about chemical bonding, like molecular geometry, theories of
+chemical bonding and much more.
+Activity 3.1
+Form a group and discuss the following questions:
+1. Why do atoms readily combine to form molecules?
+2. Why molecules are more stable than free atoms?
+3. What keeps the atoms together in a molecule?
+4. Why do elements combine in certain fixed ratio?
+5. The following diagram shows how energy varies as two H atoms approach each other
+to form H2. Interpret the diagram to show the decrease in potential energy favouring
+bonding.
+ CHEMISTRY GRADE 11
+112
+Activity 3.2
+1
+2
+3
+4
+4 3 2 1
+– 100
+– 200
+– 300
+– 400
+– 432
+– 500
+74 100 200
+( ) H bond length 2
+Internuclear distance (pm)
+Potential energy (kJ/mol)
+0
+(
+)
+H bond
+energy
+2
+Figure 3.1 Energy diagram for hydrogen molecule.
+3.1.1 Octet Rule
+Form a group and discuss the following:
+1. Why some atoms are very reluctant to combine with other atoms and exist as single
+atoms?
+2. Is there any thing common amongst these atoms?
+3. What is special about these atoms with respect to their electronic configuration?
+4. What is the common name for this group of elements?
+5. What is the reason for their stability?
+6. Atoms lose or gain electrons not merly to satisfy the octet rule but to reach a lower
+energy state in an ionic compound. But it is in reaching this lower energy state that
+they often tend to follow the octet rule. Explain.
+Share your ideas with the rest of the class.
+You have studied in your earlier classes that noble gases have very stable electron
+arrangements such as 2; 2, 8; 2, 8, 8 and their outer shells are fully saturated. The
+CHEMICAL BONDING AND STRUCTURE
+113
+first three are shown in Figure 3.2 and explains why noble gases are so reluctant to
+form compounds with other elements.
+Helium(2)2
+Neon(10)2.8
+Ar (18)2,8.8
+He Ne Ar
+Figure 3.2 First three noble gases.
+The noble gases have very stable electron configuration, as reflected by their high
+ionization energies, low electron affinity and general lack of reactivity. Because all
+noble gases (except He) have eight valence electrons, many atoms undergoing
+reaction also attain eight valence electrons. The ns2np6 electron configuration of the
+valence shell of all noble gas (except Helium) atoms, is commonly called an octet of
+electrons. The octet rule, a useful generalization that applies to all types of bonding
+which states that when atoms bond, they lose, gain or share electrons to attain the
+electronic configuration ns2np6 of the nearest noble gas. Nearly every main-group
+monoatomic ion has a filled outer level of electrons (either two or eight), the same
+number as in the nearest noble gas.
+Compounds such as CH4 and NH3 obey octet rule, whereas others like BeCl2, BF3,
+SF6, PCl3 and PCl5 though stable, but do not obey octet rule. Such compounds are
+exceptions to the octet rule. In such compounds the central atom is either short of
+electrons or has excess of electrons as compared to the octet. These are discussed
+later in this unit. Though there are certain exceptions to the octet rule, yet it provides
+us a useful framework for introducing many important concepts of bonding.
+Note! Octet rule states that during the formation of a chemical compound, each atom
+has an octet (8) electrons in its highest occupied energy level by gaining, losing, or
+sharing electrons.
+ CHEMISTRY GRADE 11
+114
+3.1.2 Types of Chemical Bonding
+In Grade 9 you have learnt in details what exactly is a chemical bond? The forces of
+attraction that hold atoms together are called chemical bonds. Broadly these forces of
+attraction can be categorised as intramolecular forces, which affect the chemical
+properties of the species.
+There are three main types of chemical bonds – covalent, ionic and metallic bonds. In
+general, there is a gradual change from more metallic to more non-metallic property
+when moving from left to right across a period and when moving from bottom to top
+within a group. Three types of bonding can result from the manner in which the atoms
+can combine:
+Ionic Bonding is formed by electron transfer from a metal to a non-metal with
+different electronegativity values.
+Covalent Bonding is formed as a result of electron sharing between two non-metals. If
+the electronegativity values are very similar then it is non-polar covalent bonding but if
+the electronegativity values are much different, then it is a polar covalent bonding.
+Metallic Bonding refers to the interaction between the delocalised electrons and the
+metal nuclei.
+Activity 3.3
+Form a group and:
+1. Illustrate the formation of ionic bond between the elements from Group IA, period 2
+and Group VIIA and period 3. Correlate this bonding with the electronic configuration.
+2. Indicate whether each of the following formulas is a likely formula for a stable ionic
+compound, and give explanation for your answer:
+a Rb2O b BaCl c MgF3 d ScBr3 e Na3N
+Share your ideas with the rest of the class.
+3.2 IONIC BONDING
+At the end of this section, you should be able to:
+• define ionic bonding;
+• use Lewis electron dot symbols to depict main group elements;
+CHEMICAL BONDING AND STRUCTURE
+115
+Activity 3.4
+Form a group and discuss the following questions:
+1. What types of elements are involved in ionic bonding?
+2. What is ionization energy?
+3. What role does electron affinity play in the formation of an ionic bond?
+4. How many ionic bonds will result from the combination of magnesium and chlorine?
+5. What type of bond will be formed between a metal and a non-metal?
+Share your ideas with the rest of the class.
+• describe ionic bonding using Lewis electron dot symbols;
+• list the favourable conditions for the formation of ionic bond;
+• explain the formation of ionic bonding;
+• give examples of ionic compounds;
+• define Lattice energy;
+• calculate lattice energy of ionic crystal from a given data using the Born-Haber
+cycle;
+• discuss the exceptions to octet rule;
+• describe the properties of ionic bonding;
+• carry an activity to demonstrate the effect of electricity on ionic compounds
+(PbI2 and NaCl); and
+• carry an activity to investigate the melting point and solubility of some ionic
+compounds (NaCl and CuCl2).
+You are familiar with how sodium metal reacts with chlorine gas, Cl2, to form sodium
+chloride, NaCl, a substance composed of Na+ and Cl– ions.
+2Na(s) + Cl2(g) → 2NaCl(s)
+Let us look at the electronic configurations of sodium and chlorine atoms for a
+possible interpretation of the reaction between them. A sodium atom, Na, by losing an
+electron, forms a sodium ion, Na+, which has the same electron configuration as the
+noble gas neon.
+ CHEMISTRY GRADE 11
+116
+Na → Na+ + e–
+[Ne]3s1 [Ne]
+A chlorine atom, Cl, by gaining an electron, forms a chloride ion, Cl–
+, which has the
+same electron configuration as the noble gas argon.
+Cl + e– → Cl–
+[Ne]3s2 3p5 [Ar]
+Na + Cl → Na+ + Cl–
+[Ne]3s1 [Ne]3s2 3p5 [Ne] [Ar]
+When particles have opposite electric charges, a force of attraction exists between
+them; known as electrostatic force of attraction. In sodium chloride, the sodium ions
+and the chloride ions are held together by electrostatic force of attraction, thus forming
+an ionic bond or electrovalent bond.
+Exercise 3.1
+1. Explain the formation of bonds in the following pairs of elements:
+a potassium and chlorine,
+b magnesium and oxygen and
+c sodium and oxygen.
+2. Which of the following elements will form a ionic bond with chlorine and why?
+Calcium, Carbon, Oxygen and Silicon
+3. Why ionic bond is also known as electrovalent bond?
+4. How many types of chemical bonding you are familiar with?
+5. State and explain the formation of ionic, covalent and metallic bonds. Use
+diagrams wherever required.
+6. List four important characteristics of ionic compounds.
+7. What observable properties can you use to distinguish one kind of bond from
+another?
+Note! Ionic compounds are usually formed when metal cations bond with non-metal
+anions. The only common exception is ammonium ion which is not a metal, but it
+forms ionic compounds.
+CHEMICAL BONDING AND STRUCTURE
+117
+3.2.1 Lewis Electron-Dot Symbols
+In grade 9, you practiced how to write the Lewis formula for sodium and
+chlorine. Do their electron configurations change when these atoms form
+ions?
+The American Chemist Gilbert N. Lewis (1875–1946) created a simple shorthand
+system for depicting the electrons involved in bonding and the sequence of atoms in a
+molecule. In a Lewis electron-dot symbol of an atom, the element symbol represents
+the nucleus and inner electrons, (core electrons), and it is surrounded by a number of
+dots equal to the number of valence electrons. You can write the Lewis symbol of any
+main group element from its group number (IA to VIIIA), which gives the number of
+valence electrons. These are placed one at a time on the four sides of the element
+symbol and then paired up until all are used. For example, the Lewis electron-dot
+symbol for phosphorus can be written as:
+P or or P P or P
+The Lewis electron-dot symbols for elements of period 2 may be written as:
+Li Be B C N O F Ne
+lA IIA IIIA IVA VA VIA VIIA VIIIA
+Activity 3.5
+Form a group and:
+1. Use s p d f notation and Lewis symbols to represent the electron configuration of each
+of the following:
+a K+ b S2– c F– d Al3+
+2. Explain how Lewis symbols and spdf notation differ in their representation of electron
+spin.
+Share your ideas with the rest of the class.
+Exercise 3.2
+1. Use Lewis electron-dot symbols to depict the formation of sodium and
+bromide ions from the atoms and determine the formula of the compound.
+ CHEMISTRY GRADE 11
+118
+2. Use Lewis electron-dot symbols to show the transfer of electrons from
+magnesium atoms to nitrogen atoms to form ions with noble gas electron
+configurations. What is the formula and name of the product?
+3. Use Lewis electron-dot symbol to show the transfer of electron from aluminium
+to oxygen atoms to form ions with noble gas electron configurations. What is the
+formula and name of the product?
+3.2.2 Formation of Ionic Bonding
+The formation of ionic compounds is not merely the result of low ionization energies and
+high affinities for electrons, although these factors are very important. It is always an
+exothermic process; the compound is formed because it is more stable (lower in energy)
+than its elements. Much of the stability of ionic compounds result from the packing of the
+oppositely charged positive and negative ions together. A measure of just how much
+stabilization results from this packing is given by the lattice energy (U). This quantity is
+the energy change occurring when gaseous ions come together to form one mole of a
+solid ionic compound, or the enthalpy change required for one mole of the solid ionic
+substance to be separated completely into ions far removed from one another.
+The lattice energy is an important indication of the strength of ionic interactions and is
+a major factor influencing melting points, hardness, and solubility of ionic compounds.
+The lattice energy plays a crucial role in ionic compound formation, but it is difficult to
+measure it directly. Nevertheless, the lattice energies of many compounds have been
+determined using Hess's law of heat summation, which states that an overall reaction's
+enthalpy change is the sum of the enthalpy changes for the individual reactions that
+make it up:
+∆Htotal = ∆H1 + ∆H2 + ∆H3 +...
+Lattice energies can be calculated through a Born-Haber cycle, in which a series of
+steps from elements to ionic compounds for which all the change in enthalpies are
+known except the lattice energy. This general approach to describing the energetics of
+ionic compound formation is applied to sodium fluoride in the steps outlined below
+and illustrated in Figure 3.3.
+CHEMICAL BONDING AND STRUCTURE
+119
+Figure 3.3 The Born-Haber cycle for NaF(s).
+Consider the Born-Haber cycle for the formation of sodium fluoride. We choose steps
+that we can measure to depict the energy components of ionic compound formation,
+from which we calculate the lattice energy. We begin with the elements in their
+standard states, metallic sodium and gaseous diatomic fluorine. There are two routes
+to follow: either the direct combination reaction (Route A) or the multi-step cycle
+(Route B), one step of which is the unknown lattice energy. From Hess's law, it is
+known that both routes involve the same overall enthalpy change.
+The formation of NaF(s) from its elements is shown as happening either in one overall
+reaction (Route A) or in five steps, each with its own enthalpy change (Route B). The
+overall enthalpy change for the process (∆f H°) is calculated as the sum of the
+enthalpy changes ∆H°step1, through ∆H°step4. Therefore, ∆H°step5, the lattice energy
+(UNaF), can be calculated.
+∆f
+H° of NaF(s) (Route A) = sum of ∆H° for steps in cycle (Route B)
+ CHEMISTRY GRADE 11
+120
+To preview Route B, the elements are converted to individual gaseous atoms (Step 1
+and Step 2), the electron transfer steps form gaseous ions (Step 3 and Step 4), and
+the ions form a solid (Step 5). We identify each ∆H° by its step number:
+Step 1: Converting solid sodium to separate gaseous sodium atoms involves
+breaking the metallic bonds that hold atoms in the sample, so it requires
+energy:
+Na(s) → Na(g) ∆H°step1 = + 108 kJ
+(This process is called atomization, and the enthalpy change is ∆atH°.)
+Step 2: Converting fluorine molecule to fluorine atoms involves breaking the covalent
+bond in F2, so it requires energy. One mole of F atoms are needed to form
+one mole of NaF, so start with ½ mol F2:
+1
+2 F2(g) → F(g) ∆H°step2 = 
+1
+2 bond energy (BE) of F2
+= 
+1
+2 (154 kJ) = 77.0 kJ
+Step 3: Removing the 3s electron from Na to form Na+ requires energy:
+Na(g) → Na+(g) + e– ∆H°step3 = IE1 = + 495 kJ mol–1
+Step 4: Adding an electron to F to form F– releases energy:
+F(g) + e– → F–(g) ∆H°step4 = EA = –328 kJ
+Step 5: Forming the crystalline ionic solid from the gaseous ions is the step whose
+enthalpy changes (the lattice energy) is unknown:
+Na+(g) + F–(g) → NaF(s) ∆H°step5 = UNaF (lattice energy) = ?
+We know the enthalpy change of the formation reaction (Route A),
+Na(g) + 
+1
+2 F2(g) → NaF(s) ∆H°overall = ∆f
+H° = –574 kJ
+Therefore, we calculate the lattice energy using Hess's Law:
+Solving for UNaF gives
+UNaF = ∆f
+H° – (∆H°step1 + ∆H°step2 ∆H°step3 + ∆H°step4)
+= –574 kJ mol–1 – [108 kJ mol–1 + 77 kJ mol–1
++ 495 kJ mol–1 + (–328 kJ mol–1)]
+= –926 kJ mol–1
+CHEMICAL BONDING AND STRUCTURE
+121
+Note that the magnitude of the lattice energy dominates the multistep process.
+Exercise 3.3
+1. Write the formulas and names of the compounds formed from the following
+ionic interactions: (use periodic table)
+a The 2+ ion and 1– ion are both isoelectronic with the atoms of a
+chemically unreactive period 4 element.
+b The 2+ ion and the 2– ion are both isoelectronic with the period 3 noble gas.
+c The ions formed are the largest and smallest ionizable atoms in period 2.
+2. In each of the following ionic compounds identify the main group to which X
+belongs:
+a XF2 c X2O3
+b MgX d Na2X
+3. For lithium, the enthalpy of sublimation is +161 kJ mol–1, and the first
+ionization energy is +520 kJ mol–1. The dissociation energy of fluorine is +154
+kJ mol–1, and the electron affinity of fluorine is –328 kJ mol–1. The lattice
+energy of LiF is –1047 kJ mol–1. Calculate the overall enthalpy change for the
+reaction?
+Li(s) + ½F2(g) → LiF(s) ∆H° = ?
+4. The enthalpy of formation of caesium chloride is
+Cs(s) + ½Cl2(g) → CsCl(s) ∆H° = – 44.28 kJ mol–1
+The enthalpy of sublimation of caesium is
+Cs(s) → Cs(g) ∆H° = + 77.6 kJ mol–1
+Use these data, with other data from other sources, to calculate the lattice
+energy of CsCl(s)
+5. Using the following data:
+Enthalpy of sublimation of Ca = +178.2 kJ mol–1
+Enthalpy of dissociation of Cl2 = +243.4 kJ mol–1
+Enthalpy of formation of CaCl2 = –795.8 kJ mol–1
+First and second Ionization energies for Ca are +590 kJ mol–1 and
++1145 kJ mol–1 respectively.
+The electron affinity of Cl = –348.7 kJ mol–1
+Determine the lattice energy of CaCl2
+ CHEMISTRY GRADE 11
+122
+Factors Affecting Formation of Ionic Bonding
+Activity 3.6
+Form a group and discuss the following questions:
+1. In general, how does the lattice energy of an ionic compound depend on the charges
+and sizes of the ions?
+2. For each pair, choose the compound with the higher lattice energy, and explain your
+choice.
+a LiCl or CsCl b NaF or MgO c BaS or CsCl
+Share your ideas with the rest of the class.
+The formation of ionic bonding is influenced by various factors. Some of the major
+factors are presented below.
+Ionization energy (IE): Elements having low IE have a more favourable chance to form
+a cation, thereby having a greater tendency to form ionic bonds. Thus, low ionization
+energy of metallic elements favours the formation of an ionic bond. That is why alkali
+and alkaline earth metals form ionic compounds.
+Electron affinity (EA): The other atom participating in the formation of an ionic
+compound must form an anion by gaining electron(s) and losing energy. Higher
+electron affinity favours the formation of an anion. Generally, the elements having
+higher electron affinity favour the formation of an ionic bond. Halogens have high
+electron affinities, and therefore halogens generally form ionic compounds when they
+react with metals.
+Lattice energy: When a cation and an anion come closer, they get attracted to each
+other due to the electrostatic (coulombic) force of attraction. The electrostatic force of
+attraction between oppositely-charged ions release a certain amount of energy and an
+ionic bond is formed. If the coulombic attraction forces are stronger, then more energy
+gets released and a more stable or a stronger ionic bond is formed. Larger lattice
+energy would favour the formation of an ionic bond. Lattice energy thus is a measure
+of coulombic attractive force between the combining ions. The lattice energy (U) of
+CHEMICAL BONDING AND STRUCTURE
+123
+an ionic compound depends directly on the product of the ionic charges (q1 × q2),
+and inversely on the distance (r) between them.
+U∝ q q 1 2 ×
+r
+where q1 and q2 are the charges on +ve and –ve ions respectively, and r is the
+distance between the charges q1 and q2
+. Thus, small ions having higher ionic charge
+shall have larger lattice energy. If the total energy released is more than that which is
+absorbed, then the formation of ionic compound is favoured.
+3.2.3 Exceptions to Octet Rule in Ionic Compounds
+Activity 3.7
+Form a group and discuss the following:
+1. The principal exceptions to the octet rule are found in ionic compounds in which the
+cations do not acquire noble gas electron configuration. Identify the cations that obey
+or violet the octet rule.
+a FeCl3 b CuO c NaCl d LiF
+2. Draw Lewis structure for CH4, BF3 and SF6.
+How many electrons are present around the central atoms, C , B and S, respectively?
+What is the difference between the central atoms in terms of number of electrons?
+Are these in conformity with the Octet rule?
+Can you name some more examples similar to these?
+Share your ideas with the rest of the class.
+As you have studied in grade 9, the octet rule works well for the representative
+metals (Group IA, IIA) and the nonmetals, but not for the transition elements and
+post-transiton elements. This is because they have d and f subshell orbitals.
+There are certain exceptions to octet rule. We will discuss it here in context with the
+ionic compounds.
+ CHEMISTRY GRADE 11
+124
+Less than Octet (Central Atom is Deficient of Electrons):
+Ions of some elements which are near to helium in the periodic table do not obey the
+octet rule. The tendency of these atoms (H, Li, Be and B) is to attain an arrangement
+of two electrons like the noble gas He (duplet configuration), which is also a stable
+configuration. Hydride ion (H–
+), lithium ion (Li+), beryllium ion (Be2+) and boron ion
+(B3+) are isoelectronic with He. Therefore, compounds like LiH, BeCl2 and BF3 are
+stable in spite of short of electrons around the central atom than the octet. In these
+cases the number of electrons around Li, Be and B is 2, 4 and 6 respectively.
+Although atoms with less than an octet may be stable, they will usually attempt to
+form a fourth bond to get eight electrons. BF3 is stable, but it will form BF4 when
+possible.
+More than Octet (18-Electron Rule):
+The ions of some transition elements and post-transition elements do not usually obey
+the octet rule. For transition metals, the 18-electron rule replaces the octet rule, due
+to the involvement of d orbitals of these atoms. The atoms of these elements would
+have to lose a large number of electrons to achieve the noble-gas configurations. This
+will require enormous amount of ionization energy, which cannot be available easily.
+Nevertheless, these elements also form positive ions. But these ions do not have the
+usual noble gas valance shell electron configurations of ns2np6 and are not
+isoelectronic with any of the noble gases. It is important to note that when these
+atoms form positive ions, electrons are always lost first from the shells with the highest
+value of the principal quantum number (n).
+Consider the electron configurations of the ions of the transition elements iron and zinc
+and the post-transition elements gallium and tin.
+Electron Configurations of Iron:
+26Fe : 1s2 2s2 2p6 3s2 3p6 4s2 3d6
+26Fe2+ : 1s2 2s2 2p6 3s2 3p6 3d6
+26Fe3+ : 1s2 2s2 2p6 3s2 3p6 3d5
+CHEMICAL BONDING AND STRUCTURE
+125
+A stable ion of iron with valence shell electron configuration is 3s2 3p6 3d5
+ which is
+not isoelectronic with a noble gas. Fe2+ is a well-known stable ion with a valence shell
+electron configuration 3s2
+ 3p6 3d6 which is not isoelectronic with any of the noble
+gases.
+Electron configurations of zinc:
+Also,
+30Zn2+ : 1s2 2s2 2p6 3s2 3p6 3d10
+is not isoelectronic with any of the noble gases.
+Electron configurations of gallium:
+The post-transition element gallium (Ga) loses electrons first from the 4p orbital and
+then from the 4s orbital to from a Ga3+ ion as
+[ ]
+31
+3+
+31
+2 2 6 2 6 2 10 1
+2 2 6 2 6 10 10
+Ga : 
+Ga : = Ar 
+122 33 43 4
+122 33 3 3 
+ss ps psd p
+s s ps pd d
+On closely examining the electron configurations of Zn2+ and Ga3+, we will realize that
+ions have completely-filled outer subshells and a noble gas core. Their valance
+electron configuration can be generally represented as ns2np6nd10.
+Electron configurations of tin:
+The heavier post-transition elements like Pb and Sn lose the p electrons or both the p
+and s electrons from the valence shell.
+50Sn: [Kr]5s24d105p2
+50Sn2+: [Kr]5s24d10
+50Sn4+: [Kr]4d10
+Generally, these properties are exhibited by ions of elements from
+i) Group IB and Group IIB (transition elements) and
+ii) Group IIIA and Group IVA (heavier post-transition elements)
+Neither of these configurations are noble gas configurations.
+ CHEMISTRY GRADE 11
+126
+3.2.4 Properties of Ionic Compounds
+Investigation of Solubility of Ionic Compounds
+Objective: To investigate the solubility of NaCl and CuCl2
+Apparatus and Chemicals: Test tube, water bath, Bunsen burner, NaCl, CuCl2,
+ethanol, hexane and benzene
+Procedure:
+1. Place about 0.5 g each of NaCl and CuCl2
+ in three separate test tubes and add
+about 2.5 mL of water and shake well.
+2. If some residue is there in the test tube/s, heat it on Bunsen burner.
+3. Repeat step 1 afresh using ethanol, hexane and benzene.
+(If the salt is soluble at room temperature, do not heat it.)
+Observations and analysis:
+Prepare an observation table in your notebook for the solubility of NaCl and
+CuCl2 in all the three solvents at room temperature and on heating (wherever
+required) and record the observations.
+Solvent NaCl CuCl2
+Water
+Ethanol
+Hexane
+Benzene
+Inference/Conclusion
+Interpret the observation table and give results.
+Make a generalised statement about the solubility of ionic compounds in polar and
+non-polar solvents.
+ Experiment 3.1
+CHEMICAL BONDING AND STRUCTURE
+127
+ Experiment 3.2
+Electrical Conductivity of Ionic Compounds
+Objective: To test the electrical conductivity of molten compounds
+Apparatus and chemicals: 9-volt battery, 6-watt bulb with a bulb holder,
+conducting wires, two carbon rods, lead (II) iodide or lead (II) bromide.
+Procedure A:
+1. Connect the circuit as shown in Figure 3.3 in which a 9 volt DC is
+connected via a bulb.
+2. Using about 2 cm depth of PbI2 in a small beaker, test the conductivity of
+the lead iodide crystals. Do not throw away the PbI2 and be careful not to
+contaminate the sample because you will reuse it later. (Note: it could be
+ Experiment 3.3
+Thermal behaviour of ionic compounds
+Objective: To study the effect of heat on ionic compounds.
+Apparatus and chemicals: Test tubes, test tubes holders, sodium chloride, and
+copper (II) chloride.
+Procedure:
+1. Take two hard glass test tubes and label them as A and B.
+2. Add 0.5 g each of dry sodium chloride crystals and copper (II) chloride in
+test tubes A and B respectively.
+3. Hold these test tubes with the help of test tube holders.
+4. Heat the tubes simultaneously on the Bunsen burner flame first slowly and
+then strongly while shaking intermittently.
+Caution: Take care not to inhale any fumes/vapours formed during heating.
+Observations and analysis:
+1. Do the crystals melt?
+2. Do they have high or low melting points?
+ CHEMISTRY GRADE 11
+128
+argued that a fairer test of the solid compound would be to use a lump of
+the compound rather than its powder).
+3. Test the conductivity of large crystals of copper (II) sulphate and sodium
+chloride if any of them are available in your laboratory.
+Procedure B:
+1. Now heat the same lead (II) iodide or Lead (II) bromide (used in the above
+experiment) in a beaker on a tripod and wire gauze or in a boiling tube
+supported by a clamp and stand until it melts;
+2. Test the conductivity of the molten compound by dipping the carbon
+electrodes (carbon rods) into the molten compound as shown in the figure
+below:
+e–
+e–
+Lead (II) iodide
+solution in water
+Anode Cathode
+9 V DC supply
+Figure 3.4 Conductivity of electrolytes.
+Observations and analysis:
+1. What did you observe?
+2. Which of the compounds (molten or solid) conduct electricity? Why?
+3. All compounds contain at least two elements. Examine the names of those
+compounds which conduct electricity when in molten state and decide to
+which classes of elements the components of these compounds belong.
+Name the type of bonding that exists in the compounds used.
+CHEMICAL BONDING AND STRUCTURE
+129
+ Experiment 3.4
+Electrical Conductivity of Ionic compounds
+Objective: To test the electrical conductivity of the aqueous solutions of some
+common ionic compounds.
+Apparatus and chemicals: 9-volt battery, 6-watt bulb with a bulb holder,
+conducting wires, two carbon rods, H2O, lead (II) iodide, NaCl.
+Procedure:
+1. Dissolve the compound in 50 mL of water in two seperate beakers.
+2. Connect the same circuit you used above and test the conductivity of each
+aqueous solution.
+Observations and analysis:
+a Predict what happens at the electrodes based on the type of the compound
+used for the experiment.
+b Do you expect the same product(s) at the respective electrodes when
+electricity passes through molten and aqueous solutions of the compounds?
+e–
+e–
+Lead (II) iodide
+solution in water
+Anode Cathode
+9 V DC supply
+Figure 3.5 Electrochemical cell showing the conductivity of an aqueous solution.
+ CHEMISTRY GRADE 11
+130
+Let us Summarise
+Ionic compounds are crystalline solids at room temperature. The fundamental units of
+ionic solid are positive and negative ions. Crystalline ionic solids are usually brittle and
+non-conductors of electricity, although molten crystals may be good conductors. They
+usually have high melting and boiling points.
+Ionic compounds are nonvolatile.
+Ionic compounds are usually soluble in inorganic solvents (water is the most common
+solvent for ionic compounds) but insoluble in organic solvents like benzene, ethanol
+and carbon tetrachloride.
+Note! Ionic compounds are very resistant to heat but many will be easily broken by
+water.
+3.3 COVALENT BONDING AND MOLECULAR GEOMETRY
+At the end of this section, you should be able to:
+• define covalent bonding;
+• explain the formation of covalent bonding;
+• give examples of covalent molecules;
+• draw Lewis structures or electron dot formulas of some covalent molecules;
+• illustrate the formation of coordinate covalent bonding using examples;
+• define resonance structures;
+• draw resonance structures of some covalent molecules and polyatomic ions;
+• discuss the exceptions to the octet rule in covalent bonding;
+• distinguish between polar and non polar covalent molecules;
+• describe the properties of covalent molecules;
+• carryout an activity to investigate the effects of heat, electricity and some solvents
+on covalent compounds (naphthalene, graphite, iodine and ethanol);
+• describe the valence shell electron pair repulsion theory (VSEPR);
+• distinguish between the bonding pairs and non bonding pairs of electrons;
+• describe how electron pair arrangements and shapes of molecules can be
+predicted from the number of electron pairs;
+• explain why double bonds and lone pairs cause deviations from ideal bond
+angles;
+CHEMICAL BONDING AND STRUCTURE
+131
+Activity 3.8
+• explain the term dipole moment with the help of a diagram;
+• describe the relationship between dipole moment and molecular geometry;
+• describe how bond polarities and molecular shapes combine to give molecular
+polarity;
+• predict the geometrical shapes of some simple molecules;
+• construct models to represent shapes of some simple molecules;
+• define intermolecular forces;
+• name the different types of intermolecular forces;
+• explain dipole dipole interactions;
+• give examples of dipole dipole interaction;
+• define hydrogen bonding;
+• explain the effect of hydrogen bond on the properties of substances;
+• give reason why H bonding is stronger than ordinary dipole dipole interaction;
+• explain dispersion (London) forces;
+• give examples of dispersion forces; and
+• predict the strength of intermolecular forces for a given pair of molecules;
+Formation of Covalent Bonding
+Form a group and attempt the following as per the instructions:
+1. Give one main difference between ionic and covalent bond.
+2. What happens to the valence electrons when a covalent bond is formed between two
+atoms?
+3. Explain the formation of polar covalent and coordinate covalent bond.
+4. Draw Lewis dot structures for AlCl4
+–
+ and BH4
+–
+.
+5. Arrange single, double and triple bonds in ascending order of their bond strength and
+bond lengths. Justify your answer.
+6. Describe the interactions that occur between individual chlorine atoms as they
+approach each other to form chlorine molecules (Cl2
+). What combination of forces
+gives rise to the energy holding the atoms together and to the final internuclear
+distance.
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+132
+When elements from group IA (period 2 onwards), VIA or VIIA combine
+together, an ionic bond is formed. What will happen if two atoms of the same
+element or the elements from any of these groups combine together?
+Cosider the formation of hydrogen molecule (H2). When two hydrogen atoms are far
+apart, each behaves as though the other were not present. As they approach each
+other and the distance between the two nuclei decreases, each nucleus starts to attract
+the other atom's electron, which lowers the potential energy of the system. Attractions
+continue to draw the atoms closer, and the system becomes progressively lower in
+energy. As attractions increase, repulsions between the nuclei and the electrons will
+also increase. At some internuclear distance, maximum attraction is achieved in the
+face of the increasing repulsion, as the system has its minimum energy. Any shorter
+distance would increase repulsions and cause a rise in potential energy (see
+Figure 3.1). Thus, a covalent bond, such as the one that holds the hydrogen atoms
+together, arises from the balance between nucleus-electron attractions and electronelectron and nucleus-nucleus repulsions. Therefore, a covalent bond is formed when a
+pair of electrons is shared between two atoms. Some examples of covalent molecules
+are HCl, H2S, C2H4, N2, CCl4, BCl3, H2O, NH3, SO2, PCl5, O3, etc. Generally,
+substances that contain covalent bonds are called molecules.
+Note: Ionization energy of hydrogen (IE1 = 1312 kJ mol–1) is very high making it
+difficult to lose electron.
+Representation of Covalent Bond (Drawing Lewis Structures)
+The representation of covalent bonding through Lewis symbols and shared electronpairs is called a Lewis structure. Lewis structure for hydrogen molecule formed from
+hydrogen atoms is
+If we ‘‘double count’’ the shared electrons each H atom appear to have two electrons
+in its valence shell analogous to the electron configuration of helium.
+Similarly, consider fluorine, which also exists in the diatomic form, F2. Fluorine atoms
+are also joined by a covalent bond.
+Each fluorine atom in the fluorine molecule has eight valence electrons, an arrangement
+lsimilar to that of the noble gas argon. The fluorine atoms obey the octet rule. The
+shared pairs of electrons in a molecule are called bonding pairs. The other electron pairs
+that stay with on atom and are not shared are called non-bonding pairs or lone pairs.
+We can write the Lewis formula for a convalent compound of known geometry by
+using the following rules.
+CHEMICAL BONDING AND STRUCTURE
+133
+1. Determine the total number of valence electrons. It is this number of electrons
+that must appear in the final Lewis structure. The total number of electrons for
+a molecule is the sum of the valence electrons for each atom. For a
+polyatomic anion, which has one or more extra electrons, add one electron for
+each unit of negative charge. For a polyatomic cation, which is missing one or
+more electrons, subtract one electron for each unit of positive charge.
+ Exercise 3.4
+Determine the total number of valence electrons for the following species:
+a CO2 c NH+
+4
+b SO2–
+4 d N2O4
+2. Write the skeletal structure. The most electropositive atom usually occupies
+the central position. Connect bonded atoms with an electron-pair bond
+(a dash). Hydrogen is an exception; it is always a terminal atom, even when
+bonded to a more electronegative atom.
+3. Place electron pairs around terminal atoms so that each (except hydrogen) has
+an octet.
+4. Assign any remaining electrons as lone-pairs around the central atom.
+5. If at this stage, a central atom has fewer than eight electrons, a multiple
+bond(s) is likely. Move one or more lone-pair of electrons from a terminal
+atom(s) to a region between it and the central atom to form a double or a
+triple bond.
+Exercise 3.5
+1. Write a plausible Lewis structure of:
+a nitrogen trichloride, NCl3 b chlorate ion, ClO3
+-
+c phosphonium ion, PH4
++ d phosgene, COCl2
+2. Draw a Lewis structure for CO3
+2–, SF4
+ and HCOOH (formic acid).
+3. Which of the following atoms cannot serve as a central atom in a Lewis
+structure O, He, F, H, P? Explain.
+4. Write a plausible Lewis structure for carbonyl sulphide, COS.
+ CHEMISTRY GRADE 11
+134
+Coordinate-Covalent Bonding
+What is a coordinate covalent bond?
+Activity 3.9
+Form a group and discuss the following:
+1. Why (a) the ammonia molecule, (b) the oxygen atom can participate readily in
+coordinate covalent bonding.
+2. Use Lewis structures to show the formation of coordinate covalent linkage between
+(a) phosphorus trichloride and oxygen (b) boron trifluoride and ammonia.
+3. In the following structure of ammonium ion, can you identify the coordinate covalent
+bond?
++ H
+|
+|
+H
+H—N —H
+Share your ideas with the rest of the class.
+Covalent bonds are formed through the contribution of one electron each by atoms
+involved in an electron-pair bond. There is another possibility in which one atom can
+“donate” two of its electrons to provide the shared pair between itself and an
+“acceptor” atom. When one atom provides both the electrons for a shared pair, the
+bond is called a coordinate-covalent bond.
+Some examples of molecules which contain coordinate-covalent bond include O3,
+NH3BF3 and POCl3.
+Resonance Structures
+Discuss the concept of resonance. What is the difference between a resonance
+structure and a resonance hybrid?
+For some molecules, there is no best choice between a number of equally acceptable
+Lewis structures. Consider the simple example of ozone, O3, in which the
+arrangement of nuclei is O–O–O. This molecule has 6 × 3 = 18 valence electrons,
+and it is possible to draw two possible structures for O3:
+CHEMICAL BONDING AND STRUCTURE
+135
+O O — — O
+123
+— O— O —O
+123
+—
+( )I ( ) II
+Both the structures satisfy octet rule. The two structures for O3 suggest that the bond
+between O1 and O2 differs from that between O2 and O3 one single bond and one
+double bond. Therefore, in each of the two structures one bond should be a single
+bond while the other a double bond. If it is so then one bond (double bond) should
+be shorter than the other bond (single bond). But experimental evidences show that
+both the bonds are exactly equivalent having same bond lengths and bond strengths.
+O 1.278Å
+1.278Å
+O O
+Since both the bonds are identical which one is a double bond?
+O
+O O
+ or 
+O
+O O
+The Lewis structure is equivalent except for the placement of the electrons (i.e., the
+location of the double bond). In such a situation, the correct way to describe ozone
+molecule as Lewis structures would be:
+O
+O O
+Resonance Structures
+O
+O O O
+O
+O
+Resonance Hybrid
+ CHEMISTRY GRADE 11
+136
+This indicates that the ozone molecule is described by an average of two Lewis
+structures (i.e. the resonance forms). The bond-lengths between the oxygens are
+intermediate between characteristic single and double bond-lengths between a pair of
+oxygen.
+This description of O3 is called resonance, a circumstance in which two or more
+possible Lewis structures can be written and the true structure is a composite or
+hybrid of them. The different structures used to represent the molecule or ion are
+called contributing structures or resonance structures, and we write them linked by
+double-headed arrows. The actual species that exists is called a resonance hybrid.
+The resonance structures differ only in the distribution of electrons.
+Known misconceptions about the structure of ozone:
+• The bond lengths between the central oxygen and the other two oxygen atoms
+are identical.
+• It may be expected that if one bond is a double bond, then it should be
+shorter than the other (single) bond.
+In molecules such as CH4, H2S, NF3, PF5, SF6 etc in which resonance is not
+involved, bonding electron pairs can be described as existing in fairly well-defined
+regions between the two atoms. These electrons are localized. In O3, to produce Oto-O bonds that are intermediate between single and double bonds, we need to think
+of some of the electrons in the resonance hybrid as being delocalized. Delocalized
+electrons are bonding electrons that are spread over several atoms.
+Activity 3.10
+Form a group and discuss the concept of resonance. When is this concept applied to
+depict adequately the bonding in a molecule; explain using suitable examples.
+Share your ideas with the rest of the class.
+CHEMICAL BONDING AND STRUCTURE
+137
+Example 3.1
+Write three equivalent Lewis structures for the nitrate ion, NO3
+–
+. Describe its
+resonance hybrid structure.
+Solution:
+a There are 5 + (3 × 6) + 1 = 24 electrons
+b The skeletal structures is:
+|
+O
+O—N—O
+c Place three lone pairs of electrons on each O atom.
+–
+|
+O
+O—N—O
+d All 24 electrons have been assigned.
+e The central N atom has only six valence electrons as shown. Move a lone
+pair of electrons from one of the terminal oxygen atom to from a double bond
+to the central N atom. Because the double bond can go to any one of the
+three O atoms, we get three structures that differ only in the position of the
+double bond.
+–
+|
+O
+O—N—O
+–
+|
+O
+O—N—O
+–
+|
+O
+O—N—O
+The resonance hybrid, which involves equal contributions from these three
+equivalent resonance structures, has N-to-O bonds with bond length and
+bond energies intermediate between single and double bonds.
+Exercise 3.6
+1. Write three equivalent structures for the SO3 molecule that obey the octet rule.
+2. Draw Lewis structures of all the important resonance forms of each of the
+following:
+a NO2F(N central) b HNO3 c NO–
+2
+ CHEMISTRY GRADE 11
+138
+Exceptions to the Octet rule in Covalent Bonding
+Activity 3.11
+Form a group and discuss the following questions:
+1. In which pattern(s) does X obey the octet rule?
+a X b X c X d X
+e X f X
+2–
+2. What requirements are needed for an atom to expand its valence shell? Which of the
+following atoms can expand its valance shell; F, S, H, Al?
+3. Identify the atoms in PCl3
+, PCl5
+, OF2
+, BF3
+, and SiF4
+ which do not obey octet rule.
+Share your ideas with the rest of the class.
+It has been noticed that there are three groups of molecules that are exceptions to the
+octet rule.
+Less than octet (central atom is deficient of electrons):
+Molecules whose central atoms have fewer than eight electrons (Below octet). This
+group consists of molecules containing central atoms from Group IIA and IIIA.
+BeCl2, BF3 and AlCl3, whose Lewis formula are shown below, are typical examples:
+Cl — Be — Cl
+4 electrons around Be
+|
+F
+F—B—F
+6 electrons around B
+|
+Cl
+Cl — Al — Cl
+6 electrons aroud Al
+CHEMICAL BONDING AND STRUCTURE
+139
+More than octet (central atom has excess of electrons):
+Molecules whose central atoms have more than eight electrons (Expanded octet). This
+group consists of molecules containing central atoms from periods 3, 4, 5, and 6.
+PF5, SF6 and XeF4 are typical examples of this type;
+10 electrons around P 12 electrons around S 12 electrons aroud Xe
+F—P
+|
+F
+F
+F
+| |
+Xe
+|
+F
+F
+|
+F |
+|
+|
+F
+F
+S
+|
+F
+F
+| |
+|
+|
+|
+F
+F
+F
+F
+Molecules containing an odd number of electrons:
+Even if stable molecules of this kind are rare, they do exist. Some examples are ClO2,
+NO and NO2 having 19, 11 and 17 valence electrons respectively. The best way to
+suggest the Lewis-like structure for these molecules is:
+O—Cl — O
+ClO2
+Exercise 3.7
+1. Suggest the Lewis-like structure for NO and NO2 molecules.
+2. The following species do not obey the octet rule. Draw a Lewis structure for
+each one and state the type of octet rule exception:
+a BH3 b AsF–
+4 c SeCl4 d PF–
+6
+e ClO3 f BrF3 g BeF2 h XeF2
+ CHEMISTRY GRADE 11
+140
+Polar and Non-Polar Covalent Molecules
+From a group and collect the following substances. Divide them in two groups. Group A
+consists of:
+a Naphthalene
+b Sodium chloride
+c Iodine
+d Wax
+and group B consists of the following solvents
+i Carbon tetrachloride
+ii Water
+iii Methylbenzene
+Each solid in group A dissolves best in at least one solvent in group B. Point out the solid
+and the solvent it dissolves in and give reasons for your choice.
+When bonding electron-pairs in a covalent bond are shared equally, the result is a
+nonpolar covalent bond. When the atoms are alike in a covalent bond, the two atoms
+with equal electronegativities will exhibit equal sharing of an electron pair, and the
+electrons are not drawn closer to one atom than to the other. The H–H and
+Cl–Cl bonds are nonpolar. In a covalent bond between atoms of different
+electronegativities, there is an unequal sharing of an electron pair and the electrons
+spend more of their time around the more electronegative atom. Such a bond is said
+to be polar covalent bond. The H–Cl bond is a polar bond. This is because chlorine
+is more electronegative than the hydrogen atom and represented as
+Hδ + – Clδ–
+to indicate the polar nature of a bond. In the representation the δ+ and δ– (read
+“delta plus” and “delta minus”) signify that one end (H) is partially positive and the
+other end (Cl) is partially negative. The term partial charge signifies something less
+than the full charges of the ions that would result from complete electron transfer.
+For a diatomic molecule having a polar covalent bond, such as HCl, we can describe
+a quantity called the dipole moment, which is a vector sum of the bond moments in a
+Activity 3.12
+CHEMICAL BONDING AND STRUCTURE
+141
+molecule. Bond moment is a measure of polarity of a diatomic covalent bond. The
+dipole moment (µ) is defined as the product of the magnitude of the charge (δ) at
+either end of the dipole multiplied by the distance (d) that separates the charge.
+µ = δ × d
+The SI-unit of dipole moment is coulomb-metre (C.m). Dipole moments are often
+expressed in the non-SI unit debye (D), where 1D = 3.33564 × 10–30 Cm.
+Note! For a diatomic molecule, the bond moment is the dipole moment. The dipole
+moment of a polyatomic molecule (three or more atoms) depends on the geometry of
+the molecule. If the bond moments are equal in magnitude but opposite in direction,
+then they will cancel each other and the resultant dipole moment will be zero,
+provided that the vector sum of the bond moments is zero.
+Exercise 3.8
+Both CO2 and BCl3 have zero dipole moments, but the C = O and B – Cl bond
+moments are not zero. Explain.
+Properties of Covalent Compounds
+Tetrachloromethane (carbon tetrachloride) is a covalent compound. Would
+you expect it to be a conductor of electricity?
+ Experiment 3.5
+Investigating the effect of heat on covalent compounds
+Objective: To determine the melting points of naphthalene.
+Apparatus and chemicals: Thermometer, stirrer, beaker, melting point tube,
+naphthalene, glycerine, Bunsen burner.
+Procedure:
+Set up the apparatus shown in Figure 3.6. Place a small amount of naphthalene in
+melting point tube. Attach the tube to the side of the thermometer (the liquid in the
+beaker will hold the tube in position). Heat the beaker slowly. When the
+naphthalene melts, record the reading on the thermometer. Determine the melting
+point of iodine and graphite similarly.
+142 CHEMISTRY GRADE 11
+142
+ Experiment 3.6
+Thermometer
+Rubber cork
+Beaker
+Bunsen
+burner
+Glycerine
+Stand
+Stirrer
+Melting point tube
+Naphthalene
+Figure 3.6 Determination of melting point of naphthalene.
+Observations and analysis:
+Check your result by referring to standard melting point values. Discuss on
+possible reasons for the differences in melting point compared to the standard
+melting point.
+The effects of heat, electricity and some solvents on covalent
+compounds
+Objective: To test the effects of heat, electricity and some solvents on covalent
+compounds.
+Apparatus and chemicals: Beakers, stirrer, test tubes, water, alchohol,
+naphthalene, iodine crystals, and graphite.
+Procedure:
+You are provided with four substances, namely naphthalene, graphite, iodine and
+ethanol. Investigate the effect of heat and electricity on these substances as well as
+their solubility in water and other non-polar (organic) solvent.
+CHEMICAL BONDING AND STRUCTURE
+143
+Observations and analysis:
+Record your observations in the following table by drawing on your note book.
+Substance → Naphthalene Graphite Iodine Ethanol
+Property
+↓
+Effect of Heat
+Effect of Electricity
+Solubility in water
+Solubility in non-polar
+solvent
+Results and Discussion:
+1. Draw your conclusion from the above observations.
+2. Do these substances conduct electricity either in the solid state or in the
+molten (liquid) state?
+3. Is there any chemical reaction that takes place at the electrodes?
+Activity 3.13
+Form a group and discuss the following question:
+Why does ammonia, NH3, dissolve in water but methane, CH4 does not?
+Share your ideas with the rest of the class.
+Unlike any ionic compound, many of the covalent compounds are found in gaseous
+state at room temperature. Consider methane (CH4), the simplest compound between
+carbon and hydrogen, which have comparable, intermediate electronegativities. It is a
+gas at room temperature. Cooling methane to a low temperature condenses it first to
+a liquid and then to a solid. Unlike melted ionic compounds, liquid covalent
+compounds do not conduct electricity. Therefore, liquid methane does not conduct
+electricity. Covalent compounds are molecular substances. They have low melting and
+boiling points. Most covalent compounds are soluble in non-polar solvents. Generally,
+• Covalent compounds exist as separate molecules because electrically neutral atoms
+form them and the forces of attraction between these molecules are relatively weak.
+• Due to weak intermolecular forces, many covalent molecules or covalent
+compounds are liquids or gases at room temperature. However, some covalent
+molecules like iodine are solids at room temperature.
+Liquid — H2O, Br2,
+Gas — CO2, H2, Cl2, NH3.
+ CHEMISTRY GRADE 11
+144
+• Covalent compounds are volatile.
+• Generally they have low melting points and boiling points.
+• Covalent compounds are generally insoluble in water. Most covalent compounds
+are soluble in nonpolar solvents.
+• Nonpolar covalent compounds are non-electrolytes because they do not conduct
+electricity.
+3.3.1 Molecular Geometry
+Valence Shell Electron Pair Repulsion (VSEPR) Theory
+A molecule is an independent, minute architecture extending in three dimensions
+throughout its tiny volume of space. Let us discuss the shapes of molecules and their
+effect on the properties of a molecule. We start by describing the Valence Shell
+Electron Pair Repulsion (VSEPR) model, which allows us to convert two-dimensional
+Lewis structure into three-dimensional (3D) geometry.
+The basic principle of VSEPR theory is that the pair of valence shell electrons around
+the central atom stays as far apart from each other as possible to minimize repulsion
+among them. For simplicity, a set of electrons is defined as any number of electronpairs that occupies a localized region around a central atom. This set may consists of
+a single bond (–), a double bond (=), a triple bond (≡), lone-pair(s) or in some cases
+even a lone (single) electron. Each of these is a separate set of electrons that repels
+the other groups and occupies as much space as possible around the central atom -
+one set of electrons repels the other sets to maximize the angles between them. The
+three-dimensional arrangement of these sets gives rise to the shape of the molecule.
+Electron Pair Arrangement and Molecular Shape
+The electron pair arrangement is defined by the sets of electrons, both bonding and
+nonbonding (lone-pair), around the central atom. On the other hand the molecular
+shape is defined by the relative positions of the atomic nuclei. Molecular shapes that
+occur when all the surrounding electron sets are bonding sets differ from molecular
+shapes when some of the electron sets are non-bonding sets. Thus, the same electron
+set arrangement can give rise to different molecular shapes. To classify molecular
+CHEMICAL BONDING AND STRUCTURE
+145
+shapes, the AXmEn designation is assigned, where A is the central atom, X is the
+terminal atom, E is lone-pair (nonbonding) electron sets, m and n are positive
+integers.
+The arrangements that best minimize repulsions naturally depend on the number of
+electron sets. Repulsive forces among valence pairs diminish in the following order:
+Lone pair vs lone pair > lone pair vs bonding pair > bonding pair vs bonding pair.
+In this section, you will see electrons set ranging from two to six around the central
+atom. Two electron sets locate themselves on opposite sides of the atom in a linear
+arrangement, three sets form a trigonal planar structure, four sets arrange themselves
+at the corners of a tetrahedron, five sets define a trigonal bipyramid, and six sets form
+an octahedron.
+In the case of multiple (double or triple) bonds the counting is not different, because
+you are already informed that a double bond is considered as one set and a triple
+bond as another set of electrons. For example, in the case of CO2, O=C=O, there
+are two sets of electrons around the central atom, acetylene, C2H2, H–C≡C–H, two
+sets of electrons around each of the central atoms.
+Guidelines for Applying VSEPR Model
+The VSEPR model is an approach of using the number of electrons surrounding a
+central atom to study the molecular structures, based on the theory that the structure
+around a given atom is determined principally by minimizing electron-pair repulsion.
+Here are some guidelines for applying the VSEPR model:
+1. First, write the Lewis structure of the molecule, in this model, consider only
+the electron sets (pairs) of the central atom.
+2. Count the total number of electron sets around the central atom, including
+both the bonding pairs and lone pairs. Usually a lone pair, a single unpaired
+electron and any bond: single, double or triple, each count as one area of
+electron density. For species with more than one central atom, treat each
+central atom separately.
+3. Use the VSEPR geometry to predict the shape of the molecule.
+4. In predicting bond angles, bear in mind that the repulsion of the lone pairs is
+stronger than between those of the bonding pairs. VSEPR theory is best used
+as a tool to explain why a given structure is distorted rather than as a
+predictive tool.
+ CHEMISTRY GRADE 11
+146
+In explaining why the distortion occurs you need to balance three competing
+influences:
+• lone pairs take up more space than bonding pairs. Repulsions between
+electrons in a lone-pair and the other electrons (in either bonds or other lone
+pairs) may cause distortions in the structure.
+• triple bonds are fatter than double bonds, which are fatter than single bonds.
+The amount of electron-electron repulsion experienced between a bond and
+lone pairs or other bonding pairs decreases in the order: triple > double >
+single. Therefore, we expect that a triple bond may cause more distortions in
+the structure than either a double or single bond and that a double bond will
+cause more distortion when compared to a single bond.
+• bonds which involve a significant difference in electronegativity between the
+atoms in the bond will have the electrons in the bond distorted toward the
+more electronegative atom. This will decrease electron density near the central
+atom and lessen the repulsion between this bonding-pair and other electronpairs in the molecule.
+Molecular Shape and Molecular Polarity
+Activity 3.14
+Form a group and discuss the following:
+Water has a resultant dipole moment of 6.23×10–30 C m(1.87D). Explain why this fact
+proves that the H2O molecule must have a bent shape.
+Share your ideas with the rest of the class.
+Many aspects of molecule’s chemical behaviour can be understood if one knows the
+geometry (shape) of a substance. Molecular shape affects many properties of the
+molecule like molecular polarity, which in turn influence melting and boiling points,
+solubility, and even reactivity. Molecular polarity is created by molecules with a net
+imbalance of charge. In molecules with more than two atoms, both shape and bond
+polarity determines the molecular polarity.
+CHEMICAL BONDING AND STRUCTURE
+147
+Bond Polarity and Dipole Moment
+Activity 3.15
+Form a group and discuss the following questions:
+There are three different dichloroethenes, C2
+H2
+Cl2
+, which we can designate x, y and z.
+Compound x has no dipole moment, but compound z does. Compound z and x each
+combine with hydrogen to give the same product:
+C2
+H2
+Cl2
+ + H2 → ClCH2
+ – ClCH2
+ (x or z)
+What are the structures of x, y and z ? Would you expect compound y to have a nonzero
+dipole moment?
+Share your ideas with the rest of the class.
+Polar bonds do not necessarily lead to polar molecules. For example, the large
+electronegativity difference between C and oxygen makes each C-O bond quite polar.
+However, because carbon dioxide (CO2) is a AX2 type molecule with two sets of
+electrons around the central atom, and its shape is linear, and its bonds are directed
+180° from each other, so there is no net dipole moment (µ); µ = 0 D
+Another molecule with identical atoms bonded to the central atom is water. Unlike
+carbon dioxide, water has a significant dipole moment (µ = 1.87 D). Both water and
+carbon dioxide are triatomic molecules and you may expect them to exhibit similar
+shape and polarity. Due to the effect of the lone pairs of electrons on its shape, water
+is a polar molecule. In each O–H bond, electron density is pulled toward the more
+electronegative O atom, but the bond polarities do not counterbalance each other,
+because the water molecule is V-shaped. Instead, the bond polarities partially
+reinforce each other, and the oxygen end of the molecule is considerably more
+negative than the other end.
+Carbon dioxide and water demonstrate how molecular shape influences polarity.
+When two or more different molecules have the same shape, the nature of the atoms
+surrounding the central atom can have a major effect on the polarity of a molecule.
+Consider tetrachloromethane (CCl4) and trichloromethane (CHCl3), two AX4 type
+molecules - tetrahedral shape with different polarities. In CCl4
+, the surrounding atoms
+are all Cl atoms. Although each C–Cl bond is polar, the molecule is nonpolar because
+the individual bond polarities counterbalance each other. In CHCl3, an H atom
+substitutes for one of the Cl atoms, disturbing the balance and giving chloroform a
+significant dipole moment.
+ CHEMISTRY GRADE 11
+148
+Cl — C — Cl
+Cl
+|
+|
+Cl
+ =0D
+Cl — C — Cl
+H
+|
+|
+Cl
+ = 1.02 D
+If you consider the two constitutional isomers of dichloroethane (C2H2Cl2), they have
+the same molecular formula. However, they have different physical and chemical
+properties. VSEPR theory predicts that all the nuclei lie in the same plane with a
+trigonal planar molecular shape around each carbon atom.
+Cl H
+C C
+H
+Trans
+Cl
+H H
+C C
+Cl
+Cis
+Cl
+The trans isomer has no dipole moment (µ = 0 D) because the C – Cl bond polarities
+balance each other. In contrast, the cis-isomer is polar (µ = 1.90 D) because the
+bond dipoles partially reinforce each other, with the molecular dipole pointing between
+the Cl atoms.
+Bond Angle
+Bond angle is the angle formed by two surrounding atoms with the central atom at the
+vertex. Ideal bond angles are observed when all the bonds around a central atom are
+identical and connected to the same type of atom. When this is not the case, such as
+when lone pairs, multiple bonds, or different surrounding atoms are present, the bond
+angles deviate from the ideal angles.
+Predicting the Shapes of Molecules
+The geometrical shapes of some simple molecules can be predicted based on the
+following general patterns:
+Molecular Shapes with Two Electron Sets (Linear Arrangement-AX2
+type)
+The repulsion of two electron groups with each other results in the assignment on
+opposite sides of the central atom in a straight line. The linear arrangement of electron
+sets results in a linear molecular shape and bond angle of 180°. All AX2 type
+CHEMICAL BONDING AND STRUCTURE
+149
+molecules or ions are linear in geometry. The examples of the molecules of this type
+are CO2, BeCl2, CS2
+, HCN, etc.
+Molecular shapes with three electron sets (Trigonal Planar
+Arrangement, AX3
+ type)
+Three electron sets around the central atom repel each other to lie at the corners of
+an equilateral triangle. This is the trigonal planar arrangement and the ideal bond angle
+is 120°: Example: BF3, NO3
+-
+, HCHO (formaldehyde) etc. Another molecular shape is
+possible within this electron set arrangement, with two bonding and one lone pair
+(AX2E type). The examples of this type include PbCl2, SnBr2, SO2, O3, etc. They
+have bent (V-shaped or angular) geometry. This is the first example of the effect of
+a lone-pair on adjacent bonding-pairs. Since a lone-pair is held on the central atom, it
+exerts a stronger repulsion than bonding pair.
+Thus, in AX2E type species a lone-pair repels bonding-pairs more strongly than
+bonding-pairs repel each other. The repulsion increases the angle between lone-pair
+and bonding-pair, which decreases the angle between bonding-pairs. Note the large
+decrease from the ideal 120° angle in AX2
+E type molecules. (Example SnCl2 = 95°).
+Molecular Shapes with Four Electrons Sets (Tetrahedral
+Arrangement, AX4
+ Type)
+Note that AX3E and AX2E2 types are with four electron sets like AX4 type but differ
+in shape and bond angle because of the presence of lone pair(s) on the central atom.
+In three dimensions, the four electron sets can move farther apart and point to the
+corners of a tetrahedron, giving a bond angle of 109.5o. Therefore, all molecules or
+ions with four electron sets around the central atom adopt the tetrahedral arrangement.
+Some of the examples of this type are CH4, + NH4 , 2 SO4
+− . When one of the four
+electron sets in the tetrahedral arrangement is a lone pair, the molecular shape is that
+of a triagonal pyramid (AX3
+E type). The measured bond angle is slightly less than the
+ideal 109.5°. In ammonia (NH3), for example, the lone pair forces the N–H bonding
+pairs together, and the H–N–H bond angle is 107.3°. When the four sets of electrons
+around the central atom include two bonding and two non-bonding sets, the molecular
+shape is bent, V-shaped or angular (AX2E2
+ type). Recall that one of the shapes in the
+triagonal planar arrangement - that with two bonding sets and one lone pair-is also
+ CHEMISTRY GRADE 11
+150
+called angular or bent or V-shaped (AX2E type), but it is ideal bond angle is 120°,
+not 109.5°. Water is the most important V-shaped molecule in the tetrahedral
+arrangement of electrons. We would expect the repulsions between its two lone-pairs
+have a greater effect on bond angle than the repulsions from the single lone pair in
+NH3, and observation confirms this: two lone-pairs on the central O atom compress
+the H–O–H bond angle to 104.5°.
+Thus, for similar molecules within a given tetrahedral electron set arrangement,
+electron pair repulsions cause deviation from ideal bond angles.
+Figure 3.7 Molecular shape of ammonia. Figure 3.8 Molecular shape of water.
+Example 3.2
+Determine the molecular shape of and ideal bond angles in:
+1. COCl2 2. PCl3 3. SF2
+Solution:
+1. For COCl2
+a Write the Lewis Structure
+Cl
+O—C
+|
+|
+Cl
+—
+b Assign the electron set arrangement: There are three sets of electrons
+around carbon (two single and one double bond) gives AX3 type
+molecule with a trigonal planar arrangement of electron sets.
+c The ideal bond angle is 120°.
+d The shape is trigonal planar.
+The correct Lewis structures determine the other steps. Therefore, you have
+to be sure when you sketch the structure.
+CHEMICAL BONDING AND STRUCTURE
+151
+2. For PCl3
+a Write the Lewis structure:
+Cl
+P
+Cl Cl
+b Assign the electron set arrangement. There are four electron sets
+around phosphorus (three bonding and one lone pair) gives AX3E type,
+a molecule with tetrahedral arrangement of electron sets.
+c The ideal bond angle is 109.5°. Since there is one lone pair, the actual
+bond angle should be less than 109.5°.
+d PCl3 has a trigonal pyramidal shape.
+3. For SF2
+a Write the Lewis structure:
+S
+F F
+b Assign the electron set arrangement:
+There are four electron sets around sulphur (two bonding and two lone
+pair) give AX2E2 type, a molecule with tetrahedral arrangement of
+electron sets.
+c The ideal bond angle is 109.5°. Since there are two lone-pairs, the
+actual bond angle should be less than a tetrahedral arrangement of
+electron sets with one lone-pair.
+d SF2 has angular (bent) or V-shape.
+S
+F F
+Exercise 3.9
+Determine the molecular shape and ideal bond angles in
+a SO4–
+–2 b CS2 c H2Se
+ CHEMISTRY GRADE 11
+152
+Molecular Shapes with Five Electron Sets (Trigonal Bipyramidal
+Arrangements, AX5 Type)
+AX4E, AX3E2 and AX2E3 types are with five electron sets around the central atom
+like AX5 type but differ in shape and bond angle because of the presence of one or
+more lone-pairs on the central atom. Therefore, we dare to predict that the electron
+set geometry is trigonal bipyramidal.
+Molecules with five or six electron sets must have a central atom from period 3 or
+higher with d-orbitals available to expand its valence shell beyond eight electrons.
+When five electron sets maximize their separation, they form the trigonal bipyramidal
+arrangement with all five positions occupied by bonded atoms, the molecule has a
+trigonal bipyramidal shape (AX5 type). Phosphorus pentachloride (PCl5) is an
+example:
+P— Cl
+|
+Cl
+F
+| |
+|
+Cl
+Cl
+Lone-pairs exert stronger repulsive forces than bond pairs. With one lone-pair present
+(AX4E type), the molecule has a Seesaw shape. For example, SF4, XeO2F2, IF4
++,
+IO2F2
+_
+. With two lone pairs present (AX3E2 type), the molecule has a T-Shape.
+Some of the examples of this type include ClF3, BrF3, and ICl3.
+Molecules with two bonding and three lone pair sets are linear in shape (AX2E3
+type). The examples of this type are XeF2, I3
+–, IF2
+–.
+Molecular Shapes with Six Sets of Electrons (Octahedral Arrangement, AX6
+Type)
+AX5E and AX4E2 are the two common shapes under consideration. They are with six
+sets of electrons like AX6 type and exhibit similar electron arrangement around the
+central atom but different molecular shapes.
+With six bonding groups, the molecular shapes are octahedral (AX6 type). For
+example, SF6, IOF5. Five bonded atoms and one lone pair (AX5E type) define the
+square pyramidial shape. The examples of this type are BrF5, TeF5
+–, XeOF4.
+When a molecule has two lone pairs and four bonding set (AX4E2 type) the
+positioning gives rise to the square-planar shape. The examples of this type are XeF4,
+ICl4
+–
+CHEMICAL BONDING AND STRUCTURE
+153
+Exercise 3.10
+1. In which situation/s the molecular shape and the electron-set arrangement is/are
+same?
+2. Arrange the following AFn species in order of increasing F–A–F bond angles.
+BF3, BeF2, CF4, NF3, OF2
+3. In the gas-phase, phosphorus pentachloride exists as separate molecules. In
+the solid phase, however, the compound is composed of alternating + PCl4 and
+PCl4
+− ions. What change(s) in molecular shape occur(s) as PCl5 solidifies?
+How does the angle change?
+4. For molecules of general formula AXn (where n > 2), how do you determine if
+a molecule is polar?
+5. For each of the following molecular formula (AXmEn
+), A is the central atom, X
+is the terminal atom, m is the number of terminal atoms bonded to the central
+atom; E is the lone-pair of electrons and n is the number of lone-pairs
+possessed by the central atom. The first item has been completed as an
+example. Fill the rest of the table after drawing in your note book.
+Number of Molecular Molecular Electron set Sketch Examples
+e-pairs formula geometry geometry
+2 AX2 linear linear X–A–X Cl–Be–Cl
+3 AX2E
+AX3
+4 AX4
+AX3E
+AX2E2
+5 AX5
+AX4E
+AX3E2
+AX2E3
+6 AX6
+AX5E
+AX4E2
+ CHEMISTRY GRADE 11
+154
+6. Determine the molecular shape and predict the bond angles (relative to the
+ideal angles) in
+a SbF5 b BrF5
+7. Predict the geometry of and bond angles (relative to the ideal angles) in the
+following molecules and ions.
+a ClO3
++ b ClO2
++ c ICl2
+– d SOF4 e ClF3
+8. Draw molecular shapes for the molecules/ions in question number 8.
+The molecular shape of molecules with more than one central atom are different in
+defferent parts of the molecule. Consider ethene (C2H4). Three bonding sets and no
+lone pair are around each of the two central carbon atoms, so ethene is shaped like
+two trigonal planar geometries that share a point.
+C=C
+H |
+|
+H
+|
+H
+|
+H
+Ethanol (CH3CH2OH) has three central atoms. The CH3 group is tetrahedrally
+shaped and the CH2 group has four bonding groups around its central C atom, so it
+is also tetrahedrally shaped. The O atom has four sets of electrons, but the two lone
+pairs give it a V-shape (AX2E2 type). For these types of molecules, it is easiest to
+find the molecular shape around one central atom at a time. Figure 3.8 is another
+example for the molecular shape of molecules with more than one central atom.
+Figure 3.9 Predicted geometrical shape of the HNO3
+ molecule by the VSEPR theory.
+CHEMICAL BONDING AND STRUCTURE
+155
+3.3.2 Intermolecular Forces in Covalent Compounds
+Activity 3.16
+Form a group and discuss the following questions:
+1. Why does a polar liquid generally have a higher normal boiling point than a nonpolar
+liquid of the same molecular mass?
+2. State the principal reasons why CH4 is a gas at room temperature whereas H2O is a
+liquid.
+3. Only one of these substances is a solid at STP: C6H5COOH, CH3(CH2)
+8CH3, CH3OH,
+(CH3CH2)
+2O. Which do you think it is and why?
+4. Only one of these substances is a gas at STP: NI3, BF3, PCl3, and CH3COOH. Which do
+you think it is and why?
+Share your ideas with the rest of the class.
+There are two types of electrostatic forces at work in any sample of matter. These
+are: intramolecular and intermolecular forces. Intramolecular force which is a chemical
+bond (ionic, covalent or metallic) is a force that exists within a particle (molecule or
+polyatomic ion) and affects the chemical property of the species. Whereas, intermolecular
+forces exist between particles and influence physical properties of the species
+Intermolecular forces are due to the attraction between ions and molecules.
+Intermolecular forces are relatively weak as compared to intramolecular forces,
+because they typically involve lower charges that are farther apart. The charges that
+give rise to intermolecular forces are farther apart because they exist between nonbonded atoms in adjacent molecules.
+Activity 3.17
+Form a group and discuss the following:
+1. Name some intermolecular forces.
+2. Cis-1,2-dichloroethene shows higher boiling point than trans-1,2 dichloroethene.
+Explain.
+3. Which type of compounds exhibit hydrogen bonding?
+4. Name the factors on which the strength of dispersion forces of the particles depend?
+5. ’Ice is lighter than water.’ Comment
+Share your views with rest of the class.
+ CHEMISTRY GRADE 11
+156
+Though there are several important types of intermolecular forces, only dipole-dipole,
+hydrogen bonding, and, London (Dispersion) forces, will be discussed.
+Dipole-Dipole forces
+When polar molecules are brought near one another, their partial charges act as tiny
+electric fields that orient them and give rise to dipole-dipole forces; the partially
+positive end of one molecule attracts the partially negative end of another.
+For compounds of approximately the same mass and size, greater is the dipole
+moment, greater is the dipole-dipole forces between their molecules, so greater is the
+energy required to separate their particles. These can be manifested in several of its
+physical properties. For instance, both methyl chloride (CH3Cl) and ethanal
+(CH3
+CHO) have comparable mass and size, but CH3Cl has a smaller dipole moment
+than CH3CHO; therefore less energy is needed to overcome the dipole-dipole forces
+between its molecules and it boils at a lower temperature. Dipole-dipole forces give
+polar cis-1,2-dichloroethene a higher boiling point than nonpolar trans-1, 2-
+dichloroethene.
+Hydrogen Bonding
+Hydrogen bonding is a special type of dipole-dipole forces that arise between
+molecules that have a hydrogen atom bound to a smaller sized, most electronegative
+atoms. These atoms are: Fluorine, Oxygen and Nitrogen. The bond formed between
+hydrogen and such an atom is highly polar. The partially positive (δ+) H of one
+molecule is attracted to the partially negative (δ–) lone pair on the F, O or N of the
+same or another molecule. As a result a hydrogen bond result. The atom sequence
+that leads to an H bond (dotted line) is indicated below. The following three
+examples illustrate the sequence.
+F ---- H — O — — N ---- H — F — —
+O ---- H — F
+—
+—
+Hydrogen bonds hold water molecules in a rigid but open structure. When ice melts,
+some of the hydrogen bonds break. Water molecules move into the holes that are in the
+ice structures. The molecules are therefore closer together in liquid water than in ice.
+This means that liquid water at 0°C is denser than ice. Water is most unusual in this
+regard. When water on the surface of lakes and other areas freezes, the ice floats on
+the liquid water. If the solid were denser than the liquid as is true for nearly every other
+substance, the surface of the lake would freeze and sink until the entire lake was solid;
+aquatic plants and animals would be endangered.
+CHEMICAL BONDING AND STRUCTURE
+157
+Dispersion or London Forces
+Intermolecular forces in which non-polar atoms or molecules interact by inducing
+dipoles in each other are known as dispersion or London Forces. These classes of
+intermolecular forces cause substances like CO2
+, Cl2
+, noble gases, etc, to condense and
+solidify. An attractive force must be acting between these non-polar molecules and
+atoms, or they would remain gaseous under any conditions. In fact, bond dipoles exert
+some weak attraction but the intermolecular forces are mainly responsible for the
+condensed state of non-polar substance. These forces are known as London forces or
+dispersion forces, named after Fritz London, the physicist who explained the quantum
+mechanical basis of the attractive forces.
+Dispersion forces are very weak and are caused by a sudden shift of electron density
+to one side of the nucleus than the other. So the molecule has an instantaneous dipole.
+These instantaneous dipole will induce the neighbouring non-polar molecule. As a result,
+an induced-dipole is created. This process occurs throughout the sample and keeps the
+particles together. These dipoles are collectively known as dispersion forces or London
+forces. They are present between all particles (atoms, ions, and molecules.)
+For substance with the same molar masses, the strength of the dispersion forces is
+often influenced by molecular geometry (shape). Shapes that allow more points of
+contact have more area over which electron clouds can be distorted, so stronger
+attractions result. This is probably the reason why n-pentane (CH3CH2CH2CH2CH3)
+exhibits higher boiling point than its isomer 2,2-dimethyl propane.
+C
+|
+CH3
+CH3
+|
+H3C |
+|
+CH3
+Table 3. 1 Strength and polarity of intermolecular forces
+Intermolecular force Strength Polarity
+Hydrogen Bonding The Strongest Polar
+Dipole-dipole Forces Moderate Polar
+London Dispersion Forces The Weakest Non-polar
+ CHEMISTRY GRADE 11
+158
+Exercise 3.11
+1. In which of the following substances do hydrogen bonds occur? Explain with
+the help of diagrams.
+a CH4 b CH3CH2OH
+c
+O
+R C C OH
+NH2
+2. Identify the dominant intermolecular force that is present in each of the
+following substance and select the substance with the higher boiling point in
+each pair:
+a CH3OH or CH3CH2OH c MgCl2 or PCl3
+b Hexane or cyclohexane d CH3NH2 or CH3F
+3. Which type of intermolecular force is dominant in the following substances?
+a ICl b H2O
+c F2 d HBr
+4. Compare intermolecular forces with that of intramolecular bonding.
+3.4 METALLIC BONDING
+At the end of this section, you should be able to:
+• explain how metallic bond is formed;
+• explain the properties of metals related to the concept of bonding; and
+• carryout an activity to investigate the conductivity, malleability and ductility of some
+metals and non-metals (Al, Cu, Fe, Sn, Zn, S, C charcoal, C graphite and Si).
+3.4.1 Formation of Metallic Bonding
+Activity 3.18
+Form a group and discuss the following:
+1. Two characteristics that lead to an element being classified as a metal.
+2. Type of bond existing in solid copper.
+3. What is delocalisation of electrons?
+CHEMICAL BONDING AND STRUCTURE
+159
+In simple terms, metallic bonding is referred to as bonding in metal atoms. It is also
+defined as interaction between metal nuclei and the delocalized electrons. Delocalized
+electrons are also called as conduction electrons. Metals nuclei are the positive ions
+and so metallic bonding can be imagined as sea of electrons in which positive metal
+ions are embedded. Positive metal ions are called Kernels. Thus metallic bonding can
+be summarized as: The force of attraction which binds together the positive metal ions
+or Kernels with the electrons within its sphere of influence.
+Is a metal made up of atoms or ions?
+The strength of the metallic bond depends on the:
+1. number of electrons in the delocalised 'sea' of electrons. (More delocalised
+electrons results in a stronger bond and a higher melting point.)
+2. packing arrangement of the metal atoms.
+(The more closely packed the atoms are the stronger the bond is and the
+higher the melting point.)
+3.4.2 Electron-Sea Model
+The electron-sea model of metallic bonding proposes that all the metal atoms in the
+sample contribute their valence electrons to from "sea" of electrons, which is not
+localized for a particular atom. The metal ions (the nuclei with their core electrons)
+are submerged within this electron sea in an orderly array. See Figure 3.10.
+4. Electron sea model.
+5. Even though so much energy is required to form a metal cation with a 2+ charge,
+the alkaline earth metals form halides with general formula MX2 rather than MX.
+Explain.
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+160
+delocalized electron
+metal ion
+–
++
++
++
++
++
++
++
++
++
++
++
++
+e– e– e– e–
+e e – –
+e–
+e–
+e–
+e– e–
+e–
+e–
+e–
+e– e–
+–
+Figure 3.10 Schematic illustrations of electron-sea model for the electronic structure of
+metals.
+In contrast to ionic bonding, the metal ions are not held in place as rigidly as in ionic
+solid. In contrast to covalent bonding, no particular pair of metal atoms is bonded
+through any localized pair of electrons. Rather, the valence electrons are shared
+among all the atoms in the substance, which is held together by the mutual attraction
+of the metal cations for the mobile, highly delocalized electrons. An electron-pair in a
+covalent resonance hybrid is delocalized over only a few atoms, but the extent of
+delocalization in metal is much greater. The bonding-electrons are free to move
+throughout the three dimensional structure.
+3.4.3 Properties of Metals Related to the Concept of
+Bonding
+Activity 3.19
+ Form a group and perform the following activity:
+1. Take a piece of metal and a piece of wood of the same size.
+2. Let these remain on a table so that both attain room temperature.
+3. Place your left hand on the metal and right one on the wood.
+What do you observe? Which hand feels colder? Why?
+Discuss and share your findings with rest of the class..
+The general properties of metals include malleability and ductility and most are strong
+and durable. They are good conductors of heat and electricity. Their strength indicates
+that the atoms are difficult to separate, but malleability and ductility suggest that the
+atoms are relatively easy to move in various directions. These properties suggest the
+nature of the metallic bonding between atoms.
+CHEMICAL BONDING AND STRUCTURE
+161
+Metallic bonds show typical metallic properties such as high electrical conductivity,
+lustre, and high heat conductivity. Metals are good conductors of electricity and heat
+because of their mobile electrons. They are strong and opaque in nature.
+Most metals are malleable, which means that they can be hammered into thin sheets,
+and ductile, which means that they can be drawn into wires. These properties indicate
+that the atoms of the metallic lattice are capable of slipping with respect to one
+another. When a piece of metal is struck by a hammer, the metal ions move to a new
+lattice positions, sliding past each other through intervening electrons.
+Most metals are solids with high melting and much higher boiling points; because the
+atoms of metals have strong attractive forces between them and much energy is
+required to overcome this force. For instance, the increase in melting point between
+the alkali metals [Group IA] and the alkaline earth metals [Group IIA] can be
+explained by the IIA metals having two valence electrons, available for metallic
+bonding, whereas the IA metals have only one. The greater attraction between the
+M2+ ions and twice the number of mobile electrons mean that higher temperatures are
+needed to melt such solid. The metals have a wide range of melting points, (from -
+39°C (mercury) to 3410°C (tungsten).
+The properties of metals suggest that their atoms possess strong bonds, yet the ease
+of conduction of heat and electricity suggest that electrons can move freely in all
+directions in a metal. The general observations give rise to a picture of "positive ions
+in a sea of electrons" to describe metallic bonding.
+Activity 3.20
+Form a group and discuss the following questions:
+1. Use the periodic table to arrange the following in order of increasing melting point K,
+Br2, Mg and O2. Explain the reason for the order you choose.
+2. List four physical characteristics of a solid metal .
+3. Briefly account for the following relative values:
+ a Lithium boils at 1317°C and melts at 179°C. The boiling point is about 1138°C
+higer than its melting point.
+ b The melting point of Li and Be are 180°C and 1287°C, respectively.
+ c The melting point of sodium is 89°C, where as that of potassium is 63°C.
+4. For each of the following pairs, which element will have the greater metallic
+character:
+a Li or Be b Li or Na c Sn or Pb d B or Al?
+ Explain briefly. Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+162
+Group Assignment
+Form a group and do as directed:
+1. You have been provided with aluminium, copper, iron, tin, zinc, charcoal, graphite and
+silicon. Complete the following table on your notebook. Perform experiment if
+required.
+Sample Conductivity Malleability Ductility
+Aluminium
+Copper
+Iron
+Tin
+Zinc
+Charcoal
+Graphite
+Silicon
+2. Can you classify the samples as metal or non-metal?
+3. Prepare another table and tabulate more properties of metals.
+3.5 CHEMICAL BONDING THEORIES
+At the end of this section, you should be able to:
+• name two chemical bond theories;
+• explain the valence bond theory;
+• distinguish the Lewis model and the valence bond model;
+• discuss the overlapping of orbitals in covalent bond formation;
+• explain hybridization;
+• show the process of hybridization involved in some covalent molecules;
+• draw hybridization diagram for the formation of sp, sp2, sp3, sp3d and sp3d2
+hybrids;
+• suggest the kind of hybrid orbitals on the basis of the electron structure of the
+central atom;
+• predict the geometrical shapes of some simple molecules on the basis of
+hybridization and the nature of electron pairs.
+CHEMICAL BONDING AND STRUCTURE
+163
+• discuss the hybridization involved in compounds containing multiple bonds;
+• explain bond length and bond strength;
+• explain molecular orbital theory;
+• describe molecular orbital-using atomic orbitals;
+• describe bonding and anti bonding molecular orbitals;
+• draw molecular orbital energy level diagrams for homonuclear diatomic
+molecules;
+• write the electron configuration of simple molecules using the molecular orbital
+model;
+• define bond order and determine the bond order of some simple molecules
+and molecule-ions;
+• determine the stability of a molecule or an ion using its bond order; and
+predict magnetic properties of molecules.
+The two modern chemical bonding theories which use quantum mechanics are the
+Valence Bond Theory (VBT) and the Molecular Orbital Theory (MOT).
+3.5.1 Valence Bond Theory (VBT)
+Lewis theory provides a simple, qualitative way to describe covalent bonding, and
+VSEPR theory allows us to carry the description further. Probable molecular shapes
+were predicted by VSEPR theory. Now consider a quantum mechanical approach to
+covalent bonding that confirms much of what is described through VSEPR theory, but
+which allows extending that description still further. The valence-bond approach is the
+most useful approach to answer questions like: what is a covalent bond? And how
+can we explain molecular shapes from the interaction of atomic orbitals?
+The basic principle of valence bond theory is that a covalent bond forms when
+orbitals of two atoms overlap and the overlap region, which is between the nuclei, is
+occupied by a pair of electrons.
+For instance, form an image in your mind of two hydrogen atoms approaching one
+another. The moment they get closer, their electron-charge clouds begin to combine
+into a whole. This intermingling is described as the overlap of the 1s orbitals of the
+two atoms. The overlap results in an increased electron charge-density in the region
+between the atomic nuclei. The increased density of negative charge serves to hold the
+positively-charged atomic nuclei together. In the valence bond (VB) method, a
+covalent bond is a region of high electron charge-density that results from the overlap
+of atomic orbitals between two atoms.
+ CHEMISTRY GRADE 11
+164
+The strength of the bond between any two atoms generally depends on the extent of
+the overlap between the two orbitals. As the two atoms are brought more closely
+together, however, the repulsion of the atomic nuclei becomes more important than the
+electron-nucleus attraction and the bond become unstable. For each bond, then, there
+is a condition of optimal orbital overlap that leads to a maximum bond strength (bond
+energy) at a particular internuclear distance (bond length). The valence bond method
+attempt to find the best approximation to this condition for all the bonds in a molecule.
+The bonding of two hydrogen atoms into a hydrogen molecule through the overlap of
+their 1s orbitals is pictured in Figure 3.11.
+1s1
+1s1
+Figure 3.11 Atomic orbital overlap and bonding in H2 .
+Note! The s orbital is spherical, but p and d orbitals have particular orientations -
+more electron density in one direction than in another - so a bond involving p or d
+orbitals will tend to be oriented in the direction that maximizes overlap.
+Hydrogen, H2
+1s
+H
+1s
+H 1s 1s
+H2
+3p
+Cl
+Cl
+Cl
+3p 3p
+Cl
+Chlorine, Cl2
+Cl
+Cl
+1s
+H
+Hydrogen Chloride, HCl
+Figure 3.12 Oribital and spin pairing in three diatomic molecules.
+CHEMICAL BONDING AND STRUCTURE
+165
+In the HCl bond, for example, the 1s orbital of hydrogen overlaps the half-filled 3p
+orbital of Cl along the axis of that orbital. In Figure 3.11B any other direction would
+result in less overlap and, thus, a weaker bond. Similarly, in the Cl–Cl bond of Cl2
+,
+the two 3p orbitals interact end-to-end, that is along the orbital axes, to attain
+maximum overlap (Figure 3.11C).
+VSEPR theory predicts a tetrahedral bond angle (109.5°) in H2S. However, if we
+take in to account the strong repulsions between the lone pairs of electrons on the S
+atom and the bond pairs, bonds are expected to be forced into a smaller angle. The
+measured bond angle in the H2S molecule is 92.1°, suggesting that the valence bond
+method describes the covalent bonding in H2S better than the VSEPR theory does
+(see Figure 3.12). There are not many cases, however, where the VB method
+produces superior results. A combination of VSEPR theory and the VB method are
+used in describing the shape of the molecules.
+H
+1s
+H s
+H
+3pz 3py
+3pz
+H
+H
+s
+S : [Ne]    
+3s 3p
+Figure 3.13 Atomic oribital overlap and bonding in H2
+S.
+Overlap of Atomic Orbitals (Sigma and Pi Bonds)
+To see the detailed makeup of covalent bonds, it is essential to focus on the mode by
+which orbitals overlap because orbital overlap is necessary for sharing of electrons
+and bond formation. Various type of atomic orbital overlap leads to covalent bond
+formation. Three simple basic ones are s-s , s-p and p-p shown in Figure 3.13.
+1. s-s overlap in which half filled s orbitals overlap,
+2. s-p overlap where half filled s orbital of one atom overlaps with one of the p
+orbital having one electron only and
+ CHEMISTRY GRADE 11
+166
+3. p-p overlap in which two half filled p orbitals overlap.
+s s s – s overlap
+The s – s overlap
+y x
+p
+z
+s
+The s – p overlap
+s – p overlap
+y x
+p Orbital p Orbital p – p overlap along the orbital axis
+z
+y x
+z
+The p – p overlap along the orbital axis
+A
+B
+C
+y y yy
+py py p – p sideways overlap
+The p – p side ways overlap
+D
+Figure 3.14 Atomic orbital overlap.
+(A) s-s overlap, (B) s-p overlap, (C) p-p overlap along the orbital axis and
+(D) p-p sideways overlap.
+Because of the directional nature of p orbital, the overlap may take place in two
+ways: (i) the half filled p orbitals along the line joining the two nuclei. This is called as
+head on, end-to-end, end on or linear overlap and (ii) the half filled p orbitals overlap
+along the line perpendicular to the nuclear axis. This overlapping of p orbitals is
+parallel to each other, hence is called lateral or sideways overlapping. These two
+modes give rise to the two types of covalent bonds, namely, sigma (σ) and pi (π)
+bond respectively. Valence bond theory is used to describe the two types here, but
+they are essential features of molecular orbital theory as well. s - s and s - p will
+always overlap along the nuclear axis, hence results only in sigma bonds.
+Sigma bond has its highest electron density along the bond axis (an imaginary line
+joining the nuclei) in between the bonded nuclei. All single bonds have their electron
+density concentrated along the bond axis, and thus are sigma bonds.
+CHEMICAL BONDING AND STRUCTURE
+167
+A side - to - side or parallel overlap forms another type of covalent bond called a pi
+(π) bond. It has two regions of electron density. One above and one below the sigma
+bond axis. One π-bond holds two electrons that occupy both regions of the bond. A
+double-bond always consists of one σ and one π bond. The double-bond increases
+electron density between the nuclei. A triple bond consists of one σ and two π bonds.
+Now it can be seen clearly why a double and triple bonds were considered as one
+electron set in the discussion of VSEPR. The reason is that each electron pair
+occupies a distinct orbital, a specific region of electron density, so repulsions are
+reduced.
+The extent of overlap influences bond strength, however, many factors, such as lone -
+pair repulsions, bond polarities, and other electrostatic contributions affect overlap and
+the relative strength of σ and π bonds between other pairs of atoms. Thus as a rough
+approximation, a double bond is about twice as strong as a single bond, and a triple
+bond is about three times as strong.
+Hybridization of Orbitals
+Valence bond theory employs the concept of hybridization. It is the overlap or
+blending of s, p and d orbitals to explain bond formation.
+In applying the valence bond method to the ground state electron configuration of
+carbon you can assume that the filled 1s orbital will not be involved in the bonding
+and focus your attention on the valence-shell orbitals.
+Ground State C:
+1s 2s 2p
+From its ground state configuration, two unpaired electrons in the 2p subshell are
+observed. One can predict the simplest hydrocarbon molecule to be CH2, by
+overlapping the two unpaired electrons from two H atoms with the two unpaired
+electrons of carbon. However, you might question the existence of this molecule
+because it does not follow the octet rule. In fact, experiment shows that CH2 is not a
+stable molecule. The simplest stable hydrocarbon is methane, CH4. To account for
+this, you need an orbital diagram that shows four unpaired electrons in the valence
+shell of carbon, requiring four bonds (and therefore four atoms of hydrogen). To get
+such a diagram imagine that one of the 2s electrons is promoted to the empty 2p
+orbital. To excite the 2s electron to a higher energy sublevel, energy must be
+absorbed. The resulting electron configuration is that of an excited state having energy
+ CHEMISTRY GRADE 11
+168
+greater than the configuration in the ground state.
+Excited State C:
+1s 2s 2p
+Valence bond theory proposes that the one 2s and all three 2p orbitals of the carbon
+atom 'mix' to produce four new orbitals that are equivalent to each other in energy
+and in shape and pointing in different directions with equal H–C–H bond angles. This
+blending is called hybridization and the resultant orbital as hybrid orbitals. It is a
+hypothetical process (not an observed one) that can be carried out as a quantum
+mechanical calculation. The symbols used for hybrid orbitals identify the kinds and
+numbers of atomic orbitals used to form the hybrids.
+In hybridization scheme, the number of new hybrid orbitals is equal to the total
+number of atomic orbitals that are combined.
+Hybridization provides a useful and convenient method of predicting the shapes of
+molecules. It must be noted that though it is valuable in predicting and describing the
+shape, it does not explain the reason for the shape.
+Exercise 3.12
+1. How do carbon and silicon differ with regard to the types of orbitals available
+for hybridization? Explain
+2. Are these statements true or false? Correct any that is false.
+a Two σ bonds comprise a double bond.
+b A triple-bond consists of one π bond and two σ bonds.
+c Bonds formed from atomic s orbitals are always σ bonds.
+d A π-bond consists of two pairs of electrons
+e End-to-end overlap results in a bond with electron density above and
+below the bond axis.
+sp hybrid orbitals
+When two electron sets surround the central atom, you observe a linear molecular
+shape. VB theory explains this by proposing that mixing two non-equivalent orbitals of
+CHEMICAL BONDING AND STRUCTURE
+169
+a central atom one s and one p, gives rise to two equivalent sp hybrid orbitals that lie
+180° apart. Combination (mixing) of one s and one p orbital is called sp hybridization
+and the resultant orbitals are called sp hybrid orbitals.
+For instance, the beryllium atom has two electrons and four orbitals in its valence
+shell. In the triatomic molecule BeCl2, which is present in gaseous BeCl2 at high
+temperatures, the 2s and one of the 2p orbitals of the Be atom are hybridized into sp
+hybrid orbitals. The remaining two 2p orbitals are left unhybridized and unoccupied in
+the orbital diagram.
+Since there are no unpaired electrons this atom cannot form any covalent bonds. It
+follows that in BeCl2, the Be atom is not in the ground state but it is in the excited
+state, with sufficient extra energy to unpair a 2s electron.
+2s 2p
+Ground state Be:
+2s 2p
+sp 2p
+Excited state Be:
+sp hybrid orbitals:
+As shown in Figure 3.15 the two sp hybrid orbitals are directed along a straight line,
+180° apart. It is predicted that the BeCl2 molecule should be linear, and this
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+Hybridization
+Figure 3. 15 The sp-hybridization scheme illustrated.
+ CHEMISTRY GRADE 11
+170
+prediction is confirmed by experimental evidence. Most examples of sp hybridization
+are found in organic molecules, especially those with triple bonds.
+sp2
+ hybrid orbitals
+Now turn your attention to boron, a Group IIIA element. The boron atom has four
+orbitals but only three electrons in its valence shell. In most boron compounds the
+hybridization scheme combines one 2s and two 2p orbitals into three sp2 hybrid
+orbitals. Using orbital diagrams to represent this hybridization, we have
+sp2
+ hybrization for B
+2s 2p
+Ground state B:
+2s 2p
+2p
+Excited state B:
+sp hybrid orbitals: 2
+sp
+2
+The atom in its ground state has only one unpaired electron, so that it can form only
+one covalent bond, but in the excited state there are three unpaired electrons, hence
+three bonds can be formed.
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+s px py
+Hybridization
+Figure 3.16 The sp2
+ hybridization scheme illustrated.
+CHEMICAL BONDING AND STRUCTURE
+171
+As shown in Figure 3.15 the sp2
+ hybrid orbitals are distributed geometrically within a
+plane at 120° angles. The valence bond method predicts that BCl3 is a trigonal planar
+molecule with 120° Cl–B–Cl bond angle. This indeed is what is observed
+experimentally.
+By far the most common examples of sp2 hybridization are found in organic molecules
+with double bonds.
+sp3
+ hybridization
+Carbon, the central atom in a molecule of methane CH4 has only two unpaired
+electrons in the ground state. The two electrons in the 2p level are not paired, i.e., put
+into the same box, in accordance with Hund's rule. Carbon in its excited state can
+form four bonds. The one 2s and three 2p-orbitals of carbon are mixed to produce
+four new orbitals that are equivalent to each other in energy and in shape, but pointing
+in different directions, as shown in Figure 3.17.
+sp3
+ hybridization for carbon
+2s 2p
+2s 2p
+sp
+3
+Ground state C:
+Excited state C:
+sp hybrid orbitals: 3
+The four sp3 hybrid orbitals point to the corners of a regular tetrahedron, and make a
+bond angle of 109.50° in CH4 (Figure 3.17).
+ CHEMISTRY GRADE 11
+172
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+z
+y
+x
+Hybridization
+Figure 3.17 The sp3
+ hybridization.
+C
+Figure 3.18 sp3
+ Hybrid orbitals and bonding in methane scheme illustrated.
+CHEMICAL BONDING AND STRUCTURE
+173
+We might also expect to use sp3 hybridization not only for structures of the type AX4
+type (as in CH4), but also for AX3E type (as in NH3) and AX2E2 type (as in H2O).
+Nitrogen has three unpaired electrons in its ground state, sufficient to form three
+bonds; so it is not necessary to excite the atom. sp3 hybridization of the central atom
+N in NH3
+2s 2p
+sp
+3
+Ground state N:
+sp
+3
+hybrid orbitals:
+accounts for the formation of three N–H bonds and a lone-pair of electrons on the N
+atom (Figure 3.19). The predicted H–N–H bond angles of 109.5° are close to the
+experimentally observed angles of 107°.
+N
+Figure 3.19 sp3
+ hybrid orbitals and bonding in NH3 .
+A similar scheme for H2O accounts for the formation of two O–H bonds and two
+lone-pairs of electrons on the oxygen atom.
+2s 2p
+sp
+3
+Ground state O:
+sp
+3
+hybrid orbitals:
+The predicted H–O–H bond angle of 109.5° is also reasonably close to the observed
+angle of 104.5°. As in our discussion of the VSEPR theory, we can explain somewhat
+ CHEMISTRY GRADE 11
+174
+smaller than tetrahedral bond angles in NH3
+ and H2
+O in terms of repulsions involving
+lone-pair electrons.
+sp3
+d hybridization
+A maximum of eight valence electrons can be accommodated by any hybridization
+scheme involving only s and p orbitals. Hybridization schemes for structures involving
+expanded octets must include additional orbitals and these extra orbitals can come
+from a d-subshell.
+For example, we need five hybrid orbitals to describe bonding in PCl5
+. In a gaseous
+molecule of phosphorus pentachloride, PCl5
+, the central atom phosphorus has only
+three unpaired electrons in its ground state. Electrons must be unpaired to provide the
+correct number of unpaired electrons for bond formation.
+3s 3p
+Ground state P:
+sp3
+d hybrid orbitals:
+3d
+Excited state P:
+3s 3p 3d
+sp3
+d 3d
+Five orbitals are being used and sp3d hybridization occurs, giving a trigonal
+bipyramidal structure. The sp3d hybrid orbital and their trigonal bipyramidal structure
+is shown in Figure 3.20.
+P
+Cl
+Cl
+Cl
+Cl
+Cl
+Figure 3.20 The sp3
+d hybrid orbitals in the molecule of PCl5
+.
+CHEMICAL BONDING AND STRUCTURE
+175
+Like other hybrid orbitals we have considered, the five sp3d hybrid orbitals are
+arranged in a symmetrical fashion, but unlike the other case, the five sp3
+d orbitals are
+not all equivalent. Three of the orbitals are directed in the plane of the central atom at
+120° angles with one another; the remaining two are perpendicular to the plane of the
+other three. The three positions in the central plane are called the equatorial positions
+and the two positions perpendicular to the plane are called axial positions.
+Hybridization may take place only between orbitals of roughly the same energy. It
+follows that it is not possible to hybridize the 2s or 2p levels with the 3s, or the 3s or
+3p level with the 4s. The d levels are intermediate in energy, and may in certain
+circumstance be used with the energy levels either below or above, that is 3s with 3d,
+and 3d with 4s are both possible.
+sp3
+d2
+ Hybridization
+Another structure featuring an expanded octet is SF6. Here, six hybrid orbitals are
+required in order to describe bonding. These are obtained through the hybridization
+scheme sp3d2, represented by the orbital diagrams.
+3s 3p 3d
+Excited state S:
+3s 3p 3d
+sp3
+d
+2 3d
+Ground state S:
+sp3
+d : 2 hybrid orbitals
+The sp3d2 hybrid orbitals and their octahedral orientation are shown in Figure 3.21.
+S F F
+F
+F
+F
+F
+Figure 3.21 The sp3
+d2 hybrid orbitals SF6
+.
+ CHEMISTRY GRADE 11
+176
+In hybridization schemes, one hybrid orbital is produced for every single atomic orbital
+involved. In a molecule, each of the hybrid orbitals of the central atom acquires an
+electron pair, either a bond-pair or a lone-pair. And the hybrid orbitals have the same
+orientation as the electron-set arrangement predicted by VSEPR theory.
+When one describes the probable hybridization scheme for a structure, he/she must
+choose a scheme that conforms to experimental evidence. This can be done by mixing
+the VSEPR and valence bond approaches. The procedure is outlined in the following
+four steps and illustrated in Example 3.4.
+1. Write a reasonable Lewis structure for the species
+2. Use VSEPR theory to predict the electron-set arrangement of the central
+atom
+3. Select the hybridization scheme that correspond to the VSEPR prediction
+4. Describe the orbital overlap
+Example 3.3
+Describe a hybridization scheme for the central atom of iodine pentafluoride,
+IF5.
+Solution:
+a The reasonable Lewis structure for IF5 is
+I
+F
+F
+F
+F
+F
+b VSEPR predicts an octahedral electron-set arrangement for six electron
+pairs (AX6 type)
+c The hybridization scheme corresponding to octahedral electron arrangement
+is sp3d2
+d The six sp3d2 hybrid orbitals are directed to the corners of an octahedron,
+but one of the orbitals is occupied by a lone pair of electrons (shown in red
+below).
+CHEMICAL BONDING AND STRUCTURE
+177
+sp d
+3 2 hybrid orbitals in I:
+sp d
+3 2 5d
+The resulting molecular shape is that of a square pyramid with bond angles of
+approximately 90°.
+Exercise 3.13
+1. Name the three types of hybrid orbitals that may be formed by an atom
+with only s and p orbitals in its valence shell. Draw the shapes of the
+hybrid orbitals so produced.
+2. Describe a hybridization scheme for the central atom and molecular
+geometry of the triiodide ion, I
+3
+–.
+The use of VSEPR theory to predict geometric structures of molecules and
+polyatomic ions with double and triple covalent bonds has already been described..
+When you combine this knowledge with the valence bond method, you gain additional
+insight. For example, the Lewis structure of ethene (ethylene) is depicted as
+H
+C
+H
+H C H
+With VSEPR theory you predicted that the electron set geometry around each carbon
+atom is trigonal planar (AX3
+ type). This corresponds to H–C–H bond angles of 120°.
+To account for these bond angles in the valence bond method, you assume that the 2s
+and two of the 2p orbitals of the valence shell combine to produce sp2 hybridization
+of the two carbon atoms.
+sp2
+hybrid orbitals of first C:
+sp2
+sp2
+hybrid orbitals of second C:
+sp2
+2p
+2p
+All the C–H bonds in C2H4
+ are formed by the overlap of sp2 hybrid orbitals of the
+C atoms with 1s orbitals of the H atom, with these orbitals directed along hypothetical
+ CHEMISTRY GRADE 11
+178
+lines joining the nuclei of the bonded atoms. A double covalent bond consists of one
+σ and one π bond. The features of a double bond described here are illustrated in
+Figure 3.22.
+H
+H
+
+ 
+
+
+H
+H 
+
+C C
+H 1s
+H 1s H 1s
+H 1s
+2 2
+C C
+Figure 3.22 Bonding in ethylene, C2H4
+.
+VSEPR theory describes H2C = CH2 as consisting of two planar CH2 groups, each
+with a 120° H–C–H bond angle. But it does not tell us how the two groups are
+oriented with respect to one another. Are they both in the same plane? Is one
+perpendicular to the other? The valence bond description of a double-bond gives the
+answer. The maximum sidewise overlap between the unhybridized 2p orbitals to form
+a π bond occurs when both CH2 groups lie in the same plane. Ethene is a planar
+molecule. If one CH2 group is twisted out of the plane of the other, the extent of
+overlap of the 2p orbitals is reduced, the π bond is weakened, and the molecule
+becomes less stable.
+CHEMICAL BONDING AND STRUCTURE
+179
+Aside from the restriction in rotation about a double bond just described, electron
+pairs in π bonds do not fix the positions of bonded atoms to one another. These
+positions are established by the σ bonds, the so-called sigma-bond frame-work, and
+there is only one σ bond framework because all the electrons in a multiple covalent
+bond constitute a single electron set.
+We can describe a triple covalent bond in a manner similar to that just used for a
+double bond. Consider the Ethyne (acetylene) molecule, C2H2. Its Lewis structure is
+H — C ≡≡≡ C — H
+The molecule is linear, with 180° H–C–C bond angles, as predicted by VSEPR
+theory and confirmed by experiment. To account for these bond angles with the
+valence bond method, we assume sp hybridization of the valence shell orbitals of the
+two C atoms.
+sp2
+hybrid orbitals of first C- atom:
+sp
+sp2
+hybrid orbitals of second C-atom:
+sp 2p
+2p
+In the C ≡≡≡ C bond in C2H2, as in all triple bonds, one bond is a σ-bond and two
+are π- bonds.
+The bonding scheme in acetylene is illustrated in Figure 3.23.
+H 1s H 1s
+C C
+2pz 2pz
+2py
+C C
+2py
+C
+C
+H
+H
+
+
+
+
+(a) (b) (c)
+Figure 3.23 Bonding in acetylene, C2
+H2
+.
+Exercise 3.14
+1. Describe a hybridization scheme for the central atom S and the molecule
+geometry of
+a SO3 and b SO2
+ CHEMISTRY GRADE 11
+180
+2. Describe a hybridization scheme for the central atom and the molecular
+geometry of CO2.
+3. Discuss the bonding in nitrate ion, predict the ideal bond angles, bond
+length, shape of the ion, the number of sigma and pi bonds.
+ 3.5.2 Molecular Orbital Theory (MOT)
+Molecular orbital theory is a method of accounting for covalent bonds that depends
+on quantum theory and mathematical principles. This theory is based on the fact that
+electrons are not the substantive little dots as we portray in Lewis structures. We can
+speak only about energy levels/spatial probabilities when reckoning with them. We do
+this reckoning by thinking of quantized electron distribution as atomic orbitals (AOs )
+[spdf].
+Combination of Atomic Orbitals
+Atomic orbitals are capable of combining or overlapping, to produce new electron
+distributions called molecular orbitals (MOs) – one MO for every AO. The quantum
+mechanical treatment of electrons in atoms as matter waves yields atomic orbitals
+(AOs). A similar treatment applied to electrons in molecules yields molecular orbitals
+(MOs), which are mathematical descriptions of regions of high electron charge density
+in a molecule. It is easy to understand molecular orbital theory in principle; we seek
+an arrangement of appropriately placed atomic nuclei and electrons to produce an
+energetically favourable, stable molecule. The difficulty comes in practice, in trying to
+construct a wave equation for a system of several particles. The usual approach is to
+write approximate wave equations by relating them to atomic orbitals.
+Bonding and Anti-Bonding Molecular Orbitals
+Bonding molecular orbitals have a region of high electron density between the nuclei.
+Anti-bonding molecular orbitals have region of zero electron density (a node) between
+the nuclei. Typical results are like those shown for H2 molecule in Figure 3.23. In
+place of atomic orbitals of the separated atoms, the molecular orbitals for the united
+atoms are obtained, and these are of two types. One type, a bonding molecular
+orbital, places a high electron charge density in between the two nuclei and the other
+type, an anti-bonding molecular orbital, places a high electron charge density away
+from the region between the two nuclei. Electrons in bonding orbitals contribute to
+bond formation and electrons in anti-bonding orbitals detract from bond formation.
+CHEMICAL BONDING AND STRUCTURE
+181
+When two atomic orbitals overlap end-to-end, they form two sigma-molecular orbitals
+(MOs). Consider the H2 molecule, which has two H atoms and therefore two 1s
+AOs. The two 1s atomic orbitals combine (see Figure 3.23) to produce two σ MOs,
+which differ in energy and location. One of the σ MOs is a bonding orbital, denoted
+σ1s
+, the other is an anti-bonding orbital denoted σ∗
+1s
+.
+The relative energy levels of these two MOs are different. The σ1s
+ MO has a lower
+energy than the original 1s AOs, while the σ*
+1s MO has a higher energy.
+Electron Configuration of Diatomic Molecules
+After applying two principles of filling orbitals
+• The aufbau principle and
+• The Pauli exclusion principle
+we can predict that both electrons in H2 will go into the lower energy orbital denoted
+by (σ1s
+)2. A molecular-orbital diagram shows the relative energy and number of
+electrons in each MO, as well as the atomic orbitals from which they form. Figure
+3.24 is the molecular orbital diagram for H2.
+Antibonding MO
+1s
+*
+1s 1s
+1s
+Energy
+Bonding MO
+Figure 3.24 Molecular orbital diagram and bonding in the H2 molecule.
+There are no more electrons in H2 so the σ1s
+* orbital remains empty in the ground
+state.
+Note! The number of molecular orbitals formed must equal the number of atomic
+orbitals available for combination. Unfilled molecular orbitals are considered to be
+there, even when there are no electrons in them.
+ CHEMISTRY GRADE 11
+182
+Exercise 3.15
+Draw a molecular orbital energy diagrams for
+a C–
+2 b C2 c C+
+2
+The order of energy of molecular orbitals has been determined mainly from
+spectroscopic data.
+a In simple homonuclear diatomic molecules (total electrons = 14 or less) the
+order is:
+( ) ( ) ** * * *
+112 2 2 2 2 2 y z 2 2 x y z x s sss p p p p p p σσσσ σ σ π =π π =π
+b For simple homonuclear diatomic molecules (total electrons greater than 14)
+the ( ) 2 2 y z π =π p p comes after σ2px
+ and the order is:
+σ1s σ*
+1s σ2s σ*
+2s σ2px
+ (π2py
+ = π2pz
+) (π*
+2py
+ = π*
+2pz
+) σ*
+2px
+.
+Note that the 2py
+ atomic orbital give π bonding and π antibonding (π*) MOs of the
+same energy as those produced from 2pz orbitals. The π2py
+ and π2pz 
+orbitals are said
+to be double degenerate, and similarly π∗
+2py 
+and π∗
+2pz 
+are double degenerate. A similar
+arrangement of MOs exists from σ3s
+ to σ∗
+3px
+, but the energies are known with less
+certainty.
+The Aufbau principle is used to derive the electronic structure of some simple diatomic
+molcules or molecule ions. The total number of electrons from the two atoms which
+make the molecule are filled into molecular orbitals. The MOs of lowest energy are
+filled first, each MO holds two electrons of opposite spins and when orbitals are
+degenerate, Hund’s rule applies and electrons are not paired.
+Example 3.4
+Use the molecular orbital theory to derive the electron configuration of
+a H2
++ b Li2 c He2
++ d O2. Which of these molecules or molecules ions
+exist?
+Solution:
+a H2
++ molecule ion. This may be considered as a combination of H atom and a
+H+ ion, giving one electron to be accommodated in a MO;
+b Li2 molecule. Each Li atom has two electrons in its inner shell, and one in its
+CHEMICAL BONDING AND STRUCTURE
+183
+outer shell, making a total of six electrons arranged:
+ (σ1s)
+2 (σ*
+1s
+)
+2 (σ2s
+)
+2
+c He2
++ Molecule ion. If this is considered as a He atom and a He+ ion there are
+three electrons, which are arranged. The filled bonding orbital gives
+stabilization whilst the half-filled gives destabilization. Overall, there is some
+stabilization, so the helium molecule ion should exist, and it has been observed
+spectroscopically.
+(σ1s)
+2 (σ*
+1s
+)
+2
+d O2
+ molecule. Each oxygen has eight electrons, making a total of sixteen for the
+molecule. These are arranged:
+(σ1s)
+2 (σ∗
+1s)
+2 (σ2s)
+2 (σ∗
+2s)
+2 (σ2px
+)
+2 
+( )
+( )
+2
+2
+2
+2
+
+ π
+
+ π 
+y
+z
+p
+p
+( )
+( )
+1 *
+2
+1 *
+2
+ π 
+
+ π 
+py
+z p
+The anti bonding (π*
+2py
+) and (π*
+2pz
+) orbitals are singly occupied in accordance with
+Hund's rule. As in previous examples, the inner shell does not participate in
+bonding and the bonding and antibonding 2s orbitals cancel each other. A σ bond
+results form the filling of (σ2px
+)
+2. Two half π bonds arise form π2pz
+ and π2py
+bonding and
+antibonding. Therefore, 
+1 1 1 2
+2 2
+σ+ π+ π= bonds are formed.
+Exercise 3.16
+Use the molecular orbital theory and derive the electron configuration of the
+following molecules. Identify those which exist and do not exist.
+a He2 b Be2 c B2 d C2 e N2
+Bond Order
+The term bond order is used to indicate whether a covalent bond is single (bond
+order = 1), double (bond order = 2) or triple (bond order = 3). For example, in a
+molecular orbital treatment of oxygen, a sigma bond results from the filling of (σ2px)
+2
+.
+Since (π∗
+2py)
+1 is half-filled therefore cancels half the effect of (π2py)
+2, half a pi bond
+results. Similarly another half pi bond arise from π2pz
+and π∗
+2pz, giving a total of
+1 1 1 2
+2 2
+σ+ π+ π= . The bond order is said to be 2, and it can be calculated in the
+ CHEMISTRY GRADE 11
+184
+above manner, or by calculating the number of electrons occupying bonding orbitals
+minus the number of electrons in antibonding orbitals, all divided by two.
+1 Number of e in Number of e in Bond order
+2 bonding MOs antibonding MOs
+− −      = −     
+    
+Activity 3.21
+Form a group and use the MO theory to predict the bond order and the number of
+unpaired electrons in O2–
+2 , O–
+2 , O+
+2 , NO and CO.
+Share your findings with the rest of the class.
+Magnetic Properties
+A species with unpaired electrons exhibits paramagnetic property. The species is
+attracted by an external magnetic field. A species in which all the electrons are paired,
+exhibits diamagnetism. Such species are not attracted (and, in fact, are slightly
+repelled) by a magnetic field.
+The antibonding π∗
+2py 
+and π∗
+2pz 
+orbitals for O2 are singly occupied in accordance with
+Hund's rule. Unpaired electrons give rise to paramagnetsim. Since there are two
+unpaired electrons with parallel spins, this explains why oxygen is paramagnetic. This
+was the first success of the MO theory in successfully predicting the paramagnetisim of
+O2
+, a fact not even thought of with VB representation of the oxygen molecule (O == O).
+Exercise 3.17
+1. What is the bond order for CN–, CN and CN+?
+2. Which homonuclear diatomic molecules of the second period elements,
+besides O2
+, should be paramagnetic?
+CHEMICAL BONDING AND STRUCTURE
+185
+3.6 TYPES OF CRYSTALS
+At the end of this section, you should be able to:
+• define a crystal;
+• name the four types of crystalline solids and give examples;
+• mention the types of attractive forces that exist within each type of crystalline
+solids;
+• describe the properties of each type of crystalline solids; and
+• build a model of sodium chloride crystal structure.
+A crystal is a piece of a solid substance that has plane surface, sharp edges, and a
+regular geometric shape. The fundamental units-atoms, ions or molecules are
+assembled in a regular, repeating manner extending in three dimensions throughout the
+crystal. An essential feature of a crystal is that its entire structure can be figured from
+a tiny portion of it. Some solids, like glass, lack this long-range order and are said to
+be amorphous. The structural units of an amorphous solid, whether they are atoms,
+molecules or ions occur at random positions. As in liquids, there is no ordered pattern
+to the arrangement of an amorphous solid.
+A structural unit of a crystalline solid has a characteristic repetitive pattern. The crystal
+types and their basic units are (i) ionic (electrostatic attraction of ions), (ii) Molecular
+(electrostatic attraction of dipoles in molecules) (a) Polar (dipole-dipole and Hbonding) and (b) Non-polar (London forces) (iii) Network (covalently bonded
+atoms); and (iv) metallic (positive nuclei in electron sea).
+There are four important classes of crystalline solids.
+Ionic Crystals
+The fundamental units of an ionic solids are positive and negative ions. As a result, the
+inter-particle forces (ionic bonds) are much stronger than the van der Waals forces in
+molecular solids. To maximize attractions, cations are surrounded by as many anions
+as possible, and vice versa.
+The properties of ionic solids are direct consequences of the strong inter-ionic forces,
+which create a high lattice energy. Crystalline ionic solids are usually, brittle, and non-
+ CHEMISTRY GRADE 11
+186
+conductors of electricity, although molten crystals may be good conductors. They
+usually have high melting points. Some of the more familiar ionic solids are table salt
+(NaCl), saltpeter (KNO3), washing soda (Na2CO3.10H2O), and black board chalk
+(CaCO3).
+Group Assignment
+With the help of balls and sticks of any material or any other modelling material build the
+model of crystal sodium chloride. [Hint-Take help of Figure 3.25 ]
+Na+
+Cl–
+Na with Cl neighbors + –
+Sodium chloride crystal
+Cl with Na neighbors – +
+Figure: 3. 25 Crystal model of sodium chloride.
+Molecular Crystals
+Various combinations of dipole-dipole, dispersion and hydrogen-bonding forces are
+operative in molecular solids, which accounts for their wide range of physical
+properties. Dispersion forces are the principal forces acting in non-polar substances,
+so melting points generally increase with molar mass. Among polar molecules, dipoledipole forces and where ever possible, hydrogen-bonding dominate. Nevertheless,
+intermolecular forces are still relatively weak, so the melting points are much lower
+than ionic, metallic and network covalent solids.
+The fundamental unit of a molecular solid is the molecule. Such solids are common
+among organic compounds and simple inorganic compounds. Molecular crystals are
+usually transparent, brittle, and break easily when stressed. They are usually non
+conductors of heat and electricity and usually have low melting points. Familiar
+CHEMICAL BONDING AND STRUCTURE
+187
+molecular crystalline solids include sugar, dry ice (solid carbon dioxide), glucose and
+aspirin.
+Covalent Network Crystals
+In this type of crystalline solids, separate particles are not present. Instead, strong
+covalent bonds link the atoms together throughout the network of covalent solid. As a
+consequence of the strong bonding, all these substances have extremely high melting
+and boiling points, but their conductivity and hardness depend on the nature of their
+bonding. The two common crystalline forms of elemental carbon are examples of
+network covalent solids. Although graphite and diamond have the same composition,
+their properties are strikingly different, graphite occurs as stacked flat sheets of
+hexagonal carbon rings with a strong sigma-bond framework and delocalized pielectrons over the entire sheet. These mobile electrons allow graphite to conduct
+electricity. Common impurities, such as O2 makes graphite soft. In diamond, each
+carbon atom is bonded to four other carbon atoms tetrahedrally in a giant structure.
+The carbons are joined by single bonds. Strong single bonds throughout the crystal
+make diamond among the hardest substance known. Because of its localized bonding
+electrons, diamond (like most network covalent solids) is unable to conduct electricity.
+The most important network covalent solids are the silicates. In a covalent network
+solid, the whole crystal is one giant molecule. The fundamental units are atoms
+covalently bonded to their neighbours. These crystals are usually hard, non conductors
+of heat and electricity, and have high melting points. Examples of covalent network
+solids include quartz (SiO2) and diamond.
+Metallic Crystals
+The strong metallic bonding forces hold individual atoms together in metallic solids.
+The properties of metals, such as high electrical and thermal conductivity, luster and
+malleability result from the presence of delocalized electrons, the essential feature of
+metallic bonding (introduced in Section 3.4). Metals have a wide range of melting
+points and hardness, which are related to the packing efficiency of the crystal structure
+and the number of valence electrons available for bonding. For example, Group IIA
+metals are harder and higher melting than Group IA metals, because the IIA metals
+have closer packed structures and twice as many delocalized valence electrons.The
+ CHEMISTRY GRADE 11
+188
+fundamental units of pure metallic solids are identical metal atoms. Metallic crystals are
+opaque with reflective surfaces. They are ductile and malleable, good conductor of
+heat and electricity, and they usually have high melting points. Copper, silver, gold,
+iron and aluminium are familiar examples of metals.
+Figure 3.26 Model of metallic crystal.
+Table 3.2 Comparison of the four types of crystals
+Type of Solid Interaction Properties Examples
+Ionic Ionic High melting point, NaCl, MgO
+brittle, hard
+Molecular Hydrogen bonding, Low melting point, H2, CO2
+Dipole-Dipole, non-conducting
+London dispersion
+Network Covalent bonding High melting point, C (diamond),
+hard, non-conducting SiO2 (quartz)
+Metallic Metallic bonding Variable hardness and Fe, Mg
+melting point (depending
+upon strength of metallic
+bonding), conducting
+CHEMICAL BONDING AND STRUCTURE
+189
+Exercise 3.18
+Match the substances from list A with the best suited characteristics given in list B
+and justify your answer.
+List A List B
+Substances Characteristics
+a Fe a Forces of attractions are between
+positive ions and 'sea of electrons'
+b I2 b High boiling point due to strong
+covalent bonds
+c H2O c High boiling point due to hydrogen
+bond
+d SiO2 d Weak van der Waal's forces
+e Na e Giant metallic lattice, ions packed
+together very closely leading to high
+density
+f Non-polar solvent
+Unit Summary
+• Lewis symbols of representative elements are related to their location in
+the periodic table. The lattice energy and enthalpy of formation of an
+ionic compound, together with other atomic and molecular properties,
+can be related in a thermochemcial cycle called Born-Haber cycle.
+• A covalent bond is created by the sharing of an electron-pair between
+atoms.
+• In a Lewis structure representing covalent bonds, electron-pairs are
+either bonding-pairs or lone-pairs.
+• In a covalent bond between atoms of different electronegativity,
+electrons are displaced toward the atom with the higher
+electronegativity. In terms of electronegativity differences chemical bonds
+vary over the range: non polar to polar covalent to ionic.
+ CHEMISTRY GRADE 11
+190
+• In some cases of covalent bonding, one atom appears to provide both
+electrons in the bonding pair; the bond is known as coordinate-covalent
+bond.
+• Bonded atoms may share more than one pair of electrons between them,
+giving rise to multiple covalent bonding.
+• In the phenomenon of resonance, two or more Lewis structures have the
+same skeletal structure but different bonding arrangements. The best
+description of the resonance structure (resonance hybrid) is obtained by
+combining plausible structures (contributing structures).
+• Exceptions to the octet rule are found in odd-electron molecules and
+molecular fragments called free radicals. A few structures appear to
+have too few electrons to complete all the octets. Some structures
+appear to have too many. In the latter case, a central atom may employ
+an "expanded" octet with five or six electron-pairs.
+• Valance shell electron pair repulsion theory (VSEPR) predicts the
+geometrical structures of molecules and polyatomic ions based on
+mutual repulsions among valance shell electron groups.
+• Multiple bonds, whether they consist of four electrons (double bond) or
+six electrons (triple bond), are treated as one electron set.
+• The separation of the centres of positive and negative charge in a polar
+covalent bond creates a bond moment. Whether a molecule as a whole is
+polar, that is, whether there is a resultant dipole moment, is established
+by bond moments and molecular geometry.
+• A symmetrical distribution of identical bond moments about a central
+atom results in a cancellation of all bond moments, with the result that
+the molecule is nonpolar, as in the case of CCl4..
+• In the valence bond method (VB) a covalent bond is viewed as the
+overlap of atomic orbitals of the bonded atoms in a region between the
+atomic nuclei.
+• Molecular geometry is determined by the spatial orientations of the
+atomic orbitals involved in bonding.
+• The VB method often requires that bonding atomic orbitals be hybridized
+in order to rationalize known structures of molecules. A hybridized
+orbital is some combination of s, p and d orbitals, such as sp, sp2, sp3,
+CHEMICAL BONDING AND STRUCTURE
+191
+Check list
+sp3d and sp3d2. The geometric distribution of hybridized orbitals in the
+valence bond method is the same as the electron set geometry proposed
+by VSEPR theory.
+• Hybrid orbitals overlap in the usual way (end-to-end) and form σ bonds.
+Unhybridized p orbitals overlap in a side-by-side manner and give rise to
+π bonds. A double bond consists of one σ bond and one σ bond; a triple
+bond, one σ bond and two π bonds.
+• Acceptable solutions to wave equations written for the electrons in a
+molecule are called molecular orbitals (MO). The two main types of MOs
+are bonding molecular obitals, which concentrate electron charge density
+between atoms or just above and below the imaginary line joining the
+two nuclei and antibonding molecular orbitals, which concentrate
+electron charge densities away from the intermolecular bonding region.
+• Electrons can be assigned to molecular orbitals by the scheme similar to
+the aufbau process. MO theory provides more satisfactory descriptions
+for certain structures than does the VB method, for example, some odd -
+electrons species and the O2 molecule

@@ -1,0 +1,1550 @@
+In Grade 9 chemistry, you learned that not all chemical reactions proceed at equal
+speed. For example, rusting of iron could start while rippening of fruits may be completed
+in a few days. On the other hand, weathering of stone may take more than a decade
+and the brakedown of plastics in the environment takes more than hundred years.
+However, other reactions, like the combustion of gasoline or the explosion of gunpowder
+occur in a few seconds. Can you add more examples from your daily life?
+Now, let us define Chemical kinetics. Chemical kinetics is the area of chemistry concerned
+with the speeds, or rates, at which reactions occur. The word “kinetic” suggests movement
+or change. Chemical kinetics refers to the rate of reaction, which is the change over
+times in the concentration of a reactant or a product.
+In this unit, you will study the fundamental concepts of chemical kinetics. You will
+explore rate of reaction, factors affecting rate of reaction, theories of rate of reaction,
+rate equations or rate laws, and reaction mechanisms.
+Peter Waage (1833–1900) and Cato Guldberg (1836–
+1902) were Norwegian chemists. They pioneered the
+development of chemical kinetics in 1864 by
+formulating the law of mass action.
+Peter Waage (right) and
+Cato Guldberg (left)
+Historical Note
+ CHEMISTRY GRADE 11
+200
+Activity 4.1
+ 4.1 RATE OF REACTION
+At the end of this section, you should be able to:
+• define chemical kinetics;
+• define reaction rate;
+• express reaction rate in terms of the disappearance of the reactants and the
+appearance of the products;
+• perform an activity to measure rate of reaction;
+• calculate a reaction rate from given data;
+• list the factors that affect reaction rate;
+• explain how the nature of reactants, the surface area of solid reactants, temperature
+and concentration or pressure affect rate of reaction, by giving examples;
+• explain activation energy;
+• define catalyst, positive catalyst and negative catalyst;
+• distinguish between homogeneous and heterogeneous catalysis;
+• distinguish between biological and non-biological catalysts;
+• draw an energy diagram that represents activation energy and shows the effect
+of catalysts;
+• distinguish between homogeneous and heterogeneous reactions; and
+• perform an activity to show the effect of the nature of reactants, surface area,
+concentration, temperature and catalyst on reaction rate.
+Form a group and discuss the following:
+For the given reaction,
+2NaHCO3(s) + H2SO4(aq) → Na2SO4(aq) + 2H2O(l) + 2CO2(g)
+1. What happens to the concentration of a reactant as the time of reaction increases?
+2. What about the concentration of a product over the time?
+3. In your notebook, sketch a graph of changes in reactant and product concentration
+over time. In order to do this write time as the x-axis and concentration as the y-axis?
+4. What do you learn from the graph?
+Share your ideas with the rest of the class.
+CHEMICAL KINETICS
+201
+From your background knowledge of chemistry, do you remember the definition of a
+chemical reaction? What is the difference between reversible and irreversible chemical
+reactions? Consider a flask containing hydrogen, iodine, and hydrogen iodide. The
+hydrogen iodide, HI is decomposing more rapidly than the H2 and I
+2 can combine to
+produce it. The chemical equation representing the formation of HI from this reaction
+of hydrogen and iodine is represented as:
+H2(g) + I2(g) —→ 2HI(g)
+The rate of appearance of HI in the above reaction is defined as the rate of reaction
+from left to right.
+For the diappearnace of HI,
+2HI(g) —→ H2(g) + I2(g)
+the rate of disappearance of HI is then defined as the rate of reaction from right to left.
+How do you think that the rate of reaction is measured?
+Rate of reaction is the change in concentration of a reactant or a product over a given
+period of time. During the course of a reaction, the concentrations of the reactants
+decrease while those of the products increase. Thus, the rate of a reaction is calculated
+by dividing the change in the concentrations of reactants or products by the time taken
+for the change to occur.
+For a simple reaction,
+A —→ B
+the rate of reaction is expressed in terms of a reactant concentration as
+r = – 
+f i ∆ − [A] [A] [A] = − ∆ ∆ t t ...(4.1)
+where r is rate of reaction, A is a reactant, B is a product, [A]i
+ and [A]f
+ are initial and
+final concentration of A respectively, ∆[A] is change in concentration of A and ∆t is the
+change in time. Note that concentration is usually expressed in mole per litre.
+From equation 4.1, can you determine the unit for expressing rate of reaction?
+The rate of a reaction can be expressed in units of mol L–1 s–1. The final concentration
+of the reactant, [A]f
+, is smaller than the initial concentration of the reactant, [A]i
+ Thus,
+the difference, ∆[A] = [A]f
+ – [A]i
+, is negative. This indicates that the reactant is being
+consumed. However, the rate of a reaction is a positive quantity. Thus, a negative sign
+ CHEMISTRY GRADE 11
+202
+is introduced in the rate expression to make the rate positive.
+Can you write a rate of reaction in terms of concentration of a product?
+In terms of product concentration, the rate of a reaction is given by:
+r = f i ∆ − [B] [B] [B] = ∆ ∆ t t ...(4.2)
+where [B] is the molar concentration of a product in moles per litre, mol L–1. For a
+given product, the final concentration of B, [B]f
+, is greater than the initial concentration
+of B, [B]i
+. Thus, the difference, ∆B = [B]f
+ – [B]i is positive, and the rate of a reaction
+is also positive. Therefore, there is no need to introduce a negative sign to the rate
+expression when rate of a reaction is calculated by using product concentration. This
+change can be shown using a graph.
+Reaction Rate and Stoichiometry
+You have seen that, for stoichiometrically simple reactions of the type A —→ B, the rate
+of reaction can be expressed either in terms of the decrease in reactant concentration
+over time, –[A] / ∆t, or in terms of the increase in product concentration with time,
+∆[B]/∆t. For more complex reactions, you must be careful in writing the rate expressions.
+Consider, for example, the reaction
+2A —→ B
+For two moles of A that disappear one mole of B is formed. That is, the rate of
+disappearance of A is twice as the rate of appearance of B. The reaction rate may be
+written as:
+1 [A] [B] or
+2
+∆ ∆ =− = ∆ ∆
+r r
+t t
+In general, for the reaction
+aA + bB → cC + dD
+The rate of reaction is given by:
+1 [A] 1 [B] 1 [C] 1 [D]
+a bcd
+∆ ∆∆∆ =− =− = = ∆ ∆∆∆
+r
+t ttt ...(4.3)
+CHEMICAL KINETICS
+203
+where r is the rate of reaction, A and B are reactants, C and D are products, and a,
+b, c, d are stoichiometric coefficients.
+Example 4.1
+1. Write the rate expressions for the following reactions, in terms of the disappearance
+of the reactants and the appearance of the products:
+a I–(aq) + OCl–(aq) → Cl–(aq) + OI–(aq)
+b 3O2(g) → 2O3(g)
+c 4NH3 (g) + 5O2(g) → 4NO(g) + 6H2O(g)
+Solution:
+a Since all of the stoichiometric coefficients are equal,
+[I ] [OCI ] [CI ] [OI ] − −−− ∆∆ ∆∆ =− =− = = ∆ ∆ ∆∆
+r
+t t tt
+b Here, the coefficients are 3 and 2, so,
+2 3 1 [O ] 1 [O ]
+3 2
+r
+t t
+∆ ∆ =− = ∆ ∆
+c In this reaction
+32 2 1 1 [O ] 1 [NO] 1 [H O] [NH ]
+4 54 6
+r
+t tt t
+∆ ∆∆ ∆ =− =− = = ∆ ∆∆ ∆
+2. In the reaction of nitric oxide with hydrogen,
+2NO(g) + 2H2(g) → N2(g) + 2H2O(g)
+If the rate of disappearance of NO is 5.0 × 10–5 mol L–1s–1,
+ What is the rate of reaction for the formation of N2?
+Solution:
+The rate of reaction for the formation of N2
+2 [N ] 1 [NO]
+2
+r
+t t
+∆ = =− ∆ ∆ = ½ (5.0 x 10–5 mol L–1s–1)
+r = 2.5 x 10–5 mol L–1s–1
+ CHEMISTRY GRADE 11
+204
+Exercise 4.1
+1. Define the rate of reaction.
+2. For the reaction:
+2HI(g) → H2(g) + I2(g)
+express rate of reaction in terms of the concentration of:
+ a) H2
+ b) HI
+3. For the reaction:
+2NOCl(g) → 2NO(g) + Cl2(g)
+a) express the rate of reaction in terms of the concentration of NOCl.
+b) relate the rate of reaction of NOCl with the rate of reaction of NO and Cl2.
+4. The reaction for the formation of ammonia is given as:
+N2(g) + 3H2(g) U 2NH3(g)
+Write the rate reaction for:
+a) the formation of NH3.
+b) the disappearance of N2 and H2.
+4.1.1 Determination of Rate of Reaction
+You studied in the previous grade that there are different ways in which reactions are
+monitored. These include change of colour, volume of gas evolved, amount of precipitate
+formed and loss or gain of mass. In addition, you learned how to draw a graph showing
+how the rate of a chemical reaction changes over time and how the rate relates to the
+slope.
+Activity 4.2
+Form a group and discuss the following:
+The results obtained during the reaction between excess of powdered calcium carbonate
+and hydrochloric acid, are given in the following table:
+CaCO3(s) + HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l)
+CHEMICAL KINETICS
+205
+Volume of CO2/cm3 0 20 35 47 56 64 69 73 77 80
+Time/s 0 10 20 30 40 50 60 70 80 100
+a Plot these data on graph paper.
+b At what time is the reaction most rapid?
+c What is the rate of reaction after 50 seconds?
+d What volume of gas has formed after 15 seconds?
+e How long did it take for 40 cm3 of carbon dioxide to form?
+f Why does the rate of reaction gradually slow down?
+Share your ideas with the rest of the class.
+The rate of reaction can be determined both quantitatively and qualitatively. Qualitatively,
+an idea about the rate of reaction can be obtained by observing either the speed of
+disappearance of the reactants or the speed of appearance (formation) of the products.
+Example 4.2
+In aqueous solutions, molecular bromine reacts with formic acid (HCOOH) as
+follows:
+Br2(aq) + HCOOH(aq) → 2Br–(aq) + 2H+(aq) + CO2(aq)
+Molecular bromine is reddish-brown in colour. All the other species in the reaction
+are colourless. As the reaction progresses, the concentration of Br2 steadily decreases
+and the colour fades. Measuring the change (decrease) in bromine concentration
+over time measuring at some initial time and then again at some final time) allows
+us to determine the average rate of the reaction during that interval.
+2 2 final 2 initial
+final initial
+[Br ] [Br ] [Br ] r
+t tt
+∆ − =− =− ∆ −
+where r is the average rate. Use the data provided in Table 4.1.
+ CHEMISTRY GRADE 11
+206
+Table 4.1 Rates of reaction between molecular bromine and formic acid at 25 °C
+Time (s) [Br2] (M) Rate (M/s)
+2
+= rate k (s) [Br ]
+0.0 0.0120 4.20 x 10–5 3.50 x 10–3
+50.0 0.0101 3.52 x 10–5 3.49 x 10–3
+100.0 0.00846 2.96 x 10–5 3.50 x 10–3
+150.0 0.00710 2.49 x 10–5 3.51 x 10–3
+200.0 0.0596 2.09 x 10–5 3.51 x 10–3
+250.0 0.0500 1.75 x 10–5 3.50 x 10–3
+300.0 0.0420 1.48 x 10–5 3.52 x 10–3
+350.0 0.0353 1.23 x 10–5 3.48 x 10–3
+400.0 0.0296 1.04 x 10–5 3.51 x 10–3
+Now, you can calculate the average rate at the end of the first 50-second (s) time
+interval, as follows:
+5 (0.0101 0.0120)M 3.80 10 M / s
+50.0 s
+r − − =− = ×
+If the first 100 s is chosen as the time interval, the average rate will be given by:
+5 (0.00846 0.0120)M 3.54 10 M / s
+100.0s
+− − r = − = ×
+The above calculations demonstrate that the average rate of reaction depends on the
+time interval we choose. Thus, in general, the rate of reaction at the begining is fast and
+it decreases as the reaction proceeds.
+What could be the possible reason for this decrease in the rate of reaction?
+Exercise 4.2
+Consider the reaction:
+2C2H4(g) → C4H8(g).
+From the experimental data given in table, plot a graph for the consumption of
+ethylene, C2
+H4
+, versus time.
+a Calculate the rate of reaction between the time interval 10 s to30 s.
+b Calculate the rate of reaction at 45 s.
+CHEMICAL KINETICS
+207
+ Experiment 4.1
+time s 0 10 20 40 60 100
+[C2H4] mol L–1 0.884 0.621 0.479 0.328 0.250 0.169
+Instantaneous rate of reaction is defined as the rate of a reaction for a given instant of
+time and it is calculated by drawing a tangent to the graph at that instant of time.
+Earlier, we measured the rates of reaction that occurred in a few seconds. We can also
+measure the rates of very fast reactions occurring in micro (10–6) or nano (10–9) seconds.
+For example, the rate of electron transfer in photosynthesis can be measured.
+The following experiment demonstrates the rate of reaction between marble chips (CaCO3
+)
+and dilute hydrochloric acid, HCl.
+Measuring Rate of Reaction
+Objective: To measure the rate of reaction between marble chips (CaCO3) and
+dilute HCl.
+Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton wool.
+Chemicals: 2 M dilute HCl solution, and marble chips/CaCO3.
+Procedure:
+1. Set up the apparatus as shown in Figure 4.1, but without the marble chips at first.
+2. Add 20 g of pure marble chips, in a clean 100 mL conical flask.
+3. Add 40 mL of 2 M dilute hydrochloric acid to the conical flask.
+4. Plug the cotton wool in position immediately.
+5. Read the mass of the flask and its contents and start the stopwatch.
+6. Record the mass at one minute intervals for 10 minutes.
+ CHEMISTRY GRADE 11
+208
+Digital balance
+Cotton plug
+Conical flask
+Gas bubbles
+40 mL of 2M dilute hydrochloric acid
+20 g marble chips
+1
+Figure 4.1 Laboratory set up for the measurement of rate of reaction.
+Observations and analysis:
+1. Use the following table to record your observations.
+Time (minutes) 0 1 2 3 4 5 6 7 8 9 10
+Mass (g)
+Decrease in mass (g)
+Plot a graph with time (minutes) on the horizontal axis and rate on the vertical
+axis. Draw a smooth curve through as many points as possible. Note that in this
+experiment change in mass is proportional to change in concentration.
+2. What happens to the mass during the reaction? Explain this with the help of
+balanced equation.
+3. What information can be obtained from the slope of this graph at any point?
+4. Why is the graph:
+CHEMICAL KINETICS
+209
+a steep at the start of the reaction?
+b less steep in the middle of the reaction?
+ c horizontal at the end of the reaction?
+5. Calculate:
+a The average rate of the reaction.
+b The rate of reaction at 2 minutes.
+6. Describe how the rate of reaction changes with time.
+7. Can we measure the rate of this reaction by measuring the amount /volume of
+CO2 evolved?
+8. Draw a graph of the expected result by plotting volume of CO2 evolved vs
+time.
+Exercise 4.3
+For the reaction,
+N2O5(g) → NO2(g) + ½ O2(g)
+The rates of reaction of N2O5(g), and NO2(g) as a function of time at 45 °C is given in
+the table below
+Time (min) N2O5 (M) NO2 (M)
+0 1.24 x 10–2 0
+10 0.92 x 10–2 0.64 x 10–2
+20 0.68 x 10–2 1.12 x 10–2
+30 0.50 x 10–2 1.48 x 10–2
+40 0.37 x 10–2 1.74 x 10–2
+50 0.28 x 10–2 1.92 x 10–2
+Use the data given in the table and calculate the rate of:
+a formation of NO2 over the first 10 minutes.
+b decomposition of N2O5 during the time interval t = 30 min to t = 50 minutes.
+ CHEMISTRY GRADE 11
+210
+ Experiment 4.2
+4.1.2 Factors Influencing the Reaction Rates
+Activity 4.3
+Form a group and try to dissolve 2 teaspoons of sugar crystals in coldwater, in warm water
+and in hot water simultaneously. Repeat the same steps using sugar powder. You may also
+try the same activity with oil, instead of water. Now, discuss each of the following
+questions and share your findings with the rest of the class.
+1. Why do you think sugar crystals dissolve more easily in hot water than in cold water?
+2. Explain why powdered sugar dissolved easily as compared to equivalent amounts of
+sugar crystals?
+In general, different chemical reactions have different rates. Even a chemical reaction
+involving the same reactants may have different rates under different conditions. Change
+in temperature, concentration, nature of reactant, surface area and availability of a
+catalyst, result in changes in rate of reaction.
+Consider the Experiment 4.2 to study the effect of the nature of reactants on rate of
+reaction.
+i) Nature of Reactants
+Effect of Nature of Reactants on Rate of Reaction
+Objective: To study the effect of nature of reactant for the reaction of copper and
+magnesium metals with hydrochloric acid.
+Apparatus: Balance, test tubes, test tube stand.
+Chemicals: Copper (Cu), magnesium (Mg), 2 M hydrochloric acid (HCl).
+Procedure:
+1. Measure equal masses of copper and magnesium metals using a balance.
+2. Record the weighed mass of these metals and add each to separate test tubes.
+3. Assemble the test tubes as shown in Figure 4.2.
+4. Add equal volume of 5 mL of 1 M HCl to both the test tubes. Be sure to wear
+your safety goggles and gloves.
+CHEMICAL KINETICS
+211
+5. Observe relative rates of reaction in both test tubes and record your observations.
+Gas
+delivery
+tube
+Graduated
+cylinder
+filled with tap
+water and
+turned upside
+down
+Beaker
+containing
+water
+Test tube
+containing
+Mg and HCl
+Figure 4.2 Reaction of magnesium with HCl.
+Observations and analysis:
+1. Which of these two metals, copper or magnesium, reacts faster? Why?
+2. Write the balanced chemical equation for the reaction of copper and magnesium
+with HCl.
+3. What do you learn from this experiment?
+4. Perform a similar activity using different metals such as aluminium, and zinc. In
+which case do you expect the reaction to be faster and why?
+The rate of a reaction depends on the chemical nature of the substances participating
+in the reaction. The combination of two oppositely charged ions usually occurs very
+rapidly. For example, the reaction of an acid with a base is,
+H3O+ + OH–
+ → 2H2O
+The acid-base reaction of HCl and NaOH is much faster than the decomposition of
+hydrogen peroxide, which involves the reorganization of molecules.
+ CHEMISTRY GRADE 11
+212
+ Experiment 4.3
+2H2O2 → 2H2O + O2
+Even similar reactions may have different rates under the same conditions. For example,
+consider the reaction of calcium with water compared with the reaction of iron with
+water. The reaction of calcium with cold water is moderate, while that of iron is very
+slow infact iron reacts with steam to form iron oxide.
+3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)
+Ca(s) + 2H2O(l) → Ca(OH)2(aq) + H2(g)
+Consider the Experiment 4.3 to study the effect of surface area on rate of reaction.
+ii) Surface Area of Reactants
+Effect of surface Area on Reaction Rate
+Objective: To study the effect of surface area of reactants on the rate of reaction
+using cube chalk and powdered chalk with dilute hydrochloric acid.
+Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton wool.
+Chemicals: Cube chalk, powered chalk and 2M dilute HCl solution
+Procedure: Repeat Experiment 4.1 but use 20 g of small cubical chalk and then
+powdered chalk in place of marble chips.
+Observations: In which case is the evolution of gas is faster?
+Observations and analysis:
+1. Compare the rate curve, average rate and reaction rate at 2 minutes with that
+of Experiment 4.1. Explain your observations.
+2. Sketch a graph for the consumption of each size of chalk (cube chalk and
+powdered chalk) against time on the same graph sheet.
+3. State the conclusion of the experiment.
+Which form of Zinc metal is easier to dissolve in dilute HCl, large pieces of Zn or
+powdered Zn? Why?
+CHEMICAL KINETICS
+213
+ Experiment 4.4
+A reaction between substances that are in different physical phases (solid, liquid, gas) is
+called a heterogeneous reaction. In this case, bringing the reacting molecules or ions
+together may be difficult. For example, the reaction between steam and red hot iron,
+proceeds very slowly if the iron is in one large block, but it goes rapidly if the metal is
+powdered and spread out so as to expose a large surface to the steam.
+3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)
+In general, the area of contact between the phases ditermines the rate of reaction in
+heterogenous reaction. When the size of particles is minimized, contact between the
+atoms, ions, or molecules in the solid state maximizes with those in a different phase.
+A reaction of substances when both are in the gaseous or liquid phase, is referred to as
+a homogeneous reaction. The question of contact between the reactive molecules in a
+homogeneous reaction is not an important one, for the molecules and ions are free to
+move and collisions are frequent.
+Consider Experiment 4.4 to study the effect of concentration of acid on the rate of
+reaction between CaCO3
+ and hydrochloric acid.
+Exercise 4.4
+1. Write the factors affecting the rate of chemical reaction.
+2. Describe the differences between homogeneous reaction and heterogeneous
+reaction.
+iii) Concentration of Reactants
+Effect of Concentration on Reaction Rate
+Objective: To study the effect of concentrations of hydrochloric acid on rate of
+reaction with marble chips.
+Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton wool
+Chemicals: 1 M HCl, 2 M HCl dilute solutions and marble chips (CaCO3).
+ CHEMISTRY GRADE 11
+214
+Procedure:
+Repeat experiment 4.1 but use 1 M dilute HCl in place of 2 M dilute HCl.
+Observations and analysis:
+1. Compare the rate of reaction with that in Experiment 4.1. Which reaction is
+more vigorous? Explain.
+2. Which of the two reactions will produce more carbon dioxide? Explain your
+answer.
+3. What would happen to the rate curve and average rate if:
+a 1M HCl is replaced with 4 M dilute HCl? Explain.
+b 1M HCl is replaced with 0.5 M dilute HCl? Explain.
+4 Sketch a graph for each of 0.5 M, 1 M, 2 M and 4 M dilute HCl against time
+on the same graph sheet.
+Why does wood burn more rapidly in pure oxygen than in air?
+When the concentration of one or more reactants increases, rate of reaction increases.
+This is because increasing the concentration produces more contacts between the reacting
+particles, which results in increasing the rate of reaction. In the case of reactions that
+involve gaseous reactants, an increase in pressure increases the concentration of the
+gases which leads to an increase in the rate of reaction. However, pressure change has
+no effect on the rate of reaction if the reactants are either solids or liquids.
+The examples of rate of reaction being affected by different factors can be seen in both
+biotic and abiotic components. For example, growth of cancer cells depends on the
+nutrient levels, temperature, pH, etc. The rate of growth of cancer cells has been
+measured as a function of glucose (nutrient) concentration. The cells grow as the glucose
+concentration decreases.
+In Experiment 4.5, you will study the effect of temperature on the rate of reaction of
+Na2S2O3 with HCl.
+CHEMICAL KINETICS
+215
+ Experiment 4.5
+iv) Temperature of Reactants
+Effect of Temperature on Reaction Rate
+Objective: To study the effect of temperature on the rate of reaction between
+sodium thiosulphate and hydrochloric acid.
+Apparatus: 100 mL beakers, test tubes, thermometers, white paper, pencil.
+Chemicals: 0.5 M dilute HCl solution, 0.1 M Na2S2O3 solution, pieces of ice.
+Procedure:
+1. Take 25 mL of 0.1 M Na2S2O3 solution in a test tube and 25 mL of 0.5 M
+HCl solution in another test tube.
+2. Prepare 3 such sets and maintain them at different temperatures.
+Set (i) at 0°C [by keeping them in a ice bath as shown in Figure 4.3 (a)].
+Set (ii) at room temperature.
+Set (iii) at 40°C (by heating the two solutions in a water bath).
+3. Put a cross sign on a white cardboard and place a clean dry 100 mL beaker above
+it.
+4. Now, pour the contents of set (i) in the beaker and start a stopwatch immediately.
+5. Carefully stir the mixture with thermometre and record the time taken for the
+cross to disappear [Figure 4.3 (b)].
+6. Repeat steps 3, 4, and 5 with set 2 and set 3 respectively.
+7. Tabulate your results as temperature in °C versus time in minutes.
+Observations and analysis:
+1. What was the appearance of the mixture at the start of the reaction, and at the
+end of the reaction? Explain the changes using the equation for the reaction.
+2. Plot the graph of time (minutes) on the horizontal axis against rate on the vertical
+axis.
+ CHEMISTRY GRADE 11
+216
+3. Under which condition of temperature does the cross take:
+a the shortest time to disappear, and
+b the longest time to disappear.
+4. Draw a conclusion about the relationship between the average reaction rate and
+temperature.
+25 mL
+of 0.5 M HCl
+25 mL of
+0.1 M Na S O 22 3
+250 mL
+Beaker
+Ice
+Stopwatch
+Thermometer
+Mixture of HCl
+and Na S O 22 3
+a b
+Figure 4.3 Laboratory Setup for the study of the effect of temperature on reaction
+of Na2S2O3 and HCl.
+Temperature usually has a major effect on the rate of reaction. Molecules at higher
+temperatures have more thermal energy. Generally, an increase in the temperature of a
+reaction mixture increases the rate of reaction of chemical reactions. This is because as
+the temperature of the reaction mixture raises, the average kinetic energy of the reacting
+particles increases. So, they collide more frequently and with greater energy.
+The effect of temperature on rate of reaction can be experienced in our dailylife. For
+example,
+a the food is kept in refrigerator to slow down the rate of decomposition of food; and
+b during heart surgery, the body of patient is cooled to slowdown the rates of
+biological reactions.
+Temperature not only affects the rate of reaction but can even change the course of a
+reaction. For example,
+At 200°C,
+NH4NO3(s) → N2O(g) + 2H2O(g)
+CHEMICAL KINETICS
+217
+ Experiment 4.6
+At even higher temperature,
+2NH4NO3(s) → N2(g) + O2(g) + 4H2O(g)
+Now, you will perform Experiment 4.6 to study the effect of a catalyst on the rate of
+decomposition of hydrogen peroxide, H2O2
+.
+v) Presence of a Catalyst
+Effect of Catalyst on Rate of Reaction
+Objective: To investigate the effect of a catalyst on rate of reaction of decomposition
+reaction of hydrogen peroxide.
+Apparatus: Conical flask, gas syringe, delivery tube.
+Chemicals: 0.5% by volume H2O2 solution, MnO2.
+Procedure:
+1. Set-up the apparatus as shown in Figure 4.4. Set the volume of the gas syringe at
+0 mL. Add 25.0 mL of 0.1 M H2O2 solution, but without manganese (IV) oxide,
+MnO2, and start stopwatch immediately.
+2. Record the volume of gas collected in gas syringe at minute intervals until each
+reaction is almost complete.
+3. Repeat steps 1 and 2 with 1 g of MnO2.
+Observations and analysis:
+1. Identify the gas and write a balanced chemical equation for the reaction.
+2. Under which condition does gas syringe contains more of the gas at any one
+time? Give an explanation for this observation.
+3. Describe the appearance of MnO2 before and after the reaction.
+4. Plot graphs of rate on the vertical axis and time (minutes) on the horizontal axis
+for two different sets of readings. Which set of reading were used? Why?
+5. Draw conclusion about the reaction rate:
+a in the presence of a catalyst;
+ CHEMISTRY GRADE 11
+218
+b in the absence of a catalyst.
+25 mL of 0.1 M
+H O solution 2 2
+Gas syringe
+Fig 4.4 Investigating the effect of managanese (IV) oxide on hydrogen peroxide.
+How do inhibitors extend the shelf-life of a package of food?
+A catalyst is a substance that changes reaction rate by providing a different reaction
+mechanism one with a lower activation energy, Ea
+, which is the minimum energy needed
+to start a chemical reaction. A catalyst may undergo intermediate physical changes and
+it may even form temporary chemical bonds with the reactants but it is recovered
+unchanged in original form at the end of the reaction. Although a catalyst speeds up the
+reaction, it does not alter the position of equilibrium. The effect of catalysts on the rate
+of chemical reaction is illustrated in Figure 4.5.
+CHEMICAL KINETICS
+219
+Reactants
+Reaction path
+Products
+Energy
+E for
+catalysed
+reaction
+a
+E of uncatalysed
+reaction
+a
+Uncatalysed path
+Catalysed path
+Ea
+Ea
+c
+Figure 4.5 Comparsion of activation energies of a catalysed and an uncatalysed reaction.
+Chemical catalysts can be either positive or negative. Positive Catalyst increases the rate
+of reaction by lowering the Activation Energy, Ea
+.
+Example (1) : 2SO2(g) + O2(g) → 2SO3(g) ; V2O5(s) as catalyst.
+Negative Catalyst or Inhibitors decreases the rate of reaction by increasing the value of Ea
+.
+Example (2) : OCl–(aq) + I–(aq) → OI–(aq) + Cl–(aq) ; OH–(aq) as inhibitor.
+Example(1) represents heterogeneous catalysts as state of reactants and catalyst is
+different while example (2) represents homogeneous catalyst as both reactants and
+catalyst are in same state.
+The role of a catalyst is highly specific to a particular reaction.
+Example : CO(g) + H2(g) → CH4(g) + H2O(g) ; Ni(s) is used as catalyst.
+CO(g) + H2(g) → HCHO(g); Cu (s) is used as catalyst.
+A substance that catalyzes one reaction may have no effect on another reaction, even
+if that reaction is very similar. Many of the most highly specific catalysts are those
+designed by nature. The chemical reactions in living things are controlled by biochemical
+catalysts called enzymes.
+ CHEMISTRY GRADE 11
+220
+Exercise 4.5
+1. Explain what happens to the rate of reaction when temperature increases.
+2. Define the term catalyst.
+3. Explain the effect of surface area on the rate of reaction.
+4. You are provided with a piece of zinc metal, dilute HCl (2M), zinc dust,
+ice-bath, test tube stand, water bath and Bunsen burner. Using the material
+provided, devise an activity to study the factors affecting reaction rate.
+4.2. THEORIES OF REACTION RATES
+At the end of this section, you should be able to:
+• state collision theory;
+• define activation energy;
+• describe how collision theory can be used to explain changes in reaction rate;
+• state the transition-state theory;
+• define activated complex (transition state);
+• describe how transition-state theory explains changes in reaction rate; and
+• sketch and label the energy profiles of reactions that are exothermic and endothermic.
+Two important theories help us to explain why different reactions occur at different
+rates. These are the collision theory and the transition-state theory. These two theories
+are distinct but in complete agreement, each emphasizing different aspects of reaction
+processes.
+4.2.1. Collision Theory
+Have you ever played billiards? Certain collisions result in scoring points while others
+are not fruitful enough as they lack in either power of impact or lack in angle placement.
+CHEMICAL KINETICS
+221
+Activity 4.4
+Form a group and discuss each of the following questions;
+1. Ethanol can easily burn in air due to the following reaction.
+CH3CH2OH + O2 → CO2 + H2O
+In actual practice, you are required to use a lighter (igniter) to start the reaction. Why?
+2. Consider the following reaction
+NO2 Cl + Cl → NO2 + Cl2
+O
+O
+N
+Cl
+Cl
+O
+O
+N Cl
+Cl
+a b
++
++
+Which of the above collisions might be successful to form the product?
+Share your ideas with the rest of the class.
+Concentration and Collision Theory
+The fundamental concept of the collision theory of rate of reaction is that, in order for
+a reaction to occur between reacting species (atoms, ions or molecules), they must first
+collide (come in contact). The rate of reaction is directly proportional to the number of
+collisions per second (the frequency of collision).
+number of collisions Rate α
+second
+According to collision theory, the more collisions there are, the faster the rate of reaction
+would be. However, not all collisions between reacting species result in a reaction. This
+is because collisions between reactants can be either effective or ineffective. Effective
+collisions are collisions that result in a reaction to form the desired products. Ineffective
+collisions are collisions that do not result in a reaction to form the desired products.
+In order for a collision between reactants to be effective, the reacting species must be
+in proper orientation to each other at the time of collision, they must collide with
+sufficient energy to break or rearrange bonds. The minimum energy required for a
+reaction to occur during a collision of reacting species is called the activation energy, Ea
+.
+ CHEMISTRY GRADE 11
+222
+Postulates of collision theory are summarized below.
+For a reaction to occur between reactants:
+1. The particles of the reacting substances must collide.
+2. The particles of the reacting species must have proper orientation.
+3. The particles of the reactants must collide with energy greater than or equal to
+the energy of activation.
+According to collision theory, only collisions with proper orientation of reacting species
+possessing sufficient energy result in a reaction. The collision can either be linear or nonlinear (bent).
+a Linear b Bent
+Figure 4.6 Orientation of molecules.
+Generally, Ea for activated complex formed in linear orientation is less than that is
+formed in bent orientation. Hence, orientation (a) is favoured over orientation (b).
+Concentration is one of the factors that influence the rate of reaction of a chemical
+reaction. Collision theory accounts for the observed increase in the rate of any reaction
+when the concentrations of reactants are increased. Increasing the concentrations of the
+reacting species results in higher number of collisions per unit time, and the reaction rate
+is correspondingly higher.
+Temperature and Collision Theory
+According to the kinetic molecular theory, the average kinetic energy of the particles of
+a substance is directly proportional to the absolute temperature. As the temperature of
+the reacting species is raised, the average kinetic energy of the reacting particles increases
+considerably. This causes the particles of the reactants to collide more frequently and
+with greater energy. This results in an increase in reaction rate.
+CHEMICAL KINETICS
+223
+Activity 4.5
+4.2.2. Transition State Theory
+Form a group and try to explore which among the following reactions absorb energy
+(endothermic) or release energy (exothermic):
+a Burning of candle.
+b Dissolution of ammonium chloride in water.
+c Photosynthesis.
+d Respiration.
+Now discuss each of the following questions and, share your ideas with the rest of the
+class.
+1. Prepare a table of two columns and two rows. In the first column, write exothermic
+reaction and in the second column, write endothermic reaction. In the second row,
+write one important way in which the two types of reactions differ.
+2. Draw a potential energy diagram for each, (use the x-axis for the progress of the
+reaction (time), and the y-axis for potential energy).
+3. Write two examples of endothermic and exothermic reactions.
+Share your ideas with the rest of the class.
+Transition-state theory was developed in 1935 simultaneously by Henry Eyring, Meredith
+Gwynne Evans and Michael Polanyi. It is also referred to as “activated-complex theory”.
+According to transition-state theory, the collision between two reacting species results
+in the formation of an activated complex or transition state. An activated complex or
+transition state is a short-lived, high energy state species that is temporarily formed by
+the collision of reactant molecules before they form products.
+These species can either form products or fall apart to give the original reactants. In the
+activated complex, the original bonds are lengthened and weakened, and the new bonds
+are only partially formed. Remember that chemical reactions involve the formation and
+breaking of chemircal bonds and are accompanied by changes in potential energy, which
+is related to bond energy. Let us consider the reaction:
+ CHEMISTRY GRADE 11
+224
+A2 + B2 → 2AB
+where A2 and B2 are the reactants, and AB is a the product. Refer to Figure 4.7. As
+the reactants, A2 and B2, approach each other and collide, they begin climbing up the
+left side of the potential-energy hill, or barrier. If they have less energy than the energy
+of activation, Ea
+, they fail to climb the barrier and, instead, roll back down its left side.
+In this case, no reaction occurs.
+If, however, they have energy that is at least equal to the energy of activation, they climb
+the barrier, roll down the other side, and convert to product.
+In this concept, the level of activation energy required for a reaction is seen as the height
+of a barrier between the reactants and products. To convert from the reactant condition
+to the product condition, particles must climb the barrier.
+The potential-energy curves in Figure 4.7 include representations of the barrier. Potential Energy
+Activated complex (Transition state) Activated complex (Transition state)
+(A B **) 2 2
+Products
+(2AB)
+H
+o
+rxm
+Reactants
+(A + B ) 2 2
+Ea
+Reactants
+(A + B ) 2 2
+H
+o
+rxm
+(A B **) 2 2
+Ea
+Products
+(2AB)
+Potential Energy
+Progress of Reaction Progress of Reaction
+(a) (b)
+Figure 4.7 Reaction energy diagrams for a) exothermic and b) endothermic reactions.
+The formation of an activated complex in the form of an equation can be shown as,
+A2 + B2 → A2B2
+‡ → 2AB
+where A2B2
+‡ is the activated complex or transition state.
+As shown in Figure 4.7, the activated complex corresponds to the peak of the energy
+barrier. According to transition-state theory, the rate of reaction depends on the rate at
+CHEMICAL KINETICS
+225
+which reactants can climb to the top of the barrier and form an activated complex. On
+the other hand, the activation energy, Ea
+, is the energy that must be absorbed by the
+reactants to allow them to reach the transition state or the activated complex and cross
+the energy barrier.
+For the exothermic reaction illustrated in Figure 4.7(a), the products have lower energy
+than the reactants and the standard reaction enthalpy is less than zero ∆Hr
+o < O.
+In Figure 4.7(b), the thus energy of the products is higher than that of the reactants,
+thus for an endothermic reaction, ∆H°r > 0.
+Exercise 4.6
+1. Define activation energy?
+2. Describe transition-state theory.
+3. How does a catalyst affect the rate of a reaction?
+4. During a course of reaction , can only one activated complex be formed for a
+particular type of reaction?
+5. Discuss the relationship between collision and rate of chemical reaction.
+ 4.3 RATE EQUATION OR RATE LAW
+At the end of this section, you should be able to:
+• define rate law, order of reaction and rate constant;
+• determine reaction order;
+• calculate rate constants from given experimental data;
+• describe the role of the rate constant in the theoretical determination of a reaction
+rate;
+• explain the zero order, first order and second-order reactions, using concentrationversus- time curves;
+• calculate that concentration and time the reaction mixture for different order
+reactions and plot their graphs; define half life;
+• define half-life; and
+• calculate the half lives of zero-order, first-order and second-order reactions from
+experimental data.
+ CHEMISTRY GRADE 11
+226
+Activity 4.6
+4.3.1 Order of Reaction and Rate Constant
+You have studied that rate of a reaction increases with increase in concentration of
+reactants. Form a group and discuss each of the following questions and share your ideas
+with the rest of the class.
+1. How many folds does the rate of reaction increases if concentration of a reactant is
+doubled?
+2. Do all the reactants affect reaction rate in equivalent amount?
+3. Does the reaction rate changes in the same ratio every time?
+4. Why do you think chemists want to know the order of a reaction and the rate
+constant for a reaction?
+The rate law or rate equation for a chemical reaction is an equation which links the
+reaction rate with the concentrations or pressures of reactants and certain constant
+parameters (normally rate coefficients and partial reaction order). To determine the
+rate equation for a particular system, one combines the reaction rate with a mass
+balance for the system.
+For a simple reaction,
+A → B
+Where A is reactant and B is the product. The rate law or rate equation for this reaction
+is written as:
+Rate α [A]x or Rate = k[A]x ...(4.4)
+where [A] expresses the concentration of A (usually in moles per liter) and k is the rate
+constant of the reaction, and “x” is the order of the reaction. Note that “x” is not
+stoichiometric coefficient in the balanced equation and it is determined experimentally.
+The order of reaction is the power to which the reactant's concentration is raised in the
+rate law expression.
+For reactions involving more than one reactant, the order of a reaction is the sum of the
+powers to which all concentrations are raised in the rate law expression. For the general
+reaction.
+aA + bB → cC + dD
+CHEMICAL KINETICS
+227
+we can write the rate law expression as:
+ r = k[A]x
+ [B]y ...(4.5)
+The reaction is xth order in A, yth order in B, and (x + y)
+th order overall. Note that
+the order of a reaction is not necessarily the same as the stoichiometric coefficients in
+the balanced equation for the reaction. The value of the rate constant, k, depends on
+conditions such as temperature, concentration and surface area of the adsorbent or light
+irradiation.
+Consider a reaction with the rate equation,
+r = k[A]2 [B]
+The reaction with the rate equation given above is described as “second-order in A” and
+“first-order in B.” The overall reaction order is described as a third-order reaction
+overall, because the sum of the exponents on [A] and [B] is 3.
+Some examples of the order of generalized rate equations for simple reactions are given
+in Table 4.2.
+Table 4.2 Rate equation and reaction order for simple reaction rate
+Rate equation Overall reaction order
+k[A]o zero
+k[A] first
+k[A]2 second
+k[A][B] second
+k[A]3 third
+k[A]2[B] third
+k[A][B][C] third
+k[A]3/2[B] 5/2
+Example 4.3
+The rate equation for the oxidation of SO2 to SO3 in excess O2 is:
+2SO2(g) + O2(g) V O (s)
+ 2 5 → 2SO3(g)
+Rate = k[SO2] [SO3]
+–½
+ CHEMISTRY GRADE 11
+228
+a What is the order of the reaction with respect to each substance in the rate
+equation?
+b What happens to the rate of reaction as [SO3] increases?
+Solution:
+a The reaction is first-order with respect to SO2, and is negative one-half order
+with respect to SO3.
+b As the concentration of SO3 increases, the rate of reaction decreases.
+To find the experimental rate equation by the method of initial rates, it is necessary to
+gather concentration-time data in a series of separate experiments. Each experiment
+must have a different initial concentration of one or more reactants. The experiments
+must be performed at the same temperature. The initial rate for each experiment can be
+found from the concentration-versus-time curve.
+Suppose a reaction of the type,
+A → products
+is under study. The data are inspected to find how the initial rate varies with the initial
+concentration of A, [A]o. The objective is to find the value of the exponent in the rate
+equation, rate = k [A]m, where m is the order of the reaction. For a first-order reaction,
+m = 1, and the rate varies directly with [A]o. If [A]o is doubled, the rate is doubled;
+if [A]o is tripled, the rate is tripled; and so on (see Table 4.3). For a second-order
+reaction, m = 2 and the rate is increased by a factor of 22, or 4, if [A]o is doubled,
+and so on. If the reaction is zero-order in A, changes in the concentration of A has no
+effect on the reaction rate. The order for each of several reactants can be found by
+varying one initial concentration at a time, while keeping the others constant.
+Table 4.3 Change in initial rate with change in [A]o for rate = k [A]m
+For a reaction of If [A]0 is doubled If [A]0 is tripled
+Zero-order (m = 0) rate is unchanged rate is unchanged
+First-order (m = 1) rate is doubled rate is tripled
+Second-order (m = 2) rate is quadrupled (x 22) rate is 9 times greater (x 32)
+CHEMICAL KINETICS
+229
+Example 4.4
+The kinetics of the reaction,
+2NO(g) + O2(g) → 2NO2(g)
+was studied at 80 K by varying the initial pressures of the reactants individually
+and finding the initial reaction rates. The following data are typical of such a
+study.
+Experiment pinit(NO) (Torr) Pinit(O2) (Torr) Rate of NO2 formation
+(Torr/s)
+a 1630 1630 6.13 × 10–8
+b 3260 1630 24.5 × 10–8
+c 1630 3260 12.2 × 10–8
+a What is the order of reaction with respect to each reactant?
+b What is the value of the rate constant?
+Solution:
+a Order of reaction with respect to each reactant can be determined as follows.
+Holding the O2
+ pressure constant, while doubling the NO pressure, quadrupled
+the rate, indicating that the reaction is second order in NO. With constant
+NO pressure, doubling the O2 pressure caused the rate to double, showing
+that the reaction is first-order in O2. The rate equation for the formation of
+NO2 becomes
+Rate of NO2 formation = kp2
+NO pO2
+b The value of the rate constant. The experimental data can be used in the rate
+equation to find the value of k. For the data from experiment a, for example:
+2
+2
+2
+NO O
+Rate of NO formation k = p p
+⇒
+8
+17 2 1
+2
+6.13 10 Torr / s = 1.42 10 Torr s
+(1630 Torr) 1630 Torr
+− × − −− = ×
+×
+k
+The best value for k is taken as an average of the k values calculated for each
+run: in this case, it is 1.41 × 10–17 Torr–2 s–1.
+ CHEMISTRY GRADE 11
+230
+From experimental observations, in 1889, Svante Arrhenius, observed that a mathematical
+relationship connects activation energy, temperature, and the rate constant. This relationship
+is known as the Arrhenius equation and is written as:
+k = Ae–Ea/RT ...(4.6)
+where, k is a rate constant at temperature T, A is a constant, R is an ideal-gas constant,
+and Ea = activation energy.
+Equation (4.6) shows the fraction of collisions in an elementary reaction in which the
+particles have enough energy to react. The constant A corrects for the frequency of
+collisions, the necessity for the proper orientation in effective collisions, and all factors
+other than activation energy that are significant in effective collisions.
+Taking logarithms of both sides, the equation (4.6) becomes:
+a 1 log log 2.303 R
+E k A
+T
+  − = +     ...(4.7)
+The above equations show that reactions with larger activation energies have smaller
+values of k and are, therefore, slower. The equation also shows that, for a given value
+of activation energy, as the temperature increases, the value of rate constant increases.
+This indicates that the reaction is faster, because at higher temperatures more molecules
+can collide effectively.
+Equation (4.7) is the equation for a straight line. The value of Ea
+ can be found from the
+slope of a plot of log k versus 1/T, Ea
+ = – 2.303 R × slope. Also, by combining the
+equations for the values of k at two different temperatures T1 and T2 for the same
+reaction, a relationship is obtained that allows for the calculation of Ea
+:
+ 2 2 21 a a
+1 1 2 1 12
+1 1 log or log 2.303 2.303
+k k TT E E
+k R T T k R TT
+− −−    =− =       ...(4.8)
+Alternatively, if Ea
+ and three of the four values k1, k2, T1, and T2 are known, the fourth
+can be found. In using the Arrhenius equation, the energy is customarily expressed in
+joules, temperature must be in kelvin, and R is 8.314 J/ (K mol).
+CHEMICAL KINETICS
+231
+Example 4.5
+The thermal decomposition of CH3N=NCH3 in the gas phase to give nitrogen
+and methyl radicals
+CH3N = NCH3(g) → N2(g) + 2 •CH3 (g)
+has an activation energy of 2.14 × 105
+ J/mol, at 600 K, at the given temperature,
+k = 1.99 × 108 s–1. Does the reaction rate double with a ten-degree rise in
+temperature hold for this reaction?
+Solution:
+To answer the question, we must calculate k at 610 K, using the appropriate
+form of the Arrhenius equation. The knowns are Ea
+ and k1 at T1 = 600 K, and
+T2 = 610 K. The unknown is k2 at 610 K.
+2 21 a
+1 12
+log 2.303
+k TT E
+k R TT
+−   − =    
+5
+2
+8 1
+2.14 10 J/mol 610 K 600 K log 1.99 10 s 2.303 8.314 J/(K mol) 610 K 600 K
+k
+−
+    × −     =       ×   × ×  
+Taking antilogarithms of both sides gives:
+2
+8 1 2.0
+1.99 10 s
+k
+− = ×
+Therefore, k2 = (2.0) (1.99 ×108 s–1) = 4.0 × 108 s–1
+Comparison of k1 with k2 shows that, for this reaction, the rate constant is
+doubled by a ten-degree rise in temperature. (This is not always the case.)
+Exercise 4.7
+1. Given that Ea
+ for the hydrolysis of sucrose is 108 × 103 kJ / mol, compare the
+rate constant of this reaction at 37°C (T1
+) with the rate constant of the same
+reaction at 27°C (T2).
+2. Calculate the rate constant for the above reaction at 47°C and compare it to
+the rate constant at 37°C.
+3. Plot a graph of log k versus 1/T to calculate the activation energy.
+ CHEMISTRY GRADE 11
+232
+4.3.2 Concentration-Time Equation (Integrated Rate Law)
+Activity 4.7
+Form a group and discuss each of the following questions.
+1. How do you explain the concentration dependence of rate of reactions?
+2. What is the mathematical expression for describing order of a reaction?
+3. How do you distinguish between zero-order, first-order, and second-order reaction?
+A rate law tells us how the rate of reaction depends on the concentration of the
+reactants at a particular moment. But, often we would like to have a mathematical
+relationship that shows how a reactant concentration changes over a period of time. A
+rate law can be transformed into a mathematical relationship between concentration and
+time using calculus. Therefore, an integrated law relates concentration to reaction time.
+1. Zero Order Reaction
+A zero-order reaction is a reaction whose rate of reaction does not depend on the
+reactant concentration. For the general reaction
+A → Product
+the zero order rate law is written as the equation
+r = [A]
+t
+∆ − ∆ ...(4.9)
+Using calculus, it can be shown from equation (4.9) that
+[A]t = – kt + [A]o ...(4.10)
+where [A] is concentration of A at t = t; [A]o is the concentration of A is at t = 0. Now,
+zero-order reactions can be written as follows:
+o [A] [A] t =− + kt ... Integrated rate equation for 0th order reaction ...(4.11)
+This is a linear equation with the form of y = mx + b. For a zero-order reaction, a plot
+of [A] versus-time is a straight line, whose slope is – k.
+CHEMICAL KINETICS
+233
+t
+[A]t
+Slope = – k
+[A]o
+Figure 4.8 A plot of [A] versus t for a zero-order reaction.
+Example 4.6
+The decomposition of HI into hydrogen and iodine on a gold surface is zeroorder in HI. The rate constant for the reaction is 0.050 s–1. If you begin with
+a 0.500 M concentration of HI, what is the concentration of HI after 5 seconds?
+Solution:
+Use the integrated rate
+[HI] = [HI]0 – kt
+The initial concentration is [A]0 = 0.500 M, and the reaction runs for 5 seconds.
+[HI] = 0.500 M – 0.050 M s–1 x 5 s = 0.250 M
+2. First-Order Reactions
+A first-order reaction is a reaction whose rate of reaction depends on the reactant
+concentration raised to the first power. In a first-order of the type
+A → Product
+the rate is
+r = 
+∆[A]
+∆t ...(4.12)
+r = k [A] ...(4.13)
+To obtain the units of k for this rate law, we write
+k = 
+M/s 1/s or s
+[A] M
+r = = –1
+ CHEMISTRY GRADE 11
+234
+Combining equations (4.12) and (4.13) for the rate, we get
+∆[A] − ∆t
+= k[A] ...(4.14)
+Using calculus, it can be shown from equation (4.14) that
+o
+[A] ln
+[A]
+t = – kt ...(4.15)
+where ln is the natural logarithm, and [A]o and [A] are the concentrations of A at times
+t = 0 and t = t, respectively. It should be understood that t = 0 need not correspond
+to the beginning of the experiment. It can be any time at which we choose to start
+monitoring the change in the concentration of A,
+Equation (4.15) can be rearranged as follows:
+ o ln [A] ln [A] t =− + kt ...Integrated rate equation for 1st order reaction: ...(4.16)
+Equation (4.16) has the form of the linear equation y = mx + b, in which m is the slope
+of the line that is the graph of the equation. Thus, a plot of ln [A] versust gives a straight
+line with a slope of k (or m). This graphical analysis allows us to calculate the rate
+constant k. Figure 4.9 shows the characteristics of first-order reactions.
+t
+[A]t
+t
+In [A]t
+Slope = – k
+Figure 4.9 Plot for a reaction that is first-order with respect to A, first-order overall.
+CHEMICAL KINETICS
+235
+Note! The observation that plot of ln[A] versus time is a straight line confirms that the
+reaction is first-order in A and first-order overall, i.e., Rate = k[A]. The slope is equal
+to –k.
+In the following example, we apply equation (4.16) to a reaction.
+Example 4.7
+The conversion of cyclopropane in the gas phase is a first-order reaction with
+a rate constant of 6.7 × 10–4 s at 500°C.
+C3H6 → CH3 – CH = CH2
+cyclopropane propene
+a If the initial concentration of cyclopropane is 0.25 M, what is the concentration
+after 8.8 minutes?
+b How long does it take for the concentration of cyclopropane to decrease
+from 0.25 M to 0.15 M?
+c How long does it take to convert 74 % of the starting material?
+Solution :
+a Applying equation (4.16),
+o [A] ln
+[A] = kt
+Solving the equation, we obtain
+0.25M ln
+[A] = 0.354
+0.25M
+[A] = e0.354 = 1.42
+[A] = 0.18 M
+b Again using equation (4.16), we have
+0.25 M ln
+0.15 M = (6.7×10–4s–) t
+ CHEMISTRY GRADE 11
+236
+t = 7.6×102 s
+= 13 minutes
+c In a calculation of this type, we do not need to know the actual concentration of
+the starting material. If 74% of the starting material has reacted, the amount left
+after time t is (100% – 74%), or 26%. Thus, [A] /[A]o = 26/100 = 0.26. From
+equation (13.3), we write
+t = o 1 [A] ln
+k [A]
+= 4 –1
+1 1.0 M ln
+6.7×10 s − 0.26 M
+= 2.0 × 103 s
+= 33 minutes
+3. Second-Order Reactions
+A second order reaction is a reaction whose rate depends either on the concentration
+of one reactant raised to the second power or on the concentrations of two different
+reactants, each raised to the first power. The simpler type of reaction involves one kind
+of reactant molecule
+2 A → Product
+where
+r = 
+[A]
+t
+∆ − ∆ ...(4.17)
+From the rate law
+r = k[A]2 ...(4.18)
+As before, we can determine the units of k by writing
+k = 2 2
+M/s M s
+[A] M
+r − − = = ...(4.19)
+For simplicity, we will consider a second order reaction with a rate law of the
+following type:
+CHEMICAL KINETICS
+237
+2A —→ product
+r = k[A]2
+By using calculus, use can obtain the expression
+ 
+o
+1 1
+[A] [A]
+= +
+t
+kt ... Integrated rate equation for 2nd order reaction ...(4.20)
+The graph of 
+1
+[A] versus time gives a straight line with a slope of k as shown in Figure
+4.10.
+t
+[A]t
+t
+Slope = k
+1
+[A]t
+1
+[A]o
+(a) (b)
+Figure 4.10 Plots for a reaction that is second-order with respect to A and overall a
+second-order reaction.
+Another type of second-order reaction is
+A + B —→ product
+and the rate equation is given by
+r = k[A][B] ...(4.21)
+where the reaction is first-order in A and first-order in B. Thus, this reaction has an
+overall reaction order of 2.
+The corresponding integrated rate equation for such type of second order-reaction is
+too complex for our discussion and beyond the scope of this text book.
+ CHEMISTRY GRADE 11
+238
+Activity 4.8
+Example 4.8
+Nitrosyl chloride, NOCl, decomposes slowly to NO and Cl2 as shown in the
+equation below.
+2NOCl —→ 2NO + Cl2
+r = k[NOCl]2
+The rate constant, k equals 0.020 L mol–1 s–1 at a certain temperature. If the
+initial concentration 0.050 M, what will the concentration be after 30 minutes?
+Solution:
+[NOCl] = 0.050 M k = 0.020 L mol–1 s–1
+[NOCl]t = ? M t = 30 min = 1800 s
+The integrated rate equation for this reaction is given by:
+1
+[NOCl]t
+= 
+o
+1
+[NOCl]
+k t +
+= (0.020 L mol–1 s–1) (1800 s) + 1
+1
+0.50 mol−
+= 50 L mol–1
+ ∴ [NOCl]t
+= 0.018 L mol–1 = 0.018 M
+4.3.3 The Half-life of a Reaction
+Form a group and do as directed:
+1. Plot a graph that shows the time dependence of concentration of reactant for the
+1st order reaction.
+2. On the graph show the time when the concentration of a reactant is decreased by
+half of its initial amount. What do you call this situation?
+Discuss the results and share your ideas with the rest of the class.
+The half life of a reaction is defined as the time required for the concentration of a
+reactant to decrease to half of its initial concentration. This means that half-life is the time
+it takes for the concentration of A to fall from [A]o to ½[A]o, i.e [A] = ½[A]o. The
+half-life of a reaction is designated by the symbol, t
+½.
+CHEMICAL KINETICS
+239
+o [A] log [A]t
+= 
+2.303
+kt
+This gives us
+o
+o
+[A] ln
+½[A]
+= 
+½ or ln 2 ½ 2.303 = kt kt ...(4.23)
+And solving for t
+½ gives, ln 2 0.693 . k k =
+From the relation, it can be noted that, for a first-order reaction, the half-life is independent
+of the initial concentration of A, [A]o.
+For second-order reactions, half-life depends on the initial concentration, [A]o, and the
+rate constant, k. For a second-order reaction, the half-life expression is given by the
+equation
+t o
+1 1
+[A] [A] − = ½
+o o
+1 1
+½[A] [A]
+kt kt ⇒ − = ...(4.24)
+Rearranging and solving for t
+½, we get the expression,
+t
+½ = o
+1
+k[A] ...(4.25)
+Summary of equations for 1st and 2nd order reactions is given in Table 4.4.
+Table 4.4 Summary of the kinetics of first-order and second order reactions
+Order Rate equation Concentration-time equations Half-life
+1st rate = k[A] = o [A] In
+[A]
+kt 0.693
+k
+2nd rate = k[A]2 = +
+o o
+1 1
+[A] [A]
+kt
+o
+1
+k[A]
+Example 4.9
+The decomposition of N2O5 in CCl4 at 45 °C is first order reaction with
+k = 6.32 × 10–4 s–1. If the initial concentration of N2O5, is 0.40 mol/L:
+The mathematical expression for the half-life of a first-order reaction is determined by
+substituting t = t
+½ and [A] = ½[A]o in equation
+ CHEMISTRY GRADE 11
+240
+a Calculate t
+½.
+b Find the concentration of N2O5 remaining after t
+½.
+2N2O5(g) → 4NO2(g) + O2(g)
+Solution:
+a t
+½ = 
+0.693
+k
+ = –4 –1
+0.693 1097 s
+6.32×10 s =
+b The equation relating time and concentration for a first-order reaction is used
+with [N2O5]
+o = 0.40 mol/L and t = 1097 s to find [N2O5].
+ln[N2O5] = – kt + ln[N2O5]
+o
+= (– 6.32 × 10–4 s–1) (1097 s) + ln (0.40)
+= (– 0.693) + (– 0.9163) = – 1.6096
+Taking the inverse of the natural logarithms of both sides gives the concentration
+of N2O5 remaining after 1.0 hour,
+[N2O5] = 0.1996 mol/L ≅ 0.20 mol/L.
+Exercise 4.8
+1. If a certain first-order reaction has a half-life of 30.0 minutes,
+a Calculate the rate constant for this reaction.
+b How much time is required for this reaction to be 35% complete?
+2. The rate constant for the formation of hydrogen iodide from the elements,
+H2 (g) + I2 (g) → 2HI (g)
+is 2.7 × 10–4 L/(mol.s) at 600 K and 3.5 × 10–3 L/(mol.s) at 650 K.
+ a Find the activation energy Ea
+.
+ b Calculate the rate constant at 700 K.
+3. The rate constant for the decomposition of N2O5 in chloroform,
+2N2O5 CHCl →3 4NO2 + O2
+was measured at two different temperatures, T1 = 25 °C, k1 = 5.54 ×10–5 s–1
+and T2 = 67 °C, k2 = 9.30 × 10–3 s–1. Find the activation energy for this
+reaction.
+CHEMICAL KINETICS
+241
+4.4 REACTION MECHANISM
+At the end of this section, you should be able to:
+• explain reaction mechanism;
+• explain the molecularity of a reaction;
+• explain what is meant by rate determining step;
+• give specific examples to illustrate rate determining step;
+• explain the relationship between the reaction path way and the rate law; and
+• use rate equation to suggest possible reaction mechanism for a reaction.
+An overall balanced chemical equation does not give any information about how a
+reaction actually takes place. In many cases, it merely represents the sum of several
+elementary steps, or elementary reactions, a series of simple reactions that represents
+the progress of the overall reaction at the molecular level. The term for the sequence
+of elementary steps that leads to product formation is reaction mechanism. The reaction
+mechanism is comparable to the simplest description you might give of the route of a
+trip you plan to take. The overall chemical equation specifies only the origin and destination,
+while the reaction mectanim describes the stopovers also.
+As an example of a reaction mechanism, let us consider the reaction between nitric
+oxide and oxygen:
+2NO(g) + O2(g) → 2NO2(g)
+We know that the products are not formed directly from the collision of two NO
+molecules with an O2 molecule, because N2O2 is detected during the course of the
+reaction. Let us assume that the reaction actually takes place via two elementary steps
+as follows:
+2NO(g) → N2O2(g)
+N2O2(g) + O2(g) → 2NO2(g)
+In the first elementary step, two NO molecules collide to form a N2O2 molecule. This
+event is followed by the reaction between N2
+O2
+ and O2
+ to give two molecules of NO2
+.
+The net chemical equation, which represents the overall change, is given by the sum of
+the elementary steps:
+ CHEMISTRY GRADE 11
+242
+Form a group and try to identify the number of molecular species involved in each of the
+following reactions:
+1. A → products
+2. A + A → products
+3. A + B → products
+4. A + A + B → products
+5. A + B + C → products.
+Share your findings with the rest of the class.
+The minimum number of reacting particles (molecules, atoms or ions) that come
+together or collide in a rate determining step to form product or products is called the
+molecularity of a reaction. It is the number of reactant molecules taking part in a single
+step of the reaction.
+Example 4.10
+a PCl5 → PCl3 + Cl2 (Unimolecular)
+b 2HI → H2 + I2 (Bimolecular)
+c 2SO2 + O2 → 2SO3 (Termolecular)
+d NO + O3 → NO2 + O2 (Bimolecular)
+e 2CO + O2 → 2CO2 (Termolecular)
+f 2FeCl3 + SnCl2 → SnCl2 + 2FeCl2 (Termolecular)
+In the reaction that involve sequence of steps rate is determined by the flowest
+step.
+Activity 4.9
+Elementary step: NO + NO → N2O2
+Elementary step: N2O2 + O2 → 2NO2
+Overall reaction 2NO + O2 → 2NO2
+Species such as N2O2 are called intermediates because they appear in the mechanism
+of the reaction (that is, the elementary steps) but not in the overall balanced equation.
+4.4.1 Molecularity of an Elementary Reaction
+CHEMICAL KINETICS
+243
+Activity 4.10
+Example 4.11
+Decomposition of H2O2 takes place in the following two steps:
+Step 1: H2O2 → H2O + [O] (Slow)
+Step 2: [O] + [O] → O2 (fast)
+H2O2 → H2O + 1/2O2 (overall reaction)
+The slowest step is rate-determining. Thus, from step 1, reaction appears to be
+unimolecular.
+It may be noted that molecularity is a theoretical concept and it cannot be zero,
+negative, fractional, infinite and imaginary.
+Exercise 4.9
+1. Give the meanings of each of the following terms:
+a Elementary steps
+b Unimolecular reaction
+c Bimolecular reaction
+d Termolecular reaction
+2. Determine the molecularity of the following reactions:
+a NH4NO2 —→ N2 + 2H2O
+b O3 + NO —→ NO2 + O2
+c 2NO + O2 —→ 2NO2
+4.4.2 Rate-Determining Step
+Form a group and discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. What do you think a rate determining step is?
+2. Why do chemists want to know the rate determining step?
+ CHEMISTRY GRADE 11
+244
+The experimentally determined rate law is: Rate = k[NO2
+][F2
+], the proposed reaction
+mechanism is:
+NO2 + F2 k
+1
+→ NO2F + •F slow
+NO2 + •F k
+2→ NO2F fast
+Let us check whether the proposed mechanism agrees with the experimental rate law
+or not. First, the sum of these reaction steps must give the overall balanced equation:
+NO2 + F2 → NO2F + •F
+NO2 + •F → NO2F
+Overall equation: 2NO2 + F2 → 2NO2F
+So, the first requirement is satisfied. The formation of •F in the first step occurs more
+slowly than its reaction with NO2 to form NO2F in the second step. Thus, the rate of
+formation of NO2F in the second step is controlled by the rate of formation of •F in the
+first step. The overall rate cannot be faster than that of the slowest step.
+Overall rate = the rate of the slowest step
+The rate law agrees with experimentally determined rate law. So, the proposed mechanism
+is acceptable because it satisfies both requirements.
+In a multi-step reaction, all the elementary reactions do not necessarily proceed at equal
+rates. One of them might be very rapid, moderate or very slow. The reactants can be
+converted to products only as fast as they can complete the slowest step. The slowest
+step in the sequence of steps leading to the formation of products is called the ratedetermining step. In other words, the slowest step in the mechanism determines the
+overall rate of the reaction.
+Because the rate-determining step limits the rate of the overall reaction, its rate law
+represents the rate law for the overall reaction. For example, the reaction of NO2 with
+F2
+ is given by the equation:
+2NO2(g) + F2(g) → 2NO2F(g)
+CHEMICAL KINETICS
+245
+Exercise 4.10
+Answer each of the following questions.
+1. Describe the term molecularity of a reaction.
+2. How do you identify the rate determining step for a reaction that involves
+more than one step?
+ 3. The reaction
+NO2(g) + CO(g) → NO(g) + CO2(g)
+can be thought of as occurring in two elementary steps:
+a NO2 + NO2 → NO + NO3 (slow step)
+b NO3 + CO → NO2 + CO2 (fast step)
+ Identify the rate determining step and determine the molecularity of this reaction.
+Unit Summary
+• Chemical kinetics is the study of the rates and mechanisms of chemical
+reactions.
+• A chemical reaction occurs when atoms, molecules or ions undergo effective
+collisions.
+• The larger the activation energy, the slower a chemical reaction and vice
+versa.
+• In general, reaction rates increase with temperature, because higher
+temperature increases both the frequency of collisions and the number of
+molecules possessing enough energy to undergo effective collision.
+• A chemical equation represents an elementary reaction only if the reaction
+in the equation represents the actual atoms, molecules or ions that must
+interact for the reaction to occur.
+• Elementary reactions that are bimolecular (the most common) have two
+ CHEMISTRY GRADE 11
+246
+reactant species, while unimolecular reactions have only one and termolecular
+reactions have three.
+• Reaction rate is expressed as the change in concentration of a reactant or
+product, per unit time.
+• Both reaction rates and rate equations must be determined experimentally,
+often by gathering data on the variation of concentration over time.
+• Rate equations often take the form of
+Rate= k[A]m[B]n[C]p
+where the sum of m, n, p, is the overall reaction order. The order of a
+specific reactant is given by m, or n, or p, and the exponents in a rate
+equation are often 1,2 or 3, but may also be fractions or negative numbers.
+• Rates of first-order and second-order reactions are dependent upon the
+concentrations of one or two reactants, respectively. In contrast, rates of
+zero-order reactions are independent of reactant concentrations.
+• The half-life of a first order reaction is independent of the initial reactant
+concentration, whereas half-life of second order reaction depends on the
+initial reactant concentration.
+• Reaction rates are influenced by the concentrations of reactants, temperature,
+catalysts and the degree of contact between reactants (surface area).
+• Reaction rates and rate constants vary with temperature.
+• The Arrhenius equation gives the relationships among the temperature,
+the rate constant and the activation energy for a given reaction, either for
+an elementary reaction or an overall reaction.
+• In a heterogeneous reaction, the reactants are in different phases and the
+rates of such reactions are limited by the amount of the contact between
+reactants.
+• Catalysts increase the rates of chemical reactions but can be recovered
+unchanged at the end of a reaction

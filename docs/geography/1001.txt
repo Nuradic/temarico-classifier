@@ -1,0 +1,1856 @@
+ earth’s surface. As you learned in Grade 9, they are 
+used for many purposes, and are especially effective devices for recording and 
+communicating information about our environment. This unit focuses on maps 
+that present physical features of the world. You will learn how to read maps that
+F Show where places and things are located 
+F Indicate heights and depths of features on the earth
+What do we need to know in order to use maps?
+To use maps effectively, you must be able to read them easily. In other words, 
+you must be map-‘literate.’ This unit will teach you many skills you need to read 
+maps. 
+For example, you will learn how to use the following information that maps 
+present: 
+F Location
+F Distance and direction between locations 
+F Relief (elevation), which indicates the third dimension on a twodimensional plane
+As you learn to read maps, you will also learn more about scale. As you learned in 
+Grade 9, scale is the ratio between distance or area on a map and the corresponding 
+measurements on the surface of the earth. 
+You will also learn how to reduce and enlarge maps accurately.
+1.1 DIRECTION ON MAPS
+At the end of this section, you will be able to:
+Þ Acquire the skill of finding direction on a map; 
+Þ Show direction of a given place on a map by means of compass direction 
+and bearings; 
+Þ Explain the use of magnetic compass; 
+Þ Practice, how to find direction and bearings of points on maps.
+Unit 1: Map Reading 3
+1.1 Direction On Maps 1.1 Direction On Maps
+Key Terms
+³ Cardinal points 
+³ Bearing 
+³ True north 
+³ Grid north
+³ Intermidate direction
+³ Land mark 
+1.1.1 Identification of Direction 
+How do we identify direction? Do you know places in your locality that got their 
+names from winds? Do you know some local expressions related to direction? 
+The science of direction goes back to human’s earliest observations of nature, 
+especially stars and winds. For example, imagine an Ethiopian farmer of those 
+days waiting for a wind to blow off the fine chaff of grains during harvesting. The 
+farmer looked in the direction from which he or she hoped the wind would come. 
+When the wind came, the farmer gratefully named it after its source, like ‘ye Dega 
+Nefas’, ‘ye Kola Nefas’ etc.
+Sometimes place names are associated with winds. For example the provincial 
+capital city of Gayent in southern Gonder is known as ‘Nefas Mewicha’ or Source 
+of Wind.
+Landmarks are important aids to people who are travelling in a new environment. 
+A landmark is an object that is easily seen from a distance. We use landmarks to 
+help us remember where things are, and we try to remember their appearance and 
+locations in order to avoid getting lost. 
+When we travel in familiar surroundings, we often relate to landmarks without 
+being aware that we are doing so. But when we are in a new or not well- known 
+area, we make a conscious effort to notice them. We might also use tools such as 
+maps and compasses to help us find our way around.
+Many of us are familiar with the four cardinal points of the compass–North, East, 
+South and West. There are thirty-two points of the compass, but only sixteen are 
+used to describe direction. The points midway between the cardinal points are 
+known as North-East (NE), South-East (SE), etc. The others, North-North-East 
+(NNE), East-North-East (ENE), etc. relate to further sub-divisions.
+Grade 10 Geography 4
+1.1 Direction On Maps
+Compasses are marked with degrees as well as with the direction points we 
+described earlier. As shown in Figure 1.1, the degrees start at the north from 0°, 
+and increase in the clockwise direction. The direction points coincide with degree 
+points. For example, 0° coincides with N, and 180° coincides with S. You can 
+express direction more precisely in degrees than in direction points.
+Activity 1.1
+1 Draw a figure that shows comapss points and bearings respectively?
+2 Identify the four cardinal points? 
+3 What is a landmark? 
+4 How many points do we have on a compass? 
+5 Which points of the compass coincide with 0o
+, 180o
+, 225o
+ and 315o
+? 
+Clockwise
+N
+W E
+247.5˚ WSW
+225˚ SW
+202.5˚ SSW
+157.5˚ SSE 135˚ SE 112.5˚ ESE
+292.5˚ WNW
+315˚ NW
+337.5˚ NNW
+22.5˚ NNE
+45˚ NE 67.5˚ ENE
+S
+0º
+180º
+270º 90º
+Figure 1.1: Compass Points
+Unit 1: Map Reading 5
+1.1 Direction On Maps 1.1 Direction On Maps
+1.1.2 Measurement of Direction and 
+Bearing
+How do we measure direction and bearing?
+In order to determine directions from one place to another out in the field or on 
+a map, we must first select or identify one direction from which we can identify 
+and measure other directions. This basic direction we call the cardinal direction. 
+The cardinal direction could be anyone but at present, internationally, we use 
+North as the cardinal direction and measure all other bearings from this one. 
+When printing a map we usually arrange the cardinal direction so that it points to 
+the top of the map. Before doing any measurements of directions, make sure that 
+you know where true north is. 
+Directions from one point to another or the bearing of one point from another can 
+be given using two different sets of units. The traditional system uses the cardinal 
+compass points north, east, south, west and subdivisions of them. A modern, and 
+more accurate, method gives the directions in degrees and fractions of degrees 
+clockwise from north. The relationship between the two ways of giving directions 
+is shown in Figure 1.1.
+Figure 1.2 shows you how to determine directions and bearings on maps. 
+The procedure involves the following steps. 
+Example: 
+To find the direction from point A to point B on the map Figure 1.2. 
+1 Draw a line with a pencil joining points A and B on the map. 
+2 Through the point from which the bearing is required draw a pencil 
+line parallel to true north as indicated by the meridians or the arrow 
+indicating true north. 
+3 Using these two lines, set your protractor so that its centre is in point 
+A and measure the angle between the true north line and the line A - B 
+reading clock wise from north = 0o
+. 
+4 State the bearing either in compass directions or degrees clockwise 
+from north. 
+Grade 10 Geography 6
+1.1 Direction On Maps
+Answer:
+i The direction from A to B is 135o
+ or point B bears 135o
+ from A. 
+ii Point B is roughly South East of A or point B bears South East from A. 
+Figure 1.2: The Measurement of directions 
+The direction of a line from one point to another can be given in terms of compass 
+direction. In Figure 1.3, for example, B lies north-east of A, and conversely A lies 
+south-west of B.
+Figure 1.3: Compass directions 
+We may also describe wind direction in terms of compass direction. Look at 
+Figure 1.4. B lies north-east of A. Therefore a wind blowing from B to A is called 
+a north-east wind. Note carefully that wind direction is named after the direction 
+from which the wind blows. 
+135o
+N
+A
+B
+A
+NE
+N
+B
+N
+B
+SW
+A
+Unit 1: Map Reading 7
+1.1 Direction On Maps 1.1 Direction On Maps
+ 
+A direction indicated in degrees is called a bearing. The bearing of an object 
+refers to its direction and a clockwise measurement in degrees from the zero line 
+(0° or N), which is the north direction.
+ 
+ a) Bearing of B from A is 60o b) Bearing of C from A is 300o
+ Bearing of A from B is 240o Bearing of A from C is 120o
+Figure 1.5: Forward and back bearings
+In Figure 1.5, the bearing of B from A is 60°, which is angle NAB. The bearing of 
+C from A is 300°, which is reflex angle NAC. Note that the bearing of C from A is 
+not the smaller acute angle NAC, since bearings are always measured clockwise 
+from north. 
+The directions of A from B and from C, respectively, are called back bearings. 
+A back bearing is obtained by adding or subtracting 180° to or from a forward 
+bearing. 
+N
+A
+NE
+NE Direction
+B
+Figure 1.4: Wind directions
+B
+N
+A
+60˚
+240˚
+C
+A
+120˚
+300˚
+N
+Grade 10 Geography 8
+1.1 Direction On Maps
+Focus 
+1 If a forward bearing is less than 180°, add 180° to obtain the back 
+bearing.
+2 If a forward bearing is more than 180°, subtract 180° to obtain the 
+back bearing.
+Activity 1.2
+Part I
+Take an ordinary compass and try to obtain the bearing of an object in your school 
+compound that is some distance away from you. 
+Hold the compass horizontally 
+and face in the direction of the 
+object. Turn the compass case 
+gently until N (north) on the 
+card lies under the north end 
+of the needle. Now read the 
+bearing of the object.
+Part II
+1 From where do we start measuring directions? 
+2 What would be the direction of wind blowing from A to B in Figure 1.3.
+3 Which point of the compass is opposite in direction to each of the following?
+E NW SSW ESE
+4 What compass points do these bearings indicate?
+a 135°
+b 315°
+c 112.5°
+d 67.5°
+e 292.5°
+Figure 1.6: Taking a bearing with an 
+ordinary compass
+Magnetic North 
+Bearing
+Distant 
+Object
+30
+240
+210 150
+120
+330
+300
+S
+N
+W E
+60
+Unit 1: Map Reading 9
+1.1 Direction On Maps 1.2 Position On Maps
+1.2 POSITION ON MAPS
+At the end of this section, you will be able to:
+Þ Define what the geographic grid system means; 
+Þ Demonstrate the position of a given place by means of geographic grid 
+system; 
+Þ Define what the national grid system means; 
+Þ Show the position of places on maps by using national grid reference (four 
+and six digit grid reference); 
+Þ Demonstrate the national grid origin of Ethiopia; 
+Þ Enlarge and reduce maps using a square or pantograph method; 
+Þ Compute the scale of enlarged or reduced map.
+Key Terms
+³ Latitude
+³ Longitude
+³ Equator
+³ Meridians
+³ Parallels 
+³ Grid origin 
+³ Easting 
+³ Northing 
+³ Prime meridian
+³ Grid
+How do we know the exact position of a place on the earth’s surface?
+The position of places on the earth’s surface and upon maps can be given in a 
+number of different ways. The most important are through the use of:
+F Latitude and longitude (international grid references)
+F National Grid References (eastings and northings) 
+1.2.1 Position by the Geographic Grid
+Why do we prefer to use geographic grid system to locate the position of a place 
+on a map?
+This is a method by which the position of a place can be given accurately with 
+the help of a grid composed of a network of lines known as parallels and the 
+meridians. 
+If you study a globe carefully you will find that two sets of lines form a network 
+on the surface of it. One set of lines run from the North pole to the South pole. 
+These lines are known as Merdians. 
+Grade 10 Geography 10
+1.2 Position On Maps
+The other set of lines are running around the globe parallel to the equator. They 
+are known as parallels. 
+Using this grid we can now give the accurate position of any place on the earth’s 
+surface. The parallels give the position in degrees, minutes and seconds north or 
+south of the equator. This is the Latitude of the place. The other set of lines, the 
+meridians, give the position of the point in degrees, minutes and seconds to the 
+east or west of the zero degree meridian. This is the longitude of the place. 
+Focus
+On the huge earth-globe, a net of lines only 1o
+ apart would be far too open 
+a mesh (the spaces of a certain size in a network) for particular use. Some 
+spaces would be as large as 100 kilometers each way. And in navigation 
+the position of an airplane must be precise to the fraction of kilometers. 
+For that reason the degree is divided by 60. Each of these 60ths is a minute. 
+(symbol:’). Not a clock-minute: “minute” also means “little”. Even this 
+little is not small enough for scientific locating. We must divide the degree 
+a second time, and each of these divisions is a second. (Symbol:”) A 
+second is a 60th of a minute. That makes a network of so small a mesh 
+with which to cover the earth that no place can slip through. 
+Study the following diagram in Figure 1.7
+Latitude: The latitude of point p on the 
+surface of the earth is equal to the angle 
+between the radius through the point and 
+equatorial plane. (i.e., the plane limited 
+by the equator.) 
+Longitude: The longitude of point p on 
+the surface of the earth is equal to the 
+angle between the radius through the 
+point and the 0o
+ and 180o
+ plane. (i.e., the 
+plane limited by the zero meridian and 
+the 180o
+ meridian.) 
+Figure 1.7: The Complete Geographic Grid 
+Unit 1: Map Reading 11
+1.2 Position On Maps 1.2 Position On Maps
+Therefore, the geographic grid of point P is 45o
+N, 90o
+W 
+Latitude and longitude sometimes are confused with two other terms: parallel 
+and Meridian. 
+Parallel: an imaginary line joining all points with the same latitude. 
+Meridian: An imaginary line joining all points with the same longitude. 
+Note that the first set of terms (latitude and longitude) deal with angles the 
+second set (Parallel and Meridians) with lines. 
+Figure 1.8: Geographic Grid 
+How do we locate the position of a place on a map? 
+Example 1: 
+Find the geographic grid of point B on Figure 1.8. Follow the following 
+steps
+1 Identify whether point B is North or South of Equator. 
+2 Read the latitudes of B, North of the equator i.e., 20o
+N. 
+3 Read the longitude of B, East of the prime meridian i.e., 30o
+E. 
+4 The complete geographic grid of point B is 20o
+N 30o
+E. 
+105o 105o 90o 90o 75o 75o 60o 60o 45o
+Equator
+North
+Lake
+Marsh
+South
+West East
+Prime Meridian
+45o 30o 30o 15o 15o 0o
+0o
+10o
+C
+B
+N O
+10o
+20o
+20o
+30o
+30o
+40o
+40o
+50o
+50o
+Grade 10 Geography 12
+1.2 Position On Maps
+Example 2:
+Find the geographic grid of point X, A and Y on Figure 1.8. In order to find the 
+locations of X, A and Y, you have to follow the following procedures: 
+F From Figure 1.8 identify the quadrants (boxes) where X, A and Y are found 
+and divide the vertical and horizontal lines into 10 and 15 equal parts 
+respectively with an interval of 1o
+ (for X and Y points), and 1' for point Y. 
+F Identify whether X, A and Y are North or South of the equator. 
+F From point X, A and Y draw the perpendicular (using broken lines) to 
+the two borders of the quadrants.
+F Finally read the latitude and longitude from the vertical and horizontal 
+borders accordingly. 
+Points X (found North of the equator) 
+Point A (found South of the equator) 
+Point Y (found South of the equator) 
+45o w 40o 35o
+30o
+w
+10o
+N
+15o
+20o
+N
+X
+The location of point X is 15o
+N 41o
+ W
+30o E 35o 40o
+45o
+E
+10o
+S
+15o
+20o
+S
+A
+The location of point A is 14o
+S 31o
+ E
+10o
+15’w 10’ 05’ 10o
+00’w
+9o
+10’S
+05’
+9o
+00’S Y
+The location of point Y is 9o
+01’S 10o
+12’ W
+Unit 1: Map Reading 13
+1.2 Position On Maps 1.2 Position On Maps
+Example 3:
+Find the geographic grid of the Marsh area on Figure 1.8. Follow the 
+following steps.
+1 Identify whether the Marsh area is North or South of Equator.
+2 Read the latitudinal extent of the Marsh area, North of the equator 
+i.e. 10o
+N - 20o
+N. 
+3 Read the longitudinal extent of the Marsh area, East of the prime 
+Meridian i.e., 60o
+E - 70o
+E. 
+4 The complete grid of the Marsh area is 10o
+N - 20o
+N and 60o
+E - 70o
+E. 
+Activity 1.3
+1 Use a world map or atlas and identify places that are in the following positions:
+a 9o
+ 2'N 38o
+42'E
+b 31o
+ 47'N 35o
+10'E
+c 40o
+ 45'N 74o
+0'W
+d 13o
+ 15'N, 38o
+27'E
+2 Based on Figure 1.9 find the geographic grid of the following points. 
+a O
+b N
+c C 
+d Lake
+1.2.2 National Grid Reference System
+What is a National Grid system? How can a national grid system help us to 
+identify the position of a place on a map?
+A National grid is a network of horizontal and vertical lines printed on the face of 
+a map. The network of grid lines border squares. These squares may be divided 
+into smaller and smaller squares.
+The size of a map’s grid squares depends on the scale of the map. For example, 
+the sides of the squares on a large-scale or medium-scale national or regional 
+Grade 10 Geography 14
+1.2 Position On Maps
+topographic map might represent 100 km, 10 km or 1 km. Each line is given a 
+number. This numbering begins at a particular point. This point is the southwestern corner of the whole grid for the country and it is called the grid origin or 
+the National grid origin. 
+F The grid origin of Ethiopia lies in south-west most corner, is at the point 
+in SW Kenya where the 34o
+30'E meridian crosses the equator (0o
+). (See 
+Figure 1.9). 
+F Such a grid system provides the position of any point, in kilometers and 
+fractions of kilometers east and north of the grid origin. 
+F From the origin, all vertical lines are numbered eastwards. They are 
+called eastings.
+F All horizontal lines are numbered northwards. They are called northings.
+F In contrast to meridians, eastings (verticals) do not indicate true north.
+Focus
+The grid origin of Ethiopia is located at a point where the 34°30'E meridian 
+and the equator cross each other.
+Figure 1.9: The grid origin of Ethiopia
+Easting
+Northing
+Grid origin
+0o
+34o
+30’
+470 km
+1000 km
+Unit 1: Map Reading 15
+1.2 Position On Maps 1.2 Position On Maps
+The Four Digit Grid Reference
+Find the four digit grid reference for point F using Figure 1.110. 
+Figure 1.11 shows part of Addis Ababa and its surroundings on a 1:250,000 
+topographic map.
+Proceedings Easting 
+(Vertical)
+Northing
+(Horizontal)
+1 Locate the vertical grid line to the left of 
+the point F and read the large number.
+5
+2 Divide the square into ten equal 
+divisions and pick the tenth of the 
+point. 
+5
+3 Locate the horizontal grid line below 
+the point F and read the large number. 
+2
+4 Again divide the square into ten equal 
+divisions and pick the tenth. 
+5
+The grid references for point F: 55 25
+The 4-digit grid reference for point F: 5525 
+Activity 1.4
+Find the 4-digit grid 
+references for the farmlands 
+marked B and N on the map 
+(Figure 1.10).
+F
+B
+N
+101
+102
+103
+1000000
+4
+5 4
+6 4
+7 4
+8
+ADDIS ABABA
+Figure 1.10: 4-Digit grid reference Scale 1:250,000
+Grade 10 Geography 16
+1.3 Position On Maps
+The Six Digit Grid Reference 
+The six digit grid reference is 
+appropriate on a map drawn in 
+a larger scale so that a greater 
+accuracy in position can be 
+obtained. 
+In Figure 1.11 the grid of a map drawn in the scale 1:20,000 is shown. Each 
+square has a side of one kilometer. 
+Exercise: Find the national 6 digit grid reference for the points B, F and N on the 
+map (Figure 1.11). 
+Procedure Point B Point F Point N 
+1 All points are in the 100 km 
+square marked CA. CA CA CA
+2 Locate vertical grid line nearest 
+to the left of the point and write 
+large digits only 
+62 62 62
+3 Measure tenths from grid line to 
+point 
+6 3 9
+4 Locate horizontal grid line 
+nearest below point and write 
+large digits only 
+58 59 57
+5 Measure tenths from grid line to 
+point 
+5 8 9
+6 Full National Grid Reference CA 626584 CA 623598 CA 629579
+Note that the three first digits in the grid reference always refer to the eastings and 
+the three last digits to the northings. Find the eastings reference and the northings 
+1060
+1059
+1058
+1057
+3
+61 3
+62 3
+63 3
+64
+3
+62 3
+63 3
+64
+F H
+E
+G
+B
+N
+A
+CA
+Figure 1.11: 6-Digit grid reference
+Unit 1: Map Reading 17
+1.3 Position On Maps 1.3 Map Enlargement And Reduction
+reference in the margin of the map. Then draw perpendiculars from these points 
+as shown on Figure 1.11. Where the two lines cross one another you will have the 
+point you are looking for. 
+The accuracy obtained with six figure grid reference as far as position is concerned 
+is to the nearest 100 meters. This accuracy is made possible by the larger scale of 
+the map. The actual difference between a four figure and six figure grid reference 
+is therefore one of accuracy. Four figure grid reference should therefore be used 
+only in connection with maps that have a scale so small that it is impossible to get 
+a greater accuracy than to the nearest kilometer. 
+Remember always that a grid reference NEVER can be used to indicate an area. 
+The reference always stands for a POINT, that is the intersection of two lines. 
+Activity 1.5
+1 Mark the following grid references on the map Figure 1.12
+a 615587 b 638596
+Mark a with G and b with H. 
+2 Mark points E and A and find their grid references respectively 
+3 Mark the following grid references on map Figure 1.12
+a 615577
+b 622594
+c 630590 
+d 611599
+Mark a with T, b with K, 
+ c with Z and d with L 
+N.B: Do not write or mark on the book. Trace the map on a separate sheet of paper and 
+practice to find the position of point T, K, Z and C. Follow the procedure indicated in to the 
+previous page. 
+1.3 MAP ENLARGEMENT AND REDUCTION
+At the end of this section, you will be able to:
+Þ develop the skill to enlarge and reduce a map using a square method and 
+pantograph;
+Þ compute the scale of an enlarged or reduced map; 
+Grade 10 Geography 18
+1.3 Map Enlargement And Reduction
+Þ appreciate the need for map enlargement and reduction in certain 
+circumstances.
+Key Terms
+³ Enlargement 
+³ Reduction
+³ Scale
+³ Square method
+³ Pantograph
+Why do we enlarge a map?
+We enlarge and reduce maps for different reasons.
+Enlargement: We enlarge a map when we need to show more details (features) 
+about the area it shows. Often, enlarged maps are produced in order to support 
+detailed study of the area that the map presents. 
+We enlarge a map by enlarging its scale. The size of the paper on which the new 
+map is printed increases in proportion to the new scale. 
+Example:
+K city maps are often enlarged maps. 
+K An enlarged map would be quite helpful for demonstrating the 
+required area for a class room. 
+Why do we reduce a map?
+Reduction: We reduce maps when we need to be selective and to generalize the 
+information that the map presents. 
+When the scale of the map decreases, the size of the map also decreases 
+accordingly. 
+When you enlarge or reduce a map, consider these principles: if a map is to be 
+enlarged x times, the new map will be x times the scale of the old map. If you 
+reduce a map by 1/x, the scale of the new map will be 1/x times the scale of the 
+old map. 
+Unit 1: Map Reading 19
+1.3 Map Enlargement And Reduction 1.3 Map Enlargement And Reduction
+Example 1
+If we enlarge a map with a scale 1:200,000 two times, what will be the scale 
+of the new map?
+Solution: 
+Previous scale = 1: 200,000 or 1/200,000
+The scale of the new map = 1/200,000 × 2 = 1/100,000 or 1:100,000
+The scale of the new map (1:100, 000) is two times larger than the scale 
+of the old map, (1: 200,000)
+Example 2
+If we reduce a map with a scale 1:50,000 by half, what will be the scale 
+of the new map?
+Solution: 
+Previous scale = 1:50,000 
+The scale of the new map = 1/50,000 × 1/2 = 1/100,000 or 1:100,000
+The scale of the new map (1:100,000) is half of the scale of the old map 
+(1:50,000).
+The amount of increase or reduction of scale can be obtained by applying the 
+following formulae:
+1 Amount of enlargement =
+The denominator of the small scale
+The denominator of the large scale
+Example 3
+A map at 1: 200,000 is to be enlarged to a map at 1:100,000. By how 
+many times is the scale increased?
+Amount of increase = 200,000/100,000 = 2 times
+2 The amount of reduction = Denominator of large scale
+Denominator of small scale
+Example 4 
+A map with a scale of 1: 50,000 is reduced to 1:1000,000. How many 
+times is the scale reduced? 
+Amount of reduction = 50,000/100,000 = 1/2 times
+Grade 10 Geography 20
+1.3 Map Enlargement And Reduction
+Activity 1.6
+Answer the following questions.
+1 Enlarge the following map scales as indicated:
+a 1: 50,000 (twice)
+b 1: 100,000 (4 times)
+c 1: 50,000,000 (5 times)
+d 1: 10,000,000 (4 times)
+2 A map with a scale of 1:400,000 is enlarged to 1: 100,000. How many times is 
+the scale increased?
+3 Reduce the following map scales as indicated:
+a 1: 250,000 (2 times)
+b 1: 500,000 (5 times)
+c 1: 800,000 (4 times)
+4 A map with a scale of 1:25,000 is reduced to 1:75,000. How many times is the 
+scale reduced?
+Methods of Map Enlargement and Reduction
+How do we enlarge and reduce maps? 
+A Square method (free-hand)
+B Pantograph method (uses an instrument)
+Figure 1.13 is a map of a lake’s area drawn to a scale of 1: 20,000,000. 
+How do we redraw this map to a scale of 1:10,000,000? In other words, how do 
+we double the original scale?
+A Using Square Method
+On the basis of the given scale, you can enlarge or reduce the map by drawing as 
+many squares as needed. The squares should cover the whole map. 
+For illustration refer to Figure 1.13. 
+Exercise: Increase the map scale 1:20,000,000 twice. 
+The steps involved are the following: 
+1 Find the size of the original map through measurement and make up your 
+mind about how big you want your new map to be. This will give you the 
+scale of the new map that you want to construct. 
+Unit 1: Map Reading 21
+1.3 Map Enlargement And Reduction 1.3 Map Enlargement And Reduction
+2 Draw the frame of your map to be in such a way that the sides are double 
+as long as the sides of the original map. 
+3 Cover the original map with a grid of half centimetre by half centimetre 
+squares. 
+4 Cover your map under construction with a similar grid now using one 
+centimetre by one centimeter squares. 
+5 In order to cross check the squares on both maps, write numbers on the 
+horizontal margin and alphabets on the vertical margin. 
+6 Using the grid as a guide, trace the major features that you want to show on 
+your enlarged map carefully in pencil. 
+7 Finalize your map using color pencils for the different features that you 
+wanted to show, then remove the grid lines from both maps. 
+This method of enlargement, or reduction, of scale can be used for any kind of 
+drawing and the result is relatively accurate if your measurements and tracings are 
+carefully done. 
+Note: that the scale for your map is arrived at multiplying the old scale with the 
+number of times that you have increased the original scale or diving the original 
+scale with the number of times that you have decreased that scale. 
+Note also that when you reduce the scale you usually have to leave out certain details 
+present on the original map. 
+ a) orginal b) New 
+Figure 1.12: Lake area
+ Scale 1: 10,000,000
+7
+6
+5
+4
+3
+2
+1
+A B C D E F G H
+7
+6
+5
+4
+3
+2
+1
+A B C D E F G H
+Scale 1: 20,000,000
+Grade 10 Geography 22
+1.3 Map Enlargement And Reduction
+Activity 1.7
+1 Following the above method, enlarge the map of Ethiopia (Figure 1.13) Convert 
+the current scale of 1: 20,000,000 into a new scale of 1:10,000,000 in order to 
+create the new map. 
+2 Following the above procedure, reduce the map in Figure 1.13 by half of its size.
+NB: Do not write or mark on the book. Trace the map on a separate sheet of paper. 
+B Using the Pantograph Method
+A pantograph is a mechanical device used for reproducing maps, drawings etc. 
+at the same or different scales. Maps that are enlarged or reduced using the 
+pantograph are more accurate than ones done using the square method.
+A pantograph is made of four pieces of wood, metal or plastic.
+A pantograph has three operational points: the pivot, (noted as marked in red) 
+the tracer and the pencil holder (marked in blue). The pivot is fixed on the table.
+‘Panto’ means ‘all’ or ‘every’. The device works in combination of all its parts.
+Figure 1.13: Map of Ethiopia Scale 1:20,000,000
+Unit 1: Map Reading 23
+1.3 Map Enlargement And Reduction 1.4 Relief On Maps
+Procedure: 
+1 Arrange the pantograph either to do enlargement or reduction. the 
+arrangement in Figure 1.14 is for enlargement. 
+2 Fix the map to be enlarged (original) at red point (traces). Fix a clean 
+paper at the location of the “Pen”. 
+3 Then, when you start tracing on the original map with a tracer at the red 
+point, the pen starts drawing on the paper at the location of the “pen”. 
+The drawing will appear larger. 
+4 To do reduction you have to reverse the position of the tracer and the 
+pen. The original map should be fixed at the position of the “Pen” and 
+the new map to be drawn at the position of red point. 
+1.4 RELIEF ON MAPS
+At the end of this section, you will be able to: 
+Þ describe methods of showing relief on maps;
+Þ define the term contour lines;
+Þ discuss the properties of contour lines; 
+Þ identify the different ways of showing specific height on a contour map; 
+Þ compute the altitude of points between contour lines;
+Þ explain the term slope; 
+Þ demonstrate types of slope; 
+Þ compute gradients of slope; 
+Figure 1.14: Pantograph
+It is a drawing instrument to 
+magnify figures. Tracing the 
+original figure by moving the 
+red point, we can automatically 
+obtain the magnified figure 
+with the pen at the blue point.
+Grade 10 Geography 24
+1.4 Relief On Maps
+Þ describe the term gradient of slope;
+Þ express gradient in different ways; 
+Þ calculate field distance. 
+Key Terms
+³ Relief 
+³ Hachures
+³ Physiographic diagram 
+³ Hill shading
+³ Benchmark
+³ Trigonometric point
+³ Altitude
+³ Layer coloring
+³ Form lines
+³ Contours
+³ Spot heights
+³ Slope
+³ Gradient
+³ Field distance
+What do you understand by the term relief? 
+What kinds of landforms are found in your locality? 
+Relief refers to the difference in altitude between the highest and lowest points 
+in an area or surface structure of any part of the earth. It relates to land features 
+like plains, hills, plateaus, valleys, ridges, etc. These relief features have three 
+dimensions (length, breadth and height), but a map on which they are represented 
+has only two dimensions, (length and breadth). 
+1.4.1 Methods of Showing Relief on a Map 
+How can we represent relief on maps? 
+In order to read relief features from maps, you should first know how map -makers 
+represent the uneven surface of the earth on a plane sheet of paper, i.e., on a map. 
+There are different ways of showing relief on maps. These include: 
+F Physiographic diagrams 
+F Hachures 
+F Layer coloring 
+F Hill shading 
+F Form lines 
+F Contour 
+Unit 1: Map Reading 25
+1.4 Relief On Maps 1.4 Relief On Maps
+Traditional Methods
+A Physiographic Diagrams 
+What is a physiographic diagram? 
+Early map makers used to represent relief features by diagrammatic pictures 
+known as physiographic diagrams. They show three-dimensional pictures of 
+landscapes as viewed from the side or oblique direction (see Figure 1.15). 
+This method of showing relief is simple and easy to understand. However, it has the 
+following disadvantages: 
+F It shows the side and oblique view of the landscape, unlike the modern 
+relief map that gives you an overhead view of an area. 
+F Some geographic details of an area would be hidden from view behind 
+the “backs” of the pictures of hills or mountains. 
+F Exact heights and slopes of the land forms are not indicated. 
+F It lacks accuracy because it is drawn without scale. 
+Figure 1.15: Physiographic diagram
+Grade 10 Geography 26
+1.4 Relief On Maps
+Activity 1.8
+1 Carefully look at the physiographic drawings on Figure 1.15. 
+a In which direction are the shadows of hills cast? 
+b What is the direction of illumination (sunshine)? 
+2 With the help of a physiographic diagram, draw a sketch map representing 
+the major landforms of your locality and evaluate its shortcomings with your 
+friends in the class. 
+B Hachures 
+What are hachures? 
+Hachures are short disconnected lines that represent slopes. For example,
+Figure 1.16. They are drawn in the direction in which water flows. Originally 
+they were used to represent mountains and valleys on simple sketch maps. 
+Basically, hachures show the steepness of slopes. When slopes are steep, hachures 
+are put close together. For gentle slopes, the hachures are spaced wide apart. In 
+addition, hachures representing steep slopes are shorter than those representing 
+gentle slopes. 
+Can you describe the major relief features represented in Figure 1.16?
+Figure 1.16: Hachured map 
+Unit 1: Map Reading 27
+1.4 Relief On Maps 1.4 Relief On Maps
+This approach has significant limitations, such as:
+F Flat areas are unshaded. Therefore, plateaus and plains can be confused. 
+F Hachures do not indicate height and exact gradients. They give only 
+qualitative information. 
+F Hachures are laborious to draw and can be difficult to read and 
+interpret. 
+Nowadays, hachures are not used alone. Instead, they are used in combination 
+with contour lines to show landforms like escarpments, depressions and craters. 
+(contour lines are described in a later section of this unit). 
+Activity 1.9
+Study Figure 1.16 and then briefly describe how hachures differ from and are superior 
+to physiographic diagrams for representing relief.
+C Hill shading
+What is hill shading? What are some of the limitations of hill shading? 
+Hill shading is also known as oblique illumination. It is a method of showing 
+relief on a map, assuming an oblique light that illuminates the landscape from 
+the northwest corner of the map. Hence the northwest-facing slopes are shaded 
+lighter than are the east-facing and south-facing slopes. The steeper the slope is, 
+the darker it is shaded. 
+Hill shading offers a quick general impression of the land configuration that it 
+represents. But still it has some limitations such as: 
+F It does not give absolute altitude. 
+F It fails to indicate clearly whether the ground is sloping upward or 
+downward. 
+F It fails to indicate whether the unshaded areas are low or high-level 
+areas. Hence, plateaus and plains can be confused. 
+F Detailed map information can be obscured by shading. 
+In general, hill shading is now used in combination with spot heights and contours 
+to overcome some of its drawbacks. 
+Grade 10 Geography 28
+1.4 Relief On Maps
+Activity 1.10
+Compare Figure 1.16 and Figure 1.17. What improvements do you see in Figure 1.17? 
+Discuss your observations with your classmates or friends. 
+D Layer Coloring (Layer Tinting)
+What is layer coloring? 
+It is a method of showing relief by using colors. The series of colors for showing 
+different altitudes starts from sea level (see Figure 1.18). 
+Identify the types of colors used to represent the different elevation zones in 
+Figure 1.18. 
+Lake Tana
+Mt. Guna
+Figure 1.17: Hill shading on a map of Northwestern Ethiopia
+Unit 1: Map Reading 29
+1.4 Relief On Maps 1.4 Relief On Maps
+Layer coloring has the following disadvantages:
+F Color shading does not indicate gradual changes in slopes. 
+F The edges of the areas of different colors can suggest nonexistent 
+physical boundaries.
+F Dark colors can obscure details in the areas that they overlie.
+F Some colors can create false impressions in the map reader’s mind. For 
+example, green might suggest vegetation or a fertile area.
+Activity 1.11
+By referring to the Ethiopian Atlas from your library, describe to the class how layer 
+coloring is used to identify different altitudinal zones in Ethiopia. If possible try to cite 
+some of the names of specific areas in each elevation zone. 
+E Formlines
+What are formlines? 
+A formline is imaginary pecked or broken line joining points with the same 
+approximate height on a map. Usually they are drawn on topographic maps to 
+show where survey work is incomplete or poorly accomplished. Also, these lines 
+are useful for showing sea depths. 
+Elevation Zones 
+Above 3000 m
+2501 - 3000 m
+1001 - 2500 m
+501 - 1000 m
+0 - 500 m
+Water body
+Figure 1.18: Map with layer coloring 
+Grade 10 Geography 30
+1.4 Relief On Maps
+What are the limitations of formlines? 
+Formlines have the following limitations:
+F They are not drawn on a map at a fixed interval of altitude.
+F Although they represent the relief of an area, they provide little or no 
+reference to sea level. 
+F In many cases they are unnumbered. 
+F They are usually drawn with broken lines.
+Activity 1.12
+Discuss the following in your group and present the result of your discussion to the 
+class. 
+1 Briefly describe some of the common problems of traditional methods of 
+showing relief on maps. 
+2 Some of the traditional methods are still being used in combination with contour 
+lines in order to show some landforms. Mention some of their current uses. 
+Modern Methods 
+F Contour Lines or Isohypses 
+What are contour lines? How do contour lines differ from traditional methods 
+of showing relief on maps? 
+Contour lines are the most common and accurate way of showing relief on 
+modern maps. A shoreline is a good example of a contour line. 
+Focus 
+Contour lines are lines drawn on a map joining places of the same 
+elevation above mean sea level. They give almost true altitudes. They 
+also indicate different slopes and land forms. 
+How are contour lines drawn? 
+The drawing of contour lines is illustrated in the diagram below. Study it carefully. 
+Unit 1: Map Reading 31
+1.4 Relief On Maps 1.4 Relief On Maps
+ a) Side view of a hill b) Top view of the same hill
+ 
+As indicated in Figure 1.19, a contour line joins all points on the hill that are at the 
+same height. For example, contour line 150 m passes through points A and B, while 
+contour line 250 m runs through points C and D. All of the points on contour line 
+150 m are 150 m high and those on the 250 m line are all 250 m high. 
+To give clearer impressions of the relief on contour maps, contour lines are 
+sometimes used in combination with hachures, hill-shading, layer-coloring and 
+spot heights. 
+Properties of Contour Lines
+What are the main properties of contour lines? Why are contour lines more 
+accurate than the traditional methods of showing relief on maps? 
+General properties of contour lines. 
+Here are some important points about contour lines: 
+i Contour lines are imaginary lines used on a map to represent relief. Unlike 
+the lines that represent rivers, boundaries or coast lines, contours do not 
+really exist on the earth’s surface. The only contour line that exists both on 
+the map and in the field is the sea level.
+Focus
+Mean sea level (m.s.l.) is the average level of the sea, as calculated from a 
+large number of observations taken at equal intervals of time. It is the most 
+common standard level from which all heights are measured. 
+100
+50
+0
+150
+200
+250
+300
+350
+400
+A B
+C D
+300
+250
+200
+150
+100
+50
+0
+. 350 .
+. . . A
+B
+C
+D
+Figure 1.19: Sketches of a hill with contour lines
+Grade 10 Geography 32
+1.4 Relief On Maps
+ii A set of contour lines is drawn at a fixed height interval. For example in the 
+Figure 1.19, contour lines are drawn at 50-meter intervals. The difference in 
+altitude between two successive contour lines is known as vertical interval
+(V. I.) or contour interval (C. I.). The V. I. helps us to find out the heights of 
+unnumbered contour lines. 
+iii Contour lines cannot merge or cross one another on maps except at vertical 
+cliffs, waterfalls or over hanging cliffs.
+For example, two or more contour lines run together and then separate to 
+represent the cliff shown in the figure below.
+ 
+The cliff in the preceding diagram is a vertical mountain wall. It rises from 
+100 meters to 150 meters. 
+The crossing of contours occurs only in the case of an overhanging cliff. 
+Usually contours representing a cave under an overhanging cliff are shown 
+with pecked lines.
+ a) On map b) In section 
+iv Contour lines never branch. If you see branching lines on a map, they 
+represent features such as rivers, roads, boundaries, etc. 
+v A contour line joins all points of the same altitude. For example, an altitude of 
+250 m will be on the 250 m contour line. The altitude of any point outside this 
+line will be either greater or less than 250 meters (see Figure 1.22).
+Cli
+100
+150
+100
+150
+Figure 1.20: Contour lines showing a cliff
+0
+5
+10
+15
+20
+25
+A B
+Over hanging Cli
+A
+B
+0
+5
+10
+15
+20
+25
+Figure 1.21: An overhanging cliff
+Unit 1: Map Reading 33
+1.4 Relief On Maps 1.4 Relief On Maps
+What are the heights of points P, Q and M on the above figure? 
+vi Contour lines are always numbered in the direction towards which altitude 
+increases. These numbers can be shown with or without breaking contour 
+lines (see Figure 1.23). 
+a) With breaking b) Without breaking
+vii Contour lines indicate the nature of slopes. When contour lines are far 
+apart, they show gentle slopes. But when contour lines are close together, 
+they show steep slopes (See Figure 1.24). 
+viii Contour lines can be printed with different thicknesses on a map. This 
+is especially helpful in mountainous areas where altitudes may vary 
+considerably from summits to valley floors. In order to make the reading 
+of contour maps easier, every fifth or tenth contour line is printed thicker 
+than the rest. Such contour lines are called index contour lines, while the 
+rest are called regular contour lines. 
+P
+Q M
+450
+400
+350
+250
+300
+Figure 1.22: Heights shown by contour lines
+150
+200
+250
+150
+200
+250
+Figure 1.23: Numbering of contours
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+}
+}
+Steep slope
+Gentle slope
+Figure 1.24: Contour-line spacing indicating slope steepness
+Grade 10 Geography 34
+1.4 Relief On Maps
+ix Contour lines can show different types of landforms, such as mountains, 
+hills, plateaus, depressions, valleys, spurs, ridges, gorges, passes, plains, 
+etc. Many of these relief features are readily recognized from the shapes of 
+their contour lines.
+Figure 1.26 gives pairs of representations of various land forms. Each pair 
+has a diagrammatic view and a contour view. Study it carefully.
+ a) Diagrammatic views b) Contour views 
+2000
+1800
+1700
+1600
+1500
+1900
+Figure 1.25: Contour lines with a difference in thickness
+Summit
+Col
+Meander
+Spur
+Plain
+Ridge
+Concave slope Convex slope
+Valley
+Bay
+Heights in meters
+Summit
+200
+200
+Col
+200
+250
+150
+100
+50
+200150
+100
+50
+Plain
+Meander Gap
+Plateau
+100
+100
+200150
+250
+50
+Valley
+200
+250
+150
+100
+300
+350
+400
+150
+200
+250
+Convex slope
+Concave Slop
+250
+200
+150
+100
+50
+200
+150
+100
+50
+Bay
+Cli
+Plateau
+Gap
+Figure 1.26: Landforms represented both diagrammaticaly and by contour lines
+Unit 1: Map Reading 35
+1.4 Relief On Maps 1.4 Relief On Maps
+Activity 1.13
+1 By referring to relevant source materials, attempt to define or explain the relief 
+features shown in Figure 1.26.
+2 Trace Figure 1.27 on a separate sheet of paper and then follow these instructions:
+a Mark all roads using a red color.
+b Color all rivers and the lake blue.
+c Color areas below 1500 m green.
+d Color all areas between 1500 m and 2100 m yellow.
+e Color all areas between 2100 m and 2700 m light brown.
+f Color areas above 2700 m dark brown.
+g Find the V.I. of the map.
+h Where is the lowest and highest point of the area shown on the map?
+i How high is Debre Tabor? 
+ii What about altitude of Bahir Dar? 
+123
+4
+5
+6
+7
+8
+9
+130
+1
+2
+3
+9 20 1 2 3 4 5 6 7 8 9 30 1 2 3
+L.TANA
+ 1831
+Dek Doga
+ 1940
+BD CD
+BC CC
+Gi gl e l Ab ay
+2100
+Bahr Dar
+ 1834
+2700 360 0
+2700
+3240
+CD
+Debre Tabor
+ 2900
+Ghenna
+2836
+2 1 00
+4165
+3600
+10 0 10 20 30 40 50 60 70 km
+2100
+2100
+Blue Nile
+2700
+R.Abay
+Figure 1.27: Sample contour map
+Grade 10 Geography 36
+1.4 Relief On Maps
+G Different Methods of Showing Altitudes on Contour Maps
+What are the shortcomings of contour lines? 
+How do you indicate the specific heights of hilltops, roads, railways, and towns? 
+Contour lines show altitude and relief on modern maps. However, they do not 
+show the specific heights of individual features such as mountain peaks, hilltops, 
+valley floors, towers, towns, roads or railways. Such heights are indicated on 
+maps, using the following methods: 
+a Spot heights
+F They are marked on the map with a dot followed by an altitude number:
+Example:
+K • 1940 meter (see Figure 1.27). 
+F They provide accurate altitudes for individual points, such as those 
+along a road, on a mountain top, or between contour lines. 
+F Unlike contour lines, spot heights do not give a good visual impression 
+of the general relief.
+F They exist only on maps. 
+b Trigonometrical points
+F They exist both on maps and in the field. 
+F They mostly mark features such as hilltops and mountain peaks.
+K On the ground, the relevant feature is permanently marked with a 
+pillar (concrete). 
+K On maps, they are shown with a small triangle enclosing a dot, 
+followed by the exact altitude in meters (see Figure 1.27). 
+Example: 
+The top of Mt. Ras Dashen can be shown as • 4620 meters on a 
+topographic map. Mt. Gunna is • 4165 meters (see Figure 1.27) 
+c Benchmarks
+F They indicate precise heights along highways or railways. 
+F They are shown on stones, bricks or bronze plates on walls of buildings 
+and other convenient places. 
+Unit 1: Map Reading 37
+1.4 Relief On Maps 1.4 Relief On Maps
+F They are useful for road construction engineers and others who wish to 
+know the precise altitude of a main transport network.
+Example:
+• BM 1850 (where the point is marked on the ground, the height 
+above mean sea level is 1850 meters).
+d Calculating Altitude:
+When the altitude of a point on a contour map is not shown by any of 
+the above methods, it can be obtained by measurement and calculation, 
+using the interpolation method. This can be done only if the given point is 
+located between two contour lines. In order to find the altitude of point A in 
+Figure 1.28, follow the procedures given below.
+i Draw the shortest possible straight line that passes through point (A) 
+and join the two contour lines adjacent to it. 
+ii Measure the length of this line: = 11 mm.
+iii Measure the distance on the map between the lower and upper 
+contours up to point (A). They are 6 mm and 5 mm respectively. 
+iv Find the vertical interval between the two contour lines: = 100 m.
+v Then determine the altitude of the point using the following formula:
+1 2 d
+or
+VI d VI
+HC
+D D
+Altitude (A) LC  × ×    = +   −       
+Where: d1
+ is distance of point A from the lower contour,
+d2
+ is distance of point A from the upper contour,
+D is distance between the upper and lower contours,
+VI is vertical interval,
+LC is the lower contour and,
+HC is the higher contour.
+ Altitude of point 
+6 100 A 700 754.55 meters, 11
+  ×
+= +   =  
+ or,
+ Altitude of point 5 100 A 800 754.55 meters
+11
+  × = −   =  
+Therefore, the altitude of point A is 754.55 meters.
+Grade 10 Geography 38
+1.4 Relief On Maps
+Activity 1.14
+Answer the following questions by referring Figure 1.28. 
+1 What are used to show altitudes on the map?
+2 Calculate, using the interpolation method, the altitude of points F, B and C.
+3 Where are the highest and lowest altitudes?
+4 Measure the road distance between villages F and B.
+5 Calculate the ground area of the map.
+6 Draw a graphic scale for the map.
+1.4.2 Slopes and Gradients
+A Slopes on Contour Maps
+What is slope? How can we determine the steepness of slopes on contour maps?
+What kind of relations exist between V.I. and slope? 
+Slope is the upward or downward inclination of a natural or artificial surface. It is a 
+deviation of the surface from the horizontal. 
+On a map, steepness of a slope depends on:
+F The distance between the contours drawn on the map. The closer the 
+contours are, the steeper is the slope representation and vice versa (see 
+Figure 1.24).
+E
+A
+C
+B
+840
+700
+5 mm
+6 mm
+BM 652
+1125
+F
+500
+D
+Figure 1.28: Altitudes shown on a contour map in different ways Scale 1:50, 000
+Unit 1: Map Reading 39
+1.4 Relief On Maps 1.4 Relief On Maps
+F The vertical interval (V.I.) between two successive contours. The bigger 
+the V.I, the steeper is the slope representation and vice versa.
+Types of Slopes 
+How many types of slope do you know? Mention some of them and describe 
+how you can identify them from contour maps. 
+There are different types of slopes, which include:
+i Even slope
+An even slope has a constant gradient from the bottom to the top. Gradient is the 
+degree or rate of a slope. You will learn more about gradient later in this unit. 
+On a map of an even slope, the contour lines are evenly spaced throughout. For 
+example, study the slope represented in Figure 1.29.
+ a) in contour map b) in section 
+ii Concave Slope
+In a concave slope; the contour lines are widely spaced at the base and are close 
+together at the top. In other words, a concave slope has a steep gradient at the top. 
+The gradient becomes gentler towards the bottom (see Figure 1.30).
+ 
+ a) in contour map b) in section
+1600
+1640
+1680
+1720
+1760
+1800
+1800
+1760
+1720
+1680
+1640
+1600
+A
+B
+Altitude in Meters
+1600
+1640
+1680
+1720 1760
+A B 1800
+Figure 1.29: Even slope
+A
+B 180 0
+1760
+1720
+1680
+1640
+1800
+1760
+1720
+1680
+1640
+1800
+1760
+1720
+1680
+1640
+A
+B
+Figure 1.30: Concave slope
+Grade 10 Geography 40
+1.4 Relief On Maps
+iii Convex Slope
+In a convex slope, the contour lines are close together at the base and widely 
+spaced at the top. The slope has a steep gradient at the bottom that becomes 
+gentler towards the top. (See Figure 1.31).
+ a) in contour map b) in section 
+iv Terraced or Stepped Slope
+In a terraced or stepped slope, the contour lines are alternatively close together 
+and far apart in a regular pattern. This means the gradient changes several times 
+between the bottom and the top of the slope (see Figure 1.32).
+ 
+ a) in contour map b) in section
+v Escarpment
+An escarpment is the steep slope of a plateau, especially one where the plateau ends 
+and the lowland starts. You can also identify other two more slopes on either side 
+of a mountain ridge. One slope is steep and the other is gentle. The steep slope is 
+called the scarp slope. The gentler slope is called the dip slope (see Figure 1.33). 
+A B
+1 8 00
+1760
+1720
+1680
+1640
+1800
+1760
+1720
+1680
+1640
+1800
+1760
+1720
+1680
+1640
+A
+B
+Figure 1.31: Convex slope
+A
+B 1 760
+1 800
+1720
+1640
+1800
+1760
+1720
+1680
+1640
+1800
+1760
+1720
+1680
+1640
+1680
+1600
+1600
+1600
+A
+B
+Figure 1.32: Terraced slope
+Unit 1: Map Reading 41
+1.4 Relief On Maps 1.4 Relief On Maps
+ a) in contour map b) in section
+Activity 1.15
+Perform the following activity.
+1 Draw the following relief features, representing them with contour lines only:
+a Cliff
+b Convex slope
+c Concave slope
+d Even slope 
+e Stepped slope
+2 Refer to Figure 1.34, and describe the types of slope between:
+a D and E
+b A and G
+c D and F
+B Gradient on Contour Maps 
+What is gradient? What are the three common ways of expressing gradient? 
+How do you determine the rate of change of slope between two points? 
+Gradient (GR) is the degree or rate of change of slope or elevation between two 
+points. 
+It is calculated using altitude difference (vertical distance) and map distance 
+(horizontal distance) between two points. Both AD and MD must be in the same 
+unit of measurement. 
+It can be expressed in any of these three different ways:
+1 As a simple ratio: 
+AD GR = MD
+A
+B
+1800
+1760
+1720
+1680
+1640
+1800
+1760
+1720
+1680
+1640
+1760
+1720
+16
+1680
+40
+1760
+1800
+1720
+1680
+1640
+1840
+A1640
+1680
+1720
+1760
+1800
+B
+Dip slope
+Scarp slope
+Scarp slope Dip slope
+Figure 1.33: Dip and scarp slopes 
+Grade 10 Geography 42
+1.4 Relief On Maps
+2 As a percent: 
+AD GR = 100
+MD
+×
+3 In degrees: AD o GR = 60
+MD
+×
+Where: GR = gradient, AD = altitude difference,
+ MD = map distance.
+Usually we express gradient as a percentage. This expression is the simplest to 
+use, and it is relatively easy to calculate. 
+Activity 1.16
+Calculate the following: 
+The distance on the map between Addis Ababa and Adama is about 10 cm with the 
+scale of 1: 1,000,000 on a certain map of Ethiopia . The average elevations of the two 
+are about 2400 and 1700 meters, respectively. Determine the gradient in ratio, in 
+percent and in degree. 
+Here are some examples of the three methods:
+a Ratio: This expression of gradient gives a relationship between the vertical 
+and horizontal dimensions of the slope.
+Example:
+The gradient ratio 1:20 means there is 1 unit of rise of altitude for 
+every 20 units of horizontal distance.
+b Percent: We use the ratio expression of gradient to obtain the expression as 
+a percent. Multiply the ratio by 100.
+Example:
+1
+20 × 100 = 5%. In other words, on average, there is a vertical rise 
+of 5 units for every 100 units of horizontal distance.
+c Degree: We also use the ratio expression to obtain the expression as a 
+degree. Multiply the ratio by 60o
+.
+Unit 1: Map Reading 43
+1.4 Relief On Maps 1.4 Relief On Maps
+Example:
+1
+20 × 60o
+ = 3o
+. In other words, on average, the slope between the two 
+points is roughly 3o
+.
+Use the following Table 1.1 to see how individual gradients are given by the three 
+different expressions:
+Table 1.1: Expressing gradients in three ways 
+Type of expression
+Ratio Percent Type of gradient Degree 
+(Approximate)
+1: 100 1% 0.6o Gentle
+1:60 1.7% 1o Gentle
+1:20 5% 3o Moderately steep
+1:10 10% 6o Moderately steep
+1:5 20% 12o steep
+1:2 50% 30o Very steep
+Example:
+Find the gradient between A and F on the Figure 1.34. 
+A
+B
+C
+D
+E
+F
+G
+800
+500
+400
+300
+700
+1200
+1100
+1000
+900
+200
+200
+300
+100
+1050
+300
+Figure 1.34: A contour map for gradient calculation Scale 1:50,000
+Grade 10 Geography 44
+1.4 Relief On Maps
+Solution 
+Procedure:
+i Find the difference in altitude between A and F. 
+That is, 1050 m – 100 m = 950 m = 0.95 km.
+ii Measure the distance (on the map) between A and F with reference to 
+the map scale.
+ Map scale = 1:50,000
+The distance on the map from A to F = 5.5 cm which equal to 
+ 2.75 km = 5.5 cm × 50,000
+100,000
+iii Calculate the gradient between A and F.
+GR in ratio =
+AD
+MD
+ = 
+0.95 km
+2.75 km = 1 : 2.9 ≈ 1:3 approximately
+GR in percent = 1
+3
+× 100 = 33.3%
+GR in degree = 1
+3
+× 60o
+ = 20o
+Activity 1.17
+1 Using the above map (Figure 1.34), calculate the gradient between A and D in 
+ratio, in percent and in degree.
+2 Change the following gradients given in ratios into percentages and degrees.
+i 1:100 ii 1:25 iii 1:50
+3 Change the following gradients given in percentages into ratios and degrees. 
+i 35% ii 75% iii 12%
+1.4.3 Field Distances (FD)
+Do you remember how to find or calculate the different types of distances on a 
+map? 
+In any map exercise, you may need to find three different types of distances. 
+Straight line distance, bending distance and field distance. Here we consider field 
+distance.
+Unit 1: Map Reading 45
+1.4 Relief On Maps 1.4 Relief On Maps
+What is field distance?
+Field distance is the actual distance, which 
+takes into account the effect of relief. It 
+is the actual distance measured on the 
+ground.
+To obtain field distance, a map user needs to know:
+F the map distance between the two points given 
+F the difference in altitude between the two points 
+F mathematically it can be expressed as: 
+ FD2
+ = MD2
+ + AD2
+The map distance between two points can be obtained from the map. However, 
+the difference in altitudes between the same two points can be obtained from the 
+contours on the map. The following example will illustrate this briefly.
+Example:
+a What is the actual distance in the field between point A and point B in 
+the map shown below?
+Solution
+Procedure:
+F Measure the distance on the map between the two points using a ruler. 
+It is equal to 4 cm.
+Field distance
+Map distance
+A
+B
+Figure 1.35: Field distance 
+and map distance
+50
+150
+350
+250
+50
+150
+50
+150
+50
+A
+B
+C
+D
+Figure 1.36: Field distance between 
+A and B on map
+Scale 1:25,000
+Grade 10 Geography 46
+1.4 Relief On Maps
+F The scale of the map = 1:25,000.
+b If 1 cm on the map represents 25,000 cm on the ground, how much is 
+4 cm on the ground?
+Solution:
+Scale = Distance on the Map 
+Ground distance GD
+1
+25,000 = 4 cm
+( ) ⇒
+GD
+GD = 25,000 × 4 cm = 100,000 cm
+To convert the distance into kilometers 
+ 
+The difference in altitude between point A and point B can be obtained from 
+the contour map. 
+The difference in altitude (AD) = (350 – 50) meters
+ = 300 meters = 0.3 kilometers
+Then, FD can be calculated with the help of the Pythagorean theorem. 
+ 2 2 2
+2 2 2 2 2 ( ) ( ) (1 ) (0.3 ) 1.09 1.04
+FD MD AD
+FD MD AD km km km km
+= +
+⇒ = + = + = =
+∴
+Thus, the field distance = 1.04 km.
+Activity 1.18
+1 Find the field distance between C and D from the above map (Figure 1.36).
+2 Compute the field distance for the pairs of places, based on the information 
+given in the following table. Copy and complete the table. 
+Table 1.2: 
+Number AD Measured distance on the Map Map scale FD
+1 6000 m 20 cm 1 cm to 1.5 km ?
+2 1500 m 5 cm 1: 50,000 ?
+⇒ 100,000 cm
+100,000 cm
+ = 1 km
+Unit 1: Map Reading 47
+1.4 Relief On Maps Unit Review
+Unit Review
+ UNIT SUMMARY
+Þ Direction is always measured clock wise starting from north. Direction can 
+be expressed in compass points (N, E, S, W) or in degree (bearings) 
+Þ Position of a place can be described from maps by using latitude and 
+longitude and national grid reference. The most accurate and international 
+method used for locating places on maps is the geographic grid reference 
+(latitude and longitude). 
+Þ Map enlargement and reduction can be done using a pantograph and 
+graphic method. Patograph is an instrument which can be set-up for 
+enlarging or reducing maps. Besides maps can be enlarged or reduced by 
+using proportional grid squares. Note that whenever any map is enlarged 
+or reduced, the scale of that map is also changed proportinally. 
+Þ Scale plays a significant role when we enlarge or reduce a map. We can 
+perform these procedures accurately by using the grid-square method or 
+the instrumental method.
+Þ Relief refers to the ups and downs of the earth’s surface. Since ancient 
+times, map makers have used different methods to represent relief on 
+maps. These days, the most common and accurate way of showing relief 
+on modern maps is by contour lines. 
+Þ Contourlines are lines drawn on a map joining places of the same elevation 
+above sea level. They give almost true altitude. 
+Þ Some of the properties of contour lines may include; they are imaginary 
+lines and joining points of the same altitude on a map, they are drawn 
+at a fixed V.I, they are never cross one another (except in the case of 
+overhanging cliff), they are not branch, etc. 
+Þ Spot heights, trigonometrical points and benchmarks, are additinal 
+methods, which are used to indicate specific heights that are found 
+between consecutive contourlines, etc. 
+Þ Slope is a deviation of the land surface from the horizontal. The spacing 
+between contour lines indicate the types of slopes (like even, concave, 
+convex, terraced, etc) on contour maps. 
+Grade 10 Geography 48
+Unit Review
+Þ Gradient is the degree or rate of change of slope between two points. It 
+can be expressed in the form of ratio, percent and degree. 
+Þ Field distance takes into account the ups and downs of the earth’s surface. 
+It can be obtained by combining the map distance (horizontal or straight 
+line distance) between two points and the altitude difference between 
+the same points. 
+ REVIEW EXERCISE FOR UNIT 1
+I True or False: Write True if the statement is correct and write False if it 
+is incorrect. 
+1 Grid North is the direction in which grid lines point towards the top of the 
+map.
+2 Usually direction is measured clockwise, starting from Magnetic North.
+3 The grid-square method is the best method for enlarging or reducing a map 
+without any errors.
+4 The contour method uses pecked or broken lines to represent different 
+types of landforms.
+5 Field distance is usually calculated in reference to the formula for rightangle triangles.
+II Matching: Match the items in column “A” with items in “B”. 
+A B
+A Position by geographic grid
+B Side and oblique view of the 
+landscape
+C Magnetic declination
+D Refers to the location of a point
+E Form line
+F Oblique illumination
+6 Magnetic variation
+7 Absolute location
+8 Four-digit grid reference
+9 Physiographic diagram
+10 Hill shading
+Unit 1: Map Reading 49
+Unit Review
+III Multiple Choices: Choose the correct answer from the given options. 
+11 A method of finding the position of a place in relation to directions and 
+distances from well-known places is:
+A Position by the use of bearing and distance.
+B Position by the use of geographical grid.
+C Position by the use of place names.
+D Position by national grid reference.
+12 If the angular bearing of point A to point B is 135o
+, then the cardinal 
+direction will be:
+A Northwest 
+B Southwest
+C Northeast
+D Southeast
+13 Which of the following is not true about contour lines?
+A They are drawn at a fixed-height interval
+B They can merge or cross one another in the case of overhanging cliffs 
+or waterfalls.
+C They are continuous lines
+D They are always numbered in the direction towards which altitude 
+decreases.
+14 The one that exist both on maps and in the field is _______.
+A Spot heights
+B Trigonometrical points
+C Benchmarks
+D B and C
+15 In _______ slopes, the contour lines are widely spaced at the base and are 
+close together at the top.
+A Even
+B Concave 
+C Convex
+D Terraced
+IV Fill in the blank: Fill the following blanks with appropriate word(s). 
+16 Direction can be expressed in either _______ or _______.
+17 The steeper slope of an escarpment is known as _______. 
+18 An instrument used to enlarge or reduce a map is known as _______, _______.
+19 A steep slope of a plateau which begins to descend gradually on the other 
+side is _______. 
+Grade 10 Geography 50
+Unit Review
+V Short Answers: Give short answers to the following questions. 
+20 What is the basic difference between a contour line and a formline?
+21 Indicate three shortcoming of hachures. 
+22 Define the term “cliff”.
+23 Explain briefly the difference between spot heights and trigonometrical 
+stations or points.
+VI Things to Do: Answer the following questions by referring to Figure 1.37.
+24 Find the approximate R.F. of the map _______.
+25 Measure the direction (bearing) of:
+i A from B ii B from D iii D from A
+26 Between points C and E, calculate
+a The field distance
+b The gradient in;
+i ratio ii percent iii degree
+27 Copy Figure 1.37 and then indicate a cliff, an escarpment, a convex slope, 
+a terraced slope and an even slope.

@@ -1,0 +1,2216 @@
+chemical reactions are the basis of chemistry. Chemical reactions occur around us all
+the time. For example, the burning of fuel, the souring of milk, metabolic processes of
+our body and the decay of plants are some familiar chemical reactions in daily life.
+A chemical reaction is the process in which reacting substances, called reactants, are
+converted to new substances, called products. The characteristics of the products are
+completely different from those of the reactants. The conversion process is a chemical
+change.
+Reactants Æ Products
+For example, if you burn magnesium with oxygen, the magnesium and oxygen are
+completely converted to magnesium oxide. Magnesium oxide is a soft, white,
+crumbling powder. These characteristics of magnesium oxide are completely different
+from the characteristics of the original substances, magnesium and oxygen. Magnesium
+and oxygen are no longer present in the elemental form.
+In summary, a chemical reaction has occurred in which the reactants, magnesium and
+oxygen, underwent a complete chemical change, giving the product magnesium oxide.
+All chemical reactions include three types of changes in the original substances. These
+are changes in composition, properties and energy.
+Form a group and perform the following task.
+List some chemical processes that occur in your daily life. Identify the reactants and
+products in each of these chemical processes.
+Present your findings to the class.
+Note that, in daily life, we use different terms for the same process of chemical
+change. For example “the souring of milk” occurs due to the process of fermentation.
+In scientific discussion we generally have a single term for each process.
+4.2 FUNDAMENTAL LAWS OF CHEMICAL REACTIONS
+Competencies
+By the end of this unit, you will be able to:
+• state the law of conservation of mass and illustrate the law, using examples;
+• demonstrate the law of conservation of mass, using simple experiments;
+• state the law of definite proportion and illustrate it, using examples;
+• demonstrate the law of definite proportion, using a simple experiment; and
+• State the law of multiple proportion and illustrate it, using examples.
+Activity 4.2
+ CHEMISTRY GRADE 9
+98
+The law of conservation of mass states that matter is neither created nor destroyed in a
+chemical reaction. In other words, the mass of the reactants is exactly equal to the
+mass of the products, within the limits of experimental error. This law is also known as
+the law of indestructibility of matter.
+Mass of reactants = Mass of products
+There is no loss or gain of substances during a chemical reaction, and mass is
+conserved.
+For example, consider the decomposition of mercury (II) oxide. When 100 g of
+mercury (II) oxide decomposes by heat, 92.6 g of mercury and 7.4 g of oxygen are
+formed. Note that the total mass of mercury and oxygen after decomposition is 100 g:
+Form a group and discuss the following phenomenon. When wood burns, the ash weighs
+much less than the original wood. Where did the “lost mass” go? How can you estimate
+the mass of the wood that is no longer present?
+Present your conclusion to the class.
+While investigating the quantitative relations between substances in chemical reactions,
+scientists formulated the three basic laws of chemical combination. These are:
+i) The law of conservation of mass
+ii) The law of definite proportions
+iii) The law of multiple proportions
+i) The Law of Conservation of Mass
+In 1774, the French chemist Antoine Lavoisier performed an experiment in which he
+heated a sealed glass container that held a sample of tin in air. He measured the mass of
+the substances before and after heating and found them to be the same. This and other
+similar experimental observations became the basis of the law of conservation of mass.
+French chemist Antoine Lavoisier is considered the founder of
+modern chemistry. He found that the amount of matter before a
+chemical reaction is equal to the amount of matter afterwards, even
+though the matter may change in its form. Lavoisier also
+experimented with the role of oxygen in combustion and
+respiration in both plants and animals.
+Antoine Lavoisier
+Historical Note
+Activity 4.3
+CHEMICAL REACTIONS AND STOICHIOMETRY
+99
+ Experiment 4.1
+2HgO Æ 2Hg + O2
+100g 92.6g 7.4g
+100g 100g
+Reactant Products
+Investigation of the Law of Conservation of Mass
+Objective: To determine the mass of substances before and after a reaction.
+Apparatus: Flask, test tube, thread, rubber stopper, balance.
+Chemicals: Sodium chloride, silver nitrate.
+Procedure:
+1. Take 50 mL of silver nitrate solution in a conical flask.
+2. Tie a thread around the top of a test tube. Fill the test tube with a saturated
+solution of sodium chloride. Suspend the test tube in the flask by means of a
+thread held by a rubber stopper, as shown in Figure 4.1.
+3. Weigh the flask (and its contents). Record the result as m1.
+4. Mix the liquids by tilting the conical flask so that the sodium chloride pours
+into the silver nitrate solution.
+5. Reweigh the conical flask and contents and record as m2. Compare m1 and m2
+.
+Observations and analysis
+1. What was the colour of the solution after the reaction?
+2. Is there any difference in mass between m1
+ and m2?
+3. What is your conclusion from this experiment?
+4. Write the balanced chemical equation for the reaction.
+Figure 4.1 Conservation of mass.
+ CHEMISTRY GRADE 9
+100
+ii) The Law of Definite Proportions
+The law of definite proportions states that a compound always contains the same
+elements in the same proportion by mass. This means that all pure samples of a
+compound have the same composition regardless of the source of sample. This law is
+also known as the law of constant composition. For example, sample of water could
+be obtained from different sources, such as from a river, the ground, or the ocean.
+But whatever the original source, all forms of pure water contains 11.2% hydrogen
+and 88.8% oxygen by mass. These percentages represent a ratio of 1.0 to 8.0 (1:8),
+by mass, of hydrogen to oxygen.
+This ratio is constant (fixed) for water. In other words, a compound with a different
+ratio of hydrogen and oxygen is not water.
+Similarly, in forming the compound ZnO, 65.0 g of zinc combines with 16.0 g of
+oxygen. This is 80.2% zinc and 19.8% oxygen, by mass. As is the case for water,
+the composition of ZnO is constant. In forming ZnO, zinc combines with oxygen in a
+definite proportion.
+ Experiment 4.2
+Investigation of the Law of definite proportions
+Objective: To determine the mass of copper from copper (II) oxide.
+Apparatus: Burner, stand, combustion tube, two glass test tubes, two watch glasses.
+Chemicals: Copper powder, copper (II) carbonate, hydrogen gas
+Procedure:
+1. Prepare samples of copper (II) oxide using the following two methods:
+i) Make copper (II) oxide by heating copper powder in one of the test tubes.
+ii) Make copper (II) oxide by heating copper (II) carbonate in the second
+test tube.
+(In this case, the heating process produces a chemical change through thermal
+decomposition)
+2. Take 1 g from each of the samples of copper (II) oxide (from i and ii). Place
+each of these samples in a watch glass.
+3. Reduce each of these samples: use the combustion tube to heat the samples in
+a stream of hydrogen as shown in Figure 4.2.
+4. Weigh the copper metal that remains in each case. Compare the measurements.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+101
+Observations and analysis
+1. What is the mass of copper produced in each case?
+2. Why is copper metal produced in each case?
+3. What can you conclude from the experiment? Write a short report on your
+observations.
+Burning hydrogen
+Samples of
+copper (II) oxide
+Hydrogen gas
+Heat
+Heat
+Clamp
+Figure 4.2 Reduction of copper (II) oxide by hydrogen.
+iii) The Law of Multiple Proportions
+The law of multiple proportions states that when two elements combine to form more
+than one compound, the masses of one element combined with a fixed mass of the
+second element are in the ratio of small whole numbers. This law can be illustrated by
+the two oxides of carbon. The two oxides of carbon are carbon monoxide (CO) and
+carbon dioxide (CO2). In CO2, 1.0 g of carbon is combined with 2.67 g of oxygen;
+whereas in CO, 1.0 g of carbon is combined with 1.33 g of oxygen. By comparing
+2.67 g of oxygen with 1.33 g of oxygen, it is found that the masses of oxygen in the
+two compounds that combine with the same mass of carbon are in the simple whole
+number ratio, 2:1.
+2 2.67 g of oxygen in CO 2 = = 2 :1
+1.33 g of oxygen in CO 1
+Form a group and perform the following task:
+The following table illustrates the law of multiple proportions using five oxides of nitrogen.
+In the table, fill the mass ratio of nitrogen to oxygen and determine the mass of oxygen
+in each compound that combine with a fixed mass (1g) of nitrogen.
+Present your conclusion to the class.
+Activity 4.4
+ CHEMISTRY GRADE 9
+102
+Compound Molecular Mass ratio of Ratio of Oxygen
+formula N to O (N:O) in the oxides
+Dinitrogen monoxide N2O
+Nitrogen monoxide NO
+Dinitrogen trioxide N2O3
+Nitrogen dioxide NO2
+Dinitrogen pentoxide N2O5
+Exercise 4.1
+Give appropriate answers for the following questions.
+1. Classify the following as chemical or physical changes:
+a the souring of tella b freezing ice cream
+c plant growth d boiling of an egg
+e heating sugar f fermentation
+g the magnetization of iron h the fading of dye in cloth
+2. Iron and chlorine form two compounds, A and B. Compound A contains 1.27
+g of chlorine for each 1 g of iron whereas compound B contains 1.9 g of
+chlorine for each 1 g of iron. Show that the masses of chlorine are in the ratio
+2:3. Do they obey the law of multiple proportions? Explain.
+3. Consider the following two chemical changes:
+i) When a material made of iron rusts, its mass increases.
+ii)When a match stick burns, its mass decreases.
+Do you think that these two observations violate the law of conservation of
+mass? Explain.
+Critical Thinking
+4. Discuss how the law of conservation of matter is explained by Dalton’s atomic
+theory.
+4.3 CHEMICAL EQUATIONS
+Competencies
+By the end of this unit, you will be able to:
+• describe the conventions used to write chemical equations;
+• balance chemical equations, using the inspection method;
+CHEMICAL REACTIONS AND STOICHIOMETRY
+103
+• balance chemical equations, using the Least-Common-Multiple (LCM) method.
+Form a group and discuss each of the following:
+1. What is the difference between a chemical equation and a chemical reaction?
+2. Which law is satisfied when a chemical equation is balanced? Take a simple chemical
+reaction to illustrate this law.
+Present your conclusion to the class.
+A chemical equation is a shorthand representation of a chemical reaction in terms of
+chemical symbols and formulas. In a chemical equation the starting substances are
+called reactants; and the new substances produced are known as products.
+Reactants are written on the left side and products on the right side of the equation.
+An arrow (→) is placed between the two sides to indicate transformation of reactants
+into products.
+Reactants Æ products
+4.3.1 Writing Chemical Equation
+In writing chemical equation, instead of using words, chemical symbols and formulas
+are used to represent the reaction.
+Steps to Write a Chemical Equation
+1. Write a word equation: A word equation is stated in words. For example, the
+word equation for the reaction between sodium and chlorine to produce sodium
+chloride is written as:
+ Sodium + Chlorine Æ Sodium chloride (word equation)
+Note that we read the ' + ' sign as 'reacts with' and the arrow can be read as
+'to produce', 'to form', 'to give' or 'to yield'.
+2. Write the symbols and formulas for the reactants and products in the word
+equation.
+Na + Cl2 Æ NaCl (Chemical equation)
+3. Balance the equation.
+2Na + Cl2 Æ 2NaCl
+Activity 4.5
+ CHEMISTRY GRADE 9
+104
+Generally, any chemical equation must fulfil the following conditions:
+i) The equation must represent a true and possible chemical reaction.
+ii) The symbols and formulas must be written correctly. The elements– hydrogen,
+nitrogen, oxygen, fluorine, chlorine, bromine and iodine exist as diatomic
+molecules. These elements should be written as molecules in the equation.
+iii) The equation must be balanced.
+A chemical equation has both qualitative and quantitative meanings.
+Qualitatively, a chemical equation indicates the types of the reactants and products
+in the reaction.
+Quantitatively, a chemical equation expresses the relative number (amount)
+of moles, molecules or masses of the reactants and products.
+4.3.2 Balancing Chemical Equation
+Which should be adjusted in balancing a chemical equation, the subscripts or
+the coefficients?
+According to the law of conservation of mass, atoms are neither created nor
+destroyed during a chemical reaction. As a result, the number of atoms of each
+element should remain the same before and after the reaction. Therefore, the main
+reason why all chemical equations must be balanced is just to obey the law of
+conservation of mass.
+To balance a chemical equation means to equalize the number of atoms on both sides
+of the equation by putting appropriate coefficients in front of the formulas.
+Only two methods of balancing chemical equations will be discussed under this topic.
+These are the inspection and the Least Common Multiple (LCM) method.
+1. The Inspection Method
+Most simple chemical equations can be balanced using this method. Balancing an
+equation by inspection means to adjust coefficients by trial and error until the equation
+is balanced. Follow the following four steps to balance the chemical equation.
+Step 1: Write the word equation.
+Step 2: Write the correct symbols or formulas for the reactants and products.
+Step 3: Place the smallest whole number coefficients in front of the symbols or
+formulas until the number of atoms of each element is the same on both sides
+of the equation.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+105
+Step 4: Checking: By counting the number of atoms on both sides of the equation,
+make sure that the atoms of all elements are balanced and also the
+coefficients are expressed as the smallest whole number ratio.
+Note:
+When you balance an equation, do not change any symbol or formula of any compound.
+If you change a symbol or formula, it no longer represents the element or compound
+required by the equation.
+Example 1
+Balance the equation for the reaction between magnesium and oxygen to
+produces magnesium oxide.
+Solution:
+Step 1: Magnesium + Oxygen Æ Magnesium oxide
+Step 2: Mg + O2 Æ MgO (unbalanced)
+Step 3: Put coefficients to balance the equation
+• Oxygen is not balanced. There are two oxygen atoms on the left side and
+one on the right side. Hence, place the coefficient 2 in front of MgO.
+Mg + O2 Æ 2MgO (unbalanced)
+• Now Mg is not balanced. There is one Mg on the left side and two on the
+right side. Thus, place the coefficient 2 in front of Mg.
+2Mg + O2 Æ 2MgO (balanced)
+Step 4: Checking: There are two Mg and two O atoms on each side of the
+equation. Therefore, the equation is correctly balanced.
+2Mg + O2 Æ 2MgO
+Exercise 4.2
+Balance the following chemical equation, using the inspection method:
+1. Na + H2O Æ NaOH + H2
+2. CaCO3 Æ CaO + CO2
+3. H2O2 Æ H2O + O2
+4. Al + H3PO4 Æ AlPO4 + H2
+5. HNO3 + H2S Æ NO + S + H2O
+ CHEMISTRY GRADE 9
+106
+2. The LCM Method
+In the LCM method, the coefficients for the balanced chemical equation are obtained
+by taking the LCM of the total valency of reactants and products and then dividing it
+by total valency of reactants and products. All the necessary steps to balance a
+chemical equation by the LCM method, are shown by the following examples.
+Example 2
+When aluminium reacts with oxygen, aluminium oxide is formed. Write
+the balanced chemical equation for the reaction.
+Solution:
+Step 1: Represent the reaction by a word equation.
+Aluminium + Oxygen Æ Aluminium oxide
+Step 2: Change the words to symbols and formulas for the reactants and
+products.
+Al + O2 Æ Al2O3
+Step 3: Place the total valency of each atom above it.
+3 4 66
+Al O Al O 2 23 + Æ
+Now the equation shows
+• The valency of aluminium as 3.
+• The total valency of oxygen is 2 × 2 = 4.
+• The total valency of aluminium in Al2
+O3
+ is 3 × 2 = 6.
+• The total valency of oxygen in Al2O3 is 2 × 3 = 6.
+Step 4: Find the LCM of each total valency and place it above the arrow.
+3 4 6 6
+2 2 3
+12 Al + O → L.C.M Al O
+Step 5: Divide the LCM by each total valency number to obtain the coefficients
+for each of the reactants and products. Place the obtained coefficients
+in front of the respective formulas.
+4Al + 3O2 Æ 2Al2O3 (balanced)
+Checking: There are 4 aluminium and 6 oxygen atoms on both sides of the
+ equation. Hence, the chemical equation is correctly balanced.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+107
+Example 3
+When iron reacts with water, iron (III) oxide and hydrogen are produced.
+Write the balanced equation.
+Solution:
+Step 1: Iron + water Æ Iron (III) oxide + hydrogen.
+Step 2: Fe + H2O Æ Fe2O3 + H2
+Step 3: 3 22 6 6 2
+2 23 2 Fe + H O Fe O + H Æ
+Step 4: 3 22 66 2
+Fe + H O Fe O + H 2 2 → 3 2
+6
+L.C.M 
+Step 5: 2Fe + 3H2O Æ Fe2O3 + 3H2 (balanced)
+Checking: There are 2 iron, 6 hydrogen, and 3 oxygen atoms on each side
+of the equation. Thus, the equation is balanced.
+Example 4
+The reaction of ammonium sulphate with aluminium nitrate would form aluminium
+sulphate and ammonium nitrate.
+Solution:
+Step 1: Ammonium sulphate + Aluminium nitrate → Aluminium sulphate +
+Ammonium nitrate
+Step 2: (NH4)
+2SO4 + Al(NO3)
+3 —→ Al2(SO4)
+3 + NH4NO3
+Step 3: (N
+2
+H4)
+2S
+2
+O4 + A
+3
+l(NO
+3
+3)
+3 —→ A
+6
+l
+2(S
+6
+O4)3 + N
+1
+H4N
+1
+O3
+Step 4: (N
+2
+H4)2S
+2
+O4 + A
+3
+l(NO
+3
+3)
+3
+6 L.C.M → A
+6
+l
+2(S
+6
+O4)3 + N
+1
+H4N
+1
+O3
+Step 5: 3(NH4
+)
+2SO4
+ + 2Al(NO3)
+3 —→ Al2(SO4
+)
+3 + 6NH4
+NO3
+ (balanced)
+Checking: There are 12 nitrogen, 24 hydrogen, 3 sulphur, 30 oxygen and 2 aluminium
+atoms on both sides of the equation. Thus, the equation is correctly balanced.
+Exercise 4.3
+1. Write the balanced chemical equation to represent the following reactions.
+a Sulphur dioxide reacts with oxygen to produce sulphur trioxide.
+b Potassium chlorate when heated produces potassium chloride and oxygen.
+ CHEMISTRY GRADE 9
+108
+c Sodium carbonate reacts with hydrochloric acid to form water, carbon
+dioxide and sodium chloride.
+d Silver oxide decomposes to silver and oxygen gas.
+2. Balance the following equations by the LCM method.
+a PCl5 + H2O —→ H3PO4 + HCl
+b Mg + H2O —→ Mg(OH)2 + H2
+c Zn(NO3)
+2 —→ ZnO + NO2 + O2
+d H2SO4 + NaOH —→ Na2SO4 + H2O
+e NH3 + O2 —→ NO + H2O
+4.4 ENERGY CHANGES IN CHEMICAL REACTIONS
+Competencies
+By the end of this section, you will be able to:
+• explain energy changes in chemical reactions;
+• define endothermic and exothermic reactions;
+• describe endothermic and exothermic reactions;
+• illustrate endothermic and exothermic reactions using diagrams;
+• conduct simple experiment to demonstrate exothermic and endothermic reactions;
+• describe the importance of chemical changes in production of new substances
+and energy.
+Form a group and discuss each of the following phenomena:
+When the bread baked, does the bread absorb or release heat energy? Justify your answer.
+Present your conclusion to the class.
+Almost all chemical reactions are accompanied by energy changes. These energy
+changes could be in the form of heat energy, light energy, electrical energy, and so on.
+Activity 4.6
+CHEMICAL REACTIONS AND STOICHIOMETRY
+109
+On the basis of energy changes, chemical reactions can be divided into exothermic
+and endothermic reactions.
+4.4.1 Exothermic and Endothermic Reactions
+Can heat energy be considered as a reactant or product?
+Exothermic Reaction
+A chemical reaction that releases heat energy to the surroundings is known as an
+exothermic reaction. During an exothermic process, heat is given out from the system
+to its surroundings and this heat energy is written on the right side of the equation as
+shown below.
+Reactants Æ Products + Heat
+For example, the burning of carbon with oxygen produces carbon dioxide and heat is
+released during the reaction. Thus, the reaction is exothermic and written as:
+C + O2 Æ CO2 + Heat
+Endothermic Reaction
+A chemical reaction which absorbs heat energy from the surroundings is known as an
+endothermic reaction. During an endothermic process, heat flows into the system from
+its surroundings and the heat is written on the left side of the equation.
+Reactants + Heat → products
+For example, the reaction between carbon and sulphur to form carbon disulphide is
+an endothermic reaction because heat is absorbed in the reaction.
+C + 2S + Heat Æ CS2
+The amount of heat energy liberated or absorbed by a chemical reaction is called heat
+of reaction or change in enthalpy for the reaction. It is symbolized as ∆H. Its unit is
+expressed in kilojoules per mol( ) kJ
+mol . The change in enthalpy (∆H) is the difference
+between the energy of the products and the energy of the reactants.
+∆H = H
+p – Hr
+; where H
+p is the heat content (energy) of the product, Hr
+ is the
+heat content (energy) of the reactant.
+4.4.2 Energy Diagrams
+For endothermic reactions, DH is positive because the energy of the product is higher
+than the energy of the reactant. As a result, the enthalpy of the system increases as
+shown in Figure 4.3.
+ CHEMISTRY GRADE 9
+110
+since, H
+p
+> Hr
+, DH = positive (DH > 0)
+For example, when nitrogen reacts with oxygen to form nitrogen dioxide, 66.4 kJ of
+heat energy is absorbed (i.e., DH = + 66.4 kJ/mol) and thus the reaction is
+endothermic.
+N2 (g) + 2O2 (g) Æ 2NO2 (g); DH = + 66.4 kJ/mol
+Figure 4.3 Energy diagram for an endothermic reaction.
+For exothermic reactions, DH is negative because the energy of the reactants is
+greater than the energy of the products. Thus, the enthalpy of the system decreases,
+as shown in Figure 4.4.
+H
+p
+ < Hr
+ fi ∆H = negative (DH < 0)
+For example, when carbon burns in oxygen to produce carbon dioxide, 393.5 kJ of
+heat energy is liberated and hence the reaction is exothermic (∆H = –393.5 kJ/mol).
+C(s) + O2(g) Æ CO2(g): DH = –393.5 kJ/mol
+Figure 4.4 Energy diagram for an exothermic reaction.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+111
+ Experiment 4.3
+Investigating the Heat Involved in a Chemical Reaction
+Objective: To determine the exothermic/endothermic nature of the reaction between
+sulphuric acid and sugar.
+Apparatus: beaker and reagent bottle.
+Chemicals: Concentrated H2SO4 and sugar.
+Procedure:
+1. Take small amount of sugar in a beaker.
+2. Add a little concentrated sulphuric acid to the sugar.
+3. Touch the outer surface of the beaker and record your observation.
+Figure 4.5 Reaction between sulphuric acid and sugar.
+Observations and analysis
+1. Does the beaker feel hot or cold when you touch it?
+2. Did you see any steam in the beaker?
+3. What is the colour of the product formed?
+4. Write a balanced chemical equation.
+5. What can you conclude from the experiment?
+[Caution-When mixing concentrated acid and water, always add the acid to
+the water; never add water to concentrated acid.]
+ CHEMISTRY GRADE 9
+112
+ Experiment 4.4
+Investigating the Heat Involved in a Reaction
+Objective: To investigate the exothermic/endothermic nature of the process when
+ammonium nitrate is dissolved in water.
+Apparatus: Beaker, thermometer, stirrer.
+Chemicals: Ammonium nitrate and water.
+Procedure:
+1. Take 100 mL of water in a beaker and record its temperature.
+2. Dissolve 15 g of solid ammonium nitrate (NH4NO3) in the 100 mL of water.
+3. Touch the outer surface of the beaker and record the temperature of the solution
+with the help of a thermometer.
+Observations and analysis:
+1. Does the beaker feel hot or cold when you touch it?
+2. Is the temperature increased or decreased after the addition of NH4NO3?
+3. What do you conclude from this experiment?
+Figure 4.6 Dissolution of ammonium nitrate in water.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+113
+Form a group and perform the following task. In your daily life you encounter with many
+chemical changes involving energy. List some of such changes and discuss their
+importance.
+Share your findings with the rest of the class.
+Chemical reactions bring about chemical changes. All chemical changes are
+accompanied by energy changes. This energy is usually in the form of heat, light, or
+electricity.
+Energy changes produced by chemical reactions have many practical applications
+(uses). For example, energy lifts rockets, runs cars, and extracts metal from
+compounds.
+Many applications involve the energy produced by fuel combustion, which liberates
+large amounts of heat. The energy can be converted from one form to another. For
+example, the energy that fuel combustion produces can convert water to steam.
+The steam can run a turbine that creates electricity.
+Respiration (breathing) creates energy for our bodies. Breathing releases the energy
+our living cells produce by oxidizing glucose. This energy helps to maintain our
+body temperature and body exercises.
+C6H12O6 + 6O2 Æ 6CO2 + 6H2O + Energy
+Exercise 4.4
+In each of the following cases, determine the sign of ∆H. State whether the
+reaction is exothermic or endothermic, and draw an enthalpy diagram.
+a H2(g) + ½O2(g) → H2O(l) + 285.8 kJ
+b H2O(I) + 40.7 kJ → H2O(g)
+4.5 TYPES OF CHEMICAL REACTIONS
+Competencies
+By the end of this section, you will be able to:
+• list the four types of chemical reactions;
+• define combination reaction and give examples;
+• conduct some experiments on combination reactions in groups;
+Activity 4.7
+ CHEMISTRY GRADE 9
+114
+• define decomposition reaction and give examples;
+• conduct some experiments on decomposition reactions in group;
+• define single displacement reactions and give examples;
+• conduct some experiments on simple displacement reactions in groups;
+• define double displacement reaction and give examples; and
+• conduct some experiments on double displacement reactions in groups.
+Form a group and discuss the following chemical reactions that occur during the:
+a digestion of food in our body.
+b fermentation of ‘tej’.
+c burning of kerosene in a stove.
+Share your discussion with the rest of the class.
+Chemical reactions are classified into four categories. These are combination,
+decomposition, single displacement and double displacement reactions.
+i) Combination Reactions
+ Experiment 4.5
+Investigation of Combination Reaction
+Objective: To investigate the reaction between sulphur and iron.
+Apparatus: Test tube, stand, burner, watch glass
+Chemicals: Sulphur powder, iron filings
+Procedure:
+1. Mix about 3 g of iron filings and 2 g of powdered sulphur in a watch glass.
+2. Transfer the mixture in a glass test tube.
+3. Mount the test tube in a sloping position on a stand as shown in Figure 4.7.
+4. Heat the test tube until the mixture in the glass glows red hot.
+5. Remove the test tube from the flame and observe the result.
+Activity 4.8
+CHEMICAL REACTIONS AND STOICHIOMETRY
+115
+Observations and analysis:
+1. What were the colours of iron filings and sulphur before the reaction?
+2. What was the colour of the resulting compound after the reaction?
+3. Write a balanced chemical equation for the reaction.
+4. Identify the type of reaction.
+Figure 4.7 The reaction between iron and sulphur.
+A reaction in which two or more substances combine to form a single substance is
+called a combination reaction. In a combination reaction, two elements, two compounds,
+or an element and a compound react to form a single compound. Combination
+reactions can be represented by the following general form of equation.
+A + B Æ AB;
+where the reactants A and B are elements or compounds, the product AB is a compound.
+Such type of reaction is also known as synthesis or composition reaction.
+Examples
+• Magnesium burns in oxygen to form magnesium oxide.
+2Mg + O2 Æ 2MgO
+ element element
+• Water and carbon dioxide combine to form carbonic acid.
+ H2O + CO2 Æ H2CO3
+ CHEMISTRY GRADE 9
+116
+Exercise 4.5
+Complete and balance the following combination reactions.
+1. CO + O2 →
+2. H2O + SO2 →
+3. Na2O + H2O →
+4. CaO + CO2 →
+ii) Decomposition Reactions
+ Experiment 4.6
+Investigation of Decomposition Reaction
+Objective: To investigate the decomposition of copper (II) carbonate.
+Apparatus: Test tube, stand, burner, cork, delivery tube.
+Chemicals: Copper (II) carbonate and lime water.
+Procedure:
+Put copper (II) carbonate powder in a glass test-tube. Mount the test tube in
+a sloping position on a stand as shown in Figure 4.8. Fit a cork and a delivery
+tube to the test tube. Put another test tube containing lime water at the end of
+the delivery tube. Heat the copper (II) carbonate with a burner.
+Observations and analysis:
+1. What was the colour of copper (II) carbonate before heating?
+2. What was the colour during heating and after cooling?
+3. What change did you observe in the lime water?
+4. Write a balanced chemical equation for the reaction.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+117
+Figure 4.8 Decomposition of copper (II) carbonate.
+A decomposition reaction is a reaction that involves the breaking down of a single
+compound into two or more elements or simpler compounds. A decomposition
+reaction can be carried out using heat, light, electricity or a catalyst. But most
+decomposition reactions are carried out when heat is supplied and this heat energy is
+indicated by a ‘delta’ (∆) symbol above the arrow. The general form of equation for
+a decomposition reaction is:
+AB Æ A + B
+where the reactant AB must be a compound and the products A and B could be
+elements or compounds.
+Examples
+• Water is decomposed to hydrogen and oxygen gases when electricity is passed
+through it.
+2H2O electric current → 2H2 + O2
+• When sodium bicarbonate is heated, it decomposes to give sodium carbonate,
+carbon dioxide, and water.
+2NaHCO3 ∆
+→ Na2CO3 + CO2 + H2O
+Rubber stopper
+Delivery tube
+Stand and clamp
+Lime water
+Copper (II)
+carbonate
+Bunsen
+burner
+ CHEMISTRY GRADE 9
+118
+Let us consider the decompositions of nitrates and carbonates:
+1. Decomposition of Metallic Nitrates
+a) Decomposition of group IA nitrates produces nitrites and oxygen.
+Examples
+2NaNO3 D
+→ 2NaNO2 + O2
+2KNO3 D
+→ 2KNO2 + O2
+b) Decomposition of all metal nitrates, except group IA metals, gives nitrogen dioxide,
+metal oxide and oxygen gas.
+Examples
+2Ca(NO3)2 D
+→ 2CaO + 4NO2 + O2
+2Zn(NO3)
+2 D
+→ 2ZnO + 4NO2 + O2
+2Pb(NO3)2 D
+→ 2PbO + 4NO2 + O2
+2. Decomposition of Metallic Carbonates
+All metal carbonates, except sodium and potassium, decompose when heated to form
+the metal oxide and carbon dioxide.
+Examples
+ZnCO3 D
+→ ZnO + CO2
+CuCO3 D
+→ CuO + CO2
+iii) Single Displacement Reactions
+ Experiment 4.7
+Investigation of Single Displacement Reaction
+Objective: To investigate the displacement reaction between iron and copper (II)
+ sulphate.
+Apparatus: Iron rod and beaker.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+119
+Chemicals: Copper (II) sulphate.
+Procedure:
+1. Clean a piece of iron rod or iron knife with emery paper to remove any rust.
+2. Take copper sulphate solution in a beaker.
+3. Dip the iron rod into the copper (II) sulphate solution as shown in Figure 4.9
+and wait for a few minutes. What did you observe on the iron rod?
+4. Allow the reactants to stand for one day and observe any change on the iron
+rod.
+Observations and analysis:
+1. What did you observe on the iron rod after one day?
+2. Write a balanced chemical equation for the reaction.
+3. Write the conclusion for the experiment.
+Figure 4.9 Reaction between iron and copper (II) sulphate.
+A reaction in which one element displaces another element from its compound is
+known as single displacement or replacement reaction. Such a reaction is represented
+by the following two general forms.
+A + BC Æ B + AC
+If A is a metal, it will displace B to form AC, provided A is a more active metal
+than B.
+A + BC Æ BA + C
+If A is a non-metal, it will displace C to form BA, provided A is a more active
+non-metal than C.
+ CHEMISTRY GRADE 9
+120
+ Experiment 4.8
+In general, a more reactive element displaces a less reactive element from a
+compound.
+Examples of single-displacement reactions
+a Active metals displace hydrogen from acids.
+Reactive metals such as potassium, calcium, sodium, and zinc displace hydrogen
+gas from dilute acids.
+For example, zinc is an active metal, and it displaces hydrogen from hydrochloric
+acid; but copper metal cannot do so.
+Zn + 2HCl Æ ZnCl2 + H2
+Au + HCl Æ No reaction
+b Reactive metals, such as potassium, calcium, and sodium react vigorously with
+water to displace hydrogen:
+2Na + 2H2O Æ 2NaOH + H2
+Ca + 2H2O Æ Ca(OH)2 + H2
+Exercise 4.6
+Complete and balance the following single displacement reactions:
+1. Zn + CuSO4 —→
+2. Cu + Zn(NO3)2 —→
+3. F2 + CaCl2 —→
+4. Br2 + NaCl —→
+iv) Double Displacement Reactions
+Investigation of Double Displacement Reaction
+Objective: To observe the displacement reaction between Na2SO4 and Ba(NO3)2.
+Apparatus: Beaker, stirrer, filter paper, filter funnel.
+Chemicals: Na2SO4 and Ba(NO3)
+2.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+121
+Procedure:
+1. Take solution of Ba(NO3)
+2 into a beaker and add dropwise Na2SO4 solution.
+Then stir it continuously.
+2. Filter the precipitate using a filter paper and funnel. Collect the filtrate or the
+solution in a clean beaker.
+Observations and analysis:
+1. Write the names of the compounds that are formed as a precipitate and as
+solution at the end of the reaction.
+2. What was the colour of the precipitate.
+3. Write the balanced chemical equation for the reaction.
+Na SO
+solution
+2 4
+Ba(NO )
+solution
+3 2
+Stirrer
+Figure 4.10 The double displacement reaction between Na2
+SO4
+ and Ba(NO3
+)
+2
+.
+ CHEMISTRY GRADE 9
+122
+Double displacement reaction is a reaction in which two compounds react together to
+form two new compounds by exchange of the positive and negative ions of each
+reactant. Such a reaction is also known as double replacement reaction or metathesis.
+This type of reaction can be written in the following general form of equation.
+AB + CD Æ AD + CB
+Examples
+• The two soluble compounds AgNO3 and NaCl react to produce an insoluble
+precipitate of AgCl and a soluble NaNO3 solution.
+AgNO3 + NaCl Æ AgCl ↓ + NaNO3
+ Insoluble Soluble
+• When aqueous solutions of BaCl2
+ and Na2SO4 react, a precipitate of BaSO4
+is formed.
+BaCl2 + Na2SO4 Æ BaSO4 ↓ + 2NaCl
+ Insoluble Soluble
+Exercise 4.7
+Give appropriate answers for the following questions.
+1. What type of reaction does usually take place in each of the following reactions?
+a a metal reacting with water.
+b a metal reacting with a non-metal.
+c an acid reacting with a metal hydroxide.
+d heating of a metal hydrogen carbonate.
+2. Classify the following reactions as combination, decomposition, single or double
+displacement reactions.
+a FeO + C Æ Fe + CO
+b 2NH3 + H2SO4 Æ (NH4)
+2SO4
+c CaCO3 + 2HCl Æ CaCl2 + CO2 + H2O
+d 2Cu(NO3)2 Æ 2CuO + 4NO2 + O2
+e 2Na3PO4 + 3Ca(OH) 2 Æ Ca3(PO4)
+2 + 6NaOH
+f CuSO4.5H2O Æ CuSO4 + 5H2O
+CHEMICAL REACTIONS AND STOICHIOMETRY
+123
+3. Complete and balance the following equations. If the reaction does not take
+place, write “No Reaction”
+a Mg + N2 D
+→
+b Na2CO3 D
+→
+c BaCO3 + HNO3 Æ
+d Zn + H2SO4 Æ
+e FeCO3 D
+→
+f H2CO3 + NaOH Æ
+4.6 STOICHIOMETRY
+Competencies
+By the end of this section, you will be able to:
+• deduce mole ratios from balanced chemical equations;
+• solve mass-mass problems based on the given chemical equation;
+• define molar volume;
+• state Avogadro’s principle;
+• solve volume-volume problems based on the given chemical equation;
+• solve mass-volume problems based on the given chemical equation;
+• define limiting and excess reactants;
+• determine limiting and excess reactants of a given chemical reaction;
+• show that the amount of product formed in a chemical reaction is based on the
+limiting reactant;
+• define the term theoretical yield, actual yield and percentage yield; and
+• calculate the percentage yield of a chemical reaction from given information.
+Activity 4.9
+Form a group and discuss the following concepts:
+a A bicycle mechanic has 10 frames (body parts) and 16 wheels in the shop. How many
+complete bicycles can he assemble using these parts? Which parts of the bicycle are
+left over?
+b Based on your conculsion in (a), do you think that the masses of reactants are always
+completely converted to products in a chemical reaction?
+Present your conclusion to the class.
+ CHEMISTRY GRADE 9
+124
+The quantitative relationship between reactants and products in a balanced chemical
+equation is known as stoichiometry. In other words, stoichiometry is the study of the
+amount or ratio of moles, mass, energy and volumes (for gases) of reactants and
+products. Stoichiometric calculations are based on the following two major principles.
+i) The composition of any substance in the chemical equation should be expressed
+by a definite formula.
+ii) The law of conservation of mass must be obeyed (the mass of reactants equals
+the mass of products).
+4.6.1 Molar Ratios in Balanced Chemical Equation
+From a balanced chemical equation, it is possible to determine the:
+• number of moles of each reactant and product; and
+• relative mass of each of the reactants and products
+For example, in the reaction of hydrogen with oxygen to produce water, 2 moles of
+H2 combines with 1 mole of O2 to yield 2 moles of H2O. The equation also tells us
+4 g of hydrogen reacts with 32 g of oxygen to produce 36 g of water. This can be
+further interpreted as follows:
+ 2H2(g) + O2(g) Æ 2H2O(l)
+ Mole Æ 2 mole 1 mole 2 mole
+ Molecule Æ 2 molecule 1 molecule 2 molecule
+ Mass Æ 4 g 32 g 2 × 18 g
+ 36 g reactant 36 g product
+Calculations based on chemical equations (stoichiometric problems) are classified
+into mass-mass problem, volume-volume problems and mass-volume problems.
+4.6.2 Mass–Mass Relationships
+In mass-mass problems, the mass of one substance is given, and the mass of the
+second substance is determined from the same reaction. There are two methods for
+solving such types of problems:
+i) Mass-ratio method
+ii) Mole-ratio method
+Let us see each method by using the necessary steps.
+	
+ 	
+
+CHEMICAL REACTIONS AND STOICHIOMETRY
+125
+i) The mass-ratio method
+In this type of stoichiometric calculation, the mass of one substance is determined
+from the given mass of the other substance using the following steps.
+Step 1: Write the balanced chemical equation.
+Step 2: Place the given mass above the corresponding formula, and x above the
+formula of the substance whose mass is to be determined.
+Step 3: Write the total molar mass of the substances below the formula of each
+substance. (Total molar mass is the molar mass of the substance
+multiplied by its coefficient).
+Step 4: Set up the proportion.
+Step 5: Solve for the unknown mass, x.
+Example 1
+How many grams of calcium chloride are formed when 15 g of calcium metal
+reacts with hydrochloric acid?
+Solution:
+Step 1: Ca + 2HCl Æ CaCl2 + H2
+Step 2: 15 g
+Ca + 2HCl CaCl + H 2 2
+x
+ Æ
+Step 3:
+15 g
+2 40 g 111g
+2 Ca + 2HCl CaCl + H
+x
+ Æ
+Step 4: 15 g
+40 g 111
+x
+g =
+Step 5: x = 41.63 g
+Therefore, 41.63 g of CaCl2 is produced.
+Example 2
+How many grams of oxygen are produced by the decomposition of 145 grams
+of potassium chlorate?
+ CHEMISTRY GRADE 9
+126
+Solution:
+Step 1: 2KClO3 Æ 2KCl + 3O2
+Step 2:
+145 g
+2 KClO 2KCl + 3O 3 2
+x
+Æ
+Step 3:
+145 g
+3 2
+(2 × 122.5) g (3 × 32) g
+2 KClO 2KCl + 3O
+x
+ Æ
+Step 4: 145 g
+ = 
+245 g 96 g
+x
+Step 5: x = 56.8 g
+ii) The mole-ratio method
+The mole ratio is the ratio between the numbers of moles of any two substances in a
+given reaction. In this method, the given mass is converted into moles, and the number
+of moles for the required substance is calculated. If needed, convert the obtained
+moles back to mass.
+Follow the steps given below to solve problems of mass-mass relationships by the
+mole ratio method:
+Step 1: Write the balanced chemical equation.
+Step 2: Convert the given mass to moles and write the obtained moles and the
+required quantity, x, above the formulas of the respective substances.
+Step 3: Place the coefficients as the number of moles under the formula of each
+substance involved.
+Step 4: Set up the proportion.
+Step 5: Solve for the unknown value, x; and convert the moles obtained into mass.
+Example 3
+How many grams of sodium metal are needed to react with 10.0 g of water?
+Solution:
+Step 1: 2Na + 2H2O Æ 2NaOH + H2
+Step 2: moles of H2O = given mass 10.0 g = molar mass 18 g/mol
+ = 0.56 mol
+2
+0.56 mol
+2 Na + 2H O
+x
+Æ 2NaOH + H2
+CHEMICAL REACTIONS AND STOICHIOMETRY
+127
+Step 3: 2
+ 0.56 mol
+2 mol 2 mol
+2 N a + 2H O
+x
+Æ 2NaOH + H2
+Step 4: 2 mol
+x
+ = 
+0.56 mol
+2 mol
+Step 5: x = 0.56 mol of Na
+Now, convert 0.56 mole of Na to grams
+mass of Na = mole × molar mass
+= 0.56 mol × 23 g/mol
+= 12.88 g
+Therefore, 12.88 g of sodium metal is needed to react with 10 g of water.
+ Example 4
+What mass of nitrogen dioxide is produced by the decomposition of 182 g of
+magnesium nitrate?
+Solution:
+Step 1: 2Mg (NO3)2 Æ 2MgO + 4NO2 + O2
+Step 2: moles of Mg (NO3)2 = 
+182 g
+148 g/mol
+= 1.23 mol
+2 32 2
+1.23 mol
+2 Mg(NO ) 2MgO + 4 NO + O
+x
+Æ
+Step 3: 3 2 2 2
+1.23 mol
+2 mol 4 mol
+2 Mg(NO ) 2MgO + 4 NO + O
+x
+ Æ
+Step 4:
+1.23 mol
+ = 
+2 mol 4 mol
+x
+Step 5: x = 2.46 moles of NO2
+Mass of NO2 = 2.46 mol × 46 g/mol = 113.2 g
+Therefore, 113.2 g of NO2 is produced.
+ CHEMISTRY GRADE 9
+128
+Exercise 4.8
+1. How many grams of CaCO3 are needed to react with 15.2 g of HCl in
+according to the following equation?
+CaCO3 + 2HCl Æ CaCl2 + CO2 + H2O
+2. How many grams of NaOH are needed to neutralize 50 grams of H2SO4
+?
+3. Calculate the mass of CaCl2 formed when 5 moles of chlorine reacts with
+calcium metal.
+4. How many moles of H2O are required to produce 4.5 moles of HNO3
+according to the following reaction:
+3NO2 + H2O Æ 2HNO3 + NO
+5. In the decomposition of KClO3, how many moles of KCl are formed in the
+reaction that produces 0.05 moles of O2
+?
+6. How many moles of CaO are needed to react with excess water to produce
+370 g of calcium hydroxide?
+4.6.3 Volume-Volume Relationships
+In reactions involving gases, the volume of gases can be determined on the principle
+that 1 mole of any gas occupies a volume of 22.4 litres at STP (standard
+temperature and pressure, STP, the temperature is 0°C and the pressure is 1 atm).
+It is also known that 22.4 L of any gas weighs exactly its molecular mass at STP. This
+volume, 22.4 litres, of a gas is known as the molar volume.
+At STP, 1 mole of any gas = 22.4 L = gram volume mass of the gas
+The relationship between the volume of a gas and its number of molecules was
+explained by Avogadro. Avogadro's law states that equal volumes of different gases,
+under the same conditions of temperature and pressure, contain equal number of
+molecules. This law can also be stated as the volume of a gas is proportional to the
+number of molecules (moles) of the gas at STP.
+
+ CHEMISTRY GRADE 9
+130
+Exercise 4.9
+1. What volume of nitrogen reacts with 33.6 litres of oxygen to produce nitrogen
+dioxide?
+2. How many litres of sulphur trioxide are formed when 4800 cm3 of sulphur
+dioxide is burned in air?
+3. How many litres of ammonia are required to react with 145 litres of oxygen
+according to the following reaction?
+4NH3 + 5O2 Æ 4NO + 6H2O
+4. Calculate the volume of oxygen produced in the decomposition of 5 moles of
+KClO3 at STP?
+5. How many moles of water vapour are formed when 10 litres of butane gas,
+C4H10 is burned in oxygen at STP?
+4.6.4 Mass–Volume Relationships
+In mass-volume problems, either the mass of one substance is given and the volume
+of the other is required or the volume of one substance is given and the mass of the
+other one is required. The steps to solve such type of problems are the same as the
+previous steps except putting the masses on one side and the volumes on the other
+side of the equality sign.
+Example 6
+How many grams of calcium carbonate are decomposed to produce 11.2 L of
+carbon dioxide at STP?
+Solution:
+Step 1: CaCO3 Æ CaO + CO2
+Step 2: 3 2
+11.2 L
+CaCO CaO + CO
+x
+ Æ
+Step 3: 2
+11.2 L
+3
+100 g 22.4 L
+CaCO CaO + CO
+x
+ Æ
+Step 4:
+11.2 L
+ = 
+100 g 22.4 L
+x
+Step 5: x = 50 g of CaCO3 is decomposed.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+131
+Example 7
+How many litres of oxygen at STP react with 72 g of aluminum to produce
+aluminum oxide?
+Solution:
+Step 1: 4Al + 3O2 Æ 2Al2O3
+Step 2: 2 2 3
+72 g
+4Al + 3O 2Al O
+x
+ Æ
+Step 3: 2 2 3
+72 g
+(4×27) g (3×22.4) L
+4Al + 3O 2Al O
+x
+Æ
+Step 4: 72 g = 
+108 g 67.2 L
+x
+Step 5: x = 44.8 L of O2
+Hence, 44.8 litres of oxygen is required at STP to react with 72 g of aluminium.
+Exercise 4.10
+1. How many litres of oxygen are required to react with 23 g of methane according
+to the following equation?
+CH4 + 2O2 Æ CO2 + 2H2O
+2. What mass of aluminium would be completely oxidized by 44.8 L of oxygen to
+produce Al2O3 at STP?
+3. Calculate the mass of calcium carbide that is needed to produce 100 cm3 of
+acetylene according to the following equation.
+CaC2 + 2H2O Æ C2H2 + Ca(OH)2
+4. How many millilitres of sulphur dioxide are formed when 12.5 g of iron sulphide
+ore (pyrite) reacts with oxygen according to the equation at STP?
+4FeS2 + 11O2 Æ 2Fe2O3 + 8SO2
+4.6.5 Limiting and Excess Reactants
+When all the reactants are completely consumed in a chemical reaction, then such
+reactants are said to be in stoichiometric proportions. But, practically these types of
+chemical reactions do not always occur. In many cases, an excess of one or more
+ CHEMISTRY GRADE 9
+132
+reactants is encountered in the reaction and the other reactant is completely converted
+into products. Thus, the reactant that is completely consumed in the reaction is known
+as the limiting reactant, because it limits or determines the amount of products that can
+be formed.
+For example, consider the following reaction:
+ H2 + Cl2 Æ 2HCl
+1 mole 1 mole 2 moles
+According to the equation, 1 mole of H2 reacts with 1 mole of chlorine to produce 2
+mole of HCl. Thus, all the reactants are completely consumed and only products
+appear. However if 1 mole of H2 reacts with 1.5 mole of Cl2, there is insufficient H2
+to react with all of the Cl2. Therefore, Cl2
+ will be in excess and H2 will be the limiting
+reactant. Only 2 moles of HCl are formed and at the end of the reaction 0.5 mole of
+Cl2 remains unreacted.
+Example 8
+How much ammonia is produced if 10 g of hydrogen reacts with 18 g of
+nitrogen?
+Solution:
+3H2(g) + N2(g) Æ 2NH3(g)
+First determine the number of moles;
+Moles of H2 = 
+10 g = 5 mol
+2 g/mol
+Moles of N2 = 
+18 g
+28 g/mol = 0.64 mol
+Now, calculate the number of moles or masses of the product that would be
+formed by each reactant.
+The reactant that gives the smallest amount of product is the limiting reactant.
+i. Using the quantity of H2 ii. Using the quantity of N2
+3
+5 mol
+2 2
+3 mol 2 mol
+3 H + N 2NH
+x
+Æ 3
+0.64 mol 
+2 2
+1 mol 2 mol
+3H + N 2NH
+x
+Æ
+5mol
+3mol 2 mol
+x = 0.64 mol
+1mol 2 mol
+x =
+x = 3.33 mol NH3 x = 1.28 mol NH3
+Mass of NH3 = 3.33 mol × 17 g /mol Mass of NH3 = 1.28 mol × 17 g /mol
+= 56.6 g = 21.8 g
+CHEMICAL REACTIONS AND STOICHIOMETRY
+133
+Therefore, the limiting reactant is nitrogen, because it gives less amount of
+NH3, i.e., 21.8 g NH3. In the reaction, 0.64 mole (18 g) of N2 is consumed.
+Hydrogen is in excess. The amount of hydrogen consumed will be:
+2 2
+18g
+3
+6g 28 g
+3H + N 2NH
+x
+Æ or 2 2
+ 0.64 mol
+3
+3 moles 1 mole
+3H + N 2NH
+x
+Æ 
+18
+6 28
+x = 0.64 mol
+3mol 1mol
+x =
+x = 3.86 g of H2 x = 1.92 mol of H2
+Therefore, 3.86 g or 1.92 moles of H2 is used in the reaction, and 6.14 g or
+3.08 moles of H2 is left unreacted.
+Example 9
+In the chemistry laboratory, a student performed a displacement reaction by
+adding 9.5 g of zinc into 9.5 g of HCl in a beaker. What weight of ZnCl2 will
+be produced?
+Solution:
+Zn + 2HCl Æ ZnCl2 + H2
+Moles of Zn = 9.5 g
+65 g/mol = 0.15 mol
+Moles of HCl = 9.5 g
+36.5 g/mol
+ = 0.26 mol
+Even though the given masses of the two reactants are the same, they are not
+mixed in equimolar ratio as shown above. Thus, the limiting reactant must be
+determined first.
+i. Using the quantity of Zn ii. Using the quantity of HCl
+2
+0.15 mol
+2 1 mol 1 mol
+Zn + 2HCl ZnCl + H
+x
+Æ 2
+0.26 mol 
+2 2 mol 1 mol
+Zn + 2HCl ZnCl + H
+x
+Æ 
+0.15 mol
+ = 
+1 mol 1 mol
+x 0.26 mol
+ = 
+2 mol 1 mol
+x
+ x = 0.15 mol ZnCl2 x = 0.13 mol ZnCl2
+Hence, the limiting reactant is HCl.
+ Mass of ZnCl2 = 0.13 mol × 136 g/mol = 17.68 g ZnCl2
+ CHEMISTRY GRADE 9
+134
+Exercise 4.11
+1. If 6.5 g of zinc reacts with 5.0 g of HCl, according to the following reaction.
+Zn + 2HCl Æ ZnCl2 + H2
+a Which substance is the limiting reactant?
+b How many grams of the reactant remains unreacted?
+c How many grams of hydrogen would be produced?
+2. What mass of Na2SO4 is produced if 49 g of H2SO4 reacts with 80 g of
+NaOH?
+3. If 20 g of CaCO3 and 25 g of HCl are mixed, what mass of CO2 is
+produced?
+CaCO3 + 2HCl Æ CaCl2 + CO2 + H2O
+4. If 3 moles of calcium reacts with 3 moles of oxygen, then
+a Which substance is the limiting reactant?
+b How many moles of calcium oxide are formed?
+5. For the reaction:
+2Al + 3H2SO4 Æ Al2(SO4)3 + 3H2
+How many grams of hydrogen are produced if 0.8 mole of aluminium reacts
+with 1.0 mole of sulphuric acid?
+4.6.6 Theoretical, Actual and Percentage Yields
+The measured amount of product obtained in any chemical reaction is known as the
+actual yield. The theoretical yield is the calculated amount of product that would be
+obtained if the reaction proceeds completely. The actual yield (experimentally
+determined yield) of a product is usually less than the theoretical yield (calculated
+yield).
+The percentage yield is the ratio of the actual yield to the theoretical yield multiplied by
+100.
+Percentage yield = Acutal yield
+Theoretical yield
+ × 100
+CHEMICAL REACTIONS AND STOICHIOMETRY
+135
+Example 10
+25 grams of methane gas (CH4
+) burns in oxygen according to the following
+reaction:
+CH4 + 2O2 Æ CO2 + 2H2O
+What is the percentage yield if 60.3 grams of carbon dioxide is produced?
+Solution:
+The actual yield is 60.3 g of CO2.
+Determine the theoretical yield using mass-mass relationship
+2
+25 g
+42 2
+16 g 44 g
+CH + 2O CO + 2H O → x
+25 g
+ =
+16 g 44
+x
+x = 68.75 g of CO2 (theoretical yield)
+Percentage yield = Actual yield
+Theoretical yield
+ × 100%
+ = 
+60.3 g
+68.75 g
+× 100% = 87.7 %
+Exercise 4.12
+1. When 20 g of sulphur dioxide reacts with oxygen, 23 g of sulphur trioxide is
+formed. What is the percentage yield?
+2. When 14.5 g of SO2 reacts with 21 g of O2, what will be the theoretical
+yield and percentage yield of the reaction if the actual yield is 12 g?
+3. In the reaction:
+2C8H18 + 25O2 Æ 16CO2 + 18H2O
+When 52.7 g of octane (C8H18) burns in oxygen, the percentage yield of
+carbon dioxide is 82.5%. What is the actual yield in grams?
+ CHEMISTRY GRADE 9
+136
+ 4.7 OXIDATION AND REDUCTION REACTIONS
+Competencies
+By the end of this section, you will be able to:
+• define redox reactions;
+• define the terms oxidation and reduction in terms of electron transfer;
+• define oxidation number (oxidation state),
+• state oxidation number rules,
+• determine the oxidation number of an element in a given formula;
+• describe the oxidizing and reducing agents;
+• analyze a given redox reaction by specifying the substance reduced and the
+substance oxidized, and also the oxidizing and reducing agents; and
+• Distinguish between redox and non-redox reactions.
+Form a group and discuss the following phenomenon:
+When you dry your meal dishes with a towel, the towel can be termed as a drying agent
+and the dish as wetting agent. What happens to the towel and the dish, in terms of
+getting wet and dry, after cleaning? Relate this idea with oxidizing agent and reducing
+agent, oxidation and reduction of substances. Present your conclusion to the class.
+In our day to day activity, we are familiar with the chemical processes like rusting of
+iron, burning of substances, breathing of air, digestion of food and so on. All such
+types of processes or reactions are known as oxidation and reduction or redox
+reactions.
+4.7.1 Oxidation-Reduction
+Can oxidation take place without reduction?
+Oxidation: is the process in which a substance loses electrons in a chemical reaction.
+For example, in the reaction
+2Na + Cl2 Æ 2NaCl
+Activity 4.10
+CHEMICAL REACTIONS AND STOICHIOMETRY
+137
+Each sodium atom has lost one electron and has turned to a sodium ion.
+Hence, sodium is oxidized.
+Na + 1e– Æ Na+
+Reduction: is the process in which a substance gains electrons in a chemical
+reaction.
+For example, in the above reaction each chlorine atom has gained an
+electron and has changed to chloride ion. Thus, chlorine is reduced;
+Cl2 + 2e– Æ Cl–
+The processes of oxidation and reduction always occur simultaneously because if one
+substance loses electrons, the other substance must gain these electrons. Since the
+process of oxidation and reduction involves the transfer of electrons, it also results in
+the changes of oxidation number. Thus, oxidation and reduction can also be defined in
+terms of oxidation number. Oxidation is an increase in the oxidation number of an
+element and reduction is a decrease in the oxidation number. For example, in the
+reaction,
+The oxidation number of sodium is increased from 0 to +1 and thus sodium is
+oxidized. The oxidation number of chlorine is decreased from 0 to –1, and therefore
+chlorine is reduced.
+4.7.2 Oxidation Number or Oxidation State
+Oxidation number or oxidation state is the number of electrons that an atom appears
+to have gained or lost when it is combined with other atoms.
+Rules for Assigning Oxidation Numbers
+Rule 1: The oxidation number of all elements in free state is zero. This rule is also
+applied for diatomic or polyatomic elements.
+Example: The oxidation number of Na = 0, Cu = 0, Cl in Cl2 = 0, O in
+O3 = 0, S in S8
+ = 0.
+Rule 2: The oxidation number of a monatomic ion is equal to the charge on the ion.
+Example: Na+ = +1, Mg2+ = +2, S2 – = –2.
+Rule 3: The oxidation number of oxygen in a compound is usually – 2 except in the
+following cases:
+ CHEMISTRY GRADE 9
+138
+Exceptions
+The oxidation number of oxygen in:
+i) peroxides is –1. Example: Na2O2
+ii) superoxides is –1/2. Example: KO2
+iii) oxygen diflouride is +2. Example: OF2
+Rule 4: The oxidation number of hydrogen in its entire compounds is +1 except
+in metal hydrides, (like NaH, CaH2 and AlH3), where its oxidation
+number is –1.
+Rule 5: The sum of the oxidation number of all the atoms in a neutral compound is
+zero.
+Example: +1 +6 -2
+H SO2 4 ((+2) + (+6) + (–8) = 0)
+Rule 6: In a polyatomic ion, the sum of the oxidation numbers of the constituent
+atoms equals the charge on the ion.
+Example: +6 –2 –2 (SO )4 ((+6) + (–8) = –2)
+Rule 7: Elements of group IA have +1 and group IIA have +2 oxidation states in all
+of their compounds.
+Rule 8: In a compound, the more electronegative element is assigned a negative
+oxidation number, and the less electronegative element is assigned a positive
+oxidation number.
+Example :
++3 –1
+N Cl3 (chlorine is more electronegative than nitrogen)
+Example 1
+What is the oxidation number of chromium in Na2
+Cr2
+O7
+?
+Solution:
+The oxidation number of O is –2 (Rule 3)
+The oxidation number of Na is +1 (Rule 7)
+Let the oxidation number of Cr be x.
++1 –2
+Na Cr O 2 27
+x
+Since the sum of the oxidation numbers of Na, Cr, and O in Na2Cr2O7 is 0
+(Rule 5)
+CHEMICAL REACTIONS AND STOICHIOMETRY
+139
+Then, 
++1 –2
+Na Cr O 2 27
+x
+(1 × 2) + (x × 2) + (–2 × 7) = 0
+2 + 2x – 14 = 0
+x = + 6
+Therefore, the oxidation number of Cr in Na2Cr2O7 is +6.
+Example 2
+What is the oxidation number of manganese in MnO4
+– ?
+Solution :
+Let the oxidation number of Mn be x.
+– –2
+Mn O4
+x      
+The sum of the oxidation numbers of Mn and O in MnO4
+–
+ is –1 (Rule 6)
+x + (–2 × 4) = –1
+x – 8 = –1
+x = +7
+Therefore, the oxidation number of Mn in MnO4
+– is +7.
+Example 3
+Determine the oxidation number of phosphorus in Ca(H2PO4)
+2.
+Solution:
+The oxidation number of Ca is +2 (Rule 7).
+Let, the oxidation number of P be x.
++2 +1 – 2
+2 4
+2
+Ca H PO
+x      
++2 + (4 × (+1)) + (2 × x) + (8 × (–2)) = 0
+2 + 4 + 2x – 16 = 0
+2x –10 = 0 or x = +5
+Hence, the oxidation number of P in Ca(H2PO4)
+2 is +5.
+ CHEMISTRY GRADE 9
+140
+Exercise 4.13
+1. Determine the oxidation number of the specified element in each of the following:
+a C in H2C2O4 b N in NH4F
+c S in Na2S4O6 d P in Ca3(PO4)
+2
+e H in AlH3 f N in NH4HCO3
+g Fe in K4[Fe(CN)6]
+2. Determine the oxidation number of the specified element in each of the following.
+a S in S–2 b Cl in ClO3
+–
+c N in NH4
++ d P in PO4
+–3
+e Cr in 2 Cr O2 7
+− f S in S2O8
+– 2
+3. Determine whether the following processes are oxidation or reduction reactions:
+a Cu2 + 2e– Æ Cu b K Æ K+ + e–
+c O + 2e– Æ O2– d S2– Æ S + 2e–
+e Fe2+ Æ Fe3+ + e– f N + 3e– Æ N3–
+4.7.3 Oxidizing and Reducing Agents
+In a redox reaction, the substance that causes another substance to get oxidized, but
+itself gets reduced, is known as an oxidizing agent, or oxidant. In the same manner,
+the substance that causes another substance to get reduced, but itself oxidized, is
+referred to as a reducing agent or reductant.
+• Oxidizing agents are substances that:
+– are reduced (gain electrons)
+– contain elements whose oxidation number decreases
+• Reducing agents are substances that:
+– are oxidized (lose electrons)
+– contain elements whose oxidation number increases
+Tests for an oxidizing agent are accomplished by mixing it with a substance which is
+easily oxidized to give a visible colour change when the reaction takes place.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+141
+For example,
+i) Permanganate ion (MnO4
+– ) in acidic solution changes colour from purple to
+colourless.
+MnO4
+– → Mn2+
+ii) Dichromate in acidic solution changes colour from orange to green.
+Cr2O7
+ 2– → Cr3+
+Other common oxidizing agents are chlorine, potassium chromate, sodium chlorate
+and manganese (IV) oxide.
+Similarly, certain reducing agents undergo a visible colour change with a substance
+which is easily reduced.
+For example,
+i) A moist starch solution changes potassium iodide paper to blue-black to show
+that iodine is formed, 2I– → I2. That is potassium iodide is a reducing agent.
+ii) Hydrogen sulphide bubbled through a solution of an oxidizing agent forms a
+yellow precipitate, S2– → S. That is H2S is a reducing agent.
+Other common reducing agents are carbon, carbon monoxide, sodium
+thiosulphate, sodium sulphite and iron (II) salts.
+The oxidizing or reducing ability of substances depend on many factors. Some
+of these are:
+• Electronegativity: Elements with high electronegativity such as F2, O2, N2 and
+Cl2
+ are good oxidizing agents. Elements with low electronegativity for example,
+metallic elements like Na, K, Mg and Al are good reducing agents.
+• Oxidation states: In a compound or ion, if one of its elements is in a higher
+oxidation state, then it is an oxidizing agent. Similarly, if an element of a compound
+or ion is in a lower oxidation state, then it is a reducing agent..
+Examples
+7 7 6
+KMnO , NaClO , K Cr O 4 4 2 27
++ ++
+ ... are oxidizing agents
+22 4
+FeS, CO, Na SO 2 3
+++ +
+ ... are reducing agents
+ CHEMISTRY GRADE 9
+142
+4.7.4 Analysing Redox Reactions
+Oxidation and reduction reactions are called Redox reactions. Oxidation and
+reduction reaction take place simultaneously in a given reaction.
+Activity 4.11
+Form a group and discuss the following:
+1. Why a reducing agent undergoes oxidation?
+2. Why must every redox reaction involve both an oxidizing agent and a reducing agent?
+Present your discussion to the class.
+Example 4
+Identify the oxidizing agent, reducing agent, the substance oxidized and reduced
+in the following reaction.
+H2S + Br2 Æ 2HBr + S
+Solution:
+Let us assign oxidation number to all the elements of the reactants and products.
+In the reaction, the S atom in H2S increases its oxidation number from –2 to
+0. Hence, S is oxidized and H2
+S is a reducing agent. The oxidation number of
+Br is decreased from 0 to –1. Thus, Br2 is reduced and is an oxidizing agent.
+Example 5
+Write the oxidizing and reducing agents for the reaction given below:
+Cu + HNO3 Æ Cu(NO3)2 + NO + H2O
+Solution:
+Write the oxidation numbers of each element and identify the substances which
+undergo a change in oxidization number.
+Therefore, copper is a reducing agent, and HNO3
+ is an oxidizing agent.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+143
+Non-redox Reactions
+So far we have discussed oxidation and reduction reaction or redox reactions.
+However, there are also reactions in which oxidation and reduction do not occur and
+such types of reactions are known as non-redox reactions.
+In non-redox reactions, no electrons are exchanged between the reacting substances.
+Therefore, the oxidation numbers of the atoms do not change in the reaction. Usually such
+types of reactions involve the exchange of positive and negative ions. Most of the double
+displacement reactions and acid-base reactions are not oxidation-reduction reactions.
+Examples
++2 –1 +1 +6 –2 +2 +6-2 +1 –1
+BaCl Na SO BaSO 2NaCl 2 24 4 + Æ Ø + 
+2
++1 –1 +1 2 +1 +1 –1 +1 –2
+HCl NaOH NaCl H O + + −
+ Æ 
+Exercise 4.14
+1. In each of the following equations, identify the substance oxidized, the substance
+reduced, the oxidizing agent and reducing agent.
+a Fe2O3 + 3CO Æ 2Fe + 3CO2
+b CuO + H2 Æ Cu + H2O
+c 3NO2 + H2O Æ 2HNO3 + NO
+d AgNO3 + NaCl Æ AgCl + NaNO3
+e Fe2+ Æ Fe3+ + e–
+f 3Cu + 8HNO3 Æ 3Cu(NO3)2 + 2NO + 4H2O
+g SO2–
+4 + I– + H+ Æ H2S + I2 + H2O
+h MnO–
+4 + H+ Æ Mn2+ + H2O
+2. In each of the following, is the change indicated oxidation, reduction or no
+change at all?
+a Cl2 Æ Cl– b MnO–
+4 Æ MnO2
+c CrO2 Æ CrO2–
+4 d SO2–
+4 Æ SO2–
+3
+e Cr2O2–
+7 Æ CrO2–
+4
+ CHEMISTRY GRADE 9
+144
+4.8 RATES OF CHEMICAL REACTIONS AND CHEMICAL
+EQUILIBRIUM
+Competencies
+By the end of this section, you will be able to:
+• define rate of reaction;
+• describe rate of reaction using a graph;
+• carry out an experiment to illustrate the relative rate of reactions;
+• list the pre-conditions for a chemical reaction to occur;
+• explain how collision, activation energy and proper orientation of reactants cause
+a chemical reaction to occur;
+• list factors that affect rate of chemical reaction;
+• explain the effects of changes in temperature, concentration or pressure and
+surface area on the rates of a chemical reaction;
+• explain the effect of catalysts on the rates of chemical reaction;
+• carry out an activity on how the factors affect the rate of chemical reaction;
+• define the terms reversible reaction and irreversible reaction;
+• define chemical equilibrium;
+• describe the characteristics of chemical equilibrium;
+• write the expression for equilibrium constant of a reversible reaction;
+• state Le Châtelier’s principle; and
+• use Le Châtelier’s principle to explain the effect of changes in temperature,
+pressure and concentration of reactants at equilibrium.
+Discuss each of the following phenomena in groups and present your findings to the class:
+1. Why do some reactions take place rapidly and others slowly? Give examples of fast
+and slow reactions.
+2. Does sugar dissolve faster in hot or in cold tea? Why?
+Activity 4.12
+CHEMICAL REACTIONS AND STOICHIOMETRY
+145
+4.8.1 Reaction Rate
+ Experiment 4.9
+Measuring Rate of a Reaction
+Objective: To measure the rate of the reaction between HCl and CaCO3
+.
+Apparatus: Balance, conical flask, cotton wool, stop watch.
+Chemicals: HCl, CaCO3
+Procedure:
+1. Take 50 mL of dilute hydrochloric acid into a conical flask.
+2. Place the conical flask on a laboratory balance.
+3. Add 25 g of calcium carbonate (marble chips) into the flask. Plug the cotton
+wool immediately as shown in Figure 4.11. This will help to prevent escape of
+the acid spray.
+4. Read and record the mass of the flask and its content at one minute intervals
+until the reaction is over. (Use a stop watch).
+Balance
+Marble chips
+Loose plug of
+cotton wool
+Dilute HCl
+Figure 4.11 Measuring the rate of the reaction between HCl and CaCO3
+.
+Observations and analysis:
+1. What happens to the mass during the reaction?
+2. Write the balanced chemical equation.
+ CHEMISTRY GRADE 9
+146
+Use the following table to record your results.
+Time (min) 0 1234567
+Mass (g)
+Loss in mass (g)
+3. Plot a graph between time (x-axis) and loss in mass (y-axis), and draw a
+smooth curve through maximum points.
+4. Why the graph is steep in the beginning but horizontal at the end of the reaction?
+5. At what time does the reaction stop?
+Every chemical reaction proceeds at different rates or speed. Some reactions proceed
+very slowly and may take a number of days to complete; while others are very rapid,
+requiring only a few seconds.
+The rate of a chemical reaction measures the decrease in concentration of a reactant
+or the increase in concentration of a product per unit time. This means that the rate of
+a reaction determines how fast the concentration of a reactant or product changes
+with time. The rate of a reaction is obtained by determining the concentration of
+reactants or products during the reaction. Methods for determining the concentration
+of reactants or products depend on the type of reactions. Some of the methods are:
+a Colour (changes in colour)
+b Pressure (increase or decrease in pressure, particularly in gases)
+c Volume (increase or decrease in size, particularly in gases)
+d Mass (gain or loss in weight)
+e Amount of precipitate formed
+Generally, the rate of a reaction can be obtained by measuring either one of the above
+changes in properties of substances and consequently relating to changes in their
+concentrations during the course of the reaction.
+Change in concentration of substance Rateof reaction =
+Change in time
+∆ = ∆
+C
+t
+From this expression, it follows that the rate of a reaction is inversely proportional to
+the time taken by the reaction.
+1 Rate α
+Time
+Figure 4.12 illustrates the changes of the rate of a chemical reaction with time. A
+reaction becomes slower as reactants are consumed. The reaction rate curve becomes
+less steep until it becomes a horizontal straight line. No more reactant is used up at
+this point.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+147
+Note that the rate of a reaction is the slope of the tangent to the curve at any
+particular time.
+Figure 4.12 The change in concentration of product with time.
+Reading Check
+When a clean piece of magnesium ribbon is added to excess dilute hydrochloric
+acid, hydrogen gas is evolved. When a graph of volume versus time is drawn, show
+that the total volume of the gas evolved can be measured at fixed intervals.
+Pre-conditions for a Chemical Reaction
+Chemical reactions are usually explained by the collision theory. The assumption of the
+collision theory is that chemical reactions take place due to the collision between
+molecules.
+1. Collisions between reactants
+The first precondition for a reaction to occur is the direct contact of the reacting
+substance with each other. However, all collisions between molecules are not
+necessarily effective in bringing a reaction.
+2. Activation energy
+If the collisions between the reactant molecules do not have sufficient energy, then no
+reaction will occur. Therefore, for the reaction to take place collision must always
+occur with sufficient energy to break the bonds in the reactants and form new bonds
+in the product. Thus, minimum amount of energy needed for the reaction is known as
+activation energy.
+3. Proper Orientation
+Collision of molecules with sufficient activation energy will not bring a reaction if the
+reacting molecules are poorly oriented. Thus, the collision between molecules should
+have the proper orientation.
+ CHEMISTRY GRADE 9
+148
+Activity 4.13
+Consider the reaction between H2
+ and Cl2
+ molecules:
+H2 + Cl2 Æ 2HCl
+For the reaction to occur, first H2 and Cl2 molecules must collide with each other. For
+the collision to be effective, these colliding molecules (H2
+ and Cl2
+) must have sufficient
+energy to break the H – H and Cl – Cl bonds and consequently to form new H – Cl
+bonds.
+Unless, the H2
+ and Cl2
+ molecules are oriented in proper positions, there is no product
+formed. Therefore, as shown in Figure 4.13(c) the H2 and Cl2 molecules rearrange
+themselves so as to form a new H – Cl molecule.
+a No reaction
+b No reaction
+c reaction
+Figure 4.13 Molecular collisions and chemical reactions.
+Factors Affecting the Rates of Chemical Reaction
+Form a group and discuss each of the following:
+1. How is the burning of charcoal affected by:
+a increasing the amount of air used
+b adding more charcoal.
+2. How can you increase the rate of combustion of a given block of wood ?
+Present your findings to the class.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+149
+The rate of a chemical reaction depends on nature of reactants, temperature, and
+concentration of reactants, surface area and catalysts.
+The collision theory assumes that the rate of a reaction depends on the number
+(frequency) of collisions of particles and those factors which affect the frequency of
+collisions will also affect the rate of a reaction. Now let us discuss each factor.
+1. Nature of the reactants
+The rate of a reaction is influenced by the type and nature of the reacting substances.
+For example, the following reactions have different rates due to the nature of the
+reactants, Mg, Fe and Cu.
+Mg + 2HCl Æ MgCl2 + H2 ... (very fast reaction)
+Fe + 2HCl Æ FeCl2 + H2 ... (slow reaction)
+Cu + HCl Æ No reaction
+2. Temperature
+An increase in temperature increases the rate of a reaction. This is because as the
+temperature increases, the average kinetic energy of the particles increases which in
+turn increases the number of effective collisions.
+In general, for many chemical reactions, the rate of a reaction doubles for every 10°C
+rise in temperature.
+3. Concentration of reactants
+The number of collisions is proportional to the concentration of reactants. The higher
+the concentration of the reactants, the more collisions between the reacting particles
+and thus the higher the rate of the reaction.
+For example, if you heat a piece of steel wool in air (21% oxygen by volume) it burns
+slowly. But in pure oxygen (100% oxygen by volume) it bursts in to a dazzling white
+flame. This indicates that the rate of burning increases as the concentration of oxygen
+is higher.
+Activity 4.14
+Form a group and compare the rate of combustion of the following substances:
+a paper c wood charcoal
+b kerosene d copper
+Present your findings to the class.
+ CHEMISTRY GRADE 9
+150
+Activity 4.15
+ Experiment 4.10
+Form a group and discuss the following idea. Present your discussion to the class.
+If a certain reaction is carried out with water as a solvent, what will be the rate of the
+reaction if more water is added to the reaction vessel? Explain.
+Investigating the effect of concentration on reaction rate
+Objective: To determine the rate of reaction of magnesium with 0.1M and 5M of
+sulphuric acid.
+Apparatus: Beakers.
+Chemicals: H2SO4.
+Procedure:
+a 1. Take 20 mL of 0.1M H2SO4 into the first beaker.
+2. Add 1 cm long magnesium ribbon into the beaker.
+3. Note how fast the reaction occurs.
+b 1. Take 20 mL of 5M H2SO4 into the second beaker.
+2. Add 1cm long magnesium ribbon into the beaker as shown in Figure 4.14.
+3. Observe how fast the reaction occurs.
+Observations and Analysis:
+1. In which of the reactions does the evolution of gas bubble faster? (a) or (b).
+2. Write the balanced chemical equation.
+3. What do you conclude from the experiment?
+Figure 4.14 The effect of concentration on the rate of a reaction.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+151
+ Experiment 4.11
+4. Surface area
+When the reactants are in different phases, be it solid, liquid or gas, then the surface
+area of the substances affect the rate of the reaction. The higher the surface area of
+reactants, the faster is the rate of the reaction. This is because more contact results in
+more collisions between each small particle of reactants.
+Investigating the effect of surface area on reaction rate
+Objective: To determine the rate of reaction of a lump and powdered calcium
+carbonate with hydrochloric acid.
+Apparatus: Beaker, dish, and grinder.
+Chemicals: Calcium carbonate and dilute hydrochloric acid.
+Procedure:
+a 1. Take a 5 g of calcium carbonate and put it in a beaker.
+2. Add 100 mL dilute hydrochloric acid into the beaker carefully.
+3. Observe how fast the reaction occurs.
+b 1. Add 5 g of calcium carbonate into a dish and grind until it becomes powder.
+2. Put this powdered calcium carbonate into the beaker as shown in Fig. 4.15.
+3. Add 100 mL dilute hydrochloric acid carefully.
+4. Observe how fast the reaction occurs.
+Observations and Analysis:
+1. Which of the reaction is faster? (a) or (b).
+2. What do you conclude from the experiment?
+Lump of CaCO3 Powdered CaCO3
+( ) a Dilute HCl ( ) b
+Figure 4.15 Effect of surface area on the rate of a reaction.
+ CHEMISTRY GRADE 9
+152
+5. Catalysts
+A catalyst is a substance that changes the rate of a chemical reaction without itself
+being consumed in the reaction. For example, the decomposition of potassium
+chlorate, KClO3 into KCl and O2 is made faster in the presence of MnO2 catalyst.
+MnO2
+3 2 Heat 2KClO 2KCl 3O → +
+A catalyst speeds up the rate of a reaction by providing an alternative reaction path
+with lower activation energy. Lower activation energy for a reaction corresponds to
+the higher reaction rate. Figure 4.16 illustrates how the presence of catalysts speeds
+up a reaction.
+Figure 4.16 Activation energy and catalysts.
+Activity 4.16
+Form a group and discuss the following concept. Present your discussion to the class.
+Do the factors that affect the rate of a chemical reaction influence a physical change in
+the same manner? Explain, by giving appropriate example.
+ Experiment 4.12
+Investigating the effect of a catalyst on the Rate of a Chemical Reaction
+Objective: To determine the effect of MnO2
+ catalyst on the rate of decomposition
+of H2O2.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+153
+Apparatus: Test tube, test-tube rack.
+Chemicals: MnO2, H2O2.
+Procedure:
+1. Take 5 mL of hydrogen peroxide in each of the two test tubes.
+2. Add a small amount of coarse manganese (IV) oxide to the first test tube
+(a). What do you observe?
+3. Leave the second test tube (b) without adding any chemical.
+4. What change do you observe in each test tube?
+5. Introduce a glowing splint in the test tube and test for the evolution of a gas.
+Observations and Analysis:
+1. In which of the test tubes does the reaction occur at a fast rate? Why?
+2. Which gas is evolved in the test tube?
+3. What do you conclude from the experiment?
+H O2 2
+MnO2
+(b)
+(a)
+Figure 4.17 Effect of a catalyst on the decomposition of H2
+O2
+.
+Reading Check
+What is the difference between positive and negative catalysts? Explain the
+importance of negative catalysts by giving examples.
+ CHEMISTRY GRADE 9
+154
+4.8.2 Chemical Equilibrium
+In the previous chapters, we came across chemical reactions in which all the reactants
+are completely converted to products. Such types of reactions are known as
+irreversible reactions. Irreversible reactions proceed only in one direction (forward
+direction) and expressed by a single arrow (→).
+Examples
+2Na + Cl2 Æ 2NaCl
+2KClO3 Æ 2KCl + 3O2
+However, there are many chemical reactions that do not proceed to completion. The
+products at the same time react to give (produce) the reactants. These are called
+reversible reactions.
+Reversible reactions take place in both the forward and backward directions under
+the same conditions. A double arrow (←→
+ ) or ( YZZ ZZX ) pointing in opposite
+directions is used in such reaction equations.
+Example
+N2 + 3H2 YZZ ZZX 2NH3
+The forward reaction proceeds from left to right and the reaction that goes from right
+to left is the reverse reaction.
+Does a reaction stop if it attains equilibrium?
+Chemical equilibrium is the state of a chemical system in which the rates of the
+forward and reverse reactions are equal. At the state of chemical equilibrium, there is
+no net change in the concentrations of reactants and products because the system is in
+dynamic equilibrium. Dynamic equilibrium means the reaction does not stop and both
+the forward and the backward reactions continue at equal rates.
+At equilibrium, Rate of forward reaction = Rate of reverse reaction
+The law of chemical equilibrium can be expressed mathematically using the molar
+concentrations of reactants and products at equilibrium. The concentration of species
+is denoted by enclosing the formula in square bracket [ ].
+Thus, for the reversible reaction:
+aA+bB YZZ ZZX cC + dD
+Rate of forward reaction = Kf
+ [A]a [B]b where Kf
+ and Kr
+ are rate constants for the
+Rate of reverse reaction = Kr
+ [C]c
+ [D]d forward and reverse reactions respectively.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+155
+Since at equilibrium the rate of the forward reaction equals the rate of the reverse
+reaction, it follows:
+Kf
+ [A]a [B]b = Kr
+ [C]c
+ [D]d
+[ ][ ]
+[ ][ ]
+C D = A B
+c d
+f
+a b
+r
+K
+K
+Solving for the constants, Kf /Kr
+, gives a new constant, termed as the equilibrium
+constant, K
+eq.
+Therefore, K
+eq = [ ][ ]
+[ ][ ]
+C D = A B
+c d
+f
+a b
+r
+K
+K
+Example
+ For the reaction,
+N2 + 3H2 YZZ ZZX 2NH3
+Rate of forward reaction = Kf
+ [N2][H2]
+3
+Rate of reverse reaction = Kr [NH3]2.
+ K
+eq
+= 
+[ ]
+[ ][ ]
+2
+3
+3
+2 2
+NH = N H
+f
+r
+K
+K
+The rates of the forward and reverse reactions are also illustrated by the following graph.
+Rate of forward reaction
+Rate of reverse reaction
+K= = eq
+K
+K
+f
+r
+[C] [D]
+[A] [B]
+c d
+Reaction rate
+a b
+Time
+Figure 4.18 Change of the rate of the forward and reverse reactions with time.
+As it is noted in the figure the rate of the forward reaction decreases with time as the
+concentrations of the reactants, A and B decrease with time. The reverse reaction rate
+starts at zero and increases as more of the products, C and D are produced.
+However, at equilibrium the forward and the reverse reaction rates are equal.
+ CHEMISTRY GRADE 9
+156
+Example
+The following equilibrium has been studied at 230°C.
+2NO(g) + O2(g) YZZ ZZX 2NO2(g)
+In one experiment, the concentrations of the reacting species at equilibrium are
+found to be [NO] = 0.0542 M, [O2] = 0.127 M and [NO2] = 15.5 M.
+Calculate the equilibrium constant of the reaction at this temperature.
+Solution :
+The equilibrium constant is given by
+[ ]
+[ ][ ]
+2
+2
+2
+2
+NO = NO O
+K
+Substituting the concentration, we find that
+2
+5 1
+2
+(15.5) = 6.44 10 M
+(0.0542) (0.127)
+− K = ×
+Exercise 4.15
+Give appropriate answers to the following questions.
+1. What is the reason for all collisions between reactant molecules not to lead to
+products? Explain on the basis of the collision theory.
+2. Explain why the rates of a reaction change with time.
+3. Write the equilibrium constant expression for each of the following reactions.
+a CO(g) + H2O(g) YZZ ZZX CO2(g) + H2(g)
+b CH4(g) + Cl2(g) YZZ ZZX CH3 Cl(g) + HCl(g)
+c 2SO2(g) + O2(g) YZZ ZZX 2SO3(g)
+d FeO(s) + CO(g) YZZ ZZX Fe(s) + CO2(g)
+4. At the start of a reaction there are 0.0249 mol of N2, 3.21 × 10–2 mol H2
+and 6.42 × 10–4 mol of NH3 in a 3.50 L reaction vessel at 375°C.
+If the equilibrium constant, K, for the reaction:
+N2(g) + 3H2(g) YZZ ZZX 2NH3(g)
+is 1.2 at this temperature, decide whether the system is at equilibrium or not. If
+it is not, predict in which direction, the net reaction will proceed.
+CHEMICAL REACTIONS AND STOICHIOMETRY
+157
+Factors that Affect Chemical Equilibrium
+Activity 4.18
+Form a group and try to explore at least two properties that can be utilize to determine
+the state of chemical equilibrium in system.
+Present your findings to the class.
+A system remains at a state of chemical equilibrium if there is no change in the
+external conditions that disturb the equilibrium. But the point of equilibrium could be
+affected due to any external factors like temperature, pressure, concentration and so
+on. How a system at equilibrium adjusts itself to any of these changes is stated by the
+French chemist Henri Le Chatelier in 1888.
+Le Chatelier states that if a stress is applied to a system in equilibrium, the system
+will respond in such a way to counteract the stress. The stress could be change in
+temperature, concentration or pressure.
+The factors affecting chemical equilibrium and their effects:
+1. Effect of temperature
+The effect of temperature changes on equilibrium depends on whether the reaction is
+exothermic or endothermic. An increase in the temperature of a system will favour an
+endothermic reaction and a decrease in temperature favors an exothermic reaction.
+For example, consider the following reaction:
+H2O(g) + CO(g) YZZ ZZX H2(g) + CO2(g); ∆H = – 41 kJ
+Since the reaction is exothermic,
+i) if temperature is increased, the system will shift to the left.
+ii) if temperature is decreased, the system will shift to the right and a high yield of
+products (H2 and CO2) is obtained.
+Activity 4.17
+Form a group and discuss the importance of equilibrium in the study of chemical reactions.
+Present your discussion to the class.
+ CHEMISTRY GRADE 9
+158
+2. Effect of Pressure or Volume
+Pressure changes only affect equilibrium reaction involving gaseous reactants and
+products. The effect of pressure on liquids and solids is negligible. An increase in
+pressure (or decrease in volume) on a gaseous system shifts the equilibrium in the
+direction of forming smaller number of moles of gas. On the contrary, decreasing the
+pressure shifts the equilibrium in the direction of forming more number of moles of the
+gas. For example, in the reaction,
+2 2
+3 moles of gases 2 moles of gases
+2CO(g) + O (g) 2CO (g) YZZ ZZX 	
+ 	
+
+There are 3 moles of reactants and 2 moles of product.
+Therefore, increasing the pressure of the system shifts the equilibrium to the forward
+direction. This results in a higher yield of CO2
+. Decreasing the pressure of the gaseous
+mixture shifts the equilibrium in the reverse direction.
+When the number of moles of reactants and products are equal, pressure has no
+effect on the equilibrium. For example, in the following reaction;
+2 2
+2 moles of gases 2 molesof gases
+H (g) + I (g) YZZ ZZX 2HI (g)
+	
+ 	
+
+the number of moles of reactants and products are equal (2 mol each) and hence no
+effect of pressure on the equilibrium.
+Exercise 4.16
+For the following equilibrium system, how would the position of the equilibrium be
+changed if:
+a the temperature is increased; b the pressure is decreased?
+c the temperature is increased, and d the pressure is decreased
+1. N2(g) + O2(g) YZZ ZZX 2NO(g) + heat
+2. 2H2O(g) YZZ ZZX 2H2(g) + O2(g), ∆H = + 241.7 kJ
+3. N2(g) + 2H2O(g) + heat YZZ ZZX 2NO(g) + 2H2(g)
+4. 2SO2(g) + O2(g) YZZ ZZX 2SO3(g) + heat
+5. N2O4(g) + heat YZZ ZZX 2NO2(g)
+6. PCl3(g) + Cl2(g) YZZ ZZX PCl5(g) + 21 kJ
+CHEMICAL REACTIONS AND STOICHIOMETRY
+159
+3. Effect of Concentration
+According to Le Chatelier’s principle, any change in the concentration of a reactant or
+product will lead to a change in the concentration of the substances on the other side
+of the equation.
+If one of the reactants is added to the equilibrium mixture, the system shifts to the
+forward direction and a high yield of product is obtained. To the contrary, if more
+product is added to the system, the equilibrium shifts to the reverse direction. For
+example, in the reaction,
+N2 + 3H2 YZZ ZZX 2NH3
+If the concentration of N2 or H2 is increased (i.e., if more N2 or H2 is added), the
+equilibrium will shift to the right direction and more NH3 will be produced.
+4. Effect of catalysts
+Catalysts change the speed of both the forward and reverse reactions equally.
+However, catalysts do not affect the state of chemical equilibrium of a reaction. This
+means that the position of equilibrium will not be shifted due to the presence of a
+catalyst.
+How can Le-Chatelier’s principle help in maximizing the yields of products
+in industrial production?
+Many industrial reactions are reversible reactions. The Haber and contact processes
+provide excellent illustrations of the effects of temperature, pressure and catalyst on
+the equilibrium systems.
+A Haber process (the industrial production of ammonia). In the Haber
+process, ammonia (NH3) is industrially manufactured using gaseous nitrogen
+and hydrogen.
+N2(g) + 3H2 
+Fe
+Catalyst
+YZZ ZZZXZ 2NH3(g); ∆H = – 92 kJ/mol
+High yield of ammonia is produced by decreasing the temperature and
+increasing the pressure of the system.
+However, the yield per unit time is highly increased by using an iron catalyst.
+B Contact process (the industrial production of sulphuric acid). Similarly, in
+the contact process, sulphuric acid (H2
+SO4) is commercially manufactured by
+the reaction of SO2 and O2. The resulting SO3 is then converted to H2SO4.
+SO2(g) + O2 YZZZ ZZZZ V O2 5XZ 2SO3(g) + heat
+ CHEMISTRY GRADE 9
+160
+To get high yield of SO3 , how would you adjust the temperature, pressure and
+concentration in the above reaction?
+Check list
+Key terms of the unit
+• Le Chatelier's principle
+• Limiting reactants
+• Oxidation
+• Oxidizing agents
+• Percentage yield
+• Products
+• Reactants
+• Reaction rates
+• Redox reaction
+• Reducing agents
+• Reduction
+• Reversible reaction
+• Single displacement reaction
+• Stoichiometry
+• Theoretical and actual yield
+Unit Summary
+• Chemical reactions are represented by chemical equations.
+• The three basic laws of chemical reactions are: the law of conservation of
+mass, the law of definite proportion and the law of multiple proportions.
+• A balanced chemical equation is an equation in which all the number of
+atoms of reactants and products are equal.
+• Most of the chemical reactions are accompanied by energy changes.
+• Exothermic reactions release heat energy to the surrounding.
+• Endothermic reactions absorb heat energy from the surrounding.
+• Heat of reaction or change in enthalpy is the amount of heat energy
+liberated or absorbed by a chemical reaction.
+• Chemical reactions are classified into combination, decomposition, single
+displacement and double displacement reactions.
+• Activation energy
+• Catalysts
+• Chemical equilibrium
+• Chemical reaction
+• Collision theory
+• Combination reaction
+• Decomposition reaction
+• Double displacement reaction
+• Dynamic equilibrium
+• Endothermic reaction
+• Energy changes
+• Energy diagrams
+• Enthalpy
+• Equilibrium constant
+• Exothermic reaction
+• Heat of reaction
+• Irreversible reaction
+CHEMICAL REACTIONS AND STOICHIOMETRY
+161
+• Stoichiometry is the quantitative relationship between reactants and products.
+• Mass-mass problems, mass-volume and volume-volume problems are the
+main types of stoichiometric calculations.
+• Oxidation is the process where a substance loses electron (s) or increases
+its oxidation number.
+• Reduction is the process where a substance gains electron (s) or decreases
+its oxidation number.
+• Oxidizing agents are the substances reduced, and reducing agents are the
+substances oxidized.
+• Rate of reaction is the change in concentration of reactants or products
+with time.
+• Reversible reactions take place in both the forward and backward directions.
+• Irreversible reactions proceed only in the forward direction.
+• Chemical equilibrium is the state of a chemical reaction in which the rate
+of the forward and reverse reactions is equal.
+• Le Chatlier's principle states that when an equilibrium is subjected to a
+stress, the system will shift in a direction so as to relieve the stress.
+• The chemical equilibrium is affected by temperature, pressure, and
+concentrations

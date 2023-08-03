@@ -1,0 +1,2135 @@
+This section will help us to get an understanding of the electronic structure of the
+atoms. A great deal of our understanding of electronic structure has come from studies
+of the properties of light or radiant energy. We begin our study by considering the
+historical development of the atomic nature of substances, and then we will learn how
+the atomic theories were developed.
+A theory of the structure and behaviour of atoms has taken more than two millennia to
+evolve, from ancient Greek philosophers to the high-tech experiments of modern
+scientists. Prior to the scientific revolution and the development of the scientific
+method, starting in the 16th century, ideas about the atom were mainly speculative. It
+was not until the very end of the 19th century that technology became advanced
+enough to allow scientists a glimpse of the atom’s constituent parts: the electron,
+proton and neutron.
+Activity 2.2
+In your Grade 9 chemistry lesson, you have learned about historical development of the
+atomic nature of substances.
+1. Form a group and discuss on the belief of ancient Greek philosophers about the
+atomic nature of substances. Present your group discussion report to the class.
+2. Refer to different chemistry reference books and, in group, discuss on how the beliefs
+about the structure of matter evolved. Start from early historical developments.
+2.2 DALTON’S ATOMIC THEORY AND THE MODERN
+ATOMIC THEORY
+At the end of this section, you should be able to:
+• state postulates of Dalton’s atomic theory;
+• state postulates of Modern atomic theory; and
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+45
+Activity 2.3
+• state the laws of conservation of mass, definite proportions, multiple
+proportions and the basis of each of these laws.
+Form a group and do the following activity:
+Take 1g of iron fillings and 1.75g of sulphur powder. Heat them strongly to form a new
+compound iron (II) sulphide. Weigh the new compound formed.
+NOTE: Perform the activity under the guidance of your teacher.
+Discuss the following questions and share your findings with the rest of the class.
+1. What is the weight of new compound formed?
+2. Can we create or destroy mass?
+3. Is there any fixed ratio in which elements combine?
+4. What are the laws of chemical combination?
+5. Will the molecular formula of the synthesized iron (II) sulphide be same as that
+available in the laboratory?
+In Grade 9, you learned about Dalton’s and Modern Atomic Theories. Here again
+you will spend some more time on these theories.
+2.2.1 Postulates of Dalton’s Atomic Theory
+Scientific laws usually develop based on previous scientific findings. The laws that are
+the basis for Dalton’s atomic theory are the law of conservation of mass and the law
+of definite proportions.
+What is the law that Dalton formulated based on these two laws and write its
+statement in your notebook? Illustrate this law using C and O to form CO.
+ CHEMISTRY GRADE 11
+46
+Example 2.1
+1. A nitrogen-oxygen compound is found to have an oxygen-to-nitrogen mass
+ratio of 1.142 g oxygen for every 1.000 g of nitrogen. Which of the
+following oxygen-to-nitrogen mass ratio(s) is/are possible for different
+nitrogen-oxygen compound(s)?
+a 2.285 c 0.571
+b 1.000 d 2.500
+2. Determine, which of the following oxygen-to-nitrogen mass ratio(s) is/are
+also possible for nitrogen-oxygen compound. (Refer Example 2.1 No. 1
+for required information)
+a 0.612 c 1.713
+b 1.250 d 2.856
+Solution :
+1. The given compound has 1.142 g of oxygen and 1.000 g of nitrogen.
+Response (a) has 2.285 g of oxygen for the same 1.000 g of nitrogen. The
+ratio of the masses of oxygen, 2.285:1.142, is almost exactly 2:1.
+Response (a) seems to be correct possibility, so is response (c). Here the
+ratio is 0.571:1.142 = 0.500 = 1:2.
+Responses (b) and (d) are not possibilities. They yield ratios of
+1.000:1.142 = 0.875 and 2.500: 1.142 = 2.189, respectively. Neither of
+these can be expressed as a ratio of small whole numbers.
+2. By the same method,
+a 0.612:1.142 = 0.536:1 is not possible
+b 1.250:1.142 = 1.095:1 is not possible
+c 1.713:1.142 = 1.5:1 or 3:2, is possible
+d 2.856:1.142 = 2.5:1 or 5:2 is possible
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+47
+Activity 2.4
+In your Grade 9 chemistry lesson, you have learned about the laws of conservation of
+masss and the law of definite proportion. Form a group and discuss the following
+statements. Share your ideas with the rest of the class.
+1. The mass of a piece of wood before and after it is burnt to ashes is not the same, showing
+that mass can be created or destroyed. Is it a violation of law of conservation of mass?
+What would be the mass of products if the burning of wood was carried out in a
+closed container?
+2. Sugar consists of C, H, and O atoms. When a certain amount of sugar is burned in a
+crucible, nothing remains in the crucible. Have the carbon, hydrogen and oxygen atoms
+of the sugar been destroyed? If so, how? If not, where have they disappeared?
+3. A sample of sodium chloride from Afar contains the same percent by mass of sodium
+as one from Tigray.
+4. Arsenic and oxygen can combine to form one compound, which is 65.2% by mass
+arsenic, and another compound, which is 75.8% by mass arsenic.
+Exercise 2.1
+1. List the postulates of Dalton that continue to have significance (are retained in
+modern atomic theory).
+2. Match the atomic theory statements in part A with the matching items in part B.
+Part A
+I All matter is composed of
+extremely small, indivisible particles
+called atoms.
+II All atoms of a given element are
+identical in mass and other
+properties, but atoms of one
+element differ from the atoms of
+every other element.
+III Atoms are not created, destroyed
+or converted into other kinds of
+atoms during chemical reactions.
+They are simply rearranged into
+new compounds.
+Part B
+a Although graphite and diamond
+have different properties (due the
+nature of interatomic bonding)
+they are composed only of carbon.
+The carbon atoms are identical.
+b 2H2 +O2 → 2H2O, not CS2 or
+NaCl.
+c There are 6.02 × 1023 atoms in
+55.85 g of iron.
+ CHEMISTRY GRADE 11
+48
+3. How does the atomic theory account for the fact that when 1.00 g of water is
+decomposed into its elements, 0.111 g of hydrogen and 0.889 g of oxygen
+are obtained regardless of the source of the water?
+4. Hydrogen peroxide is composed of two elements: hydrogen and oxygen. In an
+experiment, 1.250 g of hydrogen peroxide is fully decomposed into its
+elements.
+a If 0.074 g of hydrogen are obtained in this experiment, how many grams
+of oxygen must be obtained?
+b Which fundamental law does this experiment demonstrate?
+c How is this law explained by the atomic theory?
+5. A 15.20 g of nitrogen will react with 17.37 g, 34.74 g, or 43.43 g of oxygen
+to form three different compounds.
+a Calculate the mass of oxygen per gram of nitrogen in each compound.
+b How do the numbers in part (a) support the atomic theory?
+2.2.2 Postulates of Modern Atomic Theory
+Activity 2.5
+Form a group and discuss the following questions:
+Which of Dalton's postulates about atoms are inconsistent with later observations?
+Do these inconsistencies mean that Dalton was wrong? Is Dalton's model still useful?
+Share your ideas with the rest of the class.
+Most of the experiments conducted during the development of the modern atomic
+theory will be presented and explained in Sections 2.3 - 2.6. In this section,
+generalizations derived from the experiments are presented as postulates of modern
+atomic theory.
+Modern atomic theory is generally said to begin with John Dalton. Dalton’s work was
+mainly about the chemistry of atoms – how they combine to form new compounds –
+rather than about the internal structure of atoms. However, Dalton never denied the
+possibility of atoms having a structure. Modern theories about the physical structure of
+atoms did not begin until J.J. Thomson discovered the electron in 1897.
+In 1913, a Danish physicist, Niels Bohr, who had studied under both Thomson and
+Rutherford, further modified the nuclear model. He proposed that electrons move only
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+49
+Activity 2.7
+Chemical compounds are formed when atoms combine in whole-number ratios (law
+of multiple proportions). A given compound always has the same relative number
+and types of atoms (law of constant composition).
+In a chemical reaction, the mass of the reactants (starting materials) equals the mass of
+the reaction products (law of conservation of mass), provided no reactant remains.
+Activity 2.6
+in restricted, successive shells and that the valence electrons determine the chemical
+properties of different elements. In the 1920s, Bohr’s theory became the basis for
+quantum mechanics, which explained in greater detail the complex structure and
+behaviour of atoms.
+Form a group and discuss the following questions:
+ 1. Describe the limitations of Dalton’s Atomic Theory.
+ 2. Write the postuates of Modern Atomic Theory.
+Share your discussion with the rest of the class.
+2.2.3 How the Modern Theory Explains the Mass Laws
+Form a group; use your Grade 9 knowledge and discuss the modern atomic theory to
+explain the:
+a law of conservation of mass b law of definite proportions and
+c law of multiple proportions.
+Share your discussion with the rest of the class.
+ CHEMISTRY GRADE 11
+50
+J. J. Thomson (1856-1940) was a British physicist and
+Nobel laureate. Sir Joseph John Thomson was born near
+Manchester, England, and educated at Owens College
+(now part of Victoria University of Manchester) and
+Trinity College, University of Cambridge. At Cambridge
+he taught mathematics and physics, served as Cavendish
+Professor of Experimental Physics, and was (1918-40)
+master of Trinity College. He was also president of the
+Royal Society (1915-20) and professor of natural
+philosophy at the Royal Institute of Great Britain
+(1905-18).
+Thomson was awarded the 1906 Nobel Prize in physics
+for his work on the conduction of electricity through
+gases. He is considered the discoverer of the electron through his experiments on
+the stream of particles (electrons) emitted by cathode rays. A theorist as well as an
+experimenter, in 1898, Thomson advanced the "plum-pudding" theory of atomic
+structure, holding that negative electrons were like plums embedded in a pudding
+of positive matter. Thomson was knighted in 1908.
+Historical Note
+Sir Joseph Thomson
+2.3 EARLY EXPERIMENTS TO CHARACTERIZE THE ATOM
+At the end of this section, you should be able to:
+• discuss the discovery of the electron;
+• describe the properties of cathode rays;
+• define the terms: radioactivity, radioactive decay and radio-isotope;
+• describe the common types of radioactive emissions;
+• discuss the alpha scattering experiment; and
+• describe the major contribution of experiments by Thomson, Millikan and
+Rutherford concerning atomic structure.
+2.3.1 Discovery of the Electron
+Cathode Rays
+In 1879, the English scientist William Crookes (1832-1919) experimented with gasdischarge tubes. When a very high electrical potential (~ 10,000 volts) is applied
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+51
+across a gas taken in a discharge tube of a very low pressure (~ 0.001 torr) some
+radiations are emitted from cathode. These radiations are called cathode rays. Fig 2.1,
+shows emission of cathode rays in a discharge tube. At this stage the glass walls of
+the discharge tube opposite to the cathode starts glowing with a faint greenish light. It
+is now known that this greenish glow on the walls is due to the bombardment of the
+glass wall with the cathode rays.
+Cathode rays normally travel in straight lines, but are deflected when a magnet is
+brought nearby (Figure 2.1b).
+Cathode
+(–) Anode
+(+)
+Purple
+glow
+High voltage
+source Dark
+region
+Cathode
+glow
+To vacuum
+pump
+Figure 2.1 (a) Electric discharge in an (b) The cathode ray is bent
+evacuated tube. in the presence of a magnet.
+An English physicist Joseph John Thomson (1856-1940) in 1897 studied the
+behaviour of cathode rays in electric and magnetic fields, Thomson established clearly
+that the rays consist of negatively-charged particles. Moreover, his experiments
+showed that the particles were identical, regardless of the materials from which the
+electrodes were made or the type of gas in the tube. Thomson concluded that these
+negatively charged particles were constituents of every kind of atom. We now call
+these particles electrons, a term that had been coined by the Irish Physicist George
+Stoney in 1891 to describe the smallest unit of electric charge. Cathode rays are
+beams of electrons.
+Perhaps Thomson’s most significant experiment was the one illustrated and described
+in Figure 2.2. By measuring the amount of deflection of a cathode ray beam in electric
+and magnetic fields of known strengths, Thomson was able to calculate the ratio of
+the mass of an electron to its charge. If we denote the mass of the electron as me and
+its electrical charge as e, the mass-to-charge ration is me /e. This ratio has a value of
+– 5.686 × 10–12 kg C–1 (kilograms per coulomb).
+ CHEMISTRY GRADE 11
+52
+A
+–
++
+Fluorescent screen
+High voltage
+Anode Cathode
+B
+C
+Figure 2.2 Thomson’s apparatus for determining the charge-to-mass ratio.
+In 1909, Robert A. Millikan, an American physicist, determined the charge on the
+electron by observing the behaviour of electrically-charged oil drops in an electric
+field. Based on careful experiments, Millikan established the charge on an electron as
+e = –1.602 × 10–19 C. From this value and the value for me /e, we can calculate the
+mass of an electron.
+me = e e
+e
+m
+× = – 5.686 × 10–12 kg C–1 × –1.602 × 10–19 C
+ = 9.109 × 10-31 kg
+In 1923, Millikan was awarded the Nobel Prize in physics for his oil-drop experiment.
+2.3.2 Radioactivity and Discovery of Nucleus
+Radioactivity
+Radioactivity is the spontaneous emission of radiation from the unstable nuclei of
+certain isotopes. Isotopes that are radioactive are called radioactive isotopes or
+radioisotopes. For example,
+55 226 14 238 14
+24 88 6 92 7 Cr, Ra, C, U, N
+are radioactive isotopes. Radioactive decay is defined as a nuclear breakdown in
+which particles or (electromagnetic) radiation is emitted. Shortly after the discovery of
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+53
+radioactivity, three types of rays were identified in the emanations from radioactive
+substances. One type called alpha (α) particles which consist of particles that have a
+mass that is about four times that of a hydrogen atom. They also have a charge twice
+the magnitude of an electron but positive rather than negative. An alpha particle is
+now known to be a doubly-ionized helium atom, that is, He2+.
+A second type of radiation was shown to consist of negatively-charged particles,
+identical to cathode rays. These particles are called beta (β) particles, which are
+electrons, coming from inside the nucleus.
+The third type of radiation, called gamma (γ) rays, is a form of electromagnetic
+radiation much like the X-rays but of even higher energy. Like X-rays, but unlike
+alpha and beta particles, gamma rays are a form of energy and not a form of matter.
+Activity 2.8
+Form a group and do the following. Share your ideas with the rest of the class.
+In your notebook, make a table of the three kinds of radiation you have read about. Use
+the given table headings for the types of radiation, response to magnetic field, mass and
+charge as follows. Then fill in the cells.
+Types of radiation Greek letter Mass Number Charge Deflected
+Discovery of Nucleus
+In 1910, the New Zealand chemist and physicist, Ernest Rutherford, who had studied
+with J.J. Thomson decided to use α-particles to probe the structure of atoms.
+Together with his associate Hans Geiger, Rutherford carried out a series of
+experiments using very thin foils of gold and other metals as targets for α-particles
+from a radioactive source.
+ CHEMISTRY GRADE 11
+54
+Gold foll
+Detecting screen Slit
+α-Particle
+emitter
+a b
+Figure 2.3 a Rutherford’s experimental design for measuring the scattering of
+α-particles by a piece of gold foil.
+b Magnified view of α-particles passing through and being deflected by the
+nucleus.
+Activity 2.9
+From a group and discuss Rutherford’s experiment as shown in Figure 2.3 a and b answer
+the following questions:
+1. Why majority of the α-particles penetrating the foil where undeflected?
+2. Why small fraction of the α-particles showed slight deflection?
+3. Why all α-particles did not bounced by an angle of 180°?
+4. Based on the finding of Rutherford’s experiment how will you conclude that most of
+the space in the atom is empty?
+5. Which observation led to conclusion that all the positive charge in the atom is
+concentrated in the nucleus?
+Report your findings to the class.
+2.3.3 Discovery of Neutron
+Except for the lightest hydrogen isotope, protium ( 1
+1H), atoms have more mass than is
+indicated by the numbers of their protons (Before the 1930’s, protons were
+considered as the sole contributors to the mass of an atom). For example, a
+helium nucleus, with two protons has a mass four times that of hydrogen. If all the
+mass came from the protons, a helium atom would have only twice the mass of a
+hydrogen atom. The reason for this “excess” mass puzzled scientists for several years.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+55
+One hypothesis was that the atomic nucleus also contained electrically neutral
+fundamental particles.
+In the 1920s and early 1930s, alpha particles were used as projectiles to bombard a
+variety of materials. Bombardment of beryllium atoms produced a strange, highly
+penetrating form of radiation. In 1932, James Chadwick (1891-1972) showed that
+this radiation was best explained as a beam of neutral particles. These particles, called
+neutrons, were found to have about the same mass as protons but no electric charge.
+This discovery finally provided an explanation for the mysterious excess mass. A
+helium atom has two protons and two neutrons. Because protons and neutrons have
+roughly the same mass (and electrons have almost no mass) the helium atom should
+have about four times the mass of the hydrogen atom. The mass of a neutron,
+mn = 1.67493 × 10–27 kg, is about 1840 times the mass of electron.
+2.4 MAKE UP OF THE NUCLEUS
+At the end of this section, you should be able to:
+• describe make-up of the nucleus;
+• define atomic mass;
+• define isotope; and
+• calculate the relative atomic mass (atomic mass) of naturally occurring isotopic
+elements.
+2.4.1 Constituents of the Nucleus
+Activity 2.10
+Form a group and complete the following table by drawing in your notebook. Discuss
+your ideas with the rest of the class.
+Symbol Atomic Number of neutrons Mass Number Number of
+Number electrons
+12C+ – – ––
+– 16 – 32 18
+– – 14 27 13
+Pb 82 126 – –
+6
+ CHEMISTRY GRADE 11
+56
+Activity 2.11
+In 1914, Rutherford suggested that the smallest positive-ray particle was the
+fundamental unit of positive charge in all nuclei. He called this particle, which has a
+charge equal in magnitude but opposite in sign to that of an electron, a proton. A
+proton has a mass of m
+p
+= 1.67262 × 10–27 kg, which is about 1840 times the mass
+of oppositely-charged electrons. Rutherford proposed that protons constitute the
+positively-charged matter in the nuclei of all atoms.
+Table 2.1 The three subatomic particles
+Particle Symbol Relative mass Approximate Relative
+in atom charge location
+Proton p+ 1 +1 Nucleus
+Neutron n° 1 0 Nucleus
+Electron e– 0.000545 –1 Outside nucleus
+2.4.2 Atomic Mass and Isotopes
+Not all atoms of an element are identical in mass. All carbon atoms have six protons in
+the nucleus (Z = 6) but only 98.89 % of naturally occurring carbon atoms have six
+neutrons in the nucleus (A = 12). A small percentage (1.11 %) have seven neutrons in
+the nucleus (A = 13), and even fewer (less than 0.01 %) have eight (A = 14).
+Most elements found in nature are mixtures of isotopes. The average mass for the atoms
+in an element is called the atomic mass of the element and can be obtained as averages
+over the relative masses of the isotopes of each element, weighted by their observed
+fractional abundances. If an element consists of n isotopes, of relative masses A1,
+A2
+…An
+ and fractional abundances of f
+1, f
+2
+… f
+n, then the average relative atomic mass
+(A) of the element is:
+A = A1 f
+1 + A2 f
+2 + … + An f
+n.
+Form a group and discuss the following:
+1. Are neutrons present in all atoms?
+To form the picture of an atom in your mind, think of it as something like this: if an
+entire atom were represented by a football field, the nucleus would be only about as
+big as a lentil located at the centre of the field.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+57
+2. Can two atoms have the same number of electrons but different number of neutrons?
+3. Can an atom have unequal number of electrons and protons?
+4. Do the chemical properties of an atom depend on the number of electrons, protons or
+neutrons?
+5. Why the atomic masses for most elements are not whole numbers?
+6. Does an atom of zinc (Zn) have about the same mass as an atom of sulphur (S), about
+twice the mass, or about half the mass?
+7. Nitrogen has two naturally occuring isotopes, N-14 and N-15. The atomic mass of
+nitrogen is 14.007 amu. Which isotope is more abundant in nature?
+share your ideas with rest of the class.
+Example 2.2
+There are two isotopes of lithium found on earth. Isotope 6Li (6.01512 mu)
+accounts for 7.42% of the total, and isotope 7Li (7.01600 mu) accounts for
+the remaining 92.58%. What is the average atomic mass of lithium?
+Solution:
+7.42
+100 × 6.01512 mu + 
+92.58
+100 × 7.01600 mu = 6.942 mu
+Exercise 2.2
+1. What is the mass number of an isotope of tin that has 66 neutrons and 50
+protons?
+2. Calculate the number of protons and neutrons for 24
+12Mg and 88
+38Sr.
+3. Why do isotopes of an element have similar chemical properties?
+4. Element X is toxic to humans in high concentration but essential to life at
+low concentrations. Identify element X whose atoms contain 24 protons
+and write the symbol for the isotope with 28 neutrons.
+ CHEMISTRY GRADE 11
+58
+5. Copper (Cu: atomic mass 63.546 mu) contains the isotopes 63Cu (mass =
+62.9298 mu
+) and 65Cu (mass = 64.9278 mu). What percent of a Cu atom
+is 65Cu?
+6. The element chlorine contains two isotopes: 35Cl, which has a mass of
+34.97 mu, and 37Cl, which has a mass of 36.97 mu. Calculate the
+percentage of each chlorine isotope. The average atomic mass of chlorine
+is 35.5 mu.
+7. Carbon exists as the isotopes carbon-12, with a fractional abundance of
+0.9890 and a mass of exactly 12 mu, and carbon-13, with a fractional
+abundance of 0.110 and a mass of 13.00335 mu. Calculate the average
+atomic mass of carbon.
+ 2.5 ELECTROMAGNETIC RADIATION (EMR) AND ATOMIC
+SPECTRA
+At the end of this section, you should be able to:
+• characterize electromagnetic radiation (EMR) in terms of wave length,
+frequency and speed;
+• calculate the wave length and frequency of EMR;
+• explain that light has both wave and particle natures;
+• define photon as a unit of light energy;
+• explain how photon theory explains the photoelectric effect and the
+relationship between photons absorbed and electrons released;
+• explain that emission spectra of atoms consist of series of lines;
+• state Bohr’s assumption of energy of electrons in the hydrogen atom;
+• explain that the line spectrum of hydrogen demonstrates the quantized nature
+of the energy of its electron;
+• explain that atoms emit or absorb energy when they undergo transition from
+one energy state to another;
+• explain the shortcomings of the Bohr theory; and
+• calculate the radius of an electron orbit, velocity and the energy of the
+electron, using the Bohr model.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+59
+2.5.1 Electromagnetic Radiation
+Activity 2.12
+Form groups and discuss on the following questions. Share your ideas with the rest of the
+class.
+The nature of the nucleus has been known for quite some time - since the days of
+Rutherford and his associates. What has been illusive however is the position and velocity
+of electrons.
+1. Is it possible to know the exact location of an electron? Defend your suggestion.
+2. Do electrons have a particle nature or a wave nature?
+3. Explain why an electron does not enter the nucleus even though they are oppositely
+charged?
+4. What is the velocity of an electron?
+In 1873, James Clerk Maxwell proposed that light consists of electromagnetic waves.
+According to his theory, an electromagnetic wave has an electric field component and
+a magnetic field component. Further, his theory accurately describes how energy, in
+the form of radiation, propagates through space as electric and magnetic fields.
+Electromagnetic radiation is the emission and transmission of energy in the form of
+electromagnetic waves.
+The wave properties of electromagnetic radiation are described by two interdependent
+variables, frequency and wavelength. Wavelength (λ, Greek lambda) is the distance
+between any point on a wave and the corresponding point on the next wave; that is,
+the distance the wave travels during one cycle.
+Direction of travel
+a
+b
+Direction of travel
+
++
+–
+
++
+–
+Figure 2.4 Electromagnetic waves.
+ CHEMISTRY GRADE 11
+60
+In Figure 2.4, two waves with different wave lengths (λ) and thus different frequencies
+(ν) are shown. Wavelength is commonly expressed in meters, but since chemists often
+deal with very short wavelengths the nanometer, picometer and the angstrom are also
+used. Frequency (ν, Greek nu) is the number of cycles that pass a given point in
+space per second, expressed in units of s–1 or hertz (Hz).
+The speed of the electromagnetic wave (light), c (distance travelled per unit time, in
+meters per second), is the product of its frequency (cycles per second) and its
+wavelength (metres per cycle),
+c0 = ν × λ ...(2.1)
+In vacuum, light travels at a speed of 2.99792458 × 108 m s–1 (3.00 × 108 m s–1 to
+three segnificant figures).
+The speed of an electromagnetic wave depends on the nature of the medium through
+which the wave is travelling. The speed of an electromagnetic wave in medium (c) is
+the product of its wavelength and its frequency.
+c = λ × ν ...(2.2)
+Another characteristic of a wave is its amplitude, the height of the crest (or depth of
+the trough) of the wave. The amplitude of an electromagnetic wave is a measure of
+the strength of its electric and magnetic fields. Thus, amplitude is related to the
+intensity of the radiation, which we perceive as brightness in the case of visible light.
+Higher amplitude
+(brighter) Lower amplitude
+(dimmer)
+Wavelength 
+Figure 2.5 Amplitude (intensity) of waves.
+Light of a particular shade of red, for instance, always has the same frequency and
+wavelength, but it can be dim (low amplitude) or bright (high amplitude).
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+61
+Visible light occupies a small portion of the continuum of radiant energy which is
+known as the electromagnetic spectrum (Figure 2.6). The electromagnetic waves in
+the different spectral region travel at the same speed but differ in frequency and
+wavelength.
+The long wavelength, low-frequency portion of the spectrum comprises the microwave
+and radiowave regions. The infrared (IR) region overlaps the microwave region on
+one end and the visible region on the other.
+We perceive different wave lengths (or frequencies) of visible light as different
+colours, from red (λ = 750 nm) to violet (λ = 400 nm). Light of a single wavelength
+is called monochromatic (Greek “one colour”), whereas light of many wavelengths is
+polychromatic (Greek “many colours”). White light is polychromatic.
+The region adjacent to visible light on the short-wavelength end consists of ultraviolet
+(UV) radiation. Still shorter wavelengths (higher frequencies) make up the X-ray and
+gamma ray (γ-ray) regions.
+Thus, a TV signal, Infrared (IR) light, and a gamma ray emitted by a radioactive
+element differ principally in frequency and wavelength.
+1024 1022 1020 1018 1016 1014 1012 1010 108
+106
+104
+102
+100
+10–16 10–14 10–12 10–10 10–8 10–6 10–4 10–2 10–0 102
+102
+= 390 450 500 550 600 650 700 750 nm
+-ray
+X-ray
+UV IR
+Micro
+wave
+Radio wave Extra low
+frequancy
+Visible
+Figure 2.6 Regions of the electromagnetic spectrum.
+ CHEMISTRY GRADE 11
+62
+Example 2.3
+1. The yellow light given off by a sodium lamp has a wavelength of 589 nm.
+What is the frequency of this radiation?
+2. A dental hygienist uses X-ray (λ = 1.00 Å) to take a series of dental
+radiographs while the patient listens to an FM radio station (λ = 325 cm)
+and looks out the window at the blue sky (λ = 473 nm). What is the
+frequency (in s–1) of the electromagnetic radiation for each source?
+Solution:
+1. Rearranging Equation 2.1, and ν = co/λ.
+We insert the value for c and ? and then convert nm to m. This gives us
+ν = 
+8 9 3.00 10 m/s 10 nm
+589 nm 1 m
+×
+× = 5.09 × 1014 s–1
+2. Because we are provided with the wavelengths, we can find the frequencies
+from Equation 2.1. Since co has units of m s–1, we first convert the entire
+wavelength to metres.
+For X-ray,
+λ = 
+10 10 m 10 1.00 Å × 1.00 10 m
+1 Å
+− − = ×
+λ = 
+8
+18 1
+10
+3.00 10 m/s / 3.00 10 s
+1.00 ×10 m oc −
+−
+× λ= = ×
+For the radio station, λ = 325 cm × 
+1 m
+100 cm
+= 3.25 m
+ν = 
+8 3.00 10 m/s
+3.25m
+× = 9.23 × 107 s–1
+For the blue sky, λ = 473 nm × 
+9 10 m
+1 nm
+−
+ = 4.37 × 10–7 m
+ν = 
+8
+7
+3.00 10 m/s
+4.73×10 m−
+×
+ = 6.34 × 1014 s–1
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+63
+Exercise 2.3
+1. Some diamonds appear yellow because they contain nitrogeneous
+compounds that absorb purple light of frequency 7.23×1014 s–1. Calculate
+the wavelength (in nm) of the absorbed light.
+2. The FM station broadcasts traditional music at 102 MHz on your radio.
+Units for FM frequencies are given in megahertz (MHz). Find the
+wavelength of these radio waves in meters (m), nanometers (nm), and
+angstrom (Å).
+2.5.2 The Quantum Theory and Photon
+Soon after Rutherford had proposed his nuclear model, a major problem arose with
+it. A nucleus and an electron attract each other, so if they are to remain apart, the
+energy of the electron’s movement must balance the energy of attraction. However,
+the laws of physics had previously established that a charged particle moving in a
+curved path must give off energy. If this requirement is applied to an orbiting electron,
+why did not the electron continuously lose energy and spiral into the nucleus? Clearly,
+if electrons behaved the way as predicted in classical physics, all atoms would have
+collapsed a long time ago!
+The breakthrough that soon followed forced a complete rethinking of the classical
+picture of matter and energy. In the macroscopic world, the two are distinct: matter
+occurs in pieces you can hold and weigh; you can change the amount of matter in a
+sample piece by piece. Energy is “massless”; its amount can be changed in a
+continuous manner. Matter moves in specific paths, whereas light travels in diffuse
+waves. As soon as 20th century scientists explored the subatomic world, however,
+these clear distinctions between particulate matter and wavelike energy began to fade.
+In the following sections, you will examine the theories and experiments that led to the
+view of a quantized or particulate nature of light.
+The quantum theory is concerned with the rules that govern the gain or loss of energy
+from an object. In 1900, the German physicist Max Planck came to an entirely new
+view of matter and energy. He proposed that a hot glowing object could emit
+(or absorb) only certain amounts of energy.
+E = nhν
+ CHEMISTRY GRADE 11
+64
+where E is the energy of the radiation, ν is the frequency, n is a positive integer
+(n = 1, 2, 3, ...) called quantum number and h is proportionality constant now called
+Planck’s constant. With energy in joules (J) and frequency in second (s–1), h has units
+of J s; (h = 6.626 × 10–34 J s)
+Planck’s contribution was to perceive that when we deal with the gain or loss of
+energy from objects in the atomic size or subatomic-size range, the rules “seem” to be
+different from those that apply when we are dealing with the energy gain or loss from
+objects of ordinary dimensions.
+A Very Crude Analogy Might Best Illustrate What is Involved
+Imagine a large truck loaded with about 2 tons of fine-grained sand. Let us
+assume that the amount of sand on the truck is measured by a supersensitive
+scale that can measure the weight of the 2-ton object to the nearest gram. With
+this scale as our measuring device, the gain or loss of a few grains of sand from
+the truck would be too small to be measured. A spade-ful of sand might be
+added or removed with no change in the scale reading.
+Now imagine a tiny little truck operated by a driver of the size of tiny ant. For
+this little truck, a full load of sand would consist of, perhaps, a dozen grains of
+sand of the same size as those carried by the large truck. In this microscopic
+world, the load on the truck can be added to or decreased only by rolling on or
+off one or more grains of sand. On the scale that weighs this tiny truck, even
+one grain of sand represents a substantial fraction of the load and is easily
+measurable.
+In the given analogy, the sand represents energy. An object of ordinary or
+macroscopic dimensions, like the large truck, contains energy in so many tiny pieces
+that the gain or loss of individual pieces is completely unnoticed. On the other hand,
+an object of atomic dimensions, such as our imaginary little truck, contains such a
+small amount of energy that the gain or loss of even the smallest possible piece makes
+a substantial difference.
+The essence of Planck’s quantum theory is that there is such a thing as a smallestallowable gain or loss of energy. Even though the amount of energy gained or lost at
+one time may be very tiny, there is a limit to how small it may be. Planck termed the
+smallest allowed increment of energy gained or lost a quantum of energy. In the
+analogy, a single grain of sand represents a quantum of sand “energy”.
+It should be kept in mind that rules regarding the gain or loss of energy are always the
+same, whether we are concerned with objects on the size scale of our ordinary
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+65
+experience or with microscopic objects. However, it is only when dealing with matter
+at the atomic level of size that the impact of the quantum restriction is evident.
+Humans, being creatures of macroscopic dimensions, had no reason to suppose that
+the quantum restriction existed until they devised means of observing the behaviour of
+matter at the atomic level. The major tool for doing this at the time of Planck’s work
+was the observation of the radiant energy absorbed or emitted by matter.
+An object can gain or lose energy by absorbing or emitting radiant energy. Planck
+assumed that the amount of energy gained or lost at the atomic level by the absorption
+or emission of radiation had to be a whole-number multiple of a constant, times the
+frequency of the radiant energy.
+∆E = hν, 2hν, 3hν, ...(2.3)
+where ∆E is the amount of energy gained or lost. The smallest increment of energy at
+a given frequency, hν is the quantum of energy.
+Example 2.4
+Calculate the amount of energy (that is, the quantum of energy) that an
+object can absorb from yellow light, whose wavelength is 589 nm.
+Solution:
+We obtain the magnitude of a quantum of energy absorbed from equation 2.3
+(∆E = hν; h = 6.626 × 10–34 J s). The frequency, ν, is calculated from the
+given wavelength, ν = co /λ = 5.09 × 1014 s–1. Thus, we have:
+∆E = hν = 6.626 × 10–34 J s × 5.09 × 1014 s–1
+= 3.37 × 10–19 J
+At this stage, you may be wondering about the practical applications of Planck’s
+quantum theory. Planck’s theory has within it the seeds of a revolution for the way the
+physical world is perceived.
+The Photoelectric Effect
+Light shining on a clean metallic surface can cause the surface to emit electrons. This
+phenomenon is known as the photoelectric effect. For each metal, there is a minimum
+frequency of light (threshold frequency) below which no electrons are emitted,
+regardless of how intense the beam of light. In 1905, Albert Einstein (1879–1955)
+ CHEMISTRY GRADE 11
+66
+used the quantum theory to explain the photoelectric effect. He assumed that the
+radiant energy striking the metal surface is a stream of tiny energy packets. Each
+energy packet, called a photon, is a quantum of energy, hν.
+Eph = hν ...(2.4)
+where Eph is the energy of a photon. Thus, radiant energy itself is considered to be
+quantized. Photons of high-frequency radiation have high energies, whereas photons of
+lower frequency radiation have lower energy.
+When a photon is absorbed by the metal, its energy is transferred to an electron in the
+metal. A certain amount of energy is required for the electron to overcome the
+attractive forces that hold it within the metal. Otherwise, it cannot escape from the
+metal surface, even if the light beam is quite intense.
+If a photon has sufficient energy, then an electron is emitted. If a photon has more
+than the minimum energy required to free an electron, the excess energy appears as
+the kinetic energy of the emitted electron. This situation is summarized by the equation
+hv = Ek + Eb ...(2.5)
+where Ek
+ is the kinetic energy of the ejected electron, and Eb
+ is the binding energy of
+the electron in the metal. Rewriting equation (2.5), using
+Ek = ½ me
+v2 and Eb = hνo
+results in
+hν = hνo + ½ me
+v2
+where me
+ is mass of an electron, and νo is the threshold frequency. Equation (2.5)
+shows that the more energetic the photon (high frequency), the higher the velocity of
+the ejected electron.
+Now consider two beams of light having the same frequency (which is greater than
+the threshold frequency) but different intensities. The more intense beam of light
+consists of a larger number of photons. Consequently, it ejects more electrons from
+the metal’s surface than the weaker beam of light. Thus, the more intense the light the
+greater the number of electrons emitted by the target metal. The higher the frequency
+of the light, the greater will be the kinetic energy of the emitted electrons.
+Fortunately, we have equations to quantify these observations on the nature of the
+photoelectric effect. Fore example,
+∆E = hν = hνo + ½ me
+v2 ...(2.6)
+where νo is the threshold frequency, me
+ is the mass of the electron and v is the
+velocity of the emitted electron. The energy (∆E) of a quantum of radiation (hν) that
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+67
+goes into ejecting a photoelectron out of the metal (the work function hνo) and the
+binding energy gives us the kinetic energy (½ mv2). Equation 2.6 is one example of
+the first law of thermodynamics.
+To understand the photoelectric effect, consider the analogy of a truck stuck in
+the mud. A stream of people can come by, and each of them individually can
+give a push without getting the truck unstuck. A small tractor also would have
+less than the threshold energy necessary to dislodge the truck. A farm tractor on
+the other hand, would be able to overcome the attractive forces of the mud and
+get the truck out. Larger tractors also could do the job. Some could even exert
+more pull than necessary thus giving the freed truck some kinetic energy.
+Example 2.5
+The maximum kinetic energy of the photoelectrons emitted from a metal is
+1.03 × 10–19 J when light that has a 656 nm wavelength shines on the surface.
+Determine the threshold frequency, νo, for this metal. Given quantities:
+h = 6.626 × 10–34 J s, λ = 656 nm, kinetic energy of photoelectron
+Ek
+ = 1.03 × 10–19 J.
+Solution:
+Solve for v from co = v × λ
+v = co/λ
+8
+–9
+3.00 10 m / s
+656nm 10 m / mn
++ ×
+×
+ = 4.57 × 1014 s–1
+Rearrange Equation 2.1 and solve for νo
+νo = 
+ν k h –E
+h
+ = 
+34 14 1 19
+34
+(6.626 10 Js 4.57 10 s ) (1.03 10 J)
+6.626 10 J s
+− −−
+−
+× ×× − ×
+×
+= 3.02 × 1014 s–1
+Therefore, a frequency of 3.02 × 1014 Hz is the minimum (threshold) required
+to evoke the photoelectric effect for this metal.
+ CHEMISTRY GRADE 11
+68
+Note! The wavelength λo
+ corresponding to νo
+ is given by λo
+ = c/νo
+. For this example,
+λo = 
+8
+14 1
+3.00 10 m/s
+3.02 10 s − −
+×
+×
+ = 9.93 × 10–7 m or 993 nm.
+Photoelectrons will not be emitted from the surface of this metal unless the
+wavelength of the light is shorter than 993 nm. Remember that higher energies are
+associated with higher frequencies and shorter wavelengths.
+Exercise 2.4
+1. List the similarities between microwaves and ultraviolet radiation.
+2. How does intensity of a radiation affect the kinetic energy of photons
+during photoelectric effect?
+3. The threshold frequency for metallic potassium is 5.46 × 1014 s–1.
+Calculate the maximum kinetic energy and velocity that the emitted electron
+has when the wavelength of light shining on the potassium surface is
+350 nm. (The mass of an electron is 9.11 × 10–31 kg.)
+4. A laser produces red light of wavelength 632.8 nm. Calculate the energy,
+in kJ, of one mole of photons of this red light.
+5. Two members of the boron family owe their names to bright lines in their
+emission spectra. Indium has a bright indigo-blue line (451.1 nm), and
+thallium has a bright green line (535.0 nm). What are the energies of these
+two spectral lines?
+2.5.3 Atomic Spectra
+Atomic or line spectra are produced from the emission of photons of electromagnetic
+radiation (light).
+When an element is vaporized, and thermally or electrically excited, it emits light with
+discrete frequencies. If dispersed by a prism, the light does not create a continuous
+spectrum, or rainbow, as sunlight does. Rather, it produces a line spectrum, a series of
+fine lines of individual colours separated by colourless (black) spaces.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+69
+The wavelengths at which the coloured lines occur are characteristic of the element
+(Figure 2.7). A line spectrum that consists of only relatively few wavelengths that is
+produced from light emitted by excited atoms is the unique feature of an element, and
+can be used for identification purposes.
+High
+voltage
+Slit
+Discharge tube
+Prism
+Light separated into
+various compoinents
+Photographic plate
+Line
+spectrum
+Figure 2.7 An experimental arrangement for studying the emission spectra of atoms
+and molecules.
+2.5.4 The Bohr Model of the Hydrogen Atom
+In 1913, Niels Bohr, a Danish physicist, who had worked with Rutherford, combined
+ideas from classical physics and the new quantum theory to explain the structure of
+the hydrogen atom. He suggested a model for the hydrogen atom that predicted the
+existence of line spectra. In doing so, he was able to explain the spectrum of radiation
+emitted by hydrogen atoms in gas-discharge tubes.
+Based on the work of Planck and Einstein, Bohr made the revolutionary assumption
+that certain properties of the electron in a hydrogen atom – including energy, can have
+only certain specific values. That is to say, these properties are quantized. Bohr
+proposed the following three postulates for his model.
+1. The hydrogen atom has only certain allowable energy levels, called stationary
+states. Each of these states is associated with a fixed circular orbit of the
+electron around the nucleus.
+2. The atom does not radiate energy while in one of its stationary states. That is,
+even though it violates the ideas of classical physics, the atom does not change
+energy while the electron moves within an orbit.
+ CHEMISTRY GRADE 11
+70
+3. The electron moves to another stationary state (orbit) only by absorbing or
+emitting a photon whose energy equals the difference in the energy between the
+two states.
+Eph = Ef – Ei
+ = hν ...(2.7)
+The subscripts f and i represent the final and the initial states, respectively. The
+Bohr radius, denoted by ao (ao = 0.0529 nm) can be calculated using the
+formula
+ao = 2
+r
+n
+...(2.8)
+where n is a positive integer which is called quantum number.
+r is the radius of the orbit and is given by:
+r = 
+2 2
+2
+° ε
+π e
+n h
+me z ...(2.9)
+where εo is the vacuum dielectric constant (εo = 8.854 × 10–12 C V–1 m–1).
+A spectral line results from the emission of a photon of specific energy (and
+therefore, of specific frequency), when the electron moves from a higher energy state
+to a lower one. An atomic spectrum appears as lines rather than as a continuum
+because the atom’s energy has only certain discrete energy levels or states.
+In Bohr’s model, the quantum number n (n = 1, 2, 3, ...) is associated with the radius
+of the electron’s orbit, which is directly related to the atom’s energy. The lower the
+quantum number, the smaller is the radius of the orbit and the lower is the energy level
+of the atom. When the electron is in the orbit closest to the nucleus (n = 1), the atom
+is in its lowest (first) energy level, which is called the ground state. By absorbing a
+photon whose energy equals the difference between the first and second energy levels,
+the electron can move to the next orbit. This second energy level (second stationary
+state) and all higher levels are called excited states. The hydrogen atom in the second
+energy level (first excited state) can return to the ground state by emitting a photon of
+a particular frequency:
+∆E = Ee
+ – E
+g ...(2.10)
+where E
+g
+and Ee
+ represent the ground and the excited energy states, respectively.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+71
+When a sample of atomic hydrogen absorbs energy, different hydrogen atoms absorb
+different amounts. Even though each atom has only one electron, so many atoms are
+present that all the allowable energy levels (orbits) are populated by electrons. When
+an electron drops from orbits with n > 3 (second excited state), the infrared series of
+spectral lines is produced i.e, Paschen Series. The visible series arises from the
+photons emitted when an electron drops to the n = 2 orbit i.e, Balmer Series (first
+excited state), and the ultraviolet series arises when these higher energy electrons
+drop to the n = 1 orbit (ground state).
+Brackett
+series
+Paschen
+series
+Balmer
+series
+Lyman
+series
+7
+6
+5
+
+4
+3
+2
+Energy
+n
+n = 1
+Figure 2.8 Representation of the observed spectral lines of the hydrogen atom.
+Since a larger orbit radius means a higher atomic energy level, the farther the electron
+drops, the greater is the energy (higher v, shorter λ) of the emitted photon. The
+spectral lines of hydrogen become closer and closer together in the short wavelength
+(high energy) region of each series because the difference in energy associated with
+the jump from initial state ( ni) to the final state (nf ) becomes smaller and smaller as
+the distance from the nucleus increases.
+Having made this basic assumption, Bohr was then able to use classical physics to
+calculate properties of the hydrogen atom. In particular, he derived an equation for the
+electron energy (En ). Each specified energy value (E1, E2, E3,...) is called an energy
+ CHEMISTRY GRADE 11
+72
+level of the atom. A very useful result from Bohr’s work is an equation for calculating
+the energy levels of an atom,
+En = 
+2
+H 2
+Z R
+n
+− × ...(2.11)
+where RH is the Rydberg constant, has a value of, RH = 2.18 × 10–18 J. The number
+n is an integer called the principal quantum number (n = 1, 2, 3, ...). Z is the charge
+of the nucleus. The negative sign in the equation appears because it is defined as zero
+energy when the electron is completely moved form the nucleus, i.e. En = 0 when
+n =∞, so, En < 0 for any smaller n. For the H atom, Z = 1, so we have
+En = 
+18
+2
+1 2.18 10 J
+n
+− −× × ...(2.12)
+Therefore, the energy of the ground state n = 1 is –2.18 × 10–18 J. This equation is
+easily adapted to find the energy difference between any two levels:
+∆E= hv = Ef
+ – Ei
+ = 
+18
+2 2
+1 1 2.18 10 J −  
+−× ×−       f i n n
+...(2.13)
+Exercise 2.5
+1. The H atom and the Be3+ ion each have one electron. Does the Bohr model
+predict their spectra accurately? Would you expect their line spectra to be
+identical? Explain.
+2. Calculate the energies of the states of the hydrogen atom with n = 2 and
+n = 3, and calculate the wavelength of the photon emitted by the atom when
+an electron makes a transition between these two states.
+3. What is the wavelength of a photon emitted during a transition from the
+ni
+ = 5 state to the nf
+ = 2 state in the hydrogen atom?
+4. How much energy, in kilojoules per mole, is released when an electron makes
+a transition from n = 5 to n = 2 in an hydrogen atom? Is this energy sufficient
+to break the H–H bond (436 kJ / mol is needed to break this bond)?
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+73
+5. Five lines in the H atom spectrum have wavelengths (in Å):
+a 1212.7 b 4340.5 c 4861.3
+d 6562.8 e 10938d
+Three lines result from transition to nf = 2 (visible series). The other two result
+from transitions in different series-one with nf
+ = 1, and the other with nf = 3.
+Identify ni
+ for each line.
+2.5.5 Limitations of the Bohr Theory
+The Bohr model of an atom was successful in accounting for the spectral lines of
+H-atom which indicated that he was on the right track. Despite its great success in
+accounting for the spectral lines of the H atom, the Bohr model failed to predict the
+wavelengths of spectral lines of atoms more complicated than hydrogen, even that of
+helium, the next simplest element. It works beautifully for the hydrogen atom and for
+other one-electron species such as He+ and Li2+. Bohr could not explain the further
+splitting of spectral lines in the hydrogen spectra on application of magnetic field and
+electric fields.
+In the years following Bohr’s development of a model for the hydrogen atom, the dual
+nature of radiant energy had become a familiar concept. Depending on the
+experimental circumstances, radiation might appear to have either a wave-like or
+particle-like (photon) character.
+Is it possible that under proper circumstances, matter can behave as waves?
+Louis de Broglie made a rather bold intuitive extension of this idea. Using Einstein’s
+equation and Planck’s equation for energy, he proposed that a particle with a mass,
+m, moving at a speed, v, has a wave nature consistent with a wavelength given by:
+λ = 
+h
+mν ...(2.14)
+where h is Planck’s constant. The quantity mν for any object is called its momentum.
+The matter waves describe the wave characteristics of material particles.
+Because de Broglie’s hypothesis is perfectly general, any object of mass m and
+velocity ν would give rise to a characteristic matter wave. However, it is easy to see
+from Equation 2.14 that the wavelength associated with an object of ordinary size,
+such as a tennis ball is so tiny as to be completely out of the range of any possible
+observation. This is not so for electrons, because their mass is very small.
+ CHEMISTRY GRADE 11
+74
+If de Broglie’s concept is correct and all particles travel in waves, electrons should
+exhibit the typical wave-properties, diffraction and interference.
+Electron particles with mass and charge create diffraction patterns, just as
+electromagnetic waves do. Although electrons do not have orbits of fixed radius, de
+Broglie thought that the energy levels of the atom are related to the wave nature of the
+electron.
+The unsettling truth is that matter as well as energy show both behaviours: each
+possesses both “properties”. In some experiments, one property is observed, while in
+other experiments, the other property is observed. The distinction between a particle
+and a wave is only meaningful in the macroscopic world - it disappears at the atomic
+level. The distinction is in the minds and the limiting definitions of people, not in nature.
+This dual character of matter and energy is known as the wave-particle duality.
+Example 2.6
+1. Calculate the de Broglie wavelength of an electron that has a velocity of
+1.00 × 106 m/s. (electron mass, me
+ = 9.11 × 10–31 kg; h = 6.626 × 10–34 J s)
+2. Calculate the frequency of the hydrogen line that corresponds to the
+transition of the electron from the n = 4 to the n = 2 state.
+Solution:
+1. λ = 
+34 2 1
+31 6 1
+6.626 10 kg m s
+e (9.11 10 kg)(1.00 10 m s )
+h
+m v
+− −
+− −
+× = × ×
+= 7.27 × 10–10 m
+2. We employ equation 2.13, ∆E = –
+2 2
+1 1  
+× − =ν      
+H
+f i
+R h
+n n
+ν = – 2 2
+H 1 1
+i f
+R
+h n n
+ 
+× −      
+Substituting ni
+ = 4 and nf
+ = 2:
+ν = – 
+18
+34 2 2
+2.179 10 J 1 1
+6.626 10 Js 4 2
+−
+−
+  ×      − ×    
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+75
+ν = – 
+18
+34
+2.179 10 J 3
+6.626 10 J s 16
+−
+−
+  ×     × −  ×    
+ = 6.17 × 1014 s–1
+Exercise 2.6
+1. What is the characteristic wavelength of an electron (in nm) that has a
+velocity of 5.97 × 106 m s–1 (me
+ = 9.11 × 10–31 kg)?
+2. Calculate the energy required for the ionization of an electron from the ground
+state of the hydrogen atom.
+3. Calculate the wavelength (in nm) of a photon emitted when a hydrogen atom
+undergoes a transition from n = 5 to n = 2.
+2.6 THE QUANTUM MECHANICAL MODEL OF THE ATOM
+At the end of this section, you should be able to:
+• state the Heisenberg uncertainty principle
+• describe the significance of electron probability distribution;
+• explain the quantum numbers n, l, ml
+ and ms
+;
+• write all possible sets of quantum numbers of electrons in an atom; and
+• describe the shape of orbitals that are designated by s, p, and d.
+Activity 2.13
+Make a group and discuss the following:
+If particles have wavelike motion, why don’t we observe that motion in the macroscopic
+world?
+If electron possess particle nature it should be possible to locate electron. How can an
+electron be located?
+Is there any wave associated with a moving elephant? Share your ideas with the rest of
+the class.
+ CHEMISTRY GRADE 11
+76
+Bohr’s model was very important because it introduced the idea of quantized energy
+states for electrons in atoms. This feature is incorporated in our current model of the
+atom, the quantum mechanical model of the atom.
+The sophisticated mathematical description of atomic structure based on the wave
+properties of subatomic particles is called wave mechanics or quantum mechanics.
+Principally, the Austrian physicist Erwin Scrödinger developed a model of the
+hydrogen atom based on the wave nature of the electron in the late 1920s.
+Mathematical equations describing the nature of electron waves in atoms are
+fundamental to the modern picture of the atom. The wave equations that are
+acceptable solutions to the Schrödinger equation are called wave functions. To obtain
+one of these acceptable solutions, we must assign integral values called quantum
+numbers to three quantities in the wave equation. This requirement is similar to the
+requirement for an integral value of n in the Bohr equation for the hydrogen atom.
+In contrast to the precise planetary orbits of the Bohr atom, the wave mechanics
+picture of the hydrogen atom is less certain. Instead of determining the exact location
+of the electron, we can only speak of the probability of the electron being found in
+certain regions of the atom. Or, if we adopt the view that the electron is just a cloud
+of negative electric charge, we can only speak of the charge densities in various parts
+of the atom.
+2.6.1 The Heisenberg's Principle
+Discovery of the wave properties of matter raised a new and very interesting question.
+If a subatomic particle can exhibit the properties of a wave, is it possible to say
+precisely where that particle is located? One can hardly speak of the precise location
+of a wave. A wave, as a whole, extends in space. Its location is therefore not defined
+precisely. To describe the limitation (problem) of trying to locate a subatomic particle
+that behaves like a wave, Heisenberg formulated what is known as the Heisenberg
+uncertainty principle, which states that it is impossible to know simultaneously both the
+momentum p (p = mν) and the position of a particle with certainty. Mathematically,
+the Heisenberg's uncertainty principle is given as
+∆x × ∆p ≤ 4
+h
+π
+where ∆x and ∆p are the uncertainties in measuring the position and momentum,
+respectively.
+The above equation says that if we measure the momentum of a particle precisely
+(i.e. if ∆p is made very small), then the position will be correspondingly less precise
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+77
+(i.e, ∆x will become larger). Similarly, if the position of a particle is known more
+precisely, then its momentum will be less precise.
+The German physicist Werner Heisenberg in 1927 concluded that there is a
+fundamental limitation to know both the location and the momentum of a particle
+simultaneously, which is due to dual behaviour of matter and radiation. Just as in the
+case of quantum effects, the limitation becomes important only when we deal with
+matter at the subatomic level, that is, with mass as small as that of an electron.
+2.6.2 Quantum Numbers
+An atomic orbital is specified first by three quantum numbers that are associated
+respectively, with the orbital's size (energy), shape, orientation and, later, independent
+of these three quantum numbers, the electron spin. The first three sets of quantum
+numbers have a hierarchical relationship: the size-related number limits the shaperelated number, the shape-related number in turn limits the orientation-related number.
+Three among the four quantum numbers characterize the orbitals in the atom. That is,
+they describe the orbital or the space the electron is supposed to occupy. The fourth
+quantum number is used to describe the spin of the electrons that occupy the orbitals.
+The four quantum numbers are:
+1. The principal quantum number (n) is a positive integer having values n = 1,
+2, 3, ... . It gives the following information:
+(i) Relative size of the orbital or the relative distance of the electron from the
+nucleus. Size of orbital increases with the increase of principal quantum
+number n.
+(ii) Energy of the orbital. Higher the n value, greater is the energy. For
+example: when the electron occupies an orbital with n = 1, the hydrogen
+atom is in its ground state and has lower energy than when the electron
+occupies an orbital with n = 2 (first excited state).
+(iii) Maximum number of electrons present in any shell (given by the formula 2n2
+).
+2. The azimuthal quantum number (l) is also known as angular momentum or
+subsidiary quantum number. It is an integer having values from 0 to (n – 1). For
+an orbital with n = 1, l can have a value only of 0. For orbitals with
+n = 2, l can have a value of 0 or 1; for those with n = 3, l can be 0, 1 or 2;
+etc. So, the number of possible l values equals the value of n. For a given
+value of n, the maximum possible value of l is (n – 1). The azimuthal
+quantum number gives the following information:
+ CHEMISTRY GRADE 11
+78
+(i) Number of subshell present within any shell.
+(ii) It describes the shape of the orbital and is sometimes also called the
+orbital-shape quantum number.
+3. The magnetic quantum number (ml) is also known as the orbital-orientation
+quantum number. It is an integer having values from –l through 0 to +l. The
+possible values of an orbital's magnetic quantum number are set by its angular
+momentum quantum number (that is, l determines ml
+). An orbital with l = 0
+can have only ml
+ = 0. However an orbital with l = 1, can have ml
+ value of
+–1, 0, or + 1; thus there are three possible orbitals with l = 1 each with its
+own spatial orientation. The number of possible ml values or orbitals for a
+given l value is (2l + 1). It prescribes the orientation of the orbital in the
+three-dimensional space about the nucleus.
+4. The electron spin quantum number (ms) has only two possible values,
++½ (represented by the arrow, ↑) and – ½ (represented by the arrow ↓). The
+name electron spin quantum suggests that electrons have a spinning motion.
+However, there is no way to attach a precise physical reality to electron spin.
+The quantum numbers specify the energy states of the atom.
+• The atom's energy levels or shells are given by the n value.
+• The atom's sublevels or subshells are given by the n and l values. Each level
+contains sublevels that designate the shape of the orbital.
+• The atom's orbitals are specified by the n, l and ml
+ values. Thus, the three
+quantum numbers that describe an orbital express its size (energy), shape
+and spatial orientation. Each sublevel is designated by a letter:
+l = 0, is an s sublevel
+l = 1, is a p sublevel
+l = 2, is a d sublevel
+l = 3, is a f sublevel
+The letters s, p, d, and f are derived from the names of spectroscopic lines: s, sharp;
+p, principal; d, diffuse; and f, fundamental. Sublevels are named by joining the n value
+and the letter designation. For example, the sublevel (subshell) with n = 2, l = 0 is
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+79
+called the 2s sublevel; the only orbital in this sublevel has n = 2, l = 0 and ml
+ = 0. A
+sublevel with n = 3, l = 1, is a 3p sublevel. It has three possible orbitals: one with
+n = 3, l = 1 and ml
+ = –1 ; another with n = 3, l = 1 and ml = 0 and the third
+n = 3, l = 1, and ml = +1.
+For a given principal quantum number, n, the total number of orbitals is determined as:
+Number of orbitals = n2 in a shell.
+Similarly, the number of orbitals in each subshell is determined as:
+Number of orbitals in a subshell = 2l+1.
+Example 2.7
+1. What values of the angular momentum quantum number (l) and magnetic
+quantum number (ml) are allowed for a principal quantum number (n) of
+3? How many orbitals are allowed for n = 3?
+2. Give the name, magnetic quantum numbers, and numbers of orbitals for
+each sublevel with the following quantum numbers:
+a n = 3, l = 2 c n = 5, l = 1
+b n = 2, l = 0 d n = 4, l = 3
+3. What is wrong with each of the following quantum number designations
+and/or sublevel names?
+nlml Name
+a 1 2 0 1p
+b 4 3 +1 4d
+c 3 1 -2 3p
+Solution:
+1. Determining l values:
+For n = 3, l = 0, 1, 2
+Determining ml
+ for each l value:
+For l = 0, ml
+ = 0
+For l = 1, ml
+ = –1, 0, +1
+For l = 2, ml
+ = –2, –1, 0, +1, +2
+ CHEMISTRY GRADE 11
+80
+Number of orbitals = n2, n is 3 and n2 = 32 = 9 orbitals
+3s : 1 orbital
+3p : 3 orbitals
+3d : 5 ortbitlas
+Total = 9 orbitals
+2.
+n l sublevel Possible ml number of
+name values orbitals
+a 32 3d –2, –1, 0, +1, +2 5
+b 20 2s 0 1
+c 51 5p –1, 0, +1 3
+d 43 4f –3,–2, –1, 0, +1, +2, +3 7
+3. a A sublevel of n = 1 can have only l = 0, not l = 1. The only possible
+sub shell is 1s.
+b A sublevel with l = 3 is an f sublevel, not a d sublevel. The sublevel
+name should be 4f.
+c A sublevel with l = 1can have only ml of -1, 0, +1, not -2.
+Exercise 2.7
+1. Give the sublevel notation for each of the following sets of quantum numbers.
+a n = 3, l = 2 c n = 4, l = 1
+b n = 2, l = 0 d n = 4, l = 3
+2. Indicate whether each of the following is a permissible set of quantum
+numbers. If the set is not permissible, state why it is not.
+a n = 3, l = 1, ml
+ = +2 d n = 0, l = 0, ml
+ = 0
+b n = 4, l = 3, ml
+ = –3 e n = 3, l = 3, ml
+ = –3
+c n = 3, l = 2, ml
+ = –2
+3. Consider the electronic configuration of an atom:
+a What are the n, l and ml
+ quantum numbers corresponding to the 3s
+orbital?
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+81
+b List all the possible quantum number values for an orbital in the 5f sub
+shell.
+c In which specific subshell will an electron be present if the quantum
+numbers n = 3, l = 1, and ml
+ = –1?
+4. Which of the quantum numbers relates to the electron only? Which relate (s)
+to the orbital?
+2.6.3 Shapes of Atomic Orbitals
+The wave mechanical picture of an electron in an s-orbital looks like a ball made of a
+raised soft hairy rug (that is the orbital has spherical symmetry).
+1s
+Figure 2.9 a Geometric shape of 1s-orbital.
+The 2s-orbital also has spherical symmetry.
+2s
+Figure 2.9 b Geometric shape of 2s-orbital.
+Higher level s-orbitals (3s, 4s, ...) have similar overall shapes, that is, spherical symmetry.
+The second principal energy level (n = 2) consists of four different orbitals. One
+having l = 0, is the 2s orbital just described. The other three orbitals of the n = 2
+level have l = 1. They are described by dumb bell-shaped regions (Figure 2.10).
+ CHEMISTRY GRADE 11
+82
+Z Z
+y x
+2px 2py
+y x
+2pz
+y x
+Z
+Figure 2.10 The three p -orbitals.
+Two lobes lie along a line with the nucleus at the centre between the lobes. The
+different 2p orbitals are referred to as the 2px
+, 2py
+ and 2pz
+, orbitals, because they are
+perpendicular to one another and can be drawn along the x, y, and z coordinate axes
+(see Figure 2.10). Higher - level p-orbitals (that is 3p, 4p, ...) have similar overall
+shapes.
+The third principal energy level (n = 3) is divided in to three sublevels: one 3s orbital,
+three 3p orbitals, and five 3d orbitals. The d orbitals are described in Figure
+2.11.They are much more complex in shape than p orbitals.
+Z
+y x
+3d – y x
+2 2
+3dz
+2 3dxy 3dxz 3dyz
+Z
+y x
+Z
+y x y x
+Z
+y
+Z
+Figure 2.11 The five d orbitals.
+The fourth principal energy level is divided in to four sublevels or subshells. There are
+one 4s subshell with one orbital, a 4p subshell with three orbitals, a 4d subshell with
+five orbitals, and a 4f subshell with seven orbitals. The f orbitals have complex
+shapes.
+2.7 ELECTRONIC CONFIGURATIONS AND ORBITAL DIAGRAMS
+At the end of this section, you should be able to:
+• explain the Aufbau principle;
+• explain the Pauli exclusion principle;
+• explain Hund’s rule; and
+• write ground-state electronic configurations of multi-electron atoms.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+83
+Activity 2.14
+Form a group and discuss the given questions. After discussion share your ideas with rest
+of the class.
+1. Why are there never more than two electrons in an atomic orbital?
+2. When there are two electrons in an orbital, why do these always have opposing spins?
+3. Why are orbitals occupied singly first before the pairing of electrons occurs?
+4. Why do the electrons in singly-occupied orbitals have parallel spins?
+Several questions arise when you look carefully at the electron configuration of an
+atom. To answer these questions, it is necessary to know the basic principles that
+govern the distribution of electrons among atomic orbitals. The electron configuration
+for any atom follows the following three principles:
+Aufbau Principle. In general, electrons occupy the lowest-energy orbital available
+before entering the higher energy orbital.
+1s
+2s
+3s
+2p
+4s
+3p 3d
+4p
+Figure: 2.12 Increasing order of filling orbitals.
+Hund’s Principle. Equal energy orbitals (degenerate orbitals) are each occupied by a
+single electron before the second electrons of opposite spin enters the orbital. In other
+words, each of the three 2p orbitals (2px
+, 2py
+ and 2pz
+) will hold a single electron
+before any of them receives a second electron.
+Pauli’s Exclusion Principle. No two electrons can have the same four quantum
+numbers. i.e. they must differ in at least one of the four quantum numbers.
+ CHEMISTRY GRADE 11
+84
+Note: aufbau is a German word, which means building-up, while Pauli and
+Hund are the names of scientists.
+2.7.1 Ground State Electronic Configuration of the Elements
+The electronic configuration of an atom describes the distribution of the electrons
+among atomic orbitals in the atom. Two general methods are used to denote electron
+configurations. The subshell (sublevel) notation uses numbers to designate the principal
+energy levels or principal quantum number and the letters s, p, d and f to identify the
+sublevels or subshells. A superscript number following a letter indicates the number of
+electrons in the designated subshell (e). The designation can be written as nle
+. The
+electron configurations for hydrogen (H; Z = 1), helium (He; Z = 2) and lithium
+(Li; Z = 3) are 1s1, 1s2, 1s2 2s1 respectively.
+Activity 2.15
+Form a group and discuss the reason why the notation nle
+ does not include electron spin
+quantum numbers.
+The other way to present this information is through an orbital diagram, which consists
+of a box (or circle, or just a line) for each orbital available in a given energy level,
+grouped by sublevel, with an arrow indicating the electron’s presence and its direction
+of spin. Traditionally ↑, ms
+ = +½ and ↓, ms
+ = –½, but these are arbitrary, so it is
+necessary only to be consistent. The orbital diagrams for the first three elements are:
+ 
+2 1s 2p 2 2s
+H He
+1s
+2 1s
+1
+Li ( = 3) 1 2 Z ss 2 1
+In Li, the 2s orbital is only half-filled, so the fourth electron of beryllium fills in with its
+spin paired: n = 2, l = 0, ml
+ = 0, ms
+ = +½.
+For beryllium, the 2s sublevel is filled, and the next lower energy sublevel is the 2p.
+The three orbitals in the 2p sublevel have equal energy (same n and l values), which
+means that the fifth electron of boron can go into any one of the 2p orbitals. Since a
+p sublevel has l = 1, the ml (orientation) values can be –1, 0, or +1. For
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+85
+convenience, the boxes are lebelled from left to right, –1, 0, +1, and assume it enters
+the ml
+ = –1 orbital: n = 2, l = 1, ml
+ = –1, and ms
+ = +½.
+For our purposes here, the designation of ml
+ = –1 for this boron electron (and the
+box we chose to label –1, in which we placed the arrow) is arbitrary. The 2p
+orbital’s have equal energy and differ only in their orientation.
+= 2 2
+2 1s
+Be ( 4)1 2
+2p
+Z ss
+2 2s
+= 2 2
+2
+1s
+B ( 5)1 2
+2p
+Z ss
+2
+2s
+1 2p
+Activity 2.16
+Form a group and discuss the following question:
+1. What does each box in an orbital diagram represent?
+2. Which quantity is represented by the direction (either up or down) of the half arrows
+in an orbital diagram?
+3. Is Hund's rule used in deriving the electron configuration of beryllium?
+Share your ideas with the rest of the class.
+Exercise 2.8
+1. Write the ground-state electron configuration for potassium
+2. Write the electron configuration of an element with atomic number 10.
+3. Write the electron configuration of an element with (Z = 20 and A = 40 mu).
+4. Draw the orbital diagrams for the valence electrons of the atoms: C, N, O, F
+and Ne and determine the number of unpaired electrons for each atom.
+ CHEMISTRY GRADE 11
+86
+Activity 2.17
+Form a group and complete the electron configuration for the period 3 elements of
+perodic table.
+Atomic Element Orbital Full electron Condensed electron
+Number diagram configuration configuration
+11 Na
+3s 3p
+[1s2 2s2 2p6 3s1] [Ne] 3s1
+12 Mg [1s2 2s2 2p6 3s2] [Ne] 3s2
+13 Al
+14 Si
+15 P
+16 S
+17 Cl
+18 Ar
+Group Assignment
+Form a group and discuss on the following questions. Share your ideas with the rest of the
+class.
+Select any ten elements. For each of your chosen elements, prepare an index card. In the
+upper left-hand corner of the card, place a box like the one on the periodic table, name,
+and the atomic mass of the element.
+Do some research on the element and write a few sentences about its properties and
+uses. Attach either an object or a picture to the card that shows its properties. For example
+for carbon, you could attach a pencil lead. For mercury, you might have a picture of a
+thermometer. Make a large periodic table, using your cards. Show the result to your
+classmates.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+87
+Activity 2.18
+Table 2.2 Maximum capacities of subshells and principal shells
+n 1234
+l 0 0, 1 0, 1, 2 0, 1, 2, 3
+Subshell designation s s, p s, p, d s, p, d, f
+Orbital in subshell 1 1, 3 1, 3, 5 1, 3, 5, 7
+Subshell capacity 2 2, 6 2, 6, 10 2, 6, 10, 14
+Principal shell capacity 2 8 18 32
+Form a group and complete the following table for the first row transition metals on your
+note book
+Atomic Element Orbital Electron Condensed Electron
+Number Diagram configuration configuration
+(ground state)
+21 Sc
+22 Ti
+23 V
+24 Cr
+25 Mn
+26 Fe
+27 Co
+28 Ni
+29 Cu
+Examine the electron configurations of chromium and copper. The expected
+configuration, those based on the aufbau principle, is not the ones observed through
+the emission spectra and magnetic properties of the elements.
+Expected Observed
+Cr (Z = 24) [Ar] 4s23d4 [Ar] 4s13d5
+Cu (Z = 29) [Ar] 4s23d 9 [Ar] 4s13d10
+The reason for these exceptions to the aufbau principle are not completely
+understood, but it seems that the half-filled 3d subshell of chromium (3d5) and the
+fully filled 3d subshell of copper (3d10) lends a special stability to the electron
+configurations. Apparently, having a half-filled 4s subshell and a half-filled 3d subshell
+gives a lower energy state for a Cr atom than having a filled 4s subshell.
+ CHEMISTRY GRADE 11
+88
+Because there is little difference between the 4s and 3d orbital energies, expected and
+observed electron configurations are quite close in energy.
+At higher principal quantum numbers, the energy difference between certain subshell is
+even smaller than that between the 3d and 4s subshells. As a result, there are still
+more exceptions to the Aufabu principle among the heavier transition elements.
+Exercise 2.9
+1. Write the electron configuration for the Co3+, Cl– , Al+, Cr, As–, and Cu.
+2. Write the electron configuration and the orbital diagram of the first excited
+state of sodium. (Hint: The outermost electron is excited).
+3. What is the electron capacity of the nth energy level? What is the capacity of
+the fourth energy level?
+2.8 ELECTRONIC CONFIGURATIONS AND THE PERIODIC
+TABLE OF THE ELEMENTS
+At the end of this section, you should be able to:
+• correlate the electron configuration of elements with the periodicity of elements;
+• give a reasonable explanation for shape of the periodic table;
+• classify elements as representative, transition and inner-transition elements;
+• explain the general trends in atomic radius, ionization energy, electron affinity,
+electronegativity; and metallic character of elements within a period and group of
+the periodic table; and
+• write the advantages of the periodic classification of elements.
+2.8.1 The Modern Periodic Table
+Activity 2.19
+Form a group and assign codes to the first twenty elements in the periodic table by the
+letters from a to t.
+The following are some of the properties of the coded elements:
+1. b, g, j, o, p, s and t are the only metals.
+2. p and o form amphoteric hydroxides.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+89
+3. b, j, s and t show characteristics colour of the flame test for their chlorides.
+4. a and r can form covalent hydrides of empirical formula XH2
+, the hydroxides of l is a
+mild reducing agent, while that of e is not.
+5. i, c and q do not form oxides, hydrides or chlorides; their boiling points are
+–260°C, –246°C and –186°C respectively.
+6. The dissociation energy of molecular a is smaller than that of r.
+7. f and k form oxides of empirical formula X2
+O5
+. On hydrolysis, the oxide of f yields a
+much more acidic solution than that of k.
+8. n forms an oxide which has high melting point and is an important raw material of
+glass.
+Identify the codeed elements and place them in the correct positions in the periodic
+table, and giving reasons for doing so.
+9. Discuss on the drawbacks of Mendeleev’s periodic table and the need for the
+modern one.
+You have studied in Grade 9 that the modern periodic table of the elements is one of
+the great classifying schemes in science and has become an indispensable tool to
+chemists.
+Periodic relationships can be summarized by the general statement called periodic law.
+In its modern form, the periodic law states that certain sets of physical and chemical
+properties recur at regular intervals (periodically) when the elements are arranged
+according to increasing atomic number.
+Activity 2.20
+Form a group and discuss the following questions:
+1. Do the elements having last electron in s orbital form a family?
+2. Is there some variations in physical and chemical properties of these elements?
+3. Why are some elements placed out of the main body of periodic table?
+4. Where are isotopes located?
+5. Can the properties of a compound formed be predicted on the basis of the location
+of its combining elements in the periodic table?
+ CHEMISTRY GRADE 11
+90
+Activity 2.21
+2.8.2 Classification of the Elements
+Elements are placed in the periodic table in accordance to valence electron entering
+the orbital of lowest energy. There are 18 groups and 7 periods in the modern
+periodic table.
+Representative or main group elements: These consist of all s- and p-block elements.
+The chemical properties of the representative elements are determined by the number
+of valence electrons in their atoms.
+Transition elements: These are d-block elements. There are four series of transitional
+elements, 3d, 4d, 5d and 6d depending on the energy levels of d-orbitals.
+Inner transition elements: These are the f-block elements. There are two series of
+f-block elements, 4f and 5f series called lanthanides and actinides, respectively. The
+periodic table is unable to include the inner transition elements in its main frame. They
+have been allotted the same single place in the periodic table though their electronic
+configurations are not identical. Besides, the variation in their properties is not much.
+1s
+2s
+3s
+4s
+5s
+6s
+7s
+3d
+4d
+5d
+6d
+2s
+3s
+4s
+5s
+6s
+1s
+4f
+5f
+Figure 2.13 Classification of elements according to the type of subshells being filled.
+Form a group and discuss the following questions:
+1. How can the 90 or so naturally occurring elements be classified?
+2. Are they all separate and distinct?
+3. Is there a need to learn about 90 different elements as well as some thousands of
+their compounds?
+4. What could be the basis of classifying elements?
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+91
+Activity 2.23
+Activity 2.22
+2.8.3 Periodic Properties
+Form a group and discuss the following questions:
+1. How does size of elements vary across a period?
+2. Why are elements of Group1 and 2 called metals, while those of Group 17 nonmetals?
+3. Why elements of Group18 are least reactive?
+4. Define shielding effect and effective nuclear charge.
+Some physical properties, such as thermal and electrical conductivity, density, and
+hardness are displayed only by bulk matter, that is, by large aggregations of atoms. In
+this section you will examine some periodic atomic properties like atomic radii,
+ionization energies, electron affinities, electronegativity, and metallic character.
+Atomic Size (Atomic Radii)
+Form a group and discuss on the following questions:
+1. Why the sizes of atoms do not increase uniformly with increasing atomic number?
+2. Why the difference in atomic radius between the elements Z = 11 (Na; 186 pm) and
+Z = 12 (Mg; 160 pm) is so large, where as between Z = 24 (Cr; 125pm) and
+Z = 25 (Mn; 124 pm) the difference is negligible.
+3. In which location in the periodic table would you expect to find the elements having
+the largest atoms? Explain.
+4. Why isoelentronic ions do not have the same ionic radii?
+5. Why does the quantum-mechanical description of multi-electron atoms make it
+difficult to define the term atomic radius?
+6. How do the sizes of atoms change as we move:
+a from left to right in a row in the periodic table?
+b from top to bottom in a group in the periodic table? Explain.
+7. a Why does the He atom have a smaller radius than the H atom?
+b Why is the He atom smaller than the Ne atom? Explain.
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+92
+Exact size of an isolated atom cannot be measured because its outermost electrons
+have a chance of being found at relatively large distances from the nucleus. What can
+be measured is the distance between the nuclei of two adjacent atoms, and can derive
+a property called the atomic radius from this distance.
+One of the most common methods to determine atomic radius is to assume that atoms
+are spheres that touch each other when they are bonded together (Figure 2.14).
+r = d/2
+Figure 2.14 Atomic radius for a diatomic molecule.
+Figure 2.14 depicts a way to define the radius of an atom using the distance d
+between the nuclei of two atoms on an element in a molecule. It is assumed that the
+atom is a hard sphere with a radius equal to half the bond distance, 1/2d.
+For example, the distance between iodine atoms in an iodine molecule I2, (I—I) is
+2.66 Å, so we can define the radius of an iodine atom to be half this distance: 1.33 Å:
+similarly, the distance between iron atoms (Fe) in iron metal is 2.48Å. Therefore, each
+iron atom in the metal has a radius of 1.24Å.
+Within a vertical group of the periodic table, each succeeding member has one more
+principal shell occupied by electrons, thus, atomic radii increases from top to bottom
+within a group of the periodic table. To describe how atomic radii vary within a
+period of the periodic table, it is helpful to employ a new concept. The effective
+nuclear charge (Zeff ) acting on an electron is the actual nuclear charge less the
+screening effect of other electrons in the atom.
+For example, consider a sodium atom. If the 3s valence electron were at all
+times completely outside the region in which the ten electrons of the neon core
+(1s2 2s2 2p6) are found, the 3s electron would be perfectly screened or shielded
+from the positively charged nucleus; it would experience an attraction to a net
+positive charge of only +11 – 10 = +1. The corresponding situation for
+magnesium atom would be that of the two 3s electrons outside the neon core
+and a net positive charge of +12 – 10 = +2 acting on each of the 3s electrons.
+Similarly it is found that the net positive charge acting on the valence electrons
+would progressively increase across the third period.
+d
+r
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+93
+Activity 2.24
+The effective nuclear charge increases from left to right in a period of representative
+elements in the periodic table. Because the effective nuclear charge increases, valence
+electrons are pulled in toward the nucleus and held more tightly. Atomic radii of the
+A-group elements (main group element) tend to decrease from left to right in a
+period of the periodic table.
+The restriction to A-group elements is an important one. In a series of B-group
+elements (transition elements), electrons enter an inner electron shell, not the valence
+shell. In this process, the effective nuclear charge remains essentially constant instead
+of increasing. For example, compare the effective nuclear charges, Zeff, of iron,
+cobalt, and nickel.
+Fe: [Ar] 3d 64s2 Co: [Ar] 3d 74s2 Ni: [Ar] 3d8 4s2
+Zeff = +26 – 24 = +2 Zeff = +27 – 25 = +2 Zeff = +28 – 26 = +2
+Because the effective nuclear charges are almost the same, we conclude that the radii
+should also be almost the same. The actual values are 124, 124, and 125 pm,
+respectively, for Fe, Co and Ni.
+Exercise 2.10
+1. Arrange the following atoms in order of increasing atomic radius: F, P, S, As.
+2. The atoms and ions Na, Mg+, Al2+ and Si3+ all have the same number of
+electrons. For which of these will the effective nuclear charge acting on the
+outer most electron be the smallest? For which will it be greatest? Explain
+Ionization Energy (IE)
+Form a group and discuss on the following:
+1. The trend in successive ionization energies as electrons are removed one at a time
+from an aluminum atom. Why is there a big jump between IE3
+ and IE4
+?
+2. Why does sulphur have a lower first ionization energy than phosphorus?
+3. The second ionization energy of lithium is much greater than that of beryllium. Explain.
+4. For strontium, which quantity will be greater, the difference between IE1
+ and IE2
+ or
+the difference between IE2
+ and IE3
+?
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+94
+The ionization energy (IE) is the amount of energy required to remove the outermost
+electron in an isolated gaseous atom or ion.
+Multi-electron atoms can lose more than one electron, so the ionization energies
+required to remove each electron are numbered in sequence from the ground-state
+atom. Consider for example the boron atom, which has five electrons, two in an inner
+core (1s2) and three valence electrons (2s22p1). The five ionization steps and their
+ionization energies, IE1 through IE5, are:
+B (g) → B+ (g) + e–; IE1 = 801 kJ mol–1
+B+ (g) → B2+ (g) + e–; IE2 = 2427 kJ mol–1
+B2+ (g) → B3+ (g) + e–; IE3 = 3660 kJ mol–1
+B3+ (g) → B4+ (g) + e–; IE4 = 25,025 kJ mol–1
+B4+ (g) → B5+ (g) + e–; IE5 = 32,822 kJ mol–1
+The first ionization eneergy (IE1) is the energy needed to remove an electron from the
+highest occupied sublevel of the gaseous atom.
+Atom(g) → Ion+(g) + e– ∆E = IE1 > 0
+The second ionization energy (IE2 ) removes the second electron. Since the electron is
+being pulled away from a positively charged ion, IE2
+ is always larger than IE1:
+Ion+ (g) → Ion2+ (g) + e– ∆E = IE2 (always > IE1)
+The first ionization energy is a key factor in an elements chemical reactivity because,
+atoms with a low IE1 tend to form cations during reactions, whereas those with a high
+IE1, (except the noble gases) often form anions.
+The elements exhibit a periodic change in first ionization energy. There is a roughly
+inverse relationship between IE1
+ and atomic size.
+The only significant deviations from this pattern occur in Group IIIA. Although
+IE1 decreases as expected from boron (B) to aluminium (Al), no decrease occurs
+for the rest of the group. As with the atomic size trends, filling the d sublevels of
+the intervening transition elements in period 4, 5 and 6 causes a greater than
+expected Zeff , which holds the outer electrons tightly in this larger IIIA members.
+As we move across a period, Zeff generally increases so atomic radii become smaller.
+As a result, the attraction between the nucleus and the outer electrons increases, so an
+electron becomes more difficult to remove. In general, ionization energy increases
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+95
+across a period; it is easier to remove an electron from an alkali metal than from a
+noble gas.
+There are two exceptions in the otherwise smooth increase in ionization energy
+trend, which occur at Groups IIIA and VIA in period 2 (at B and at O) and in
+period 3 (at Al and at S). The first deviation occurs because the np sublevel is
+higher in energy than the ns sublevel. The second deviation occurs because the
+np4 electron occupies the same orbital as another np electron, the first such
+pairing, so electron repulsions raise the orbital energy. Removing this electron
+relieves the repulsions and leaves a stable, half-filled np sublevel; thus the fourth
+p electron is pulled off more easily.
+For the representative elements, removing a core electron requires much more energy
+compared to removing a valence electron.
+Group Assignment
+Form a group and discuss on the following questions. Share your ideas with the rest of the
+class.
+Plot the first ionization energy of the first 18 elements against atomic number. On the
+same graph, make a plot of the second ionization energy of the first 18 elements. Consult
+chemistry books for the required information.
+Is second IE less than first IE for an element?
+Compare the second IE values of sodium and magnesium. First ionizat ion energy, kJ/ mol
+Atomic no.
+Li Na Al
+Zn
+Kr
+Ga
+Rb
+Cd
+In
+Cs
+Xe
+Ti
+Rn
+Fr
+Ar
+Ne
+He 2500
+2000
+1500
+1000
+500
+10 20 30 40 50 60 70 80 90 100
+Figure 2.15 A graph of first ionization energy versus atomic number.
+ CHEMISTRY GRADE 11
+96
+Example 2.8
+Explain the irregularities in the trends across periods.
+1. Boron, with Z = 5 and the electron configuration 1s22s22p1, has smaller
+first ionization energy (801 kJ mol–1) than does beryllium (Z = 4), which
+has the electron configuration 1s22s2 and IE1 = 900 kJ mol–1.
+Solution: The 2p electron of boron is at a higher energy than the 2s
+electron of beryllium and is therefore easier to remove. This kind of
+discontinuity occurs generally in proceeding from a Group IIA or Group IIB
+elements to a Group IIIA element.
+2. IE1 values for nitrogen ([He]2s22px
+1 py
+1pz
+1) is higher than oxygen
+([He]2s22px
+2py
+1pz
+1).
+Solution: The observed IE1 values are 1314 kJ/mol for oxygen and 1402
+kJ/mol for nitrogen. In 2p orbitals, the repulsion between the paired
+electrons in the 2px orbital of oxygen makes the removal of one of those
+electrons easier to accomplish than the removal of an unpaired electron
+from the half-occupied 2p orbital of nitrogen.
+Table 2.3 Ionization energies of some selected elements (in kJ mol–1)
+IA IIA IIIA IVA VA VIA VIIA VIIIA
+Li Be B C N O F Ne
+IE1 520 900 801 1086 1402 1314 1681 2081
+IE2 7298 1757
+Na Mg
+IE1 496 738
+IE2 4562 1451
+K Ca
+IE1 419 590
+IE2 3059 1145
+Rb Sr
+IE1 403 550
+IE2 2633 1064
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+97
+Exercise 2.11
+1. Use the third period of the periodic table as an example to illustrate change in
+the first ionization energies of the elements as we move from left to right.
+Explain the trend.
+2. Ionization energy measurements are usually carried out with atoms in the
+gaseous state. Why?
+3. The first and second ionization energies of K are 419 kJ mol–1 and 3052 kJ
+mol–1 and those of Ca are 590 kJ mol–1 and 1145 kJ mol–1, respectively,
+compare their value and comment on the differences.
+4. Why does potassium have a lower first ionization than lithium?
+5. Based on their positions in the periodic table, predict which atom of the
+following pairs will have larger first ionization energy:
+a Ga, Ge b Br, Sb c K, Cr, d Mg, Sr e O, Ne
+Electron Affinity (EA)
+Ionization energy refers to the process of forming a gaseous positive ion from a
+gaseous atom. The corresponding atomic property for the formation of a gaseous
+negative ion is electron affinity, the energy change that occurs when an electron is
+added to a gaseous atom or ion.
+An electron approaching a neutral atom experiences an attraction for the positively
+charged nucleus. Repulsion of the incoming electron by electrons already present in
+the atom tends to offset this attraction. Still, in many cases the incoming electron is
+absorbed by the atom and energy is evolved as in the process:
+F (g) + e– → F– (g); EA = –328 kJ mol–1
+When a fluorine atom gains an electron, energy is given off. The process is exothermic
+and the electron affinity is therefore a negative quantity.
+Activity 2.25
+Form a group and discuss on the following:
+1. By using electron configurations, explain why the electron affinity of F is negative
+value whereas the electron affinity of Ne is a positive value.
+2. Which group of elements has electron affinities with the largest negative values?
+Explain why.
+3. Silicon has an electron affinity of –134 kJ/mol. The electron affinity of phosphorus is
+–72 kJ/mol. Give a plausible reason for this difference.
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+98
+Table 2.4 Electron affinities of some selected elements (in kJ mol–1)
+IA IIA IIIA IVA VA VIA VIIA VIIIA
+Li Be B C N O F Ne
+–60 0 –27 –154 –7 –141 –328 –
+Na Mg Al Si P S Cl
+–53 0 -44 –20 –200 –200 –349
+K Ca Ga Ge As Se Br
+–48 0 –36 –116 –195 –195 324
+Rs Sr In Sn Sb Te I
+–46 0 –34 –121 –190 –190 –295
+Cs Bi Po At
+–47 –183 –270 –270
+Table 2.4 lists several electron affinity values but we observe fewer clear-cut trends
+and more irregularities than in the Table 2.3, listing the ionization energies of some
+elements. The given information suggest a rough correlation between electron affinity
+and atomic size. Smaller an atom, more negative is its electron affinity. The smaller
+the atom the closer an added electron can approach the atomic nucleus and the more
+strongly it is attracted to the nucleus. This certainly seems to be the case for the
+Group IA elements, for Group VIA from S to Po and for Group VIIA from Cl to At.
+The first row elements present some problems. The electron affinity of O is not as
+negative as that of S, nor is that of F as negative as that of Cl. Here it may be that
+electron repulsions in the small compact atoms keep the added electron from being
+tightly bound as we might expect.
+In most cases, the added electron goes into an energy sublevel that is already partly
+filled. For the Group IIA and VIIIA atoms, however, the added electron would be
+required to enter a significantly higher energy level, the np level for the Group IIA
+atoms and the s level for the next principal level for the Group VIIIA atoms. In these
+cases a stable anion does not form.
+As the stepwise loss of multiple electrons in the formation of positive ions has been
+described, in the same manner, the stepwise addition of electrons in anion formation
+can be described, and we can write a separate electron affinity for each step. For
+oxygen atom, it can be written as:
+O(g) + e– → O– (g); EA1 = –141 kJ mol–1
+O–(g) + 1e– → O2–(g); EA2 = +744 kJ mol–1
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+99
+Activity 2.26
+Form a group and discuss the possible reasons why EA2
+ is a positive quantity for oxygen
+atom.
+Share your ideas with the rest of the class.
+Electronegativity
+Atoms of the elements in the upper right of the periodic table (small, non-metal atoms)
+attract bonding electrons most strongly. Therefore, they have the greatest
+electronegativities. Atoms of the elements to the left side of the table (large, metal
+atoms) have a weaker hold on electrons. They have the smallest electronegativities.
+On an electronegativity scale devised by Linus Pauling, the most non-metallic and
+hence most electronegative element, fluorine, is assigned a value of 4.0. Typical active
+metals have electronegativities of about 1.0 or less.
+Within a period of the periodic table, elements become more electronegative from left
+to right. In the second period, the trend is regular.
+Li Be B C N O F
+1.0 1.5 2.0 2.5 3.0 3.5 4.0
+That is, it increases by about 0.5 per element as we move from lithium at the far left
+to fluorine at the far right. In other periods the trend is in the same direction but less
+regular;
+Na Mg Al Si P S Cl
+0.9 1.2 1.5 1.8 2.1 2.5 3.0
+Within a group, electronegativity decreases from top to bottom. Chlorine is less
+electronegative than fluorine and sulphur is less electronegative than oxygen. A
+comparison of electronegativities is not quite straight forward when considering two
+elements that are neither in the same period nor in the same group.
+ CHEMISTRY GRADE 11
+100
+Form a group and discuss on the following:
+1. What is the electronegativtiy of an atom? How is it different from electron affinity?
+Discuss in groups.
+2. In a given family of the periodic table, what is the general relationship between
+electronegativity and size?
+Share your ideas with the rest of the class.
+Metallic Character
+Activity 2.27
+Activity 2.28
+Form a group and summarize the trend in metallic character as a function of position in
+the periodic table. Is it the same as the trend observed for atomic size and Ionization
+energy?
+Share your ideas with the rest of the class.
+Metallic character refers to the chemical properties associated with elements classified
+as metals. These properties arise from the elements ability to lose electrons. As one
+moves across a period from left to right in the periodic table, the metallic character
+decreases, as atoms are more likely to gain electrons to fill their valance shell rather
+than to lose them to remove the shell. Down a group, the metallic character increases,
+due to the lesser attraction from the nucleus to the valence electrons.
+2.8.4 Advantages of Periodic Classification of the Elements
+Activity 2.29
+Form a group and discuss the following:
+a In which region of the periodic table do you locate metals?
+b In which region are the elements with general electronic configuration of ns2
+p5
+located? Give group number.
+c Write group number and period of an element with atomic number 34.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+101
+d Is an element with the electronic configuration 1s2
+ 2s2 2p6
+ 3s1 a metal or a non- metal?
+Will it form a cation or an anion readily? Give appropriate reason.
+e An element is located in Group 18 and 2nd Period of the modern periodic table. On
+the basis of this information predict the reactivity of the element.
+f An element X of 3rd Period has very low IE1
+ and largest size in the period. Specify
+possible group numbers.
+Some of the advantages of periodic classification of elements are:
+1. The classification of elements is based on the atomic number, which is a
+fundamental property of an element.
+2. The reason for placing isotopes at one place is justified as the classification is on
+the basis of atomic number.
+3. It explains the periodicity of the properties of the elements and relates them to
+their electronic configurations.
+4. The position of the elements that were misfits on the basis of mass number
+(anomalous pairs like argon and potassium) could be justified on the basis of
+atomic number.
+5. The lanthanides and actinides are placed separately at the bottom of the periodic
+table.
+6. The table is simple, systematic and easy way for remembering the properties of
+various elements as it is based on the electronic configuration.
+Unit Summary
+• Cathode rays (electrons) are produced when electricity passes through
+evacuated tubes. X-rays form when cathode rays strike matter.
+• Radioactivity is the emission of radiation by unstable nuclei, and the most
+common types of radiations are alpha (α) particles, beta (β) particles
+and gamma (γ) rays. Alpha particles are helium nuclei; beta particles are
+electrons; and gamma rays are high frequency electromagnetic radiation
+similar to X-rays.
+• Rutherford's atomic model is that of a very small positively charged
+nucleus and extra-nuclear electrons. The nucleus consists of protons and
+neutrons and contains practically all the mass of an atom. Atomic masses
+and relative abundances of the isotopes of an element can be established
+by mass spectrometry. The atomic mass of the element is the average of
+these mass numbers based on their percentage abundances.
+ CHEMISTRY GRADE 11
+102
+• Electromagnetic radiation is the transmission of electric and magnetic
+fields as a wave motion. The waves are characterized by their velocity in
+a medium: c = νλ. A light source that emits an essentially unbroken
+series of wavelength components has a continuous spectrum. Only a
+discrete set of wavelength components is present in the emission spectrum
+of an atom.
+• Einstein's explanation of the photoelectric effect views light as packets of
+energy called photons. The energy of the photon (Eph) is given by the
+expression E = hν where h is Planck's constant.
+• Bohr's theory requires the electron in a hydrogen atom to be in one of a
+discrete set of energy levels. The fall of an electron from a higher to a
+lower energy level releases a discrete amount of energy as a photon of
+light with a characteristic frequency.
+• Bohr's theory accounts for the observed atomic spectrum of hydrogen
+atom.
+• The electron in a hydrogen atom can be viewed as a matter-wave
+enveloping the nucleus. The matter-wave is represented by a wave
+equation, and solutions of the wave equation are wave functions. Each
+wavefunction is characterized by the value of four quantum numbers: the
+principal quantum number, n; the angular momentum quantum number l;
+the magnetic quantum number, ml; and the spin quantum number, ms.
+Wave functions with acceptable values of the three are called atomic
+orbitals. An orbital describes a region in an atom that has a high
+probability of containing an electron or a high electron change density.
+Orbitals with the same value of n are in the same principal energy level
+or principal shell. Those with the same value of n and of l are in the
+same sublevel or subshell. The shapes associated with orbitals depend on
+the value of l. Thus, the s orbital (l = 0) is spherical and the p orbital
+(l = 1) is dumbbell-shaped.
+• The n, l and ml
+ quantum numbers define an orbital, but a fourth
+quantum number is also required to characterize an electron in an orbital
+- the spin quantum number, ms. This quantum number may have either of
+two values: +½ or –½.
+• The wave mechanical treatment of the hydrogen atom can be extended to
+multi-electron atoms, but with this essential difference: principal energy
+levels are (i) lower than those of the hydrogen atom and (ii) split, that is,
+having different energies for the different subshells.
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+103
+• Electron configuration refers to the distribution of electrons among
+orbitals in an atom. Introduced here are the subshell notations (or "s,p,d,
+f") and the orbital diagram. Key ideas required to write a probable
+electron configuration are: (i) electrons tend to occupy the lowest energy
+orbitals available; (ii) no two electrons in an atom can have all four
+quantum numbers alike; and (iii) where ever possible, electrons occupy
+orbitals singly rather than in pairs.
+• The Aufbau principle describes a hypothetical process of building up one
+atom from the atom of preceding atomic number. With this principle and
+the idea cited above, it is possible to predict probable electron
+configurations for many of the elements. In the Aufbau process, electrons
+are added to the s or p subshell of highest principal quantum number in
+the representative or main group elements. In transition elements,
+electrons go into the d subshell of the second last shell, and in the inner
+transition elements, into the f subshell of the third last shell.
+• Elements with similar valence-shell electron configurations fall in the
+same group of the periodic table. For A-group elements, the group
+number corresponds to the number of electrons in the principal shell of
+highest quantum number. The period number is the same as the highest
+number of principal shell containing electrons (the outer shell). The
+division of the periodic table into s, p, d and f blocks greatly assists in
+the assignment of probable electron configurations.
+• Certain atomic properties vary periodically, when atoms are considered in
+terms of increasing atomic number. The properties and trends considered
+in this unit are those of atomic radius, ionic radius, ionization energy and
+electron affinity. Values of these atomic properties strongly influence
+physical and chemical properties of the elements

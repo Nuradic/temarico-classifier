@@ -8,6 +8,7 @@ from nltk.tokenize import word_tokenize
 stop_words = set(stopwords.words("english"))
 ps = PorterStemmer()
 import os
+subject="chemistry"
 
 # Read from file
 def read_text_files_from_folder(folder_path):
@@ -34,7 +35,7 @@ def filter(string):
     return fi.sub("",string)
 def start_indexing():
     inv_index = {}
-    file=read_text_files_from_folder("docs")
+    file=read_text_files_from_folder(f"docs/{subject}")
     docs=file["content"]
     dirs=file["dirs"]
     docIndex=0
@@ -113,12 +114,16 @@ def search(query,off=10):
     ranked = sorted(enumerate(similarities, 1), key=lambda x: x[1], reverse=True)
     headers = ["Rank", "Score", "Document"]
     data = []
+    retu=[]
 
     r = 0
     for rank, score in ranked:
         r = r + 1
+        retu.append([f"{index3.meta['dirs'][rank-1]}",score])
         data.append([r, score, f"{index3.meta['dirs'][rank-1]}"])
     print(tabulate(data[:off], headers, tablefmt="fancy_grid"))
+
+    return retu
 
 
 

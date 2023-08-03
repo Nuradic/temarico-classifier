@@ -1,0 +1,2748 @@
+The earth’s surface is not uniform due to variation in its geological formation. 
+As a result, we observe altitudinal variation between places. The major geologic 
+events that have taken place during the geological history of the earth have left 
+varied landforms such as plateaus, mountains, hills, valleys and plains. These 
+uneven landforms with different heights are represented on maps with the help 
+of contour lines.
+The relief features of the earth have three dimensions. These are length, breadth, 
+and height. These three-dimensional features are represented on two-dimensional 
+maps. Traditionally, hachuring, hill shading, layer tinting and form lines used to 
+be used to show the varied landforms of the earth. However, they are no longer 
+in use these days as they are replaced by contour lines.
+In this unit, you are going to learn about how relief features, drainage patterns, 
+and human-made features are represented on contour maps. In addition, the unit 
+will try to introduce you to some concepts of Geographic Information System 
+(GIS), including its essence, history and uses.
+2.1 RELIEF REPRESENTATION ON CONTOUR 
+MAP
+At the end of this section, you will be able to:
+Þ draw contour lines from spot heights, using interpolation;
+Þ construct relief cross-sections to visualize features of the landscape;
+Þ determine the intervisibility of land features by section drawing or contour 
+maps;
+Þ differentiate different landforms on contour maps; and
+Þ identify types of contour lines.
+Key Terms
+³ Relief 
+³ Contour 
+³ Slope 
+³ Spot height 
+³ Ground survey 
+³ Aerial photography 
+³ Satellite imagery 
+³ Stereoscope 
+³ Interpolation
+³ Clinometer 
+³ Altimeter 
+³ Contour interval 
+³ Profile 
+³ Vertical exaggeration 
+³ Intervisibility 
+Grade 11 Geography 26
+2.1 Relief Representation On Contour Map
+What is relief? What is cartography? 
+The term relief refers to the way that the earth’s surface is arranged. It shows the 
+difference in altitude that exists between different landforms. Relief indicates the 
+variation in the nature of the land surface (i.e., “the lie of the land”). It thus shows 
+the broad features and relative heights of highlands and lowlands such as flood 
+plains, spurs, hills, plateaus etc. As we know, mountains have higher altitudes than 
+hills. Similarly, plateaus are higher in altitude than plains. Such a difference in 
+altitude produces diverse topographic features on the earth’s surface. As a result, 
+we have valleys, depressions, plains, plateaus, hills, and mountains constituting 
+the earth’s topography. These features of the earth’s surface need to be represented 
+by using different techniques while mapping the earth. Currently, the most widely 
+used relief-representation cartographic technique is using contour lines.
+Brainstorming
+1 What are contour lines?
+2 How do they represent different landforms on maps?
+3 How are contour lines drawn?
+4 What are the methods and procedures applied to represent landforms on maps?
+Contour lines, also known as isohypses, are imaginary lines shown on a map that 
+connect places of equal altitude above mean sea level. They provide the most 
+accurate way of showing relief on maps. Contours are used to show the different 
+landforms of the earth on two-dimensional maps. They help cartographers to 
+easily show the depressions, valleys, hills, mountains, plains and plateaus by 
+using contours with varying shapes and distances between consecutive contours. 
+For instance, the shapes of the contour lines provide an accurate representation 
+of the shapes of hills and depressions, and the lines themselves show the actual 
+elevations. In addition, while closely spaced contour lines indicate steep slopes, 
+the widely spaced ones indicate gentle slopes.
+Contours are one of the several common methods used to denote elevation 
+or altitude and depth on maps. From a contour map, a sense of the general 
+terrain can be determined. Contours are used at a variety of scales, from largescale engineering drawings and architectural plans, through topographic 
+maps up to continental-scale maps.
+The term “contour line” is most commonly used in cartography. However, the 
+term “isobath” for underwater depths on bathymetric maps and “isohypse” 
+for elevations are also used. The process of drawing contours (isohypses) on a 
+map is called isopletion.
+Unit 2: Map reading and Interpretation 27
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+Look at the following contour map and try to identify the general pattern and the 
+arrangement of each contour line.
+The different topographic features that characterize landscapes are shown on 
+topographic maps by using contours with various characteristics. The patterns that 
+the contours are drawn with, their spacing and shape indicate the characteristics 
+of the relief of the place. As a result, valleys, spurs, shoulders, plains, plateaus, 
+mountain tops, different types of slope, cliffs, overhanging cliffs, mountain ranges, 
+and depressions are represented by contours of different shapes on topographic 
+maps. For instance,
+F Evenly spaced contours represent a uniform slope; 
+F Contours that are widely spaced indicate a gentle slope; 
+F Contours that are close together near the top of a hill and widely spaced 
+at the bottom indicate a concave slope; 
+F Contours that are widely spaced at the top of a hill and close together 
+at the bottom indicate a convex slope;
+F Overlapping contours, i.e., contours that merge at a point, indicate a 
+cliff;
+Figure 2.1: Contour Map
+Grade 11 Geography 28
+2.1 Relief Representation On Contour Map
+F Crossing contours indicate an overhanging cliff;
+F Closed contours with more or less circular shapes, with values increasing 
+towards the center and with the top indicated by a spot height represent 
+mountains or hills;
+F Closed contours with more or less circular shapes, with values 
+decreasing towards the center represent depressions;
+F Closed contours with elongated shapes, with values increasing towards 
+the center with no specific tips indicate mountain ranges;
+F Closed contours with more or less rectangular shapes, with values 
+increasing towards the center with the top being a very wide closed 
+contour represent plateaus; 
+F Contours with “V” shapes, with downward bending and values 
+increasing upward represent spurs; and 
+F Contours with “V” shapes, with upward bending and values increasing 
+upward represent valleys.
+The relief of a place represents the varying heights of hills and mountains, and 
+the depths of valleys and gorges as they appear on a topographic map. Unless the 
+relief is adequately shown, the map does not give a clear picture of the mapped 
+area. In the earliest maps, relief was often indicated pictorially by small drawings 
+of mountains and valleys known as pictorials. However, this method is extremely 
+inaccurate and has been generally replaced by a system of contour lines. The 
+contour lines represent points in the mapped area that are of equal elevations. 
+They are drawn with a contour interval that may be any unit, depending on the 
+amount of relief and the scale of the map, such as 50 or 100 m, and in drawing the 
+map the cartographer joins together all points that are at a height of 50 or 100 m 
+above sea level, all points at a height of 100 or 200 m, all points at a height of 150 
+or 300 m, and so on. Being drawn in such a way, the shapes of the contour lines 
+provide an accurate representation of the shapes of hills and depressions, and the 
+lines themselves show the actual elevations. The spacing between contour lines 
+also indicates the nature of the slopes.
+Unit 2: Map reading and Interpretation 29
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+Activity 2.1
+1 Define the following terms:
+a relief b contour c isobath 
+2 How do we differentiate steep slopes from gentle slopes and plains from 
+plateaus? 
+3 In what situations do we use a small vertical interval (V.I.) on a contour map? 
+4 Describe the type of land feature formed by the following contour lines:
+a evenly spaced contours 
+b contours that are widely spaced 
+c contours drawn one over the other/ merging contours 
+d contours crossing one another.
+2.1.1 Drawing Contour Lines from Spot 
+Heights
+Brainstorming 
+1 How are contours drawn?
+2 How is spatial information concerning the area being represented by contour 
+maps obtained?
+3 Do you think that aerial photographs/images taken by aircraft and artificial 
+satellites can be used in contour mapping? How? 
+4 How do cartographers draw contour lines from spot heights? 
+Contours are drawn on maps based on the spatial data that is gathered through 
+different techniques. This is to mean that before preparing the contour map of 
+an area, surveying the area to obtain spatial data about the relief of the place is 
+important. The collection of spatial information that is vital for contour mapping 
+can be done through ground survey, aerial photography or satellite imagery. 
+When the surveying is done by using aircraft and satellites (through aerial 
+photography/imagery), the aerial photograph of the landscape has to be 
+mapped through aerial photogrammetry, which uses an instrument called a 
+stereoscope. Photogrammetry is the science of taking measurements from 
+aerial photographs or satellite images to make maps, including topographic maps. 
+Photogrammetrists use photographs taken by a special camera on an airplane or 
+Grade 11 Geography 30
+2.1 Relief Representation On Contour Map
+by spacecraft satellites. To minimize distortions, the pictures are corrected using 
+a stereoscopic device called a stereoplotter, which creates a three-dimensional 
+image by combining overlapping pictures of the same terrain taken from two 
+different angles. Contours, roads, and other features are then traced from the 
+three-dimensional image to form a map base. 
+The photographs with horizontal and vertical information of the area will then 
+be reconstructed into stereo models for drafting true-scale maps. In this method, 
+precise cameras and precision-mapping equipment are required to show true 
+elevations for all points in the mapped area. Elevations on topographic maps are 
+shown chiefly by use of superimposed contour lines connecting points of equal 
+elevation, to give a readable picture of the terrain.
+On the other hand, when spatial information is gathered through ground 
+surveys, surveyors must physically be present in the area being mapped and take 
+measurements of the relief and keep records of their measurements of height. 
+Then, the gathered data will be recorded on paper or stored in a computer by 
+using spot heights, with each spot height representing the measured altitude of 
+the specific point. Then, the cartographers/map-makers will connect all points 
+of equal altitude to draw the contours with the contour interval that they choose 
+based on the nature of the landscape and the scale of the map. 
+Drawing contours from spot heights is tiresome and time-consuming. However, 
+it is important for producing contour maps in situations where advanced 
+technologies of contour mapping are not adequately available. Contours are 
+drawn from spot heights by using the method called interpolation to determine 
+the height of places between successive spot heights. Spot heights represent 
+individual heights of places at varying points as obtained through ground surveys 
+A stereoscope is an optical instrument through which one may view 
+photographs of objects not merely as plane representations, but with an 
+appearance of solidity, and in relief. The stereoscope is an instrument in 
+which two photographs of the same object, taken from slightly different 
+angles, are simultaneously presented, one to each eye. Each picture is 
+focused by a separate lens, and the two lenses are inclined so as to shift 
+the images toward each other and thus ensure the visual combination of 
+the two images into one three-dimensional image. Stereoscopic aerial 
+photography permits three-dimensional representations, which can be 
+used in the preparation of contour maps.
+Unit 2: Map reading and Interpretation 31
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+by using clinometers, which are hand held surveying instruments for measuring 
+angles of slopes, and altimeters, instruments to measure the elevations of places.
+Activity 2.2
+Discuss the following questions with your friend and try to answer them 
+collaboratively.
+1 How can you determine the points at which each contour line with a 100 m 
+contour interval passes?
+2 How do cartographers obtain spatial data for their mapping?
+Interpolation can be done in any one of the following ways.
+F Estimation method: This technique is used to locate contour lines by 
+rough estimation. It should be applied in areas where the ground is 
+quite regular and when very simple and small-scale work is done. It 
+does not necessarily need great accuracy.
+F Calculation method: This is the most accurate method of interpolation, 
+whereby the exact altitude of the contour will be determined by 
+measurement and subsequent calculations. Despite its accuracy, the 
+calculation method is time-consuming and laborious. 
+F Graphical method: This is the quickest and the most accurate method 
+of interpolation of contours. In the graphic method, a graph is prepared 
+on tracing paper.
+Methods of Depicting Relief on Maps
+How are different relief features represent on maps?
+Map makers use several methods to depict relief of the terrain.
+a Layer Tinting: Layer tinting is a method of showing relief by using 
+different colours or different intensities of the same colour. Each shade of 
+colour, or band, represents a definite elevation range. To understand the 
+relief, a legend is printed on the map margin. However, this method does 
+not allow the map user to determine the exact elevation of a specific point. 
+It only shows the range of elevation.
+b Form Lines: Form lines are not measured from any datum plane. As a 
+result, they have no standard elevation. They only give a general idea of 
+Grade 11 Geography 32
+2.1 Relief Representation On Contour Map
+relief represented. Form lines are represented on a map as dashed lines and 
+are never labeled with representative elevations.
+c Shaded Relief: Relief shading is a method that indicates relief by a shadow 
+effect achieved by tone and colour that results in the darkening of one side 
+of terrain features, such as hills and ridges. The darker the shading, the 
+steeper the slope. Shaded relief is sometimes used in conjunction with 
+contour lines to emphasize these features.
+d Hachures: Hachures are short, broken lines that are used to show relief. 
+They are sometimes used with contour lines. Hachures do not represent 
+exact elevations, but are mainly used to show large, rocky outcrop areas. 
+Hachures are widely used on small-scale maps to show mountain ranges, 
+plateaus, and mountain peaks.
+e Contour Lines: A contour line represents an imaginary line on the ground, 
+representing altitude above or below mean sea level. Contour lines are 
+the most common method of showing relief and elevation on a standard 
+topographic map. All points on a given contour line are at the same 
+elevation. The elevation represented by contour lines show the vertical 
+distance above or below mean sea level. Cartographers use three types of 
+contour lines while representing relief on topographic maps. 
+The three types of contour lines used on a standard topographic map are the 
+following.
+1 Index Contour: Starting from zero elevation or mean sea level, every 
+fifth contour line is a heavier/darker than the other contour lines. These 
+heavier contour lines are called index contour lines. Commonly, each 
+index contour line is numbered at some point. This number indicates the 
+elevation of that line.
+Supplementary
+400 Index
+Intermediate
+Figure 2.2: The three types of contour lines
+Unit 2: Map reading and Interpretation 33
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+2 Intermediate Contour: The contour lines falling between the index contour 
+lines are called intermediate contour lines. These lines are finer/thinner 
+than the index contours. They do not have their elevations given. In most 
+cases, there are four intermediate contour lines between index contour lines. 
+Their value is decided by dividing the difference in altitude between two 
+consecutive index contours by five, if there are four intermediate contours.
+3 Supplementary Contour: These contour lines resemble dashed or broken 
+lines. They show changes in elevation of at least one-half the contour 
+interval. These lines are normally found where there is very little change in 
+elevation, such as on fairly level terrain.
+Contour lines are generated from spot heights. A spot height is a statistical point 
+that represents the specific altitude of a place at that particular point. Drawing 
+contours from spot heights is not hard or difficult. However, it needs a lot of 
+practice and patience, as well as a lot of time, to make a good-looking contour 
+map. 
+Contouring is started by plotting the spot heights with their specific altitudes 
+on the paper on which you want to draw the contour map. The elevations of the 
+spot heights can be obtained by ground survey and associated measurement of 
+altitude of points on the surveyed area. Figure 2.3 shows you an area in which the 
+altitudes of the selected points are shown by using spot heights.
+As you can see from Figure 2.3, the altitudes of a number of places have been 
+collected through ground survey and the altitude of each point is presented by 
+using mathematical calculation.
+960
+800
+780 720 620
+550
+420 520
+620
+540
+450
+350
+320 320
+460 435
+390
+325
+710
+440
+320
+300 380 410
+540 520 450
+650
+1040 1070
+560
+630 640
+1000
+900 930
+810 780
+690
+710 810
+690
+Contur interval
+ = 100 m
+Figure 2.3: Spot heights indicating elevations of selected points 
+of an area to be mapped
+Grade 11 Geography 34
+2.1 Relief Representation On Contour Map
+As shown in the Figure 2.3, the contour interval is 100 m. This means that 
+contours are drawn for every 100 m altitude. The lowest point indicated by the 
+spot heights in the figure is 300 m above sea level. Hence, the contour line with 
+the lowest value is the 300 m contour. By starting from that line, contours have 
+to be drawn for every additional 100 m altitude. Accordingly, you are expected 
+to draw contours for 400 m, 500 m, 600 m, and the like up to the highest point 
+indicated, which is 1070 m. In this case, the last contour line should have a value 
+of 1000 m as the contour interval given is 100 m.
+The second step in drawing contours from spot heights is determining the 
+approximate points through which the contour lines with every 100 m value 
+pass. This can be done by using the method called interpolation. Interpolation 
+is a method of estimating the values of points lying between two points that 
+have defined values. By using this method, we can scientifically guess the 
+approximate altitude through which each contour line with an additional 100 m 
+altitude passes. Interpolation involves some kind of mathematical measurement. 
+To determine the points at which the contour is to be drawn and pass through, we 
+have to connect points between which the contour lines of every 100 m additional 
+value pass by using straight lines. Then, the length of the straight line is measured 
+by using a ruler to obtain the distance on the map between the points. Once the 
+distance on the map between the points is acquired, we have to apply a crossmultiplication system to get the point at which the required contour with a 100 m 
+contour interval should pass. We apply similar procedures to plot all the points 
+for each specific contour line.
+To better understand the procedures that we apply while interpolating points, you 
+can study the following figure and the associated description. The figure shows 
+you the procedures that we need to follow while determining the points at which 
+the 400 m contour line passes. To do so, follow this procedure.
+1 Identify all the points between which the 400 m contour line passes. In this 
+case, they are all the points that lie between the following spot heights.
+F 320 m and 420 m
+F 350 m and 420 m
+F 350 m and 450 m
+F 320 m and 460 m
+F 390 m and 460 m
+F 390 m and 435 m
+F 325 m and 435 m
+F 325 m and 440 m
+F 320 m and 440 m
+F 320 m and 410 m
+F 380 m and 410 m
+F 380 m and 450 m
+Unit 2: Map reading and Interpretation 35
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+2 Connect all the points identified above by using straight lines as shown 
+in Figure 2.4. The lines are drawn connecting those spot heights between 
+which the 400 m contour line is expected to pass. To draw the whole map, 
+you should connect all the spot heights between which a contour line with 
+a 100 m contour interval would pass.
+3 Measure the length of each line connecting two spot heights to 
+determine the distance on the map between the two points and 
+see the height it represents (the difference in altitude between the 
+two spot heights). For example, the distance on the map between 
+the 320 m and 420 m spot heights is measured and is found to be 
+1.5 cm. This means that the 100 m altitudinal difference between the 320 m 
+and 420 m spot heights is represented by a 1.5 cm straight line.
+4 Determine the point at which the 400 m contour line passes. This can be 
+done by using the cross-multiplication method. For example, if the 1.5 cm 
+represents 100 m between the 320 m and 420 m spot heights, then the 
+length of line that represents 80 m from the lowest spot height, i.e., 320 m, 
+would be 1.2 cm.
+5 Put a point at a distance of 1.2 cm from the 320 m spot height along the line 
+that connects the 320 m and 420 m spot heights to identify the point along 
+which the 400 m contour line passes. 
+N.B: Apply the procedures above to determine the points at which each contour 
+line with a 100 m contour interval passes between two spot heights.
+6 Connect all the identified points of a certain contour line with the given 
+contour interval by using curved lines to draw the contours. While doing 
+so, please consider the shapes and patterns that different features such as 
+rivers have when they are represented on contour maps. This will help you 
+to better represent the features on your map.
+960
+800
+720 780 620
+550
+420
+320
+520
+620
+540
+450
+350
+320
+460 435
+390
+325
+710
+440
+320
+300 380 410
+540 520 450
+650
+1040 1070
+560
+630 640
+1000
+900 930
+810 780
+690
+710 810
+690
+Contur interval
+ = 100 m
+Figure 2.4: Drawing contour line using interpolation 
+Grade 11 Geography 36
+2.1 Relief Representation On Contour Map
+7 Label the map and add all the required information. For example, write the 
+values of the contour lines to indicate the contour interval and add a title 
+to the map.
+When you finish drawing all the contour lines, you will have the following 
+contour map.
+Activity 2.3
+With the help of your teacher and friends, prepare a contour map from the following 
+data (Figure 2.6). While drawing the contours, consider the following.
+1 The values indicated by each spot height are given in meters.
+2 Use a contour interval of 100 m for your map.
+3 Do not forget to consider the shapes and patterns that contours would have 
+when they depict different relief features.
+300
+400
+500
+600
+700
+700
+800
+800
+900
+1000
+900
+Figure 2.5: Contour lines drawn with the help of interpolation 
+253
+300
+245
+270
+200
+400 350 300
+250
+296
+215 200
+160 180 170
+120 70
+115
+79
+126
+145
+150
+Figure 2.6: Spot heights
+Unit 2: Map reading and Interpretation 37
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+2.1.2 Drawing Relief Cross-Section (Profile)
+Brainstorming
+1 What is a cross-section? 
+2 How are cross-sections drawn? 
+3 Why are cross-sections drawn?
+As we have seen so far, contouring is the standard method of representing relief 
+on topographic maps. For a given contour map the vertical distance between 
+adjacent contour lines – the contour interval – is fixed. Examining the horizontal 
+distance between succeeding contour lines helps the reader to visually estimate 
+the difference in slope of parts of the terrain. Thus, the way the contours are 
+arranged, their shapes and spacing shows the diverse relief features of the area 
+mapped. While closely spaced contour lines represent steep slopes, widely spaced 
+contours show gentle slopes.
+However, a more precise method of determining the variation in slope is to 
+construct a profile or cross-section through the topography. This is done by 
+marking off the horizontal distance between contour lines along a base line and 
+then plotting the elevation or altitude of these points. By doing so, a profile can 
+be drawn showing the gradient of slope and shape of the topography along the 
+line of section. 
+Cross-section drawing is one of the simplest ways of acquiring skills in reading 
+contour maps. A cross-section helps us to acquire a better view of the nature of 
+the slope and other relief features drawn on the contour map. When we draw the 
+cross-section of a map, we can have a better understanding of the nature of the 
+landscape and can tell whether two points are intervisible or not. 
+In order to draw a cross-section from a given contour map, we need to have a 
+vertical scale in addition to the horizontal scale of the map. Horizontal scale is 
+the normal scale of any given map. On the other hand, vertical scale is the scale 
+which is used to show the nature and type of relief on the contour map. It shows 
+the degree of exaggeration made while the cross-section of a relief feature is 
+prepared from its contour map.
+The vertical exaggeration/vertical scale of the cross-section is determined by 
+considering the scale of the map and the nature of the terrain. Although the decision 
+Grade 11 Geography 38
+2.1 Relief Representation On Contour Map
+concerning the extent to which a cross-section should be exaggerated is in the hands 
+of the one who prepares the cross-section, the widely accepted approach to use is 
+defined by these guidelines:
+F higher vertical exaggeration for flat terrain; and
+F small or no vertical exaggeration for rugged (rough) terrain. 
+Table 2.1: Relationship between relief and vertical exaggeration.
+Relief type Amplitude Approximate vertical exaggeration to scale
+1:20,000 1:50,000 1:100,000 1:250,000
+Mountainous/
+very hilly 700 m No 2 4 5
+Undulating/
+dissected 150-350 m 2 4 8 8 or 16
+Plains and 
+plateaus About 150 m 4 8 15 20
+To draw a cross-section of a relief feature from the following contour map, we 
+need to follow the next procedure.
+1 Draw a cross-section line across the above contour map between the two 
+points along which you choose to draw the cross-section.
+70
+60
+50
+90
+100
+80
+70
+60
+Figure 2.7: A contour map of an area
+Unit 2: Map reading and Interpretation 39
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+2 Place the edge of a strip of straight-edged paper along the cross-section line 
+which you have drawn along points A and B.
+3 Mark the places where the contour lines disappear under the straight edge 
+and note their heights.
+4 Draw a cross-section outline with vertical scale.
+A B
+70
+60
+50
+100
+90
+80
+70
+60
+Figure 2.8: A cross-section line drawn between points A and B
+A B
+Straight eged paper laying on the
+ map across the line of cross section
+Figure 2.9: A straight-edged paper whose edge has been placed on 
+the face of the map to mark the points where the contours 
+intersect with the cross-section line
+Grade 11 Geography 40
+2.1 Relief Representation On Contour Map
+5 Place the strip of paper along the top and mark the height points on the 
+outline.
+6 Join the points with a curving line.
+7 Shade the bottom of the diagram.
+8 Add labels and titles.
+70
+60
+50
+90
+100
+80
+70
+60
+100
+90
+80
+70
+60
+50
+Figure 2.10: A cross-section outline with vertical scale
+70
+60
+50
+90
+100
+80
+70
+60
+100
+90
+80
+70
+60
+50
+Figure 2.11: Markings of height points on the cross-section outline
+Unit 2: Map reading and Interpretation 41
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+The first part of Figure 2.12 shows the topography of the mapped area in a 
+contour-line map. The contours are labeled with numbers indicating how high 
+above sea level the contours are. The second part of the figure is a cross-section 
+of the contour map along the line A-B. The x-axis (the horizontal axis) of the 
+cross-section corresponds to the line from A to B on the topographical map. The 
+y-axis (the vertical axis) of the cross-section is used with the x-axis to plot the 
+height of each contour where it crosses the A-B line. In this way, a series of dots 
+has been created and they have been connected to each other to create the crosssection of the landscape.
+From the above cross-section, one can easily understand that the area represented 
+by the contour map is a pass between two rising landforms/hills. It is also possible 
+to see the nature of the slope along the sides of the hills. For instance, the hills 
+are steeper along the left side, while they are gentler along the right. Note that the 
+steeper slopes are represented by closely drawn contours, while the gentler slopes 
+are represented by contours that are widely spaced.
+A B
+70
+60
+50
+90
+80
+70
+60
+100
+90
+80
+70
+60
+50
+Figure 2.12: A cross-section of the preceding map showing the 
+mountains and pass that were shown by using contours
+Grade 11 Geography 42
+2.1 Relief Representation On Contour Map
+In almost all cross-sections, the horizontal scale is smaller than the 
+vertical scale. This forms a simple relationship between the contour 
+interval and the vertical distance between the horizontal lines on the 
+graph paper. For instance, a section from the 1 cm thus plotted on 1
+cm
+10
+would have a horizontal scale of 1
+cm
+100,000
+ and a vertical scale of 
+( ) 1 1cm to 10,000cm 10,000 . The vertical exaggeration would be approximately 
+10 times. 
+Activity 2.4
+Draw a cross-section of the following (Figure 2.14) map along the line A – B by following 
+the procedures that we have followed in the preparation of the cross-section diagram 
+above.
+A B
+Closely 
+spaced 
+contours
+90
+80
+70
+50
+60
+Widely spaced 
+contours
+70
+60
+100
+90
+80
+70
+60
+50
+Gentle slope
+Steep 
+slope
+Figure 2.13: The relation between contour maps and their profile
+Unit 2: Map reading and Interpretation 43
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+While drawing the cross-section of an area, using a vertical scale may be 
+required. This becomes a must if the map is drawn in such a way that may 
+result in inconvenient cross-sections. Using a vertical scale greater than the 
+horizontal scale in a cross-section is called vertical exaggeration. Cartographers 
+exaggerate the vertical scale in order to clearly visualize the terrain of an area. 
+Some times less exaggeration is used in areas where the relief elevation is high. 
+When the relief represented is a relatively flat area or an area of low altitude, 
+more exaggeration is needed. 
+The degree to which we exaggerate the vertical scale (V.E.) depends on:
+F the scale of the map from which the profile is drawn
+F the relief configuration of the area that we are dealing with.
+Vertical exaggeration is both advantageous and disadvantageous. Some of the 
+advantages and limitations of vertical exaggeration are listed below.
+Advantages 
+F it increases the visual 
+effectiveness of a given relief.
+F it has the potential to give a 
+very strong impression. 
+Disadvantages
+F it causes the slope of a 
+hillside to look steeper than 
+it actually is.
+F it may cause some distortion.
+Focus 
+When we draw a cross-section, we have to show graphically the proportions 
+between horizontal and vertical distances. When we want to show the 
+profile of a given piece of land, the variations in altitude are very small 
+when compared with the horizontal distances involved.
+A
+B
+300
+400
+500
+600
+500
+400
+300
+200
+Figure 2.14: Diagramatic map showing landform
+Grade 11 Geography 44
+2.1 Relief Representation On Contour Map
+2.1.3 Intervisibility
+Brainstorming
+1 What do we mean by intervisibility? 
+2 Why is it important to study the intervisibility of places? 
+3 What are the factors that affect intervisibility?
+Intervisibility is simply defined as the visibility of places to each other. If an 
+observer standing at a certain point can see another observer standing at another 
+point, then the two places are said to be intervisible. Any land that is not visible 
+from a certain point or place is known as “dead ground” relative to that area. 
+Contour maps are important tools to determine whether two places are intervisible 
+or not. An important feature of contour maps is that they allow us to know whether 
+one place can be seen from another and vice versa.
+Studying intervisibility is important for many reasons, for example
+F Intervisibility is important for planning military operations;
+F It is also important for understanding the distribution of dead and 
+visible ground with respect to proposed plans of infrastructure;
+F Intervisibility provides information for the evaluation of proposed sites 
+for forest-fire lookouts;
+F Intervisibility plays a significant role in the planning of logging; and
+F It is important for selecting appropriate sites for the development of 
+recreation and refreshment centers.
+The intervisibility of places can be affected by several factors, amongst which the 
+most important ones are the following.
+i The type of slope between the two points;
+ii The general relief between the two points; and
+iii The amount of vegetation that covers the area.
+When we study intervisibility from contour maps, we have to consider the 
+characteristics of contour lines. This is so because contour lines with varying 
+shapes and patterns represent varied relief features. As we know, the nature of 
+the landscape is the most important determining factor regarding intervisibility. 
+Accordingly, we can say that under normal conditions,
+Unit 2: Map reading and Interpretation 45
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+F Two points separated by an even slope are said to be intervisible. 
+However, in such a case, the vegetation cover should be taken into 
+consideration before we make our decision. If the slope is covered with 
+forest, the two points may not be intervisible;
+F Two points having unequal heights but separated by ground lower than 
+the lower ground of the two points are intervisible;
+F Two points of equal altitude may or may not be intervisible, depending 
+on other factors. For example, the two become intervisible if there is no 
+higher ground or thick vegetation cover between the two points;
+F Two points separated by a concave slope are said to be intervisible if no 
+other factor exists that hinders intervisibility; 
+F Two points separated by a convex slope are not intervisible to each 
+other because there is out-bulging land between the points;
+F Two points that are located at the opposite sides of high ground are not 
+intervisible because the higher ground between the two obscures their 
+intervisibility.
+For example, in the following contour map (Figure 2.15), the intervisibility of 
+points A and B and C and D can be determined by observing the nature of the 
+contour lines and the direction at which elevation increases. Accordingly, we can 
+conclude that:
+a Points A and B are not intervisible. As a result, the men standing 
+at the two points cannot see each other. This is due to the presence 
+of higher ground between the two points. As you can see from the 
+map, the persons stand at the opposite sides of the hill. Point A lies at 
+60 m altitude, while point B is at 70 m altitude, but there is ground 
+higher than 80 m in altitude between the two. This obscures their 
+intervisibility.
+b Points C and D are intervisible and therefore the men standing at 
+the two points can see each other. In this case, the two persons are 
+standing on the same side of the hill but at different altitudes. As 
+shown on the map, point C lies at an altitude of 90 m, while point 
+D is located at an altitude of 60 m. As there is no higher ground 
+between the two points, and as the slope is gentle, the two places are 
+intervisible. 
+F due to the type of the slope = concave 
+Grade 11 Geography 46
+2.1 Relief Representation On Contour Map
+The intervisibility of places can easily be determined when the places shown on 
+the contour map are presented in cross-section. The most important purpose of 
+drawing cross-sections is to determine the intervisibility of places. For instance, 
+the intervisibility of the points shown on the above contour map can be easily 
+decided by observing the nature of the landscape between the labeled points in 
+the following cross-section diagram of the contour map presented above.
+Activity 2.5
+Based on the figures presented below, try to determine whether the points indicated 
+on Figures 2.17 a) and b) are intervisible or not and justify your answers.
+ a) b) 70
+60
+50
+60
+70
+80
+90
+A B
+C D
+Figure 2.15: Intervisibility between two points 
+B
+C
+A D
+Figure 2.16: Determining intervisibility by using relief cross-section
+A
+B
+1120
+1140
+1160
+1180
+1200
+400
+500
+600
+700
+800 A B
+Figure 2.17: Intervisibility
+Unit 2: Map reading and Interpretation 47
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+While determining the intervisibility of points or places labelled on a contour 
+map, knowing the following facts simplifies your work. However, do not forget 
+that these conditions are functional only under normal condition. This is to mean 
+that there should not be any other factors, such as thick vegetation, that may 
+hinder the intervisibility of the points. 
+1 Points located at different altitudes (for example, one at the top and the 
+other at the bottom of a hill) with contours that are drawn close to each 
+other at the top and farther apart at the bottom (i.e., concave slopes) are 
+intervisible. 
+2 Two points, one located at the top and the other at the bottom of a hill, with 
+contours that are drawn far apart at the top and close to each other at the 
+bottom (i.e., convex slopes) are not intervisible. 
+ 
+3 Two points, one being located at the top of a hill and the other at its bottom, 
+with contours that are evenly spaced (i.e., gentle slopes) are intervisible.
+A
+B
+A B
+100 m
+200 m
+300 m
+400 m
+500 m
+600 m
+700 m
+Figure 2.18: Intervisiblity on a concave slope 
+A
+B
+Line of vision
+Figure 2.19: Intervisiblity on a convax slope
+A B
+100 m
+300 m
+200 m
+400 m
+500 m
+600 m
+700 m
+Grade 11 Geography 48
+2.1 Relief Representation On Contour Map
+ 
+ 
+4 Two points, one being located on top of a cliff or an overhanging cliff 
+and the other at the bottom of it (a relief feature that is represented by 
+contours that merge at the points where the landscape becomes a cliff) are 
+not intervisible. 
+5 Points that are located at the same altitude are intervisible if there is no 
+higher ground between the points. Otherwise, they are not intervisible. 
+ 
+6 Two points that are located at the opposite sides of a hill or a mountain 
+(represented by nearly circular closed contours with their values increasing 
+towards the smaller (innermost) closed contour) are not intervisible to 
+each other because the higher ground between the two points prevents 
+intervisibility. 
+B
+A Line of vision
+500 m
+400 m
+300 m
+200 m
+100 m
+A B
+Figure 2.20: Intervisiblity on an even slope
+Figure 2.21: Intervisiblity between two heights along a cliff 
+A B
+100 m
+200 m
+300 m
+400 m
+500 m
+B
+A
+Cli
+Figure 2.22: Intervisiblity between two points with 
+higher groundbetween them
+A B
+LineVisibility
+100 m
+200 m
+300 m
+400 m
+400 m
+600 m
+500 m
+ A B
+Unit 2: Map reading and Interpretation 49
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+7 Two points, one located inside a depression on top of a mountain and 
+the other on the side of the mountain outside the depression (shown by 
+nearly circular closed contours with their values increasing towards the 
+top of the mountain up to the beginning of the depression and then closed 
+contours with their values decreasing towards the most interior point) are 
+not intervisible. 
+The intervisibility of two points can also be determined by using a skeleton 
+diagram that shows only the altitude of the points for which intervisibility is 
+to be investigated. Figure 2.25 gives you some idea about how to determine 
+intervisibility between points by using this technique. Such a method is especially 
+important for determining intervisibility between points when, for some reason, 
+it is difficult to determine intervisibility by using contour maps.
+Figure 2.23: Intervisiblity between two lower points 
+A B
+Line of 
+vision 500 m
+400 m
+300 m
+200 m
+100 m
+A B
+A
+B Line of vision
+Figure 2.24: Intervisiblity between two points at lower and dead 
+ground but at a higher altitude 
+700
+600
+400
+300
+200
+100
+400
+500
+A B
+A
+?
+C D
+B
+Line of Vision
+960 960 820
+Figure 2.25: Determining intervisibility by using a skeletal section
+Grade 11 Geography 50
+2.1 Relief Representation On Contour Map
+In the above section, we find that the line of vision drawn from A to B is 
+obscured by the height of D (960 m), and therefore the two points A and B are 
+not intervisible. This can also be decided by the very position of D and B. If spot 
+height D had been closer to C, or if point B had been farther away from D, points 
+A, B, and D would have been intervisible. Therefore, the intervisibility of points 
+on such landforms cannot be decided with the help of the contour map unless we 
+use a skeleton section like the above one. 
+Activity 2.6
+Part I
+Construct a cross–section across the line x-y for the following contour map and try 
+to determine whether the points given below are intervisible or not. You should also 
+provide a justification for your answers.
+1 points C and P 2 points C and S 3 points Z and P
+Part II
+Figure 2.26 shows part of a range of small hills. Study the map and then answer the 
+following questions: 
+1 Identify and write down the type of landform represented by the letter P.
+2 Find a steep slope and a gradual slope (dip slope).
+3 Are you going uphill or downhill if you walk from
+i Z to P ii R to T
+4 Which letter represents steep slope? 
+5 Which letter represents a col? 
+6 What sort of landform does letter S represent? 
+7 The type of landform represented by K is ________.
+1400
+1500
+1600
+1700
+R
+A
+X
+T
+SCARP SLOPE
+C PZ U H Y HS 2 H3
+K
+H1
+Figure 2.26: A contour map of place “X”
+Unit 2: Map reading and Interpretation 51
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+2.1.4 LandForms on Contour Maps
+What sort of merit does contour lines have for showing land features on maps? 
+How do we identify different land features with the help of contour lines? How 
+do you identify different slopes on contour maps? 
+Contour maps show different relief features by using contour lines with different 
+shapes and spacing. Their patterns help map readers to easily identify the kind 
+of terrain feature represented. For instance, mountains and plateaus are shown 
+by contour lines with different shapes. The same thing is true when valleys and 
+depressions are represented. As a result, various terrains on contour maps appear 
+with their own distinct shape and pattern. Map makers exploit this advantage 
+of contour lines to depict the nature of the landforms they show on their maps. 
+The following discussion gives you some ideas about how different terrains are 
+represented on topographic maps.
+1 Hill: A hill is an area of high ground but is lower than a mountain in 
+elevation. From the top of the hill the ground slopes down in all directions. 
+On a topographic map, a hill is shown by contour lines forming concentric 
+circles. The inside of the smallest closed circle indicates the hilltop. The 
+following figure shows you how a hill is represented on a contour map.
+F Col is a relatively lower and deeper than saddle often found between 
+two streams. 
+F Pass is a deeper, more pronounced depression than a col between two 
+hills or mountains. 
+2 Saddle: A saddle is a dip or low point between two areas of higher ground. 
+The feature is like the seat on a riding horse. It is not necessarily the lower 
+ground between two hilltops. It can rather be a simple dip or break along 
+a level ridge crest. A saddle has high ground in two opposite directions. A 
+saddle is normally represented as an hourglass.
+Hill
+400
+500
+600
+300
+Figure 2.27: A hill and its contour representation
+Grade 11 Geography 52
+2.1 Relief Representation On Contour Map
+3 Valley: A valley is a long low-lying area of land, often with a river or stream 
+running through it, that is surrounded by higher ground. It is a stretchedout channel in the land, usually formed by streams or rivers. A valley 
+begins with high ground on three sides, and usually has a course of running 
+water through it. In a valley, three directions offer high ground, while the 
+fourth direction offers low ground. Contour lines forming a valley are 
+either U-shaped or V-shaped. While U-shaped contours represent valleys 
+with steep slopes and flat bottoms, V-shaped contours show valleys with 
+relatively gently descending slopes with V-shaped bottoms. To determine 
+the direction water is flowing, look at the contour lines. The closed end of 
+the contour line (U or V) always points upstream or toward high ground.
+4 Ridge: A ridge is a sloping line of high ground. It is a long narrow hill top 
+or a range of hills. A ridge normally has low ground in three directions 
+and high ground in one direction with varying degrees of slope. Crossing 
+a ridge at right angles results in climbing steeply to the top and then 
+descending steeply to the bottom. Contour lines representing a ridge tend to 
+Saddle Saddle
+Figure 2.28: A saddle and its contour representation
+Figure 2.29: A valley and its representation on a contour map 550
+600
+650
+Unit 2: Map reading and Interpretation 53
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+be U-shaped or V-shaped. The closed end of the contour line points toward 
+lower ground.
+5 Depression: A depression is an area of land that is lower in altitude than the 
+areas surrounding it. It is a low point on the ground or a sinkhole. It could 
+also be described as an area of low ground surrounded by higher ground in 
+all directions, or simply as a hole in the ground. Usually only depressions 
+that are equal to or greater than the contour interval will be shown. On 
+maps, depressions are represented by closed contour lines that have tick 
+marks pointing downward to lower ground.
+Activity 2.7
+1 Why do different contour lines have different shapes and spacing?
+2 What kind of landform is represented by contour lines forming concentric 
+circles? 
+3 What type of land form is represented on contour maps when altitude decreases 
+from outer contour lines to the inner ones?
+4 Describe the difference between a valley and a spur. 
+5 What is a re-intrant? 
+Ridge
+Ridge
+Figure 2.30: A Ridge and its Representation on Contour Map
+Depression
+Depression
+Figure 2.31: A depression and its representation on a contour map
+Grade 11 Geography 54
+2.1 Relief Representation On Contour Map
+What is a re-intrant? What is the difference between a re-intrant and a spur? 
+6 Re-intrant: A re-intrant is a less-developed stream course that is smaller 
+than a valley. It has no level ground and, therefore, little or no movement 
+room within its limits. In a re-intrant, the ground slopes upward in three 
+directions and downward in the other direction. A re-intrant could be 
+considered as the initial stage in the formation of a valley. Like those 
+representing a valley, the contour lines representing a draw are U-shaped 
+or V-shaped, pointing toward higher ground.
+What is a spur? What makes it different from a valley? 
+7 Spur: A spur is a short and continuously sloping line of higher ground that 
+normally extends out from the side of a ridge. Usually, a spur is formed by 
+two roughly parallel streams that cut draws along the side of a ridge. A spur 
+has three of its sides sloping downwards and upward sloping on the other 
+direction. Spurs are shown on a contour map by using contours that point 
+towards the lower ground with “U” or “V” shapes. 
+What is a cliff? How it is shown in a contour map? 
+Re-intrant Re-intrant
+Figure 2.32: A re-intrant and its representation on a contour map
+Spur
+Spur Spur Spur
+Re-intrant
+Figure 2.33: A spur and its representation on a contour map
+Unit 2: Map reading and Interpretation 55
+2.1 Relief Representation On Contour Map 2.1 Relief Representation On Contour Map
+8 Cliff: A cliff is a vertical or nearly vertical relief feature with a sudden 
+change vertical distance (elevation) with almost no change in its horizontal 
+distance. Cliffs are shown on topographic maps by using contour lines that 
+are very close together (when there is a little change in horizontal distance 
+and rapid increase in vertical distance) and, in some cases, by contours that 
+overlap (merge) when there is no change in horizontal distance at all.
+Supplementary Terrain Features
+1 Cut: A cut is a human-made feature that results from the cutting of higher 
+ground, usually to form a level bed for a road or railway track. Cuts are 
+shown on a map when they are at least 10 m high. They are usually drawn 
+with a contour line along the cut line. The contour line extends the length 
+of the cut and has tick marks that extend from the cut line to the road bed, 
+if the map scale permits this level of detail.
+2 Fill: is a human made feature resulting from filling a low area usually to 
+form a level bed for a road or rail road track. Fills are shown on a map when 
+they are at least 3 m. high.
+Merging contours
+ showing a cli
+1200
+1180
+1140
+1120
+1160
+Figure 2.34: A cliff and its representation on a contour map
+Fill
+Fill
+Cut
+Cut
+Figure 2.35: A cut and its representation on a contour map
+Grade 11 Geography 56
+2.1 Relief Representation On Contour Map
+Activity 2.8
+By referring to the above contour map, try to identify the relief features that are 
+represented by the numbers indicated below and justify how you identified the feature. 
+To help you answer the rest of the questions accordingly, the first one is done for you.
+Feature Justification
+1 The type of slope from L to m Concave slope ______________________ 
+2 The type of slope from H to K ____________ ______________________
+3 What does letter C show ____________ ______________________
+4 The type of slope A to B is ____________ ______________________
+5 The landform represented by 
+the letter ‘S’ is ____________ ______________________
+6 The type of slope from ‘O’ to ‘P’ ____________ ______________________
+7 Are K and H intervisible? ____________ ______________________
+8 How would you rise if you walked
+from L to M? ____________ ______________________
+9 The type of landform represented 
+from X to Y ____________ ______________________ 800
+700
+600
+500
+400
+300
+200
+100
+100
+L
+C
+A B
+M
+H K
+Y
+T X
+S
+E
+P O
+F
+D
+600
+700
+800
+500
+400
+300
+200
+100
+800
+700
+600
+500
+400
+300
+200
+900
+800
+700
+600
+500
+400
+300
+200
+600
+500
+400
+300
+200
+100
+1:253,440
+N
+Figure 2.36: Relief features on a contour map
+Unit 2: Map reading and Interpretation 57
+2.1 Relief Representation On Contour Map 2.2 Drainage On Maps
+2.2 DRAINAGE ON MAPS
+At the end of this section, you will be able to:
+Þ determine catchment areas from watershed on contour map;
+Þ distinguish different drainage patterns;
+Þ demonstrate river capture; and
+Þ demonstrate stages of river valley development using contour lines.
+Key Terms
+³ Watershed 
+³ Catchment area/drainage basin/ 
+divide/
+³ Drainage pattern 
+³ Drainage system 
+³ Main river 
+³ Tributary 
+³ Confluence 
+³ River capture 
+³ Pirate stream 
+³ Victim stream 
+³ Distributary 
+³ Delta 
+What is drainage? 
+The drainage of an area consists of the different water resources that drain it. 
+The drainage includes the rivers that flow over the region and the other water 
+resources, including lakes and swamps. How rivers drain a certain area can be 
+depicted by using contour maps. It is also possible to show the catchment areas 
+and drainage basins of rivers as well as their general characteristics on contour 
+maps. Hence, map readers and map users can acquire adequate information about 
+the drainage of a certain place from contour maps.
+Brainstorming
+1 What is a watershed? What about a catchment area and a drainage pattern?
+2 What is a river capture?
+3 What are the stages of river valley development?
+4 How are the different drainage features represented on contour maps?
+2.2.1 Watershed and Catchment Area
+The rivers that drain a certain geographical area flow over the region and form 
+a certain pattern that is termed drainage pattern. A drainage pattern refers to the 
+Grade 11 Geography 58
+2.2 Drainage On Maps
+general arrangement of a river and its tributaries within their drainage basin/
+catchment area. A drainage basin/catchment area refers to the entire geographical 
+space that is drained by the major river and its tributaries. For example, the whole 
+area that is drained by the Abay River and all its tributaries forms the Abay River 
+Basin in Ethiopia. A number of river basins together form the drainage system 
+of a certain place. A drainage system is a system that is made up of all the river 
+basins that flow in the same direction. For instance, all the rivers that flow in 
+the western direction from the central highlands of Ethiopian form the Western 
+Ethiopia Drainage System, which is also called the Mediterranean Sea Drainage 
+System, based on their destination. 
+Adjacent drainage basins are separated from one another by watersheds. A 
+watershed/divide is higher ground which serves as a source region for streams 
+and rivers that flow in different directions within their own distinct basins. Along 
+the sides of a watershed, rivers flow into different drainage basins. That is why we 
+say that a watershed is a dividing line between neighboring drainage basins. The 
+patterns of most drainage basins evolve over a long period of time and usually 
+become adjusted to the structure of the basin. 
+Figure 2.37 shows you what the features that we have been discussing above look 
+like in a certain geographical region.
+A drainage basin and its watershed can be identified on a contour map. This can 
+be done by observing the patterns and shapes of the contour lines that are used to 
+represent the topography of the mapped area. To further simplify the process, it 
+is good to investigate the flow direction of the streams and rivers that originate 
+from the higher ground. The following steps can help you identify a drainage 
+T
+T
+T
+C
+C
+T
+T
+M S
+- - - - - - - - - main watershed
+. . . . . . . . . . . minor watershed
+T Ttributary
+C Confluence
+S Source
+M Mouth 
+Figure 2.37: Major and minor watersheds 
+Unit 2: Map reading and Interpretation 59
+2.2 Drainage On Maps 2.2 Drainage On Maps
+basin and its divide on contour maps.
+F Identify the course of the main river on the map;
+F Identify the tributaries of the main river on the map;
+F Look at the contour lines near the origin of the tributaries and find high 
+points and ridges;
+F Look at other rivers that originate nearby and check whether they flow 
+away from the main river;
+F Once you identify the rivers that flow away from the main river, follow 
+the way between those rivers that flow towards our main river and away 
+from it. Then mark these points with solid or broken lines to show the 
+river basin and its watershed.
+While inserting a watershed on contour maps we should be very careful. The 
+most important considerations follow. 
+i A watershed (divide) is not drawn parallel between streams; rather 
+the streams flow away from the watershed in opposite directions (see 
+Figure 2.38).
+ii Look at the streams’ direction of flow carefully. A watershed may 
+wind but it never crosses the channel of a river, 
+iii A watershed usually passes through the highest points between 
+adjacent river basins. 
+iv A watershed runs in the middle of two contour lines of different 
+altitude. In the case of a river capture, however, a river can cross its 
+watershed. 
+Let us now try to identify the 
+drainage basin and watershed of 
+the river that is labeled “River A” 
+in the following figure. Study how 
+we follow the procedure described 
+above as we identify the river’s 
+basin and its divide. The red circle 
+shows you where the river is located 
+on Figure 2.38.
+1500
+1520
+1540
+1520
+1520
+1540
+1540
+1560
+1580
+1600
+1620
+1:40,000
+N
+Figure 2.38: Map of River A
+Grade 11 Geography 60
+2.2 Drainage On Maps
+No Steps Figures
+1 Identify the course of the 
+main river on the map. The 
+main river in this basin is the 
+one which is the longest.
+B
+C
+D
+F
+E 1500
+1520
+1520
+1540
+1540
+1560
+1580
+1600
+2 Identify the tributaries of the 
+main river on the map. The 
+tributaries are those streams 
+that feed the main river.
+1500
+1520
+1520
+1540
+1540
+1560
+1580
+1600
+3 Look at the contour lines near 
+the origin of the tributaries 
+and find high points and 
+ridges. This helps you to locate 
+the watershed of the basin.
+1500
+1520
+1520
+1540
+1540
+1560
+1580
+1600
+4 Look at other rivers that 
+originate nearby and check 
+whether they flow away from 
+the main river. If the rivers 
+flow away from the main river, 
+that means they are rivers of 
+another basin. 1500
+1520
+1540
+1520
+1520 1540
+1540
+1560
+1580
+1600
+1620
+1: 40,000
+N
+520
+540
+60
+0
+0
+5 Mark the points at which the 
+rivers that flow into another 
+direction and towards our 
+main river with solid or broken 
+lines to show the river basin 
+and its watershed.
+1500
+1520
+1540
+1520
+1520 1540
+1540
+1560
+1580
+1600
+1620
+1:40,000
+N
+Unit 2: Map reading and Interpretation 61
+2.2 Drainage On Maps 2.2 Drainage On Maps
+A river’s catchment area includes all the geographic space that is drained by a 
+major river and many other small streams that feed the major river with water. 
+The major river in a river basin is the longest of all the rivers in the basin. The 
+other small streams that supply water to the main rivers are called tributaries. 
+The point at which the tributaries meet with the major river is called confluence. 
+The point at which the major river in a basin starts is called the source of the 
+river. Likewise, the point at which the river empties itself into an ocean, a sea or 
+a lake is called the mouth of the river. Figure 2.39 shows you the points that we 
+have discussed above. 
+The labels on the map in Figure 2.39 represent the following features.
+F Letter “A” represents the source of the main river; 
+F Letter “B” represents the tributaries of the main river;
+F Letter “C” represents the confluences; and 
+F Letter “D” represents the mouth of the main river.
+Activity 2.9
+By referring to Figure 2.52 answer the following question and perform the following 
+tasks.
+1 How many drainage basins can you identify in the figure?
+2 Draw the watersheds that separate the given drainage basins.
+Show major and minor watersheds, using labels. Use letter ‘A’ for the main 
+(major) watershed and letter ‘B’ for minor watersheds .
+A
+B
+D
+B
+Coast line River A
+B
+C
+C
+Figure 2.39: A river’s catchment area
+Grade 11 Geography 62
+2.2 Drainage On Maps
+2.2.2 Drainage Patterns
+What is a drainage pattern? How does it differ from a drainage basin? 
+The rivers in each drainage basin form different patterns. A drainage pattern 
+shows the characteristic way tributaries that feed other larger streams and rivers 
+branch off in different directions. In other words, it could be understood as a 
+pattern that is formed by the main river and its tributaries as they flow over the 
+surface of the earth. Drainage patterns can have many different forms. They are 
+based largely on the geological structure of the rocks on which they form. As 
+topography varies, so does the drainage pattern. In addition, the types of rocks 
+over which the river flows and the geological history of the region may also 
+influence the drainage patterns of rivers.
+Brainstorming
+1 How many drainage patterns do you know? 
+2 How do you distinguish one from the other?
+There are a number of drainage patterns that rivers form in their basins. However, 
+the most common ones are the following.
+F Dendritic drainage pattern
+F Trellis drainage pattern
+F Radial drainage pattern
+F Centripetal drainage pattern
+F Rectangular drainage pattern
+The features of the five drainage patterns are presented in the following 
+descriptions and diagrams.
+1 Dendritic Drainage Pattern: The term 
+dendritic is derived from the Greek word 
+“dendron” which literally means “a tree”. 
+This drainage pattern is characterized by a 
+tree-like shape with branches. The smallest 
+tributaries are the outermost twigs, and 
+the main river channel forms the trunk. 
+The lower-order streams (tributaries) join 
+the main (higher-order) streams at acute 
+angles (less than 90o
+ angles), forming 
+Consequent stream
+In sequent stre
+Oblique 
+am
+tributaries
+Dendritic
+Figure 2.40: Dendritic drainage 
+Unit 2: Map reading and Interpretation 63
+2.2 Drainage On Maps 2.2 Drainage On Maps
+Y-shaped junctions. Dendritic patterns are usually formed in areas of 
+homogeneous rock which comprises horizontal strata rock masses. In this 
+drainage pattern, geological processes such as folding or faulting do not 
+create structures that would affect the development of the river system. It is 
+the most common drainage pattern of all the patterns.
+F In sequent stream – these are tributaries that flow towards the main 
+valley joining the main river (consequent stream) obliquely and in turn 
+minor tributaries join them and the points where they flow into the main 
+streams are accordant functions. 
+F Oblique tributaries – these are minor tributary streams having a sloping 
+direction, that join the in sequent stream obliquely. 
+2 Trellis Drainage Pattern: Trellis drainage patterns develop in areas where 
+harder and softer rocks alternate. The pattern of this drainage pattern is 
+greatly affected by tectonic forces (folding and faulting). The branches 
+of the river system usually join one another at nearly right angles. The 
+branches are given different names, depending on their origin and direction 
+of flow. These are:
+i First-order streams (obsequent): are the tributaries of the subsequent 
+streams that flow in the opposite direction to the consequent stream 
+(main).
+ii The consequent stream: the principal river which flows down the 
+slope is called a consequent river.
+iii The subsequent streams: are the tributaries which cut out valleys and 
+which do not flow down the main slope. 
+iv Secondary consequent streams (resequent): are the tributaries of the 
+subsequent streams that flow in the same direction to the consequent 
+stream.
+c
+c
+c
+c
+c
+c
+d
+d
+c
+c
+a a a
+c
+c
+b
+d
+d
+d
+d
+d
+d
+b
+b
+b
+a Consequent stream
+b Subsequent (main tributaries of 
+the consequent stream) 
+c Obsequent streams
+F d Resequent streams igure 2.41: Trellis drainage pattern
+Grade 11 Geography 64
+2.2 Drainage On Maps
+3 Radial Drainage Pattern: Radial drainage patterns occur where rivers 
+flow in all directions away from a raised feature. The raised feature may 
+be a volcano or a mass of rock that is more resistant to erosion than the 
+surrounding rock and therefore stands higher than its surrounding.
+4 Centripetal Drainage Pattern:
+Centripetal drainage patterns are 
+found in areas where rivers flow 
+from surrounding high ground 
+toward a central basin, which is 
+often occupied by a lake. The rivers 
+flow into one common centre. 
+5 Rectangular Drainage Pattern:
+Rectangular drainage patterns 
+usually form in areas that have 
+numerous cracks that form a grid 
+pattern. This pattern is common over 
+certain types of rock, such as granite, 
+in which cracks called joints develop 
+to form a grid. Stream channels tend 
+to follow these joint systems. 
+Figure 2.42: Radial drainage pattern
+L. Tana
+L. Abiata
+L. Shalla
+L. Langano
+Figure 2.43: Centripetal 
+drainage pattern 
+Figure 2.44: Rectangular drainage 
+pattern
+Unit 2: Map reading and Interpretation 65
+2.2 Drainage On Maps 2.2 Drainage On Maps
+Activity 2.10
+Explain, creating by well-labelled diagrams, the main differences between the 
+following pairs of features: 
+i Radial and dendritic drainage pattern 
+ii Waterfall and rapid 
+2.2.3 River Capture and Stage of River 
+Valley Development
+A River Capture
+Brainstorming
+1 What is a river capture?
+2 How does a river capture form?
+In a river capture situation, a river joins another river down-slope from a watershed 
+that separates the two basins. In a river capture, a river of one basin will run over 
+the drainage basin of another river. The river that flows over the basin of the other 
+river is called the pirate stream, and the other river, whose basin is overrun by the 
+pirate stream, is known as the victim stream. 
+There are certain situations that cause the formation of river captures. The 
+conditions include the following. When: 
+F the rock on the side of the victim river is softer.
+F heavy rainfall falls on the pirate’s river side of the watershed.
+F the pirate river has a steeper course and erodes its course as a result.
+F the watershed consists of very low ground and the watershed itself 
+becomes indefinite.
+Five different kinds of drainage patterns are formed by streams. These 
+are dendritic, rectangular, radial, centripetal and trellis. Drainage patterns 
+result from the type of soil in the area of drainage and the erosion of 
+the soil by flowing water. Dendritic patterns usually form in areas of flat 
+sedimentary rock, while areas with high central peaks, such as volcanoes, 
+exhibit radial drainage patterns. Sometimes, water flows into a bowlshaped valley by centripetal drainage and creates a lake or erodes areas 
+between ridges to create deep valleys, as seen in trellis drainage.
+Grade 11 Geography 66
+2.2 Drainage On Maps
+Focus 
+In a river capture, the following features are commonly observed.
+i Elbow of capture: is a point where one strong river cuts into the 
+course of another weak river during river capture.
+ii Misfit or underfit stream: is a stream which is deprived of its 
+headwaters and becomes too small for the valley it belongs to.
+iii Reverse drainage: occurs when a river which was part of the 
+original captured river C2
+ now flows into C1
+ in the opposite to that 
+of direction the original direction of flow.
+iv Wind gap: is found at the elbow of capture which was once 
+covered by the captured stream but now contains no rivers and 
+therefore becomes a “wind gap”.
+Typical examples of river capture in Africa include: 
+1 Tival River Capture (Kenya): In Kenya; the lower Tiva River has 
+captured a former tributary of the Galona. 
+2 Cunene River Capture (Angola): The upper Cunene River used 
+to flow out from the Bihe plateau to a large inland drainage basin, 
+similar to the Okavango Delta, but it was captured by a vigorous 
+coastal steam and now turns west to the Atlantic. 
+1300
+1400
+1500
+1600
+1655
+3 2
+5
+1
+4
+1575
+1600
+1500
+1400
+1300
+1200
+1100
+1000
+5
+1
+4
+3
+2
+Pirate river
+Incision
+Elbow (point) of capture
+Captured
+stream
+Victim or
+beheaded
+river
+wind
+Gap
+River Y
+Figure 2.45: A river capture
+Unit 2: Map reading and Interpretation 67
+2.2 Drainage On Maps 2.2 Drainage On Maps
+Content Check
+I Give short definitions of these terms. 
+1 Wind gap 
+2 Underfit-stream 
+3 Reversed drainage 
+II Fill in the blank space. 
+4 A place where the pirate river diverts the head water of its victim river is 
+called ______. 
+5 The beheaded river which, having lost its head waters, may be reduced in 
+volume, causing it to be very small relative to its valley is called ______. 
+B Stages of River valley Development
+Brainstorming
+1 What is a river valley? How does a river valley develop?
+2 How many stages does a river have from its source up to its mouth?
+The volume and gradient of a river are the two determinant factors of the force of 
+a river before it reaches its base level. Base level is the surface of a river or lake 
+or the sea into which a river flows. All rivers have their own sources and mouths. 
+The source of a river can be a spring, a lake or a marsh, but it is generally in a 
+higher ground where: 
+F precipitation is high and there are other sources of water for the river; 
+and
+F there is a slope down which the run-off can flow.
+The higher ground serves as the source region of the river or as the point at which 
+the course of the river starts. From there, the river flows down-slope and passes 
+Immediately after the formation of a river capture, there might be a connection 
+across the newly formed watershed. This connection is known as a bifurcation, 
+which means a stream divided into two.
+Grade 11 Geography 68
+2.2 Drainage On Maps
+through different courses until it reaches its mouth. Along its entire course, from 
+its headwaters at the top of the watershed to its mouth, a river has three distinct 
+parts. These are: 
+A the upper or mountain course;
+B the middle or valley course; and
+C the lower or plain course.
+A The Upper Course
+What are the characteristics of a river at its upper course? 
+The upper course of a river is the headwater zone in the mountains or hills where 
+sediment is supplied from hillsides and transported down steep channels with 
+narrow flood plains. In these narrow, steep canyons, the bed of the river may be 
+covered with large boulders as the river passes through many rapids. 
+The following are the characteristics of a river at its youth stage:
+F The development of deep narrow valley with V-shapes;
+F The development of valleys with narrow and steep gradients;
+F The presence of fast-flowing rivers;
+F The development of pot-holes;
+F The formation of interlocking spurs; and
+F The presence of waterfalls, rapids and cataracts.
+B The Middle Course
+What are the major features of a river at its middle course? 
+The middle course of a river forms when the mountains give way to the plains, 
+where the steepness of the river channel decreases from as high as a 1-to-10 
+percent to less than 0.1 percent. At this stage, the volume of the river may 
+increase. However, the ability of the river to carve into rock and carry sediment 
+decreases, due to the fact that the river’s channel has become less steep. As the 
+speed of the river decreases, its power to carry and transport large-sized sediment 
+also decreases. As a result, the sediment in the river gradually decreases in size 
+from boulders (larger than 256 mm in diameter) to cobbles (between 64 and 
+Unit 2: Map reading and Interpretation 69
+2.2 Drainage On Maps 2.2 Drainage On Maps
+256 mm) and to gravel (between 2 and 64 mm). As the gradient of the valley 
+continues to decrease, the sediment becomes very fine, consisting mostly of sand, 
+silt, and clay. At this stage, the floodplain of the river widens. 
+At this stage, the river is characterized by the following features.
+F the river flows over a relatively gentle gradient as compared to its upper 
+course, and the river flows slowly as a result;
+F the river’s volume increases gradually as it is joined by the tributaries 
+that feed water to the river;
+F the river’s valley gets wider and deeper. The slope along the valley’s 
+sides gets gentler, altering the valley’s shape from a V-shape nearly to 
+a U-shape, and
+F braided streams may develop if large sheets of material are deposited 
+on the level plain, splitting the river into several channels.
+C The Lower Course
+Discuss the major features of the lower course. 
+The lower course of a river is the third stage in a river valley’s development. It 
+is the course that is influenced by the ocean or lake where the river ends. The 
+steepness of the river channel in this course is usually less than 10 centimeters 
+per kilometer. Because the river flows very slowly, the sediment transported 
+becomes very fine. At this stage, a delta may develop if enough sediment settles 
+out of the water. Unlike a floodplain, a delta is a feature where the river splits 
+into many new channels called distributaries while discharging into an ocean, 
+a sea or a lake where it ends. If not enough sediment settles out to form a delta, 
+the river may discharge into the sea in an estuary. Unlike a delta, an estuary is a 
+wide channel where the fresh water from the river mixes with the salty seawater 
+without forming distributaries.
+At this stage, a river may have the following characteristics.
+F The river flows in a U-shaped valley with a flat river bed, the rate of 
+change in slope is minimal, and the river flows very slowly as a result;
+F The river carries a heavy load of fine sediment of which some is 
+deposited on its bed;
+F The river flows with a number of twists and bends, resulting in the 
+occurrence of meandering;
+Grade 11 Geography 70
+2.2 Drainage On Maps
+F The development of oxbow lakes as meanders gradually develop cutoffs;
+F The development of floodplains rich in alluvial deposits as fine sediment 
+is accumulated on the river bed; and
+F The river’s mouth may sometimes be blocked by sediments causing the 
+river to branch out forming distributaries. In such a case, a delta may 
+develop. If the river empties into its end freely with no distributaries 
+formed, an estuary will develop. 
+40
+120
+200
+280
+360
+440
+520
+600
+Meters Upper course 
+steep gradient
+Lower course 
+gentle gradient
+Middle course 
+Deposition
+Erosion
+Ideal section along the river from its source to its mouth
+Source
+Tributary
+Connuence
+Levee
+Estuary
+Delta
+Channel Mouth
+Oxbow lake
+Meander
+Figure 2.46: The course of a river from its source to its mouth
+Unit 2: Map reading and Interpretation 71
+2.2 Drainage On Maps 2.2 Drainage On Maps
+The meanings of the features shown in Figure 2.46 are explained below. Study 
+them carefully.
+Source: The source of a stream is the point at which it begins.
+Tributary: A tributary is a small stream or river that flows into a larger stream or 
+river.
+Confluence: A confluence is the point where a river and its tributary or a river 
+and a glacier flow together. The word confluence can also mean the place where 
+two or more streams merge into one.
+Levee: A levee is a ridge of sediment on either side of a river channel. This 
+sediment is gradually deposited as the river periodically floods and overflows its 
+banks. 
+Estuary: An estuary is the area in which the mouth of a river meets the ocean. 
+Delta: A delta is a triangular deposit of soil or silt at the mouth of a river. In 
+deltas, rivers split into multiple channels called distributaries. There are three 
+types of deltas. They are based on the deltas’ shapes.
+F Arcuate delta: This kind of delta has a convex outward margin. It is 
+formed when the river empties into the sea. It is composed of coarse 
+sediments like gravel and sand.
+F Bird’s foot delta: This kind of delta projects irregularly into the sea. 
+The river channel derides into a few distributaries. This is the only type 
+of delta which maintains clearly defined channels.
+F Cuspate delta: It is formed when a river joins its mouth (sea) on a 
+straight coastline along which there is a strong current or tide so that 
+the sedimentation takes place on either side of the river mouth.
+Figure 2.47: The three types of deltas
+Grade 11 Geography 72
+2.3 The Study Of Human-made Features On Maps
+Mouth: The mouth of a river is the area in which the river enters a larger body of 
+water. The mouth of a canyon is where the canyon empties onto a plain.
+Channel: A channel is the deepest part of a river and often has been used for 
+navigational purposes. 
+Oxbow lake: An oxbow lake is a loop of an old river meander that has been 
+completely cut off from the river because of a shift in the river’s course.
+Meander: A meander is a bend in a river created by the normal action of a mature 
+stream as it winds across its floodplain. The river deposits sediment on the inner 
+curve of the meander, where the current is the slowest. On the outer curve, where 
+the current is strongest, the river banks erode. Eventually, the meander may 
+develop into such a long loop that the river cuts across it to follow a shorter 
+course, leaving behind an oxbow lake.
+Content Check
+1 Define the following terms and concepts 
+a drainage pattern
+b divide
+c watershed
+d confluence
+e river capture
+2 Write the major features that characterize a river in its:
+a upper course b middle course c lower course
+2.3 THE STUDY OF HUMAN-MADE FEATURES 
+ON MAPS
+At the end of the section, you will be able to:
+Þ distinguish various patterns of settlement on maps;
+Þ interpret the shape of settlements;
+Þ explain the types of settlements;
+Þ estimate factors influencing the sitting of settlement 
+Þ reflect the function of settlements;
+Þ identify various airfields on maps.
+Unit 2: Map reading and Interpretation 73
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+Key Terms
+³ Settlement 
+³ Signs and symbols 
+³ Site
+³ Rural 
+³ Urban 
+³ Transport network 
+³ Gradient
+Brainstorming
+Discuss the following questions with your friend and try to come up with some ideas.
+1 What is a settlement?
+2 How is a settlement formed?
+3 What sorts of factors determine the establishment of a settlement?
+A settlement is a place where people live close together. It is a unit or organized 
+group of people inhabiting a certain geographical area and making a living out 
+of their surrounding environment. A settlement can also be defined as a group 
+of buildings (houses) in specified area with people living in them. Settlements 
+differ in their size, complexity and stage of development. While some settlements 
+are extremely large with diversified socio-economic conditions, others are very 
+small and less diversified. Settlements range from a little collection of single 
+buildings to megalopolises. As a result, we can have different hierarchies of 
+settlements. Figure 2.48 shows you the different types of settlements based on 
+their population size and diversity of services.
+Isolated dwelling
+Hamlets
+Villages
+Towns
+Cities
+Large City
+Metropolis
+Conurbation
+Megalopolis
+Large Towns
+When we move up wards from 
+isolated buildings to megalopolis, population increases 
+and services get diversiied. On 
+the other hand, frequency of 
+occurence increases down the 
+pyramid.
+Figure 2.48: Settlement Pyramid
+Grade 11 Geography 74
+2.3 The Study Of Human-made Features On Maps
+In Figure 2.48 ,above isolated dwellings with a few people living in them is 
+represented by the lowest level of the pyramid, and the megalopolis, which has 
+the greatest number of people, is at the top. As we move from the bottom to 
+the top of the pyramid, we observe changes in population size and in service 
+delivery, quality and diversity. In terms of frequency, smaller settlements are the 
+most frequently developed settlements in the world. The meaning of each of the 
+types of settlement in the above diagram is given below.
+Settlements can be urban or rural. Urban settlements are developed in areas with 
+non-agricultural economic activities. In contrast, rural settlements develop in areas 
+where agriculture forms the base of the economy. Smaller settlements are usually 
+in rural areas, and larger settlements are associated with urban environments. The 
+location, size, shape, function and pattern of settlements can be shown on maps. 
+Cartographers use different kinds of signs and symbols to represent settlements 
+on maps. The discussion below gives you some idea about how settlements are 
+represented on topographic maps. 
+2.3.1 Representation of Settlements on 
+Maps
+How do human beings establish their settlements? How do we represents 
+settlement on maps? What factors determine the patterns of settlement? 
+Megalopolis: a group of conurbations, with each having more than ten 
+million people. 
+Conurbation: a group of large cities and their suburbs, with three to ten 
+million people. 
+Metropolis: a large city and its suburbs, consisting of multiple cities and towns 
+with one to three million people. 
+Large city: a city with a large population and many services with a population 
+of between 300,000 and 1 million. 
+City: a city has abundant services, but not as many as a large city. A city has a 
+population of between 100,000 and 300,000. 
+Large town: a large town has a population of 20,000 to 100,000. 
+Town: a town has a population of 1,000 to 20,000. 
+Village: a village generally does not have many services, possibly only a small 
+corner shop or post office. A village has a population of 100 to 1,000. 
+Hamlet: a hamlet has a tiny population, usually less than 100, and very few or 
+no services, and few buildings. 
+Isolated dwelling: an isolated dwelling would only have 1 or 2 buildings or 
+families in it. It would have negligible services, if any. 
+Unit 2: Map reading and Interpretation 75
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+Maps are important tools for showing settlements. In different ways, maps depict 
+the shapes settlements have, different features that are found in the settlements, 
+the patterns of settlements and their functions. To represent settlements and their 
+features, cartographers use different techniques including colors and different 
+signs and symbols. 
+I Signs and Symbols Used on Settlement Maps
+Most topographic maps contain abundant information about human-made 
+features. One of these features is human settlement. A number of different 
+features, such as residential areas, schools, hospitals, mining sites, industries, 
+communication and transportation features, and the like, are found in settlements. 
+Cartographers use different techniques to show these features on their maps. One 
+of these techniques is using various types of signs and symbols to show features 
+that are found in the settlements represented. The common signs and symbols 
+used for showing settlement features are given in Table 2.2. 
+Table 2.2: Signs and symbols that are used to show settlement features on maps 
+Map symbols Features represented
+Town, city, major city, capital city
+Built-up areas ( towns and cities)
+Bridge
+Parking lot
+Ruin
+ Railway (double/single track)
+All-weather road (hard and loose surface)
+Dry-weather road, track, trail
+Garbage bin
+Grade 11 Geography 76
+2.3 The Study Of Human-made Features On Maps
+Map symbols Features represented
+Lighthouse
+Villages, scattered settlements, farms
+Church or chapel 
+Mosque
+School
+Airport Class I, Airport Class II, Heliport
+Clinic or hospital
+ Battlefield
+Mineral workings
+Post office 
+M Market
+ / T Telephone
+Electric power line/transmission line
+II The Shape of Settlements
+Brainstorming
+1 Do you think that all settlements have the same shape? Why or why not? 
+2 How many settlement shapes do you know? 
+3 What causes the different shapes that settlements have?
+Unit 2: Map reading and Interpretation 77
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+Settlements have different shapes that result from many factors. Some of these 
+factors are the site and situation of the settlement. The term Site means where 
+the settlement has been developed. On the other hand, Situation refers to the 
+“where” of the settlement in relation to the surrounding area. Situation can 
+also be described as the “where about” of a settlement. The site and situation 
+of a settlement is the most important determinant factor of its shape. Basically, 
+settlements are classified into three major groups based on their shapes. These 
+are: 
+Â Dispersed settlement 
+Â Nucleated settlement
+Â Linear settlement
+a Dispersed settlements: These are settlements established by one family 
+or a few family residences scattered about in isolated places. They are 
+separated from one another by physical barriers. Life in this kind of 
+settlement is simple, quiet, and much the same all the year round. There is 
+little opportunity for social gatherings. Dispersed settlements are typically 
+found in the tropical rainforests and scrub lands in Africa and Australia. 
+Dispersed settlements are mostly found in rural areas.
+b Nucleated settlements: These are groupings of several family residences 
+such as hamlets, villages and small periodic-market towns. Such settlements 
+are usually developed around a certain central point. In such a settlement, 
+there are collective amenities to serve the community like shops, houses, 
+schools, places of worship, entertainment and transport networks. The 
+pattern of the settlement is compact, concentrated and can be distinguished 
+by certain well-developed features. Ethiopian examples of nucleated 
+settlements are Addis Ababa, Bahir Dar, Harar, Gondar, Bishoftu etc.
+c Linear (Ribbon) Settlements: A linear settlement is a kind of settlement 
+which has an elongated pattern. This type of pattern is usually a roadoriented settlement pattern. Most of the towns that are found along the 
+main highway lines from Addis Ababa to Gondar, Mekele, Asosa, Harar, 
+and Jimma are good examples of linear settlement in Ethiopia. Some linear 
+settlements are situated on an elongated relief feature such as a ridge. The 
+town of Ghimbi in Welega is a good example of a settlement that develops 
+along a ridge.
+Grade 11 Geography 78
+2.3 The Study Of Human-made Features On Maps
+III Types of Settlements
+How many types of settlements are there? How do you differentiate urban 
+settlement from rural settlement? What are the major economic activities in 
+rural areas? 
+Based on where settlements are developed, they can be grouped into two types as 
+Rural settlement and Urban settlement. Rural settlements are those that develop 
+in agricultural areas. In contrast, urban settlements are those that develop in 
+non-agricultural areas where the major economic activities are non-agricultural. 
+Each of the two types of settlements has its own features. For instance, rural 
+settlements have very low levels of socio-economic infrastructure and are poorly 
+interconnected. Services are limited. Their economy is primarily agricultural. 
+Rural settlements have very low divisions of labor. They are also sparsely 
+populated. Contrary to this, urban settlements are characterized by non-agricultural 
+activities such as different businesses, service-giving sectors, industries and the 
+like. They also have a high division of labor. Infrastructures, such as transport 
+and communication facilities, schools, and hospitals, and modern houses, etc. 
+are well-developed. Urban settlements are densely populated as people live very 
+close to each other. 
+Rural and urban settlements can easily be distinguished based on the features that 
+each manifests. The characteristic features that can help the easy differentiation 
+of urban (town, city) settlements from rural settlements on topographic maps 
+include the following.
+Figure 2.49: The three types of settlement shape
+Unit 2: Map reading and Interpretation 79
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+Urban Rural
+F has groups of buildings on vast 
+built-up areas;
+F has planned streets;
+F has defined shapes of settlement.
+F has houses made out of simple 
+materials (wood and mud); 
+F has no planned streets;
+F has narrow and irregular roads;
+F has no defined shape;
+F covers a small area. 
+IV Factors Influencing the Location of Settlement Sites
+What factors influence, the location of settlements? How do they affect the 
+locations of settlement sites?
+The site of a settlement is where it has been built. Settlements develop when 
+people settle in a certain area. Their settling in an environment to form a permanent 
+settlement is the result of a number of factors influencing the settlers. There are a 
+number of factors that were important to the original settlers.
+When we carefully observe the location of towns and cities, we can see that their 
+sites and situations have various advantages that have helped them to grow there. 
+This is related to the factors that caused the development of the settlements. For 
+instance, Addis Ababa is sited at the foothills of the Entoto Mountains where the 
+hot springs of the present day filuwuha are situated. Its position is its location in 
+relation to the rest of the region. Similarly, the town of Bahir Dar is situated to the 
+southwest of Lake Tana and northwest of the Tis Esat fall. 
+The choice of a settlement site is affected by many factors. The following are 
+some of the more favorable combinations of site and situation which have led to 
+the establishment of settlements.
+F Fertile alluvial plain: the primary and basic necessities of humanbeings 
+are food and water. A fertile alluvial plain drained by rivers is ideal 
+for raising food crops and maintaining a potable water supply. A flat 
+landscape facilitates the movement of people and goods. It is an ideal 
+situation for the exchange of products and ideas. It is the potential center 
+for trade communication and administration. Examples are Hawasa on 
+the rich Lake Hawasa plain, Wereta in the intensively cultivated Fogera 
+basin drained by the Rib and Gumara Rivers.
+Grade 11 Geography 80
+2.3 The Study Of Human-made Features On Maps
+F Coastal lowlands: where narrow coastal plains are bounded on the 
+landward side by mountains, agriculture, transport and settlement all 
+have to be carried out on the lower land. Where there is a mountain 
+barrier, this naturally leads to the growth of a town. 
+F Water supply: water is one of the most important natural resources to 
+human beings. Therefore, at any cost, the site of a settlement should 
+be near a good water supply. Springs, streams, and storage dams 
+should be remote from flooding and water germs. Such settlement sites 
+include ports, confluences, bridge points, and spring lines at the base 
+of escarpment river banks. For example, Khartoum is a confluence city 
+and Djibouti is a port town.
+Focus
+Water (wet-point) sites are ideal for a settlement for a number of reasons 
+like pure and adequate potable water, fishing, irrigation, power generation 
+(HEP) and communication. 
+F A natural focus of routes: These are the nodal towns. By the very 
+nature of their geographical location, many towns assume importance 
+as centers of road, rail or water communication. People tend to provide 
+commercial and social services that passing travelers can make use of. 
+An example of such nodal town in Ethiopia is Kombolcha.
+F Sites for Generating hydro–electric power: waterfalls are of paramount 
+importance for generating hydro–electricity. Where such a site occurs, 
+the availability of cheap power attracts industrial establishments. These 
+require labor and other services and a settlement is very likely to grow 
+up taking advantage of the cheap power. Examples of such settlements 
+include Buffalo to the south of the Niagara Falls in the US, and Bahir 
+Dar and Fincha in Ethiopia.
+F Defensive Sites: a defensive site is a place that is difficult to attack. 
+This was a deciding factor in the 19th century in Ethiopia when 
+defensive strategy that was executed at the right moment could save 
+the whole community. However, in modern warfare with aerial attacks 
+the community could not be saved. Some settlements were chosen due 
+Unit 2: Map reading and Interpretation 81
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+to their physical protection for a given tribal group against another 
+tribal enemy. Some towns in Ethiopia were established on a hilltop or 
+hillsides for defense and patrolling purposes. For instance, the Yirgalem, 
+Chencha (Gamo–Gofa), Asela, etc. villages on the Bouci plateaus were 
+established in isolated spots at the bases of rocky ridges and covered by 
+dense forest. Government policies in the hidden areas of modern Africa 
+have established nucleated defensive settlements.
+F Communications: Communication networks are important factors in 
+settlement sites. This becomes evident if the settlement produces cash 
+crops for market. Proximity to transportation networks eases movement 
+for speedy marketing of agricultural products. Large villages grow into 
+large towns if they are situated at road junctions. Good examples of this 
+case in Ethiopia are Mojo, Awash, Shashmene, Wereta, and Woldya. 
+F Mineral wealth: The discovery of minerals and their extraction can be 
+a facilitating factor for the development of settlements. Anywhere on 
+earth, be it on mountain tops or arid (desert) areas, valuable minerals 
+attract investors and investment to work in the mines. Such conditions 
+create favorable opportunities for settlements to develop. For example, 
+Johannesburg’s growth in the Republic of South Africa has been 
+accelerated by the discovery of gold in the Witwatersrand. It is now the 
+second largest city in Africa next to Cairo.
+V Function of Settlement
+Settlements, by their very nature perform certain useful functions to ascertain 
+their continued existence, most of them have several functions. A village or a 
+town may serve the community as a meeting place for people and goods and 
+have no other functions to distinguish it from other villages. A village grows 
+in to a town and later in to a city, the increase in population alone insures 
+many activities that a village does not require. Towns may comprise several 
+functions. However, most towns have one dominant function. Maps can give 
+us some sort of information regarding the land use (economic importance) of 
+settlements. There is a possibility to know the function of a town by just looking 
+the situation and the name on topographic maps. For example, beach side holy 
+day resorts, Commercial ports, mining centers, etc. We can therefore, classify 
+towns according to their functions.
+1 Market towns: These are towns whose major function is as centre of 
+exchange of goods and service. They are distribution centres for local 
+Grade 11 Geography 82
+2.3 The Study Of Human-made Features On Maps
+products, for example, Nedjo (Welega), Kola Diba (N. Gondar), Ginchi 
+(near Ambo), Agaro (in Jimma), Tepi (in Kaffa), Durbete ( west Gojam), 
+etc. Kumasi (Ghana). 
+2 Industrial towns: Towns of these kinds are engaged in processing raw 
+materials into finished goods. These towns have some advantages as 
+industrial sites such as:
+F Proximity to power,
+F Minerals,
+F Raw materials, labor or markets,
+F Are served by modern net work of communication. 
+Example: 
+Akaki, Dukam, Adama, Dire Dawa, Bahir Dar, Gondar, Mekele, Hawasa, etc. 
+3 Commercial towns: The major function of these types of towns is just 
+serving as centers of commerce and finance, where trade is the primary 
+concern. There are financial institutions such as banking, insurance 
+and other financial sectors. London is the financial head quarters of the 
+common wealth. New York is the financial centre of USA, Addis Ababa is 
+the financial centre of Ethiopia.
+4 Mining towns: mining oriented towns may be located in very unusual 
+places , but adequate mineral resources. Some towns shrink and become 
+ghost towns due to the exhaustion of minerals. Many acquire other functions 
+and are permanent towns. Mining centers can be located on maps by quarry 
+symbols. This includes rocks (building stone, limestone and gravel for 
+road construction). Gravel pits heavy machinery, water and power supply, 
+smelteries , roasting, oil roads, railways and pipelines are indicators of 
+mining villages.
+5 Holiday resorts, hill and health resorts: These towns with various kinds 
+of resorts are located in favorable geographical surroundings. They include 
+coastal resorts for batting and yatching. For example, Mombasa (Kenya), 
+port Sudan (Sudan), Pretoria (south Africa).
+Hill resorts for mountain climbing and for the cool mountain air. For 
+example, Semien mountain( Ras Dejen). Health resorts for those whole 
+need specialists treatment. For example, Soderie (Oromia), Wondo Ghent 
+(Oromya), Wanzaye (south Gondar).
+Unit 2: Map reading and Interpretation 83
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+6 Forestry (Lumbering): Forestry oriented towns are classified according 
+to their latitudinal location and forest type these are deciduous, coniferous 
+tropical and mixed wood land. They are depicted on maps by pictorial 
+(tree) symbols 
+7 Administrative towns: these types of towns are the head quarters of the 
+government and they are capital cities or centres of local administration. 
+They deal with the administration and organization of the nation. Some 
+are continental capitals (Addis Ababa) and international capitals (Geneva, 
+New York)
+8 Cultural and educational towns: These are towns in which are found 
+world renowned universities. For example, Oxford and Cambridge in 
+England and Laiden in the Netherlands:
+9 Ecclesiastical cities: towns under this category are very exceptional. 
+Towns of this type are perform special functions such as historical and 
+religious centers and are frequently visited by pilgrims from all corners of 
+the world. These include Jerusalem (Judaism, Christianity), Mecca (Islam), 
+Varanasi (Hinduism) other smaller ones include religious associations for 
+example, Vatican, Lalibela, Axum and Kulubi (Orthodox Christianity), 
+Nejash (Islam) in Ethiopia. 
+Activity 2.11
+1 For what purpose do people chose alluvial plain for settlement? 
+2 Explain the difference between wet site and dry site settlements.
+3 List some towns in Ethiopia which were established for defense purpose. 
+4 To which type of site does Oxford belong? 
+5 Explain the reasons (causes) why some towns shrink and become ghost towns. 
+2.3.2 The Study of Communication on Maps 
+Transport Network 
+What is a transport network? What are those factors that affect transport 
+networks?
+Communication feature can be shown on topographic maps by using different 
+signs and symbols. It is also possible to measure distance from one point to 
+another. Gradients of various transport networks can be also calculated and viable 
+Grade 11 Geography 84
+2.3 The Study Of Human-made Features On Maps
+types of vehicles for them can be identified based on slope gradients.
+Recognizing communication features on maps:
+F Marginal information on maps is the most important tool for map 
+readers who are reading those communication features on topographical 
+maps. These include foot paths, tracks, roads, railway lines airways, 
+waterways etc. Those features can be distinguished from their names 
+and conventional signs and symbols depicted on the map.
+a Foot paths (Trails): These are usually found in the open countryside 
+and in hills or mountains where construction of metalled road surfaces is 
+impossible or extremely expensive. These are commonly found in rural 
+Africa, and most of the people are served by trails and tracks.
+b Roads: Roads ranging from mule tracks to modern highways are the most 
+universal form of transport. Roads are classified by their width and surface 
+quality: Topographic maps show various classes of roads by using different 
+symbols. Some of them are: tarmac (asphalt) roads or first-class roads 
+(highways), metallic (graded surfaced) roads, and cart tracks (dry-weather 
+roads).
+c Railways: compared with road transport, rail travel avoids congestion 
+causes less pollution, is cheaper and quicker over relatively long distances, 
+and is safer and more comfortable. 
+Railway lines can be distinguished on topographic maps by symbols. 
+Such a map also shows railway lines with single and multiple tracks, 
+small-gauge and mineral working lines and all the constructional detail is 
+given alongside the track. Therefore, a railway line is controlled by relief. 
+Railway lines find river gaps and passes and maintain a level course by 
+cutting bridges, via ducts and embankments. 
+Figure 2.50: A railway with a bridge, cutting and embankments
+Unit 2: Map reading and Interpretation 85
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+d Cart tracks: most of the cart tracks shown on topographic map are, at least 
+in the dry season, used by four-wheel drive vehicles. 
+e Waterways (Navigation): waterways are divided into two major groups: 
+F Inland waterways. F Sea routes. 
+The inland waterways include navigable rivers, canals and coastal shipping 
+routes. They can be identified on maps by the presence of sea ports in 
+association with structures like jetties, lighthouses, harbor offices and 
+break waters. Rivers are also important to convey goods and passengers 
+from the coast to the inland. The location of ports near a river mouth and 
+the occurrence of locks following paths, piers for unloading, straightened 
+courses, and dense building along the bank of the river show that the river 
+is navigable. 
+Canals are easily recognized on a map. They are depicted on topo maps as 
+long straight sections along the contours, moving from one level to another 
+with the help of locks. 
+f Other means of communication: These include communications, radio/
+TV stations and microwave and tower stations which are shown by their 
+own symbols and names. 
+Factors Affecting the Development of Transport Network 
+What are the factors that affect the development of transport net work? 
+The major factor that affects the development of a transport network is the need 
+for transport. Transport facilities are prime necessity for two purposes: 
+F to serve economic activities
+F to make strategic control of a country possible. 
+Figure 2.51: A via duct: The road bridge across low lying dry land
+Grade 11 Geography 86
+2.3 The Study Of Human-made Features On Maps
+These purposes can be coordinated when the transport network of a given country 
+is planned. Economic development is unthinkable without the development of 
+transport networks.
+It is obvious that roads and railways can be constructed in any place where they 
+are needed. However, the actual course followed and the pattern of the resulting 
+network is influenced by the natural environment through which the roads and 
+railways have to pass. The two important elements to be considered by road 
+planners are relief and natural water courses. 
+i Relief: One of the major obstacles for transport development is relief 
+(terrain). Due to these large changes in altitude, roads make use of serpentine 
+bends and tunnels or they pass around the mountains or over them. 
+ii Water shed road route: sometimes road routes follow watersheds just 
+to avoid crossing numerous rivers which require expensive bridges. For 
+example the Addis Ababa-Mekele road via Dessie follows the watershed 
+between the Abbay Basin on one side and the Awash Basin draining towards 
+Djibouti. 
+iii River valley roads route: river valleys are preferred under certain 
+conditions. Usually the gradients of river valleys have been smoothed by 
+erosive action of rivers. This makes road construction easier and less costly.
+iv Water bodies: These are another hurdle to road and rail construction. Rivers 
+can be crossed either by bridges or ferries. Swamps and marshy areas are 
+negotiated by road and rail engineers. If there is no choice, they are crossed 
+by viaducts or long continuous embankments. 
+g Air Transport
+What advantage does air transport have over the others? 
+Air transport is a recent mode of transport. This new form of transport has great 
+advantages, because it is affected very little by different land forms or ground 
+conditions. An airplane can cross mountains, dense forests and large oceans with 
+the greatest ease and speed. It can reach the remotest, the farthest and the most 
+inaccessible places on earth, provided a landing place is available. Air fields, 
+due to their long runways and the undesirable associated noise and danger, are 
+constructed a somewhat distant from densely populated and heavily built-up 
+areas. 
+Unit 2: Map reading and Interpretation 87
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+Airfields, where airplanes land and take off, are the only physical evidences of 
+air transport in the landscape. These points are known as aerodromes, airports, 
+landing strips or heliports, depending on the facilities existing at these points. 
+Aerodromes and airports are points where single or several tarmac runways 
+equipped with navigational aids exist. The Addis Ababa international air field 
+layout is a good example and it is the largest in Ethiopia, followed by those in 
+Dire Dawa, Mekele, Bahir Dar, Gondar and Axum. 
+The map on the preceding figure portrays a modern airport with the necessary 
+equipment. The map shows the railway and the road connecting the airport with 
+the land-transport network for taking passengers and goods from and to the 
+airport. 
+2.3.3 Climbing Capacities of Vehicles
+Do you remember what you have learnt about gradient in the previous lessons? 
+What is gradient? How do you explain gradient in relation to slope and altitude?
+The surface of the earth is not uniform throughout. There are a number of ups 
+and downs with slopes varying in degree. A particular surface landform may 
+be concave, convex, uniform or irregular. But the slope, as opposed to the 
+actual landform, will still be the same. Therefore, the slope is determined by the 
+relationship between the end points of a line; the slope and the altitude between 
+the two points. Ups and downs are expressed in terms of slope and gradient. 
+When there are big differences in local relief, roads usually climb or descend along 
+the rivers. Railways are very much more affected by relief than roads because of 
+their low hill-climbing capacity. This is because railways require much smaller 
+gradients than roads, 2 percent is given as the maximum for railways. This means 
+that when a railway and a road have to travel the same ascent, the railway uses a 
+different and much longer route than the road. 
+Example: 
+Two points, ‘A’, located at the foot of the eastern escarpment in Ethiopia at 
+an altitude of 500 m, and ‘B’ located at 2500 m are to be joined with a road 
+and a railway 
+a what is the length of the road? 
+b what is the length of the railway? 
+Grade 11 Geography 88
+2.3 The Study Of Human-made Features On Maps
+Solution: 
+Using the formula for calculating gradients, we get: 
+ altitude difference = 2500 500
+ = 
+1000
+− 2 kilometers 
+Maximum gradient for cars = 25%
+Ground distance (unknown) = x 
+a the shortest possible distance for the road is: 
+25 = Altitude
+x
+ differenece × 100
+25 = 
+2 100
+ = 
+×
+x
+8 km (the length of the road) 
+b The shortest possible distance for the railway is: 
+2 2
+ = 100 = 100 km ×
+x
+ (the length of the railway) 
+The solution applied in road construction, the building of roads in serpentines, 
+cannot be applied to railways. 
+Railways avoid drastic changes in altitude for two reasons: 
+F requires high cost of construction
+F the daily operation costs are high 
+Generally railways avoid large changes in altitude, which involves the construction 
+of tunnels, embankments, cutting, etc. 
+The gradient of the slope is determined by the relationship between the vertical 
+distance of two points and the horizontal distance between them. 
+Focus 
+Slope is a measure of the vertical difference in the altitude (elevation) of a 
+surface at two different points. 
+Unit 2: Map reading and Interpretation 89
+2.3 The Study Of Human-made Features On Maps 2.3 The Study Of Human-made Features On Maps
+As discussed in the previous lessons, railway lines and road transport networks 
+are constructed in accordance with the maximum possible hill-climbing capacity 
+of vehicles. This means the road should serve all vehicles ranging from fourwheel drive cars to ordinary bicycles. In doing so, we should not build them in a 
+straight line up the slope. Instead a winding (bending) line or “serpentine” road.
+This is done in order to reduce the steepness or gradient of the road. This 
+reduction of gradient is necessary since different vehicles have different hillclimbing capacities. The following is a list of maximum gradients for different 
+means of transport. 
+Table 2.3: Maximum gradients for different means of transport
+Means of transport Maximum Gradient
+Train 2%
+Ordinary cars 25%
+4 wheel drive cars 30%
+Man–walking up Without 
+support of hands 45%
+Bicycles 10% 
+One should bear in mind that their numbers stand for ordinary trains, cars or 
+bicycles. When one buys a car or bicycle, he should be informed about the 
+specific hill-climbing capacity by the vehicle’s technical data. 
+The highest road gradient in Ethiopia is the Limalimo road, (which is 12 percent 
+gradient) which stretches from R.Tekeze to Debark, where we find numerous 
+detours to minimize the gradient of the slope.
+Activity 2.12 
+For the following questions refer to the contour map below. 
+1 Construct a road network that joins
+a town F with town A 
+b town E with town C 
+c town C with town F 
+2 Calculate the gradient in percent from town F to town A and from town E to 
+town A. The altitude of A is 1500 m. 
+a Which gradient is the highest and requires high cost of construction?
+Grade 11 Geography 90
+2.3 The Study Of Human-made Features On Maps
+1500
+1520
+1540
+1520
+1520
+1540
+1540
+1560
+1580
+1600
+1620
+1:40,000
+N
+F
+A
+C
+E
+NOTE 
+When you construct a road network, the following points should 
+be taken in to consideration. 
+F Every meter of road costs a lot of money to build and therefore, 
+all unnecessary bends in the road should be avoided. 
+F Avoid the construction of unnecessary bridges. 
+F If your road follows a river, bank with the least number of 
+tributaries should be chosen. If a major river has to be crossed, 
+the crossing should be done in the upper course of the river 
+where the width of the river is as narrow as possible. 
+F Detours to avoid bridging should be reasonable.
+F Avoid unnecessary changes in altitude. 
+F When it is necessary to overcome large differences in altitude, 
+as is the case very often in Ethiopia, the road should be made 
+to follow a river valley. This is for the reason that river valleys 
+naturally have lower gradients. When you cross a mountain 
+range, you should look for the lowest possible section of that 
+ridge which can be a pass or a col. 
+F Avoid marshy ground. The construction of a road through 
+marshy ground is very expensive, difficult and sometimes 
+impossible. 
+F Pass the road through existing towns and heavily crowded 
+villages.
+Figure 2.52: Contour map of 
+an area
+Unit 2: Map reading and Interpretation 91
+2.3 The Study Of Human-made Features On Maps 2.4 Geographical Information System (gis)
+2.4 GEOGRAPHICAL INFORMATION SYSTEM 
+(GIS)
+At the end of this section, you will be able to: 
+Þ discuss what geographical information system means; 
+Þ explain turning points in the development of GIS;
+Þ state the use of GIS;
+Þ show appreciation for the uses of GIS.
+Key Terms
+³ GIS
+³ Data 
+³ GPS
+³ Remote sensing
+2.4.1 What is Geographic Information 
+System (GIS)?
+Students may give different answers for this question. The main reason for this 
+is that GIS can be understood by different people differently. For some, GIS is a 
+branch of information technology, for others it is a computer-assisted mapping 
+and cartographic application, and for others it is a set of spatial-data analytical 
+tools.
+At this level we would like to define GIS as a system of hardware, software and 
+procedures designed to support the capture, management, manipulation, analysis, 
+modeling and display of spatially referenced data for solving complex spatial 
+problems. 
+Before understanding how the system works it is important for you to understand 
+data, information and systems.
+Data are a collection of raw facts representing places, things, people, events and 
+concepts in the form of numbers, text, figures, symbols and signals. 
+Grade 11 Geography 92
+2.4 Geographical Information System (gis)
+Information is data that have been transformed through processing such as 
+structuring, formatting, conversion and modeling.
+The word system can be used in different contexts. It can be used to describe 
+physical entities or conceptual entities 
+Physical entities
+F Solar system
+F Ecosystem
+F Drainage system
+F Immune system 
+Conceptual entities 
+F Political system
+F Democratic system
+F Computer system
+F Economic system
+In this context, GIS is a physical entity designed to achieve the specific objective 
+of collecting, storing, analyzing and presenting information in systematic ways 
+2.4.2 Turning Point on the development of 
+GIS 
+F The first GIS called the Canada Geographic Information System was 
+built in the 1960s by the Canadian government to analyze data collected 
+by the Canada Land Inventory. 
+F Similar systems were built by other governments and university 
+laboratories following the developments in Canada. 
+F The increased accessibility of computers in the 1970s as a result of 
+technological improvements and lower costs of computers heralded the 
+beginning of wide application of GIS.
+F In the 1980s GIS sales increased tremendously as governments and 
+businesses found more uses of the systems. New GIS software began to 
+be produced by a number of companies to program computer systems 
+to increase their functions. 
+F By the early 1990s, about 100,000 GIS systems were in operation.
+F By now, GIS has come to be one of the most important systems in making 
+spatial analysis and many other geographic researches.
+Unit 2: Map reading and Interpretation 93
+2.4 Geographical Information System (gis) 2.4 Geographical Information System (gis)
+Uses of GIS
+Some of the applications of GIS are stated as follows: 
+F Urban planning: This is concerned with the development of master 
+plans. The first step in an urban GIS is the production of improved 
+property descriptions. The high quality database is immediately useful 
+for many purposes. 
+F GIS is used to monitor patterns of urban growth. This is done by 
+overlaying urban area maps for two different times to produce a change 
+map showing urban growth. Such information helps city planners for 
+example, in planning schools. 
+F GIS data can also be used in neighborhood planning applications –
+for example, in a given city, it is possible to evaluate neighborhoods 
+requesting funding to help increase owner occupancy of housing. 
+Traffic Control 
+GIS is used to regulate and monitor traffic flows in streets and overcrowded 
+highways. Information is provided into GIS from video monitors, vehicle 
+detectors, etc. When there is traffic congestion, the information is used as 
+background for decisions about changes in message signs, lane signals and other 
+controls. 
+Emergency Management 
+GIS and GPS (Geographic Positioning System) techniques are used by emergency 
+management personnel before, during and after natural or human-made disasters. 
+Some of the natural hazards that cause human and material damage are earth 
+tremors, floods, fires, hurricanes, tornados, etc. In order to take quick action, 
+there must be background information about the accessibility of the disaster area, 
+including its utilities, highways, population, terrain and other elements of the 
+environment. This information is stored in a GIS system. 
+During an emergency, additional information is gathered and provided by GPS 
+(Geographic Positioning System). In doing so, current maps of damage to roads, 
+utilities and buildings can be produced. This information helps the emergency 
+teams to plan alternate routes for emergency cars and other related tasks. The 
+same information can be used after performing the emergency tasks. This includes 
+the refinement of maps that are useful for assessing the number and degree of 
+casualties and the value of damage. 
+Grade 11 Geography 94
+2.4 Geographical Information System (gis)
+GIS also plays an important role for recording, monitoring, and coordinating 
+reconstruction and rehabilitation efforts. Eventually, such information can be 
+collected earlier and combined with high-risk parameters. This information 
+includes physical features like steep slopes, vegetation cover, types of building 
+construction and material and building density. 
+This information is useful when transferring people from the disaster area and 
+when generally reducing risks for the future. 
+Airport Noise Management 
+The degree of noise is mapped around airports using data concerning airport 
+configurations accompanied by aircraft noise-generation monitoring. This 
+information can be used to reduce noise impacts near the airports. This can be 
+achieved by examining noise incidents and by planning future land use and 
+airport designs to reduce exposure levels. 
+Education 
+GIS is used in schools of all levels. One junior high school, for example, carried 
+out a project in which pupils formulated a regional GIS database. They handed 
+over the results to show the school administration that the site of the newly 
+constructed library building was vulnerable to being robbed. The quality of their 
+report may have influenced the outcome of the project. 
+Scientific Research 
+GIS-conducted research can assess the quality of medicines that are imported 
+from abroad to determine whether they fulfill international standards. The 
+availability of this information will allow importers to map those countries that 
+manufacture medicines below the international standard. 
+Social Programs 
+GIS methods are used to generate data on unemployment rate increases in relation 
+to economic development in a given country. Such a study might be related to 
+population growth rate. 
+Unit 2: Map reading and Interpretation 95
+2.4 Geographical Information System (gis) 2.4 Geographical Information System (gis)
+Public Health 
+GIS has been used to identify health problems caused by lack of sanitary practices. 
+Such application-generated maps show the relationship between income and 
+level of education and the number of people that lack sanitary practices. Areas 
+where many households were exposed to different diseases due to lack of sanitary 
+practices have been given priority for free medical treatment. 
+Resource Management 
+Resource management problems prevail in many regions. In one coffee growing 
+region, GIS was used to map, analyze and manage a complex weather condition. 
+This weather condition, frost, affects the field and greatly affects the local 
+economy. 
+Wildlife Management 
+GIS is also used in wildlife management applications – for instance, the 
+identification of favorable Mountain Nyala habitats in the Bale mountains. The 
+approach involved a study to find the territories of existing Mountain Nyala packs 
+by radio tracking. Characteristics of these territories were analyzed in a GIS. The 
+information gained was then used to search for similar habitats throughout the 
+region. These potential habitats were analyzed to evaluate their potential for the 
+introduction and protection of new Mountain Nyala packs. 
+Military Base Management 
+GIS is important for military purposes, especially to protect base residents. It is 
+also used to protect plants and animal habitats when missiles and other weapons 
+are tested. Regarding environmental problems, GIS provides information on facts 
+such as wetlands, flood zones, archaeological sites, resort areas, etc. 
+GIS is also applicable to emergency cases such as chemical plumes, wildfires, 
+etc. and for activities such as the selection of safe areas suitable for storage of 
+explosives.
+Agriculture 
+GIS is used in the agricultural sector. This application is known as precision 
+Grade 11 Geography 96
+2.4 Geographical Information System (gis)
+farming to increase agricultural production by reducing farm costs. The 
+application depends on soil maps especially prepared by GIS technology. 
+The map is prepared based on aerial photographs and on soil samples taken in 
+each field. The soil samples are analyzed, and a soil map of the farm is prepared 
+in a GIS system. Decisions are passed based on the analyzed data, regarding the 
+allocation of the appropriate fertilizer and herbicide for each soil type. 
+These requirements are mapped and put in another GIS file to be used in the field. 
+The attached computer compares the location of the tractor with the product 
+application map and continuously adjusts the mix and application rate of the 
+fertilizer/herbicide. 
+In previous times, fertilizers and herbicides were mixed and applied at an average 
+rate over entire fields. This was an inappropriate application of fertilizer and 
+herbicides. 
+Precision farming enables the farmer to apply fertilizer and herbicides 
+proportionally with respect to the required amount. This method is applied at low 
+cost and reduces all sorts of erosion. 
+ In the Field of Tourism
+GIS provides information about services and facilities of tourist sites. 
+Activity 2.13
+Answer the following questions and perform the following activities: 
+1 Explain how GIS is used to promote urban growth? 
+2 Discuss how GIS data are used in neighborhood planning. 
+3 How is GIS applied to monitor traffic flow in over crowded highways? 
+4 In what ways does GIS assist rescue members in times of natural or humanmade disasters? 
+5 What are the methods used to control airport noise? 
+6 Why does GIS relate unemployment rate with population growth rate? 
+Unit 2: Map reading and Interpretation 97
+2.4 Geographical Information System (gis) Unit Review
+Unit Review
+ UNIT SUMMARY 
+Þ The height of the surface of the earth varies from place to place. 
+Þ Land features such as plains, hills, mountains, valleys, etc. which make the 
+earth’s surface uneven are known as relief features. 
+Þ The accurate method of representing relief on maps is by means of contour 
+lines. 
+Þ A contour is an imaginary line drawn on a map. It joins all points having the 
+same height above mean sea level. 
+Þ Contour lines are drawn from pre-measure points called spot heights. The 
+construction of contour lines becomes possible once the spot heights are 
+plotted on the map. 
+Þ The landforms shown on contour maps can also be made more clear 
+and simple to understand by drawing cross-sections, profiles and block 
+diagrams. 
+Þ In the process of terrain study and analysis from a contour map, you have 
+to describe the various kinds of landforms, the nature of slopes, gradients 
+and intervisibility of different places. 
+Þ Topographic maps also show drainage features and patterns such as 
+river basins, catchment areas, watersheds and other land features that 
+develop in different stages of streams. 
+Þ The types and distribution of human settlements and communication 
+features are shown on topomaps by using conventional signs and symbols. 
+Þ You should keep in mind that the site of a settlement is not arbitrarily 
+chosen. It has been chosen for a combination of several reasons. 
+Þ Relief, water supply, health, defence, communications, government 
+policies, and economic resources are some of the facts that influence the 
+choice of site of settlement. 
+Þ It is useful to learn to read and understand maps that show different 
+communication features ranging from roads to airways. 
+Þ The science of GIS is very important. The system of GIS (Geographical 
+Information System) needs flexibility. 
+The system should include capabilities for manipulating, comparing, or 
+combining the data in different ways. 
+Grade 11 Geography 98
+Unit Review
+ REVIEW EXERCISE FOR UNIT 2
+I Write “True” if the statement is correct and “False” if the statement is not. 
+1 The relief features of the earth have two dimensions. 
+2 The most accurate and modern method of showing relief on maps is by 
+form lines. 
+3 We can see physically on the surface of the earth? 
+4 In one or a series of map sheets, the difference in altitude between two 
+successive contour lines (V.I.) is always the same. 
+5 We can obtain mean sea level by measuring the level of the sea at all stages 
+of the tides, seasonally. 
+II Match column A with column B. 
+A B
+6 Centripetal drainage pattern A Main stream 
+7 Radial drainage pattern B Found in arid and rift 
+Valley Lakes of Africa 
+8 Trellis drainage pattern C Develop in areas of 
+homogeneous rock 
+9 Dendritic drainage pattern D Develop on a dome or 
+conic cone 
+10 Consequent stream E Affected by folding and 
+faulting 
+III Chose the best answer 
+11 A wide projection on a mountain side extending from the mountain towards 
+the lowland is called: 
+A Valley
+B U-shaped valley
+C Spur
+D Re–intrant 
+12 A very wide space between successive contours represents: 
+A Gentle slope 
+B Steep slope
+C Convex slope
+D Plain 
+Unit 2: Map reading and Interpretation 99
+Unit Review
+13 We use a big vertical interval for areas with: 
+A Very plain relief 
+B Rugged terrain
+C Mountain ridge
+D Rough terrain 
+14 Two places are said to be intervisible: 
+A If there is higher relief between the two points 
+B If there is dense vegetation 
+C If there is no higher ground between the two points 
+D If there is high altitude between the two points 
+15 A cross-section of a given contour map is used: 
+A To examine whether two places are intervisible or not 
+B To visualize the types of land forms represented by a given contour 
+map 
+C To visualize whether a given area is deforested or not 
+D A and B E A and C
+16 Contour lines intersect in the case of: 
+A Waterfall
+B an undulating plain
+C a concave slope
+D a convex slope
+IV Fill in the blank space with the appropriate word or phrase 
+17 The most accurate method of interpolation is ________. 
+18 A small V–shaped cut in a steep slope or the side of a hill which looks like 
+a small short valley is ________. 
+19 A slope where the gradient changes several times from the top to the bottom 
+of the slope is ________. 
+20 A type of slope which is indicated by widely-spaced contours at the lower 
+levels and close together at the higher levels is known as ________.
+21 The rate of change in altitude of a slope is called ________. 
+V Give short answers for the following question and activities 
+22 Explain the difference between rural settlement and urban settlement. 
+23 Define the term watershed. 
+24 What is GIS?
+25 Write the three components of GIS. 
+26 In which stage do we get waterfalls in a river system?

@@ -1,0 +1,1670 @@
+A chemical industry is an institution involved in the production of chemical products. The
+chemical industry involves the use of chemical processes such as chemical reactions and
+refining methods to produce a wide variety of materials with desirable properties and
+quality to satisfy social needs. Most of these products, in turn, can be used by other
+chemical industries to manufacture other items or can be used directly by consumers.
+Generally, chemical industries:
+• use naturally-available raw materials to produce the desired products,
+• involve chemical reactions to transform raw materials into finished and semi-finished
+products,
+• consume relatively large quantities of energy during the manufacturing process,
+• use safe operation methods in their manufacturing processes, and
+Activity 4.1
+CHEMISTRY GRADE 10
+190
+• test their products during and after manufacture in their quality control laboratories
+to ensure that the products meet the required specifications.
+4.2 NATURAL RESOURCES AND INDUSTRY
+Competencies
+After completing this section, you will be able to:
+• define natural resources;
+• list natural resources;
+• classify natural resources as renewable and non-renewable;
+• define the chemical industry as a firm that involves the taking of raw materials from
+the environment and turning them into usable products by chemical means;
+• describe the applications of minerals in industry.
+1. Can fossil fuels be renewed?
+2. How can animals and plants be replaced once they die?
+3. What are natural resources?
+4. Explain the importance of natural resources for chemical industries with examples.
+Discuss in group and present your opinion to the class.
+Natural resources can be classified as renewable and non-renewable resources. Renewable
+resources are resources that can be replenished (replaced) by natural processes. These
+resources can be renewed at the same rate at which they are used. Plants, animals, soil and
+water are examples of renewable resources. Non-renewable resources are resources that
+are found in a fixed amount in nature and cannot be replenished. These resources can be
+completely used up within some decades and cannot be replaced easily. Examples of nonrenewable resources include natural gas, and coal. Generally, any chemical industry utilizes
+either natural resource as starting materials, or other substances obtained from natural resources
+after processing, as a raw material, for its manufacturing activity.
+Exercise 4.1
+Classify the following natural resources as renewable and non-renewable:
+a petroleum b minerals c fire wood
+d biomass e plants f coal
+Activity 4.2
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+191
+4.3 PRODUCTION OF SOME IMPORTANT METALS AND
+NON-METALS
+Competencies
+After completing this section, you will be able to:
+• outline the extraction of aluminium by the Hall process;
+• describe the main physical and chemical properties of aluminium;
+• describe the uses of aluminium;
+• outline the extraction of iron by the blast furnace;
+• briefly describe the conversion of pig iron in steel;
+• describe wrought iron;
+• describe the main chemical properties of iron;
+• describe the uses of iron;
+• outline the extraction of copper;
+• describe the main chemical properties of copper;
+• describe the uses of copper;
+• outline the production of nitrogen;
+• describe the main chemical properties of nitrogen;
+• outline the production of phosphorus;
+• describe the main chemical properties of phosphorus;
+• outline the production of oxygen;
+• describe the main chemical properties of oxygen;
+• outline the production of sulphur;
+• describe the main chemical properties of sulphur;
+• outline the production of chlorine; and
+• describe the chemical properties of chlorine.
+Discuss the following issues in groups:
+1. Steel-cored aluminium cables are used for conducting high-voltage electricity over
+long distances.
+i) Give two reasons why aluminium is used for these cables.
+ii) What is the purpose of the steel core?
+Activity 4.3
+CHEMISTRY GRADE 10
+192
+2. Can you mention materials, in your home or outside, that are made of aluminium?
+What are their properties for example weight, rusting, shape etc?
+Discuss in groups and give presentation to the class.
+4.3.1 Production of Some Important Metals
+A. Aluminium
+Occurrence and extraction
+Aluminium is the most abundant metal and the third most plentiful element after oxygen and
+silicon in the earth’s crust. About seven percent of the earth’s crust is aluminium. It is the
+second-most important metal, after iron, in terms of consumption. Aluminium does not
+occur as a free metal in nature. Its principal ore is bauxite (Al2
+O3
+.2H2
+O). Other minerals
+containing aluminium are orthoclase (KAlSi3
+O8
+), cryolite (Na3
+AlF6
+), corundum (Al2
+O3
+),
+beryl (Be3
+Al2
+Si6
+O8
+) and china clay (Al2
+Si2
+O7
+.2H2
+O).
+Aluminium is extracted industrially principally, from bauxite, Al2
+O3
+•2H2
+O, by the Hall–
+Héroult process or simply the Hall process. In this process, first the bauxite needs to be
+purified since it is frequently contaminated with silica (SiO2
+), iron oxides and titanium (IV)
+oxide. To isolate pure Al2
+O3
+ from bauxite, the powdered ore is first heated with sodium
+hydroxide solution to convert silica into a soluble silicate.
+SiO2 (s) + 2NaOH (aq) Æ Na2
+SiO3 (aq) + H2
+O (l)
+At the same time aluminium oxide is converted to soluble sodium aluminate.
+Al2
+O3 (s) + 2NaOH (aq) Æ NaAlO2 (aq) + H2
+O (l)
+The impurities like iron oxides and titanium (IV) oxide remain unaffected by the base and
+are filtered off. Why are they not affected?
+Then the solution is treated with acid to precipitate aluminium hydroxide.
+AlO2
+– (aq) + H3
+O+ (aq) Æ Al(OH)3 (s)
+Aluminium hydroxide is collected by filtration, washed, dried, and then heated strongly in
+a furnace to get Al2
+O3
+.
+2Al(OH)3
+ heat → Al2
+O3
+ + 3H2
+O
+Pure aluminium oxide is mixed with some cryolite, Na3
+AlF6
+, and then melted. Cryolite is
+added to Al2
+O3
+ to reduce its melting point from 2045o
+C to 1000o
+C. The molten mixture is
+then electrolyzed to obtain aluminium. The electrolytic cell, in which the molten mass is
+electrolyzed, contains graphite electrodes as both anode and cathode.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+193
+1. Write the balanced chemical equation for the dissociation of aluminium oxide in the
+molten state.
+2. Identify the ions that move to the cathode and the anode during the electrolysis of
+molten aluminium oxide? Write the half-reactions at the anode, cathode and overall
+cell reactions.
+3. At which electrode will aluminium be produced during the process?
+Discuss in groups and give a presentation to the class.
+Power
+Solid charge
+Molten electrolyte
+Bubbles of CO2
+Molten Al
+Graphite furnace
+lining (cathode)
+Graphite rods (Anodes)
+Figure 4.1 Electrolytic cell for aluminium production
+Al2
+O3
+ is converted to Al, by electrolysis. We do not use reducing agents for reduction
+of aluminium from aluminium oxide; why?
+Physical Properties: Aluminium is a soft silvery-white metal having a density of 2.7
+g/cm3
+. It melts at 660°C..
+ It can be shaped into wires, rolled, pressed or cast into different
+shapes. It is a good conductor of heat and electricity.
+Chemical Properties: Aluminium is a reactive metal, even though its reactions are not
+vigorous in comparison with those of sodium, potassium, calcium and other metals of
+group IA and IIA. It undergoes the following reactions:
+a Reaction with Oxygen:
+Aluminium has affinity for oxygen and reacts with atmospheric oxygen to form a thin
+film of aluminium oxide on its surface.
+4Al (s) + 3O2 (g) Æ 2Al2
+O3 (s)
+Activity 4.4
+CHEMISTRY GRADE 10
+194
+This thin film of oxide inhibits further reaction with oxygen. The thin film can be
+removed by rubbing with mercury or mercury (II) chloride solution.
+What type of oxide is Al2
+O3
+?
+b Reaction with dilute acids:
+Aluminium reacts with dilute acids like HCl and H2
+SO4
+, forming salts and liberating
+hydrogen gas.
+2Al (s) + 3H2
+SO4 (aq) Æ Al2
+(SO4
+)3 (aq) + 3H2 (g)
+2Al (s) + 6HCl (aq) Æ 2AlCl3 (s) + 3H2 (g)
+Aluminium does not react with dilute or concentrated HNO3
+ due to the formation of
+a protective oxide layer on its surface.
+c Aluminium burns in chlorine gas to form aluminium chloride:
+2Al (s) + 3Cl2 (g) Æ 2AlCl3 (s)
+d Aluminium reacts with sodium hydroxide solution:
+2Al (s) + 2NaOH (aq) + 6H2
+O (l) Æ 2NaAl(OH)4 (aq) + 3H2 (g)
+Uses: Aluminium is lightweight and corrosion resistant, so it is used to make light alloys
+like duralumin (mixture of Al, Cu and Mg). Alloys of aluminium are extensively used in the
+transport industry to make aircraft, ships and cars. It is used in the manufacture of household
+cooking utensils due to its high thermal conductivity and resistance to corrosion. It is also
+used to make door and window frames and roofing for buildings, as packaging material in
+food industries, and for electrical transmission lines.
+In the thermite welding process, powdered aluminium when mixed with iron (III) oxide
+and ignited, produces a temperature of about 3000°C. This temperature is quite sufficient
+for welding metals. The reaction in this process is as follows:
+2Al (s) + Fe2
+O3 (s) Æ 2Fe (l) + Al2
+O3 (s)
+The mixture of powdered aluminium and iron oxide is called thermite.
+Research and writing
+1. Make a list of materials made of aluminium you encounter at home, and in the city
+or town where you live.
+2. What property of aluminium makes it useful in the construction industries?
+3. Regarding the manufacturing of aluminium by electrolysis, answer the following
+questions.
+a The electrolyte does not need heating to keep it in its molten state; why?
+b The graphite anode gradually disappear during the electrolysis. What is it turning
+into? (Think about the product that is given off at the anode).
+Present your findings to the class.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+195
+1. Iron is the cheapest among all metals. Give reasons for this.
+2. What is the difference between stainless steel and iron?
+3. What do you understand by the term alloy? Is stainless steel an alloy?
+Discuss in groups and give a presentation to the class.
+B. Iron
+Occurrence and Extraction
+Iron is the second-most abundant metal next to aluminium, in the earth’s crust and it is the
+fourth most abundant element. It constitutes about 4.7% of the earth’s crust by weight. It
+is never found as a free metal in nature. It occurs in nature only in the form of compounds,
+such as oxides, carbonates and sulphides. The chief ores of iron are hematite (Fe2
+O3
+),
+limonite (Fe2
+O3
+.H2
+O), magnetite (Fe3
+O4
+), and siderite (FeCO3
+). It is also found in the
+form of iron pyrites (FeS2
+) which is commonly called fool’s gold.
+Iron is generally extracted from hematite (Fe2
+O3
+), magnetite (Fe3
+O4
+) and siderite (FeCO3
+).
+The extraction of iron from its ores is carried out in a blast furnace. The raw materials for
+the extraction of iron are iron ore, coke, limestone and hot air. The furnace is charged with
+a mixture of iron ore, limestone and coke at the top and a blast of hot air is blown in at the
+bottom. The coke burns to form carbon dioxide and the temperature approaches 2000°C
+near the bottom. As the carbon dioxide rises up, the coke reduces it to carbon monoxide.
+The carbon monoxide then reduces the iron oxide to iron metal. The overall reactions in
+the blast furnace can be summarized as follows:
+1. Oxidation of coke to carbon dioxide:
+C (s) + O2 (g) Æ CO2 (g) + heat
+2. Reduction of carbon dioxide to carbon monoxide:
+CO2 (g) + C (s) Æ 2CO (g)
+3. Reduction of iron oxides to metallic iron by carbon monoxide:
+3Fe2
+O3 (s) + CO (g) Æ 2Fe3
+O4 (s) + CO2 (g)
+Fe3
+O4 (s) + CO (g) Æ 3FeO (s) + CO2 (g)
+FeO (s) + CO (g) Æ Fe (l) + CO2 (g)
+4. Decomposition of the limestone by heat in the blast furnace serves as a flux to
+remove impurities:
+Activity 4.5
+CHEMISTRY GRADE 10
+196
+CaCO3 (s) heat → CaO (s) + CO2 (g)
+5. Reaction of calcium oxide with impurities like silica (SiO2
+) to form calcium silicate
+which is a glass-like material called slag.
+CaO + SiO2 Æ CaSiO3
+The molten iron flows to the bottom of the blast furnace. The slag is less dense and floats
+on the surface of the molten iron. Thus, the molten iron and the molten slag are tapped off
+separately. The slag is used mostly for the manufacture of cement
+Figure 4.2 Blast furnace.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+197
+The iron obtained directly from the blast furnace is called pig iron. It is impure and contains
+about 2% silicon, up to 1% phosphorus and manganese, and traces of sulphur. These
+impurities make pig iron brittle. When pig iron is re-melted with scrap iron and cast into
+moulds, it forms cast iron.
+Wrought iron: is the purest form of commercial iron. It is obtained by removing most of
+the impurities from pig iron. It is manufactured by heating impure iron with hematite and
+limestone in a furnace. This increases the purity of the iron to 99.5%. Wrought iron is a
+tough, malleable and ductile form of iron.
+PROJECT 4.1
+Form a group and construct a model of the blast furnace from locally available
+materials.
+Conversion of Pig Iron to Steel
+The relatively high carbon-content of the iron recovered from the blast furnace (pig iron)
+makes it very hard and brittle. The conversion of pig iron to steel is essentially a purification
+process in which impurities are removed by oxidation. This purification process is carried
+out in a furnace at high temperatures. In the conversion of pig iron to steel, three different
+methods are used. These are the Bessemer Converter, Open-hearth Furnace and the
+Basic Oxygen Process.
+a The Bessemer Converter: In the process of converting pig iron to steel, molten
+pig iron from the blast furnace is transferred to a cylindrical vessel containing a
+refractory lining of MgCO3
+ and CaCO3
+. A blast of hot air is blown through the
+molten metal from a set of small holes at the bottom of the vessel. The oxygen
+passing through the molten metal converts silicon, phosphorus and sulphur to their
+oxides, which then react with the lining to form a slag. The carbon in the pig iron is
+also oxidized to carbon monoxide, so its concentration is also reduced. The
+conversion of the pig iron to steel by this process requires only 15 minutes. However,
+the reaction is difficult to control and the quality of the steel produced can be quite
+variable.
+b The Open-hearth Furnace: It has a large, shallow hearth, which is usually lined
+with a basic oxide refractory (MgO and CaO). The furnace is charged with a mixture
+of pig iron, Fe2
+O3
+, scrap iron and limestone. A blast of hot air and burning fuel is
+directed over the surface of the charge to maintain it in the molten state. Impurities in
+the pig iron are oxidized by the Fe2
+O3
+ and air. Carbon dioxide, and sulphur dioxide
+formed by the oxidation of the carbon and sulphur, respectively, in the pig iron
+bubble out of the mixture as waste gases.
+CHEMISTRY GRADE 10
+198
+The SiO2
+ and other acidic oxides like P4
+O10 combine with CaO (from limestone) and the
+refractory lining to form a slag.
+The impurities in pig iron are oxidized in the following way:
+C +O2 Æ CO2
+S +O2 Æ SO2
+12P + 10Fe2
+O3 Æ 3P4
+O10 + 20Fe
+3Si + 2Fe2
+O3 Æ 3SiO2 + 4Fe
+Calcium oxide, formed by the decomposition of limestone, reacts with oxides of silicon
+and phosphorus to form slag.
+P4
+O10 + 6CaO Æ 2Ca3
+(PO4
+)2
+SiO2 + CaO Æ CaSiO3
+This entire process takes 8 to 10 hours to complete and the quality of the steel is much
+more easily controlled. A calculated amount of various elements can be added to the steel
+to form steel alloys with desired properties.
+Figure 4.3 a) Bessemer converter b) Open-hearth furnace.
+a
+b
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+199
+c Basic Oxygen Process: This newer procedure has largely replaced the open
+hearth, because of its high speed. It involves forcing a mixture of powdered
+calcium oxide, CaO, and oxygen gas directly into the surface of the molten
+pig iron. The oxygen reacts exothermically with carbon, sulphur, silicon,
+phosphorus and impurity metals. Carbon and sulphur are oxidized to CO2
+ and
+SO2
+, respectively, and are released as exhaust gases. The oxides of silicon
+(SiO2
+), phosphorus, (P4
+O10) and impurity metals combine with lime (CaO),
+forming slag. The charge in the converter is maintained in the molten state by
+the energy released in these oxidation reactions. The converter is tilted to
+remove the slag. After a second blow of oxygen, the converter is tilted once
+again and the molten steel is poured out. This process takes only about 20
+to 25 minutes.
+Figure 4.4 The basic oxygen converter.
+Prepare a list of materials which are made of steel and describe their uses. Discuss in
+groups and give a presentation to the class.
+Activity 4.6
+CHEMISTRY GRADE 10
+200
+Physical Properties of Iron
+Do you remember physical properties of iron? Can you mention some of them?
+Iron is a grey, lustrous, malleable and ductile metal. It is a good conductor of heat and
+electricity. It has a high melting point (1580°C) and a high density (7.87 g/cm3
+). It is a
+ferromagnetic metal, which means it can be permanently magnetized.
+Chemical Properties of Iron
+Have you ever noticed the formation of a reddish thin film on the surface of an
+iron object? Do you know the chemical nature of this thin film? From your
+observations, what do you conclude about the reactivity of iron?
+Iron is a reactive metal. Its reactivity is very slow, compared to group IA and IIA metals.
+Iron rusts in the presence of air and moisture to form hydrated iron (III) oxide.
+4Fe (s) + 3O2 (g) moisture → 2Fe2
+O3
+ .x H2
+O(s) (rust)
+Iron reacts with dilute acids, like HCl and H2
+SO4
+, forming iron (II) salts and liberating
+hydrogen gas.
+Fe (s) + 2HCl (aq) Æ FeCl2 (aq) + H2 (g)
+Fe (s) + H2
+SO4 (aq) Æ FeSO4 (aq) + H2 (g)
+Like other transition metals, iron also exhibits different oxidation states. It commonly exists
+as the ferrous (Fe2+) and ferric (Fe+3) ions. Iron (II) and iron (III) compounds are coloured.
+Aqueous solutions of iron (II) compounds are pale-green and solutions of iron (III)
+compounds are yellowish brown.
+Aqueous solutions of some iron (II) compounds are rapidly oxidized to the corresponding
+iron (III) compounds. For example, iron (II) hydroxide, Fe(OH)2
+, on exposure to air,
+oxidizes to iron (III) hydroxide.
+4Fe(OH)2 (s) + O2 (g) + 2H2
+O (l) Æ 4Fe(OH)3 (s)
+Heated iron reacts with hydrogen chloride gas, forming iron (II) chloride and hydrogen gas.
+Fe (s) + 2HCl (g) Æ FeCl2 (g) + H2 (g)
+Heated iron reacts with chlorine and sulphur to form the chloride and sulphide, respectively.
+2Fe (s) + 3Cl2 (g) Æ 2FeCl3 (s)
+Fe (s) + S (s) Æ FeS (s)
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+201
+Iron has the ability to displace less active metals from solutions of their salts. For example,
+when a piece of iron is placed in a solution of CuSO4
+, it is oxidized to Fe2+ and a reddish
+brown deposit of copper metal forms on the surface of the iron.
+Fe (s) + Cu2+ (aq) Æ Fe2+ (aq) + Cu (s)
+Uses of Iron
+Iron is the most widely used metal and takes first position in worldwide consumption. It is
+used as a structural metal in the construction of buildings and bridges. In the form of pig
+iron, it is used to make domestic boilers, hot-water radiators, railings, water pipes, castings,
+and mouldings. As wrought iron, it is used in making nails, sheets, horseshoes, ornamental
+gates, door knockers, farm machinery etc. Iron is also used in the manufacture of alloys
+such as carbon steels and alloy steels. Carbon steels can be classified as mild steel, medium
+steel and high-carbon steel, based on the amount of carbon.
+Mild Steel: contains up to 0.2% carbon and is used in making screws, motors, car batteries,
+railway lines, ships, bridges, nuts and bolts.
+Medium Steel: contains 0.3–0.6% carbon and is used to make springs and chains.
+High-Carbon Steel: contains 0.6–1.5% carbon and is used to make drill bits, knives,
+hammers and chisels.
+Alloy Steel: contains iron and a relatively higher percentage of other metals. For example,
+stainless steel contains chromium (14–18%) and nickel (7–9%). Tool steels include tungsten
+steel and manganese steel. These metals give the alloy hardness, toughness and heat
+resistance. They are used in rock drills, cutting edges and parts of machinery that are
+subjected to heavy wear.
+1. You have learned about the purification of metals, including copper in unit 3. Describe
+the electrolytic process used for the purification copper metal.
+2. Prepare a list of items made of copper.
+3. In the refining process of copper, zinc does not deposit on the cathode. Why?
+Discuss in your group and give a presentation to the class.
+Activity 4.7
+CHEMISTRY GRADE 10
+202
+C. Copper
+Occurrence and extraction
+Copperis occasionally found as native copper. However, it is found mainly in compounds
+such as sulphides, oxides and the carbonates. The most important sulphide ores are
+chalcopyrite (CuFeS2
+), chalcocite (Cu2
+S), covellite (CuS) and bornite (Cu5
+FeS4
+). The
+principal oxide ores are cuprite (Cu2
+O) and tenorite (CuO). In the carbonate form, it
+exists as malachite (CuCO3
+.Cu(OH)2
+).
+Copper is principally extracted from chalcopyrite. Since the amount of copper in the ore is
+very small, the crushed and ground sulphide ore is first concentrated by froth flotation. This
+treatment changes the concentration of the ore from 2 % copper to as high as 30% copper.
+The concentrated ore is then roasted with a limited supply of air (oxygen).
+2CuFeS2 (s) + 4O2 (g) Æ Cu2
+S (s) + 2FeO (s) + 3SO2 (g)
+The roasted mixture is smelted by adding limestone and sand to form a molten slag that
+removes many of the impurities. FeO present in the roasted mixture can also be removed
+as slag in the form of iron silicate (FeSiO3
+), and silica in the form of calcium silicate (CaSiO3
+).
+CaCO3 (s) + SiO2 (s) Æ CaSiO3
+ (l) + CO2 (g)
+FeO (s) + SiO2 (s) Æ FeSiO3 (l)
+The Cu2
+S obtained by roasting chalcopyrite is then reduced by heating it in a limited supply
+of oxygen.
+Cu2
+S (s) + O2 (g) Æ 2Cu (l) + SO2 (g)
+The copper produced by the above process is called blister copper and it has 98.5 – 99.5
+% purity. Blister copper contains iron, silver, gold and sometimes zinc as impurities. So it is
+refined further by electrolysis as shown in Figure 4.5. Copper obtained by electrolytic
+refining is 99.99% pure.
+Figure 4.5 Electrolytic refining of copper.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+203
+Physical Properties of Copper
+Copper is a soft, ductile, malleable, reddish-brown metal with a density of 8.96 g/cm3
+. It
+is second to silver in electrical conductivity. It melts at 1086°C and boils at 2310°C.
+Chemical properties of copper
+Copper is less reactive metal, that is why it is found in the native state. Although it is not
+very reactive, it undergoes the following reactions:
+Powdered copper, when heated in air forms a black powder of copper (II) oxide, CuO.
+2Cu (s) + O2 (g) Æ 2CuO (s)
+Copper does not react with dilute acids like HCl and H2
+SO4
+. It cannot displace hydrogen
+from acids. However, it can be oxidized by oxidizing acids such as dilute and concentrated
+nitric acid and hot concentrated sulphuric acid, H2
+SO4
+.
+3Cu (s) + 8HNO3 (aq) dilute → 3Cu(NO3
+)
+2 (aq) + 2NO (g) + 4H2
+O (l)
+Cu (s) + 4HNO3 (aq) concentrated → Cu(NO3
+)2 (aq) + 2NO2 (g) + 2H2
+O (l)
+Cu (s) + 2H2
+SO4 (aq) Hot and concentrated → CuSO4 (aq) + 2SO2 (g) + 2H2
+O (l)
+Copper corrodes in moist air over a long period of time as a result of oxidation caused by
+a mixture of water, oxygen and carbon dioxide. It turns green, due to the formation of
+verdigris: a basic copper carbonate (CuCO3
+.Cu(OH)2
+) or Cu2
+(OH)2
+CO3
+.
+2Cu (s) + H2
+O (l) + O2 (g) + CO2 (g) Æ CuCO3
+.Cu(OH)2
+Basic copper carbonate is responsible for the green layer that forms on the surface of
+copper and bronze objects. This layer adheres to the surface and protects the metal from
+further corrosion.
+Copper is a transition metal and exhibits different oxidation states. It exists as cuprous
+(Cu+
+) and cupric (Cu2+) ions. Compounds containing copper in the +1 oxidation state are
+stable in insoluble compounds. Cu1+ is unstable and cannot exist in aqueous solution since
+it reduces and oxidizes (disproportionates) itself as follows:
+2Cu+ (aq) Æ Cu2+ (aq) + Cu (s)
+Soluble compounds containing Cu+
+, such as CuCl, CuI and CuBr, are all colourless solids.
+The most stable oxidation state of copper is +2. Aqueous solutions of many copper (II)
+compounds are blue, thus copper forms coloured compounds in the oxidation state of +2.
+For example, hydrated copper sulphate, CuSO4
+.5H2
+O, consists of blue crystals, and its
+aqueous solution is also blue.
+CHEMISTRY GRADE 10
+204
+Uses of Copper
+Copper is used to manufacture alloys. For example, bronze is an alloy of copper and tin,
+and it is used to make coins, medals, bells, machinery parts, etc. Brass is an alloy of
+copper and zinc, and it is used for hardware tops, terminals and pipes. Copper is widely
+used in the electrical industry in the form of electric wires, cables etc. Copper compounds,
+such as copper chloride, copper carbonate and copper hydroxide, are used as pesticides.
+Exercise 4.2
+1. Describe the occurrence and extraction of the following metals; aluminium, iron,
+and copper.
+2. Which of the three metals, Al, Fe and Cu is produced by electrochemical reduction?
+3. Explain how Al, Fe and Cu behave in dry air, moisture and acidic solutions.
+4. Suggest the main chemical reactions involved in the conversion of pig iron to wrought
+iron.
+5. Discuss the main areas of applications of Al, Fe and Cu in home and industry.
+Activity 4.8
+1. Draw the structure of a nitrogen molecule. How many bonds are present in it? Why
+does nitrogen form triple bond?
+2. Which form of nitrogen is absorbed by green plants?
+Discuss in group and give a presentation to the class.
+4.3.2 Production of Some Important Non-metals
+A. Nitrogen
+Occurrence and Production
+Nitrogen occurs in nature in the elemental form. It also exists in the form of compounds. In
+the elemental state, it exists as a diatomic molecule, N2
+, in atmospheric air. It constitutes
+about 80% by volume of the atmosphere. In the form of compounds, it exists as sodium
+nitrate (Chile salt peter, NaNO3
+) and potassium nitrate (KNO3
+) also called saltpetre. It is
+also found in DNA molecules and proteins of all living things.
+In the industrial production of nitrogen, the first step is to remove impurities like dust and
+other particles from air. The air is then compressed under high pressure and low temperature
+to remove carbon dioxide and water vapour since they solidify at a relatively high
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+205
+temperatures compared to nitrogen and oxygen. As the temperature continues to decrease,
+the air containing mainly nitrogen and oxygen condenses to give a pale-blue liquid. Nitrogen
+is thus separated on an industrial scale by fractional distillation of liquid air. When liquid air
+is fractionally distilled, nitrogen is collected and stored in steel cylinders under pressure.
+The second fraction consists of argon, which distils off the mixture at –186°C, leaving
+behind a blue liquid of oxygen that boils at –183°C.
+In the laboratory, nitrogen is prepared by warming an aqueous solution containing ammonium
+chloride and sodium nitrite.
+NH4
+Cl (aq) + NaNO2 (aq) Æ NaCl (aq) + N2 (g) + 2H2
+O (l)
+Physical Properties of Nitrogen
+Nitrogen is colourless, odourless and tasteless gas. It is inert under ordinary conditions, and
+that is why it is found in atmospheric air as N2
+. The inertness of nitrogen at low temperatures
+is directly related to the strength of the triple bond, which requires high energy to break.
+Chemical Properties of Nitrogen
+Is nitrogen a reactive or unreactive non-metal? Can you suggest a proof for your
+answer?
+However, nitrogen reacts with metals of group IA and IIA as well as oxygen at higher
+temperatures. When heated with reactive metals like lithium, calcium and magnesium, it
+forms compounds, known as nitrides.
+6Li (s) + N2 (g) Æ 2Li3
+N (s)
+3Ca (s) + N2 (g) Æ Ca3
+N2 (s)
+3Mg (s) + N2 (g) Æ Mg3
+N2 (s)
+Nitrogen combines with oxygen at elevated temperatures or in an electric arc to form
+oxides.
+N2 (g) + O2 (g) Æ 2NO (g)
+N2 (g) + 2O2 (g) Æ 2NO2 (g)
+Nitric oxide, also called nitrogen monoxide, NO, is a colourless and reactive gas. It forms
+nitrogen dioxide (NO2
+), a reddish brown gas, when it comes into contact with oxygen.
+2NO (g) + O2 (g) Æ 2NO2 (g)
+This reddish brown gas dimerizes at low temperatures to give a colourless gas of dinitrogen
+tetraoxide, N2
+O4
+.
+2NO2 (g) Æ N2
+O4 (g)
+CHEMISTRY GRADE 10
+206
+Nitrogen also forms oxides, like dinitrogen monoxide, N2
+O, (commonly called laughing
+gas), dinitrogen trioxide (N2
+O3
+) and dinitrogen pentoxide (N2
+O5
+).
+Nitrogen reacts directly with hydrogen in the Haber processto form ammonia. In this
+process, a mixture of N2
+ and H2
+ gas, at a pressure of 200-300 atm and a temperature of
+400-600°C, is passed over a catalyst of finely divided iron.
+N2 (g) + 3H2 (g) 400–600°C ← Fe/200–300atm
+→ 2NH3 (g)
+The ammonia produced by this method is primarily used in the manufacture of fertilizers. It
+is also used for the production of nitric acid (HNO3
+).
+Uses of Nitrogen
+Nitrogen is used in food packaging to prevent oxidation, and to create an inert atmosphere
+in the production of semiconductors. Liquid nitrogen is used as a refrigerant to preserve
+bulls’ semen and blood. Its major use is in the production of ammonia.
+Have you ever observed glowing worms? Why do they glow? Anyone who has observed
+them should explain to the class.
+B. Phosphorus
+Occurrence and Extraction
+Does phosphorus exist in the pure form (elemental state) as does nitrogen? If not,
+why? Phosphorus is a relatively abundant element, ranking 12th in the earth’s crust. It
+exists naturally only in the combined state, such as in rock phosphate, Ca3
+(PO4
+)2
+,
+fluoroapatite, Ca10(PO4
+)6
+F2 or 3Ca3 (PO4
+)
+2
+.CaF2
+. It is also found in teeth, bones and
+DNA.
+What is allotropy? What are the two common allotropes of phosphorus?
+Allotropes are different forms of the same element with the same physical state but with
+different physical properties. This is due to the difference in the arrangement of atoms.
+The two common allotropic forms of phosphorus are white phosphorus and red phosphorus.
+White phosphorus is a very poisonous, white waxy-looking substance that melts at 44.1°C
+and boils at 287°C. Its density is 1.8 g/cm3
+. It consists of individual tetra-atomic (P4
+)
+molecules and is an unstable form of phosphorus.
+Activity 4.9
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+207
+Red phosphorus is denser (2.16 g/cm3
+) and is much less reactive than white phosphorus at
+normal temperatures. It consists of P4
+ molecules linked together to form a polymer (large
+molecule) as shown below.
+Industrially, white phosphorus is manufactured by heating a mixture of crushed rock
+phosphate, Ca3
+(PO4
+)2
+, silica, SiO2
+, and coke in an electric furnace. The reaction in the
+furnace is:
+2Ca3
+(PO4
+)
+2 (s) + 6SiO2 (s) + 10C (s) Æ 6CaSiO3 (l) + P4 (g) + 10CO (g)
+The vaporized phosphorus (P4
+) is condensed, collected and stored under water. Red
+phosphorus is prepared by heating white phosphorus in sunlight for several days. White
+phosphorus is stored under water because it spontaneously ignites (bursts into flames) in
+the presence of oxygen. Red phosphorus is much less reactive than white phosphorus and
+does not need to be stored under water.
+Physical Properties of Phosphorus
+Use reference books available in your school library and write down the main properties
+of white and red phosphorus.
+Chemical Properties of Phosphorus
+Phosphorus exhibits the following common chemical reactions. Phosphorus reacts with
+limited and excess supplies of oxygen to form tetraphosphorus hexoxide (P4
+O6
+) and
+tetraphosphorus decoxide (P4
+O10) respectively.
+P4 (s) + 3O2 (g) Æ P4
+O6 (s)
+P4 (s) + 5O2 (g) Æ P4
+O10 (s)
+P4
+O6
+ and P4
+O10 dissolve in water to form phosphorous acid, H3
+PO3
+, an orthophsophoric
+acid, H3
+PO4
+ respectively.
+P4
+O6 (s) + 6H2
+O (l) Æ 4H3
+PO3 (aq)
+P4
+O10 (s) + 6H2
+O (l) Æ 4H3
+PO4 (aq)
+Activity 4.10
+CHEMISTRY GRADE 10
+208
+Phosphorus also reacts with limited and excess supplies of chlorine to form phosphorus
+(III) chloride (PCl3
+) and phosphorus (V) chloride (PCl5
+) respectively.
+P4 (s) + 6Cl2 (g) Æ 4PCl3 (s)
+P4 (s) + 10Cl2 (g) Æ 4PCl5 (s)
+Activity 4.11
+1. Write the chemical reactions for photosynthesis and respiration. What are the products
+formed in photosynthesis and respiration?
+2. What are the uses of oxygen in hospitals?
+3. How do astronauts breathe while in space?
+Discuss all the above points in groups and give a presentation to the class.
+C. Oxygen
+Occurrence and Production
+Oxygen is the most abundant element on earth. It constitutes about 46.6% by weight of the
+earth’s crust in the form of compounds such as oxides, silicates, carbonates, phosphates
+etc. It exists in nature in the elemental state in atmospheric air constituting about 20% by
+volume. Oxygen is manufactured industrially by the fractional distillation of liquid air in a
+way similar to that of nitrogen.
+Chemical Properties of Oxygen
+Oxygen is relatively reactive and combines directly with most elements to form oxides.
+Oxygen combines with metal to form metal oxides (basic oxides). For example,
+2Mg (s) + O2 (g) Æ 2MgO (s)
+2Ca (s) + O2 (s) Æ 2CaO (s)
+Oxygen combines with non-metals to form acidic oxides; for example:
+S8 (s) + 8O2 (g) Æ 8SO2 (g)
+P4 (s) + 5O2 (g) Æ P4O10 (g)
+Oxygen supports combustion and is necessary for the burning of substances like charcoal,
+hydrocarbon fuel, etc.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+209
+C (s) + O2 (g) Æ CO2 (g)
+CH4 (g) + 2O2 (g) Æ CO2 (g) + 2H2O (g)
+Activity 4.12
+Have you observed the colour of sulphur? What is the use of sulphur in your area?
+D. Sulphur
+Occurrence and Extraction
+Sulphur is found in nature and in the form of compounds such as galena (PbS), pyrites
+(FeS2
+) (fool’s gold ), cinnabar (HgS), sphalerite (ZnS), gypsum (CaSO4
+.2H2
+O), barite
+(BaSO4
+), and as hydrogen sulphide (H2
+S) in natural gas and crude oil.
+Sulphur is extracted from underground deposits of elemental sulphur by the Frasch process
+(Figure 4.6). In this process, three concentric pipes are sent down to the sulphur deposit.
+Superheated water at about 170o
+C is pumped through the outermost pipes. Hot air is
+compressed in the innermost tube. A froth of sulphur, air and water come out to the surface
+of the earth forced by hot compressed air in the middle tube. The molten sulphur is then
+cooled and solidified.
+Figure 4.6 Frasch Process for the production of sulphur.
+CHEMISTRY GRADE 10
+210
+Uses: Nearly one-half of the sulphur needed by chemical industries is obtained as a waste
+product of other industrial processes. For example, sulphur can be obtained in the form of
+hydrogen sulphide (H2
+S) from natural gas and during the purification of crude oil. It can
+also be obtained in the form of sulphur dioxide from the roasting of sulphide ores during the
+manufacture of metals. The use of sulphur obtained from waste products of other industries
+reduces the demand for the element from natural deposits. This also reduces the pollution
+of atmospheric air and the formation of acid rain.
+Sulphur exhibits allotropy. The most important allotropes of sulphur are rhombic and
+monoclinic sulphur. Rhombic sulphur is the most stable form of sulphur consisting of S8
+molecules.
+Chemical Properties of Sulphur
+Sulphur is relatively stable and unreactive at room temperature. However, it reacts with
+metals and non-metals when heated.
+Sulphur combines with metals when heated to form sulphides.
+8Fe (s) + S8 (s) Æ 8FeS (s)
+Sulphur burns in oxygen to form oxides.
+S8 (s) + 8O2 (g) Æ 8SO2 (g)
+Sulphur is the raw material for the production of sulphuric acid (H2
+SO4
+) by the Contact
+Process. This process of sulphuric acid production involves the following steps.
+Step 1: Sulphur is first oxidized to produce sulphur dioxide:
+S8 (s) + 8O2 (g) Æ 8SO2 (g)
+Step 2: Sulphur dioxide is converted to sulphur trioxide at high temperatures in the presence
+of a catalyst:
+2SO2 (g) + O2 V O
+ 2 5→ 2SO3 (g)
+Step 3: Sulphur trioxide is absorbed into concentrated sulphuric acid to produce oleum
+(H2
+S2
+O7
+).
+SO3 (g) + H2SO4 (l) Æ H2S2O7 (l)
+Step 4: The oleum is then diluted with water to produce the desired concentration of
+sulphuric acid. Commercially used concentrated sulphuric acid is 98% H2
+SO4
+.
+H2S2O7 (l) + H2O (l) Æ 2H2SO4 (aq)
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+211
+E. Chlorine
+Activity 4.13
+1. When we turn on the water tap, the water coming out of the tap sometimes appears white
+and turns normal after a few minutes. Many people say that the white colour we see is due
+to chlorine. Do you agree? Discuss in group and present your opinion to the class.
+2. What is the purpose of adding chlorine to drinking water?
+Occurrence and Extraction
+Chlorine belongs to group VIIA, known as the halogens. It is the most abundant element
+among the halogens. It is found in nature in the form of compounds only. Chlorine is found
+in nature chiefly in the form of chlorides of sodium, potassium, calcium and magnesium.
+Sodium chloride is the chief source of chlorine, and it is obtained from seawater or as
+deposits of rock salt.
+Commercially, chlorine is manufactured by the electrolysis of a concentrated aqueous solution
+of sodium chloride. During electrolysis of the concentrated solution, chlorine is formed at
+the anode and the reduction of water occurs at the cathode, producing hydrogen gas and
+hydroxide ions (OH–
+). The electrode and the overall cell reactions are as follows:
+Oxidation at anode: 2Cl– (aq) Æ Cl2 (g) + 2e–
+Reduction at cathode: 2H2O (l) + 2e– Æ H2 (g) + 2OH– (aq)
+Cell reaction: 2NaCl (aq) + 2H2O (l) Æ 2NaOH (aq) + Cl2 (g) + H2 (g)
+Although NaOH forms at the cathode compartment and Cl2
+ at the anode, the two substances
+must be kept apart from one another. This is because, if they come into contact with each
+other, they can react according to the following equation.
+NaOH (aq) + Cl2 (g) Æ NaOCl (aq) + HCl (aq)
+What is the oxidation number of chlorine in NaOCl?
+Physical Properties of Chlorine
+Activity 4.14
+1. In urban area, tap water possesses a peculiar smell, which disappeares after a few minutes.
+Many people say that the smell is due to chlorine. Do you agree? Discuss in group and
+present your opinion to the class.
+CHEMISTRY GRADE 10
+212
+Some of its physical properties are the following:
+• Chlorine is a greenish-yellow gas at room temperature.
+• It melts at –102°C and boils at –34°C.
+• It is fairly soluble in water.
+• It is extremely poisonous, causing inflammation of the lungs and mucous membranes
+if inhaled, even in very small amounts. It is fatal if inhaled in higher amounts.
+Chemical Properties of Chlorine
+Chlorine is a highly reactive non-metal. It reacts directly with almost all elements except
+the noble gases, carbon and nitrogen. It is a powerful oxidizing agent and oxidizes most of
+the elements with which it reacts. The following are the main reactions of chlorine.
+Chlorine reacts with heated metals to form chloride salts
+2Fe (s) + 3Cl2 (g) Æ 2FeCl3 (s)
+2Al (s) + 3Cl2 (g) Æ 2AlCl3 (s)
+Chlorine reacts smoothly with hydrogen, in the presence of a charcoal as a catalyst, at
+room temperature to form hydrogen chloride.
+H2 (g) + Cl2 (g) Æ 2HCl (g)
+Chlorine displaces less reactive halogens (Br2
+ and I2
+) from aqueous solutions of their
+compounds.
+Cl2 (g) + 2KBr (aq) Æ 2KCl (aq) + Br2 (l)
+Cl2 (g) + 2Kl (aq) Æ 2KCl (aq) + l2 (aq)
+Can bromine displace chlorine in a chemical reaction?
+Chlorine dissolves in water and reacts with it, forming an acidic solution containing
+hydrochloric acid (HCl) and hypochlorous acid (HOCl).
+Cl2 (g) + H2O (l) Æ HCl (aq) + HOCl (aq)
+This type of reaction is called a disproportionation reaction, where chlorine is itself reduced
+and oxidized.
+Chlorine is commercially used as a bleaching agent and disinfectant (kills germs). As
+elemental chlorine or as chlorine water, it is strong enough to oxidize dyes and to bleach
+coloured materials. For example, it can be used to remove yellow or brown colours from
+wood pulp, paper and cotton.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+213
+Exercise 4.3
+1. What are the main natural sources of N, P, O, S, and Cl?
+2. Describe the main processes involved in the production (extraction) of N, P, O, S
+and Cl.
+3. How do N, P, and S behave when heated in air?
+4. Write an equation for the reaction of chlorine with water.
+5. Consult the books present in your library and describe with the aid of labelled
+diagrams the laboratory preparation of following molecules:
+a N2 b Cl2
+4.4 SOME INDUSTRIES IN ETHIOPIA
+Competencies
+After completing this section, you will be able to:
+• define industry;
+• list some industries in Ethiopia;
+• describe the general characteristics of industries;
+• outline the important steps in the productions of ceramics;
+• mention some uses of ceramics;
+• outline the important steps in the production of cement;
+• outline the important steps in the production of sugar;
+• outline the important steps in the production of pulp and paper;
+• explain how tanning is carried out;
+• describe the application of the chemical preservation of skin and hides;
+• mention some uses of skin and hides;
+• explain the process of food packing and preservation; and
+• present a report to the class after visiting a nearby food factory.
+1. Define industry.
+2. What are the general characteristics of chemical industries?
+3. List some common chemical industries in Ethiopia, mention products manufactured by
+them in tabular form.
+Activity 4.15
+CHEMISTRY GRADE 10
+214
+Glass
+Glass is an amorphous or non-crystalline solid material. Almost all glass contains silica as
+the main component. Quartz glassis made by melting pure silica, SiO2, at a temperature of
+about 2300°C and then pouring the molten viscous liquid into moulds. It is of high strength,
+low thermal expansion and highly transparent.
+Soda-lime glass is ordinary glass which is a mixture of sodium silicate and calcium silicate.
+It is made by heating a mixture of silica sand, sodium carbonate or sodium sulphate and
+limestone. The reactions that take place in forming soda-lime glass are the following:
+Na2CO3 + SiO2 Æ Na2SiO3 + CO2
+CaCO3 + SiO2 Æ CaSiO3 + CO2
+Soda-lime glass accounts for about 90% of manufactured glass. This type of glass is widely
+used for window panes, bottles, dishes etc.
+Borosilicate glassis commonly known as Pyrex. It is manufactured using boron (III)
+oxide, B2
+O3
+, instead of limestone or calcium oxide. This glass has high resistance to chemical
+corrosion and temperature changes and is widely used to make ovenware and laboratory
+equipment such as flasks, beakers, and test tubes.
+Steps in glass production
+i) Batch preparation:refers to the preparation of the raw materials according to the
+appropriate combinations. The raw materials are mixed in a proportion of 60%
+sand, 21% sodium carbonate and 19% limestone.
+ii) Glass melting: The raw materials and recycled glass (according to their colour)
+are fed into a glass-melting furnace. The materials are then heated to a temperature
+of about 1600°C to form a molten viscous liquid. Why are glasses is separated
+according to the colour?
+The furnace operates continuously, producing glass 24 hours a day. Substances that
+give the glass different colours or improved chemical and physical properties such
+as transparency, thermal and chemical stability and mechanical strength are added
+during this process.
+PROJECT 4.2
+1. Have you ever wondered how glass retains different colours? Consult books
+in your library and make list of the compounds added to impart colour to the
+glass.
+2. Can glass be recycled; how?
+Submit your findings to your teacher.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+215
+1. Are you familiar with the pottery industry? Do you know any ceramic factories in
+Ethiopia?
+3. Prepare a list of ceramic products used in daily life.
+Discuss in groups and give presentation to the class.
+Ceramic is an inorganic, non-metallic solid prepared by the action of heat and subsequent
+cooling. Traditional ceramics, such as porcelain, tiles and pottery are formed from minerals
+such as clay, talc and feldspar. Most industrial ceramics, however, are formed from
+extremely pure powders of specialty chemicals, such as silicon carbide, alumina, barium
+titanate, and titanium carbide.
+Manufacturing of ceramics
+The minerals used to make ceramics are dug out of the earth and are then crushed and
+ground into a fine powder. Manufacturers often purify this powder by mixing it in a solution
+and allowing a chemical precipitate (a uniform solid that forms within a solution) to
+form. The precipitate is then separated from the solution. The powder is heated to drive off
+impurities including water.
+The processes of manufacturing ceramics include:
+A Moulding: After purification, small amounts of wax are often added to bind the ceramic
+powder and make it more workable. Plastics may also be added to the powder to
+give the desired pliability and softness. The powder can then be shaped into different
+objects by various moulding processes.
+B Densification:The process of densification uses intense heat to condense a ceramic
+object into a strong, dense product. After being moulded, the ceramic object is
+heated in an electric furnace to temperatures between 1000°C and 1700°C. As the
+iii) Glass forming: This is the stage in which the melted glass is made into a required
+shape.
+iv) Annealing: This is a process that involves the removal of internal stresses by reheating
+the glass followed by a controlled slow-cooling cycle during which the stresses are
+relieved.
+v) Inspection: It involves testing of the glass product to check whether it fulfils desired
+quality requirements or not.
+vi) Packing and dispatching is the final stage before distribution.
+Ceramics
+Activity 4.16
+CHEMISTRY GRADE 10
+216
+ceramic heats, the powder particles coalesce, much as water droplets join at room
+temperature. As the ceramic particles merge, the object becomes increasingly dense,
+shrinking by up to 20 percent of its original size. The goal of this heating process is
+to maximize the strength of ceramic by obtaining an internal structure that is compact
+and extremely dense.
+In general, most ceramics are hard and wear-resistant, brittle, refractory, thermal and
+electrical insulators, non-magnetic, oxidation-resistant, and chemically stable.
+Due to the wide range of properties of ceramic materials, they are used for a multitude of
+applications.
+• Well-known uses of ceramics: They are commonly found in art sculptures, dishes,
+platters and other kitchenware, kitchen tiles and bath room structures.
+• Lesser-known uses for ceramics: They are used as electrical insulators,
+computers parts, tools, dental replacements, engine parts, and tiles on space shuttles
+and to replace bones such as the bones in hips, knees and shoulders.
+• Future uses of ceramics: In future, the ceramics might be used to remove impurities
+from the drinking water, and to replace diseased heart valves.
+Cement
+1. How many cement factories do you know in Ethiopia? Name the regions where they
+are found and share these with your classmates.
+2. Why are cement factories located in rural areas of Ethiopia? Give your reasons to the
+class.
+Cement is made by heating limestone (chalk), alumina (Al2
+O3
+) and silica-bearing materials
+such as clay to 1450°C in a kiln using a process known as calcination. The resulting hard
+substance called ‘clinker’ is then ground with a small amount of gypsum into a powder to
+make “ordinary Portland cement” (OPC).
+Cement mainly consists of calcium silicate (CaSiO3
+), calcium aluminate (CaAl2
+O4
+), iron
+(III) oxide (Fe2
+O3
+) and magnesium oxide (MgO).
+Portland cement is a very important building material, and was first discovered in England.
+It received its name because, on setting, it hardens to a stone-like mass and was compared
+to the famous Portland Rock of England. It is a mixture of calcium and aluminium silicates
+with gypsum.
+Raw Materials: Limestone and clay are the chief raw materials used in the
+manufacture of Portland cement.
+Activity 4.17
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+217
+Manufacturing Process: First, limestone and clay are crushed separately. They are
+then mixed in the required quantities and finally mixed and ground together, which can
+be done either by the dry or wet process. The wet process is suitable if the limestone
+and clay are soft. If the raw materials are hard, the dry process is preferred. The dry
+process is cost-effective because fuel consumption is less when the raw materials are
+burnt in a rotary kiln.
+Figure 4.7 Cement manufacturing process.
+– Upper Part of the Kiln
+Raw material heated ∆ → 
+complete elimination of moisture
+– Middle Part of the Kiln
+Limestone decomposes to calcium oxide.
+CaCO (s) CaO (s) + CO (g) 3 2
+∆ →
+– Lower End of the Kiln
+In this part, the temperature reaches about 1600°C;the partly fused and sintered mixture
+undergoes a series of chemical reactions to form calcium aluminates and silicates.
+2CaO + 2SiO2 Æ 2CaO.SiO2 (di-calcium silicate)
+CHEMISTRY GRADE 10
+218
+3CaO + 3SiO2 Æ 3CaO.SiO2
+ (tri-calcium silicate)
+3CaO + 3Al2
+O3 Æ 3CaO.Al2
+O3
+ (tri-calcium aluminate).
+4CaO + 4Al2
+O3 + 4Fe2
+O3 Æ 4CaO.Al2
+O3
+.Fe2
+O3
+ (tetra-calcium aluminium ferrate)
+MgO + SiO2 Æ MgSiO3
+ (magnesium silicate)
+The resulting mixture of all these silicates and aluminates is called cement clinker. After
+cooling, it is mixed with 2-3% gypsum (calcium sulphate) and ground to a fine powder.
+Gypsum slows down the rate of setting of cement, so that the cement hardens adequately.
+Table 4.3 The approximate composition of cement.
+Component Percentage
+Calcium oxide (CaO) 50-60 %
+Silica (SiO2) 20-25 %
+Alumina (Al2O3) 5-10 %
+Magnesium Oxide (MgO) 2-3 %
+Ferric oxide (Fe2O3) 1-2 %
+Sulphur trioxide(SO3) 1-2 %
+Setting of Cement
+When mixed with water cement first forms a plastic mass that hardens after sometime. This
+is due to the formation of three-dimensional cross-links between –Si–O–Si– and –Si–O–
+Al– chains.
+The first setting occurs within 24 hours, whereas, the subsequent hardening requires about
+two weeks. In the hardening process of cement, the transition from plastic to solid state is
+called setting.
+PROJECT 4.3
+Take a 0.5 kg of cement and mix it with correct proportion of sand and water. Mix
+the compoment well till a palstic mass is formed. Take this plastic mass and construct
+a model of any object. Start pouring water on the model starting from the second day
+onwards. Report the changes to the class after 24 hours and after two weeks.
+Sugar Manufacturing
+Activity 4.18
+1. Prepare a list of foods and drinks used at your home in which sugar is an ingredient.
+2. Is sugar made only from sugar cane? If no, what are the other sources? Discuss in
+group and give a presentation to the class.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+219
+Sugarcane is a perennial herb belonging to the grass family. Native to tropical and subtropical
+regions of the world, this tropical grass is about 3 metres tall.
+Planting: Sugarcane is planted in fields by workers or mechanical planters. Typical cane
+soil is made from the mixture of silts, clay particles and organic matter. Fertilizers are
+applied from the time of planting up until the beginning of the ripening period, depending on
+the region where the crop is planted. Cane seasons last from 8-22 months.
+1. Collecting the Harvest: Mature canes are gathered by a combination of manual
+and mechanical methods. The cane is cut at ground level, the leaves are removed,
+the top is trimmed off (by cutting off the last mature joint) the canes and transported
+to a sugar factory.
+2. Cleansing and Grinding: The stalks are thoroughly washed and cut at the sugar
+mill. After the cleaning process, a machine led by a series of rotating knives, shreds
+the cane into pieces. This is known as “grinding”. During grinding, hot water is
+sprayed onto the sugarcane to dissolve the remaining hard sugar. The shredded
+cane is then spread out on a conveyer belt.
+3. Juicing:The shredded sugarcane travels on the conveyor belt through a series of
+heavy-duty rollers, which extract juice from the pulp. The pulp that remains, or “bagasse”,
+is dried and used as a fuel. The raw juice moves on through the mill to be clarified.
+4. Clarifying:Carbon dioxide and milk of lime are added to the liquid sugar mixture,
+which is heated until boiling. The process of clarifying begins at this stage. As the
+carbon dioxide moves through the liquid, it forms calcium carbonate, which attracts
+non-sugar debris (fats, gums and waxes) from the juice, and pulls them away from
+the sugar juice. The juice is then pushed through a series of filters to remove any
+remaining impurities.
+5. Evaporation: The clear juice that results from the clarifying process is put under a
+vacuum, where the juice boils at a low temperature and the water in it begins to
+evaporate. It is heated until it forms into thick, brown syrup.
+6. Crystallization:Crystallization is the process of evaporating the water from the
+sugar syrup. Pulverized sugar is fed into a sterilized vacuum pan. As the liquid
+evaporates, crystals form. The remaining mixture is a thick mass of large crystals.
+These crystals are sent to a centrifuge that spins and dries them. The dried product
+is raw sugar, which is edible.
+7. Refinery: Raw sugar is transported to a cane sugar refinery for the removal of
+molasses, minerals and other non-sugars that contaminate it. This is known as the
+purification process. Raw sugar is mixed with a solution of sugar and water to loosen
+the molasses from the outside of the raw sugar crystals, producing a thick matter
+known as “magma”. Large machines then spin the magma, separating the molasses
+from the crystals. The crystals are promptly washed, dissolved and filtered to remove
+impurities. The golden syrup that is produced is then sent through filters, and SO2 is
+CHEMISTRY GRADE 10
+220
+passed through it to remove the colour and water. The process of removing colour
+is known as bleaching.What is left is concentrated, clear syrup which is again fed
+into a vacuum pan for evaporation.
+8. Separation and packaging:Once the final evaporation and drying process is done,
+screens separate the different- sized sugar crystals. Large and small crystals are
+packaged and labelled as white refined sugar.
+Figure 4.8 Steps involved in sugar production.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+221
+Discuss the following issues in the group and give a presentation to your class:
+1. Wasting paper is like chopping down trees. Comment.
+2. Some papers are relatively cheap. The paper used for this grade 10 text book, for
+example, is expensive. Are different types of paper manufactured by different
+processes?
+Wood is the raw material for making wood pulp and paper. Wood pulp is a dry fibrous
+material used for making paper. The timber resources used to make wood pulp are referred
+to as pulp wood. Wood pulp is made from soft-wood trees, such as spruce, pine, fir, larch
+and hemlock, and from hard woods,such as eucalyptus, aspen and birch.
+Wood is composed of cellulose, lignin, oils and resins. Lignin is used to bind fibres of
+cellulose together. To provide wood pulp, the cellulose must be separated from the lignin.
+Manufacturing of pulp and paper involves the following steps:
+1. Harvesting trees involves the cutting down of trees from their growing areas and
+transporting the timber to the paper and pulp industry.
+2. Preparation for pulping is a step in which the bark ofthe tree is removed and then
+the wood is chipped and screened to provide uniform sized chips (pieces).
+3. Pulping is a step used to make wood pulp from the chipped wood pieces. This can
+be accomplished by either mechanical or chemical means depending on the strength
+and grade of paper to be manufactured.
+a Mechanical pulping: It utilizes steam, pressure and high temperatures instead
+of chemicals to tear the fibres. The fibre quality is greatly reduced because
+mechanical pulping creates short, weak fibres that still contain the lignin that bonds
+the fibres together. Paper used for newspapers are a typical product of
+mechanical pulping.
+b Chemical pulping:Chemical pulp is produced by combining wood chips and
+chemicals in large vessels called digesters. Heat and the chemicals break down
+the lignin which binds the cellulose fibres together without seriously degrading
+the cellulose fibres. Chemical pulp is manufactured using the Kraft process or
+the Sulphite Process.
+i) The Kraft Processis the dominant chemical pulping method. It is the most
+widely used method for making pulp from all types of trees. The process uses
+Paper and Pulp
+Activity 4.19
+CHEMISTRY GRADE 10
+222
+aqueous sodium hydroxide and sodium sulphide as a digestion solution. After
+digestion for about four hours at a temperature of 170o
+C, the pulp is separated
+by filtration. This process uses a basic digestion medium.
+ii) The Sulphite Process uses a cooking liquor (digestion) solution of sodium
+bisulphate or magnesium bisulphate digester at pH of about 3 in a pulp.
+The action of the hydrogen sulphide ions at 60o
+C over 6 to 12 hours dissolves
+the lignin and separates it from the cellulose. After the process is complete,
+the pulp is recovered by filtration.
+The wood pulp achieved from the Sulphite or Kraft processes is washed to
+remove chemicals and passed through a series of screens to remove foreign
+materials.
+4. Bleaching: It is the process of removing colouring matter from wood pulp and
+increasing its brightness. The most common bleaching agents are strong oxidizing
+agents such as chlorine, chlorine oxide, ozone and hydrogen peroxide.
+5. Making paper from pulp:After bleaching, the pulp is processed into liquid stock
+that can be transferred to a paper mill. The suspension is poured onto a continuously
+moving screen belt and the liquor is allowed to seep away by gravity to produce
+paper sheet. The continuous sheet then moves through additional rollers that compress
+the fibres and remove the residual water to produce fine paper.
+Tannery
+1. The leather products of Ethiopia are durable and relatively cheaper than the same
+products imported from outside. Why do people prefer to buy imported products?
+What can you suggest to change this attitude? Discuss this matter in class in relation to
+quality and availability of resources.
+2. Why are leather products being replaced by synthetic products?
+Discuss in groups and present to the class.
+Tanning is a process of converting raw animal hides and skin to leather, using tannin. Leather
+is a durable and flexible material created by the tanning of animal hides and skin. Tannin is
+an acidic chemical that permanently alters the protein structure of a skin so that it can never
+return to rawhide or skin again.
+Leather production involves various preparatory stages, tanning, and crusting
+1. Preparatory stages are those in which the hide or skin is prepared for tanning.
+This stage includes curing, soaking, flesh removal, hair removal, scudding, and
+deliming.
+Activity 4.20
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+223
+a Curing: This process involves salting or drying the hide once it has been removed
+from the animal. Curing is employed to prevent putrefaction of the protein
+substance, collagen, from bacterial infection. Curing also removes excess water
+from the hide and skin. Brine curing is the simplest and fastest method.
+b Soaking: In this process, cured hides are soaked in water for several hours to
+several days to remove salt, dirt, debris, blood and excess animal fat from the
+skin.
+c Flesh removal: In this process, animal hides are moved through a machine
+that strips the flesh from the surface of the hide.
+d Hair removal:In this step, the soaked hides and skins are transported to large
+vats where they are immersed in a mixture of lime and water. This process is
+called liming. It loosens the hair from the skin and makes hair-removal easier.
+After 1–10 days soaking, the hair is mechanically removed from the hide by a
+hair-removing machine.
+e Scudding: This is the process in which hair and fat missed by the machines are
+removed from the hide with a plastic tool or dull knife.
+f Deliming: This process involves the removal of lime from the skin or hide in a
+vat of acid. After this preparatory process, the skin or hide is ready for tanning.
+2. Tanning is a process that converts the protein of the raw hide or skin into a stable
+material. There are two main types of tanning:
+a Vegetable or natural tanning: The skin is placed in a solution of tannin. Tannins
+occur naturally in the barks and leaves of many plants. The primary barks used in
+modern times are chestnut, oak, tanoak, hemlock, quebracho, mangrove,
+wattle (acacia) and myrobalan. Naturally tanned hide is flexible and is used
+for making shoes, luggage and furniture.
+b Mineral tanning: In this process, the skin is placed in solutions of chemicals
+such as chromium sulphate and other salts of chromium. Chrome tanning is faster
+than natural (vegetable) tanning and requires only twenty four hours. The leather
+is greenish-blue in colour derived from the chromium. This process produces
+stretchable leather that is used for making garments and handbags.
+3. Crusting: This is the final stage in leather manufacturing and includes dyeing, rolling
+the leather to make it strong, stretching it in a heat-controlled room and performing
+a process that involves covering the grain surface with chemical compounds such as
+wax, oil, glazes etc. to make the leather very attractive.
+CHEMISTRY GRADE 10
+224
+1. The rate of spoilage of food is faster in open air in comparison to foods kept inside the
+refrigerator. Explain. Discuss in group and present your findings to the class.
+Food preservation is the process of treating and handling food to stop or greatly reduce
+spoilage, loss of quality, edibility or nutritive value caused or accelerated by microorganisms.
+Preservation usually involves preventing the growth of bacteria, fungi and other microorganisms, as well as reducing the oxidation of fats, which causes rancidity.
+Food Processing and Preservation
+1. What are the traditional methods used to preserve food for a long time without
+spoilage at your home?
+2. What modern methods of food preserving and processing do we use in Ethiopia?
+Discuss in groups and give a presentation to the class.
+Modern methods of food preservation are:
+a Freezing: This is one of the most commonly used processes, commercially and
+domestically, for preserving a very wide range of foods such as potatoes, as well as
+prepared foodstuffs that would not require freezing in their normal state.
+b Freeze-drying: Water vapour has easier access through the cell structure of any
+product compared to water-penetrating the product and evaporating from the surface
+of the product as is the case of other drying methods. The gentle escape of water
+vapour in the freeze-drying process leaves the product close to its original shape,
+taste, and colour and there is no loss of aroma or flavour.
+For example, liquids such as coffee, tea, juices and other extracts, vegetables,
+segments of fish and meat products. Freeze-drying is a superior preservation method
+for a variety of food products and food ingredients.
+c Vacuum-packing: Stores food in a vacuum environment, usually in an air-tight bag
+or bottle. The vacuum environment strips bacteria of the oxygen needed for survival,
+slowing down the rate of spoiling. Vacuum-packing is commonly used for storing
+nuts to reduce loss of flavour from oxidation.
+Activity 4.22
+Activity 4.21
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+225
+Exercise 4.4
+1. What is the basic difference in the composition of glass and cement?
+2. What is ceramics?
+3. Write the main chemical equations involved in the production of cement.
+4. Describe the refinery processes involved in sugar production.
+5. Explain the difference between chemical and mechanical pulping.
+6. How does natural tanning differ from mineral tanning?
+7. Point out the modern methods of food preservation.
+4.5 ENVIRONMENTAL POLLUTION
+Competencies
+After completing this section, you will be able to:
+• define pollution;
+• list the three types of pollution;
+• list the names of common air pollutants;
+• describe the effects of air pollutants;
+• describe some of the main methods used to reduce air pollution;
+• describe the different types of industrial water pollutants;
+• explain some of the factors involved in water pollution and their effects;
+• describe some of the methods used to reduce water pollution;
+• explain some of the factors involved in land pollution;
+• describe some of the main methods used to reduce land pollution; and
+• carry out a project on the effects(s) of an industry on environment.
+Activity 4.23
+1. The Copenhagen summit was a popular international climate change summit. What
+was the role played by Ethiopia? What were the major issues of the summit?
+2. Mention any activity in your area to bring awareness of air pollution and global
+warming.
+Discuss in your group and present to the class.
+CHEMISTRY GRADE 10
+226
+Pollution is any discharge of a solid, liquid or gaseous substance or radiation (energy) into
+an environment that causes unwanted changes. Pollution causes short-term or long-term
+harm that affects the earth’s ecological balance and lowers the quality of life in the
+environment. A pollutant is any substance that changes air, water or any other natural
+resource in a way that impairs the use of the resource.
+Pollutants are discharged into the environment as a result of natural events (like a volcanic
+eruption) and as a result of human activities (such as the operation of chemical industries,
+agriculture, etc.). Pollutants can be classified by the type of pollution they cause: air pollution,
+water pollution, and land pollution.
+Air Pollution
+1. Based on the situation of your locality, discuss the following issues in groups and
+present the findings to the class:
+a List some human activities which contribute to air pollution.
+b How these activities contribute to air pollution?
+c What solutions do you recommend to overcome these problems?
+d What could be your contribution to reduce air pollutions?
+2. Give your suggestions on the statement, ‘Air pollution any where is a potential threat
+elsewhere.’
+Air pollution is caused by the presence of contaminant gaseous substances in the air that
+affect the lives of plants and animals on earth. Some common air pollutants are sulphur
+dioxide, nitrogen oxides, carbon monoxide, ozone, hydrocarbons, particulates,
+chlorofluorocarbons (CFCs), and lead compounds.
+Sulphur dioxide (SO2
+):This enters the atmospheric air from the combustion of coal and
+petroleum, and during extraction of metals from their sulphide ores. It causes coughing,
+chest pains and shortness of breath. It is thought to be a cause for bronchitis and lung
+diseases. It slowly oxidizes to SO3
+ by reacting with the oxygen in the air.
+Oxides of nitrogen: These can be formed in the atmosphere by natural processes like
+thunderstorms. Combustion of fossil fuel containing nitrogen compounds as impurities and
+exhaust gases from furnaces and engines increase the amount of nitric oxide, NO, and
+nitrogen dioxide, NO2
+, in the atmosphere. Nitric oxide, NO, catalyzes the decomposition
+of ozone in the upper layer of the atmosphere to oxygen, thus decreasing the ozone layer.
+2O3 (g) NO → 3O2 (g)
+Activity 4.24
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+227
+Nitric oxide is oxidized by oxygen to nitrogen dioxide in the presence of ultraviolet light.
+2NO (g) + O2 (g) Æ 2NO2 (g)
+SO2
+, SO3
+ and NO2
+ react with rainwater and form sulphurous acid (H2
+SO3
+), sulphuric
+acid (H2
+SO4
+) and nitric acid (HNO3
+), respectively and cause acid rain. Acid rain accelerates
+corrosion and the deterioration of metals, buildings, statues and also causes tree defoliation,
+release of heavy metal ions from soil into water courses and drop in the pH of water in
+rivers and lakes.
+Hydrocarbons and ozone are responsible for photochemical smog. It is characterized by
+a reddish-brown haze containing substances irritating to the eye, nose, and lungs, and
+causes extensive damage to vegetation. Considerable amounts of hydrocarbons are released
+into the atmosphere by the evaporation of gasoline as unburnt hydrocarbons in auto exhaust.
+These substances react with ozone to give compounds that contribute to the oxidizing
+nature of photochemical smog.
+Carbon monoxide: Most of the carbon monoxide escapes into the atmosphere due to
+the incomplete combustion of fuel. Prolonged exposure to carbon monoxide impairs vision,
+produces headaches, and exerts strain on the heart. It also reduces the oxygen-carrying
+capacity of the blood by reacting with haemoglobin.
+Particulates: Dust storms, forest fires, volcanic eruptions and human activities such as
+mining and burning coal and oil increase the amount of solid particles in the air. Industrial
+areas contain particles of limestone, fertilizers, coal, stones, cement and silica. These
+particulates irritate the lungs and deleteriously affect breathing.
+Chlorofluorocarbons (CFCs):Chlorofluorocarbons are used as refrigerants, solvents
+and plastic foam-blowing agents. When entering the atmosphere, they penetrate into the
+upper layers and interact with ultraviolet radiation as follows.
+CF2
+Cl2 
+UV → CF2
+Cl. + .Cl
+The free chlorine, Cl, reacts with ozone to form chlorine monoxide and oxygen.
+.Cl + O3
+ Æ ClO. + O2
+These reactions result in the conversion of ozone to molecular oxygen and contribute to
+depletion of the ozone layer. This situation in the upper atmosphere allows dangerous
+ultraviolet radiation to reach the earth’s surface. This radiation causes skin cancer in human beings.
+Excess carbon dioxide: The combustion of coal and petroleum to generate electricity,
+move our vehicles, heat our homes and supply power to our industrial machinery causes a
+significant increase in the concentration of carbon dioxide in the atmosphere. Combustion
+of these fuels releases about 20 billion tonnes of CO2
+ annually. The increase in the
+concentration of CO2
+ in the atmosphere has resulted in a rise in the average global
+temperature, owing to the greenhouse effect. Carbon dioxide and water vapour absorb
+infrared radiation, re-radiated from the earth, behaving like the glass in a green house.
+Since CO2
+ and water vapour absorb heat they are called green-house gases. Due to the
+CHEMISTRY GRADE 10
+228
+absorption of heat by the green house gases in the atmosphere, the overall effect is global
+warming (an increase in the average temperature of our planet). This rise in global
+temperature causes melting of polar ice and thus additional water flowing into the oceans.
+This situation, in turn, results in the rising of the levels of seas and oceans, flooding of
+coastlines and lowland areas, which can submerge these areas.
+Heavy metals: Lead contamination in the atmosphere is a result of vehicle engines that
+use fuels containing tetraethyl lead which is added to the fuel to reduce engine knocking.
+The use of lead paints also contributes towards lead contamination. High levels of lead
+cause damage to the brain, kidneys and liver.
+What are the potential air pollutants in and around your home?
+Methods of Reducing Air Pollution:
+Activity 4.25
+Research and writing
+Investigating the effects of air pollution on the environment by:
+a consulting experts working on environmental protection, and
+b referring materials available in you school library. Write a report about your findings
+and give a presentation to the class.
+Water Pollution
+1. Name the major air pollutants.
+2. What methods do you recommend to reduce air pollution? Discuss in groups and
+present your idea s to the class.
+Activity 4.26
+1. In your community,
+a What are the major sources of drinking water?
+b What are the principal sources of contamination of surface water and ground water?
+c What could be done to reduce these problems?
+Discuss in groups and present to the class.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+229
+Water pollution is the degradation of the quality of water brought about by the discharge
+into it of untreated sewage, industrial and agricultural waste, and oil spillage. In general,
+water is said to be polluted if it contains matter that affects the health of living things or
+causes damage to property. The major water pollutants are nitrate and phosphate fertilisers
+washed out of the soil, phosphate detergents, untreated sewage, insecticides and herbicides,
+and the heavy metal ion, acidic and/or basic residues released by industrial processes.
+Phosphate and nitrate fertilisers washed out of the soil and phosphate detergents from
+untreated water, enter natural water systems, such as streams, rivers, lakes, and seas.
+These dissolved minerals are valuable nutrients for plants, and their discharge into the
+water systems accelerates the growth of surface-water plants, such as algae. As a result,
+less light reaches the bottom-living plants, which reduces the photosynthesis they need to
+live, and they die. When these aquatic plants die, they rot under the action of bacteria
+which multiply greatly and consume the oxygen dissolved in the water at a rate faster than
+natural aeration or photosynthesis can replenish. Thus, the amount of oxygen in the water
+decreases. This depletion of oxygen kills aquatic animals like fish. This sequence of events
+is called eutrophication.
+Insecticides (pesticides) and herbicides applied in agriculture may also be washed into
+lakes, rivers, streams and seas. Some of the insecticides and herbicides do not decompose
+easily and are persistent in the environment. Residues of these insecticides and herbicides
+may enter the food chains and accumulate in an organism that is consumed by the next
+organism. The increasing amount of insecticide and herbicide residue in the bodies of
+animals causes health and behavioural problems.
+The release of heavy metal ions, acidic and/or basic residues from industrial processes into
+natural water systems, such as lakes and rivers, causes pH changes in the water. Water
+organisms need specific ranges of water pH to survive, so these changes in pH can kill
+them. In the same way, increasing concentrations of toxic metal ions kills some aquatic
+organisms.
+The release of untreated sewage to natural water systems can spread water-borne diseases
+such as cholera, typhoid, hepatitis, and polio.
+Methods of Reducing Water Pollution:
+1. Treatment of water before discharge into rivers and lakes.
+2. To avoid unnatural temperature changes in natural water systems, industries should
+not discharge heat-ladened water into them.
+3. Recycling industrial and agricultural wastes.
+4. Using moderate amounts of agricultural chemicals and increasing the use of organic
+fertilizers and biological methods to control pests.
+CHEMISTRY GRADE 10
+230
+PROJECT 4.4
+Develop a water conservation plan for your school and submit it to your teacher.
+Land Pollution
+Activity 4.27
+Discuss the following issues and present your answer to your class.
+1. Do you observe any pollution of land in your environment?
+2. What are the causes of land pollution?
+3. Do you observe soil erosion in your area? What three major things do you believe
+elected officials should take to decrease soil erosion in the region you live?
+4. What should be your responsibility in solving the land pollution problems?
+Land pollution is caused by things we put into it. It results from the spillage of oil,
+leaching of harmful chemicals and heavy metal ions, and dumping of nonbiodegradable wastes such as plastics.
+Factors involved in land pollution include:
+• Spillages of oil from leaking pipelines.
+• Harmful heavy metal ions from buried waste leaching into water systems.
+• Leaching of harmful chemicals from corroded metal drums which have been buried
+underground.
+• Dumping of non-biodegradable (do not decompose by the action of bacteria)
+wastes like plastics which remain unchanged in the soil for decades or hundreds of
+years. Their accumulation in the soil hinders air and water movement and affects the
+growth of plants.
+• Excessive use of synthetic fertilisers in agricultural activities also contributes towards
+land pollution.
+What are the contributions of commercial inorganic fertilizers to land pollution?
+Methods of Reducing Land Pollution:
+Activity 4.28
+What methods should be practiced globally to reduce land pollution? Discuss in groups
+and present your opinion to the class.
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+231
+Research and writing
+Investigating the effects of an industry on the environment
+This project work will develop your skills in identifying problems that an industry can
+cause in your environment and help you to seek solutions to overcome the problem.
+Select an industry close to your school or home. Try to identify the following
+1. What are the products manufactured by the industry?
+2. What are the raw materials used by the industry?
+3. What is the manufacturing process involved?
+4. What are the waste products generated?
+5. What happens to the waste products? (How does the industry discharge wastes)
+6. How is the environment affected by the industrial waste product?
+7. How could the environmental impact of waste product be reduced?
+Write a report in groups and give a presentation to the class.
+Exercise 4.5
+1. Describe the main agents of:
+a air pollution b water pollution c land pollution
+2. What are the main methods of reducing:
+a air pollution b water pollution c land pollution
+Check list
+Key terms of the unit
+• allotrope
+• alloy
+• Basic – oxygen process
+• bauxite cryolite
+• Bessmer converter
+• blast furnace
+• blister copper
+• ceramics
+• chemical industry
+• Chile salt peter
+• chlorine
+• Contact process
+• flotation
+• fluoroapatite
+• flux
+• food preservation
+CHEMISTRY GRADE 10
+232
+Unit Summary
+• A chemical industry is any institution involved in the production of chemicals.
+• A chemical industry is characterized by using raw materials available in nature
+and transforming them into desired products by chemical means.
+• Most of the materials used by the industries are present in nature.
+• Natural resources are classified as renewable and non-renewable.
+• Aluminium is the most abundant metal in the earth’s crust. It is manufactured
+by the electrolysis of molten aluminium oxide mixed with cryolite using the
+Hall process.
+• Aluminium is used to make light-weight alloys that can be used for aircraft
+and similar constructions.
+• Aluminium resists corrosion due to the formation of a thin film of an oxide on
+its surface.
+• Iron is the second-most abundant metal in the earth’s crust.
+• Iron is extracted in a blast furnace. The furnace is charged with iron ore, coke
+and limestone, and hot air is blown up from the bottom.
+• Limestone is used in the blast furnace to remove impurities like sand (silica) in
+the form of slag.
+• The type of iron obtained directly from the blast furnace is called pig iron and
+it is impure.
+• Wrought iron is the purest form of iron obtained from pig-iron by removing
+most of the impurities.
+• fractional distillation
+• Frasch process
+• glass
+• Haber process
+• Hall process
+• nitrogen
+• Occurrence
+• Open – hearth fumace
+• ore
+• paper and pulp
+• pollutants
+• pollution
+• redphosphorus
+• rock phosphate
+• slag
+• steel
+• sugar
+• sulphur
+• tanning
+• thermite process
+• verdigris
+• white phosphorus
+CHEMISTRY IN INDUSTRY AND ENVIRONMENTAL POLLUTION (UNIT 4)
+233
+• Steel is an alloy of iron containing definite amounts of carbon and other metals
+like chromium, nickel, tungsten, vanadium, manganese etc.
+• Steel is manufactured by the Bessemer Converter, Open-Hearth Furnace and
+Basic Oxygen Processes.
+• Copper is extracted by roasting chalcopyrites (CuFeS2
+).
+• Copper that is obtained by roasting chalcopyrites is called blister copper. It is
+impure, and it is refined further by electrolysis.
+• Copper is malleable and ductile, a good conductor of heat and electricity and
+is used to make electric wires and in the manufacture of alloys.
+• Nitrogen constitutes about 80% by volume of atmospheric air.
+• Nitrogen is manufactured by the fractional distillation of liquefied air.
+• Nitrogen is relatively inert. However, its reactivity increases when heated and
+combined with metals of group IA and IIA to form nitrides and with oxygen to
+form oxides like NO and NO2
+.
+• Phosphorus is manufactured by heating a mixture of rock phosphate, coke
+(carbon) and silica in an electric furnace.
+• Phosphorus has two common allotropes, white and red phosphorus. White
+phosphorus is highly reactive, while red phosphorous is relatively stable.
+• White phosphorus is stored under water.
+• Phosphorus reacts with oxygen and chlorine.
+• Oxygen makes up about 20% by volume of air. It is manufactured by the
+fractional distillation of liquid air.
+• Oxygen is the most abundant element in the earth’s crust.
+• Sulphur exists in the elemental state in underground deposits from which it is
+extracted by the Frasch process.
+• Sulphur reacts with oxygen to form sulphur dioxide and sulphur trioxide.
+• Sulphur is used for the manufacture of sulphuric acid by the Contact Process.
+• Chlorine is manufactured by the electrolysis of brine.
+• Chlorine is a powerful oxidizing agent and reacts with heated metals to form
+chlorides.
+• Chlorine and chlorine water are used to bleach coloured materials and as
+disinfectant.
+• Glass is a mixture of two or more silicates.
+• Pyrex is a glass containing boron. It resists high temperatures.
+CHEMISTRY GRADE 10
+234
+• Ceramics are materials that are baked or fired at very high temperatures.
+• Cement is made by heating a ground mixture of sand and clay. It contains calcium
+oxide, silicon dioxide, aluminium oxide, iron (III) oxide, and magnesium oxide.
+• Sugar is manufactured from sugarcane in a series of steps.
+• Paper and pulp are manufactured from trees in a series of steps. Bleaching
+agents such as chlorine, chlorine oxide, ozone or hydrogen peroxide are used
+in paper and pulp production.
+• Tanning is a process of converting skin to leather.
+• The methods used in food processing and preservation are salting, pickling,
+sugaring, smoking, drying, canning etc.
+• Pollution is the discharge of harmful waste material into the environment.
+• The three types of pollution are air, land and water pollution.
+• Air pollution is caused by the release of sulphur dioxide, oxides of nitrogen,
+carbon monoxide, hydrocarbons, particulates, CFCs, and lead compounds
+etc. into the atmosphere.
+• Water pollution is caused by the discharge of untreated sewage, industrial and
+agricultural waste and oil spillage.
+• Land pollution results from the spillage of oil, leaching of harmful chemicals
+and heavy metal ions, and dumping of non-biodegradable wastes such as
+plastics

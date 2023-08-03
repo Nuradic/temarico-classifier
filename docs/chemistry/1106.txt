@@ -1,0 +1,1418 @@
+In Grade 10, you have studied about hydrocarbons and alcohols. In this unit, you will
+study about another important class of organic compounds called carboxylic acids and
+esters. These compounds are present in many fruits and flowers. Many carboxylic acids
+are used as food additives in jams, jellies, candies and pickels, etc. You will also study
+about fats and oils which are esters . Sodium or potassium salts of long chain fatty acids
+are called soaps which play a major role as cleansing agents.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+317
+Activity 6.1
+6.1 CARBOXYLIC ACIDS
+At the end of this section, you should be able to:
+• list common organic acids and name their sources;
+• write the general formula of saturated monocarboxylic acids;
+• write the molecular formulas and names of the first six members of the saturated
+monocarboxylic acids;
+• give the structural formula for the first four members of the saturated monocarboxylic
+acids;
+• give the examples of mono, di and tricarboxylic acids;
+• name some branched carboxylic acids;
+• describe the physical properties of saturated monocarboxylic acids;
+• explain the general methods of preparation of saturated monocarboxylic acids;
+• explain the industrial and laboratory preparation of acetic acid;
+• conduct an experiment to produce acetic acid in the laboratory;
+• name and write structural formulas of some fatty acids; and
+• describe some uses of common carboxylic acids.
+6.1.1 Structure and Nomenclature of Carboxylic Acids
+Recall your previous knowledge about hydrocarbons and alcohols in grade 10. Form a
+group and discuss the following:
+1. Write the structures of first six alkanes and alcohols.
+2. Compare the their strucutures.
+3. Which functional groups in the structure determine the properties of these
+compounds?
+Share your ideas with the rest of the class.
+Structure of Carboxylic Acids
+Carboxylic acids are organic compounds that contain at least one carboxyl group in their
+structure. A carboxyl group is a functional group consisting of a carboxyl and a hydroxyl
+which is usually written as —COOH or —CO2
+H.
+CHEMISTRY GRADE 11
+318
+O
+C OH
+Carboxyl group
+a Saturated monocarboxylic acids
+The general formula for saturated monocarboxylic acids can be written as:
+O
+R C OH
+where R is either hydrogen or an alkyl group for aliphatic Carboxylic acids. When R is
+phenyl (aryl) group, the structure represents aromatic carboxylic acids.
+Example 6.1
+1. The structure of the first three saturated monocarboxylic acids are written as
+follows:
+a
+O
+H C OH Methanoic acid b
+O
+CH3 C OH Ethanoic acid
+c
+O
+CH3 CH2 C OH Propanoic acid
+2. The simplest aromatic carboxylic acid is benzoic acid. Its structure is written as:
+COOH
+Benzene carboxylic acid (Benzoic acid)
+b Di- and tricarboxylic acids
+Carboxylic acids containing two carboxyl groups in their structure are called dicarboxylic
+acids.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+319
+Example 6.2
+1. The structure of the first three saturated dicarboxylic acids are written as follows:
+a
+O
+C OH
+O
+OH C Ethanedioic acid
+b CH2
+O
+HO C
+O
+C OH Propanedioic acid
+c CH2
+O
+HO C
+O
+CH2 C OH Butanedioic acid
+2. The simplest aromatic dicarboxylic acid is phthalic acid. Its structure is:
+COOH
+COOH
+1
+2 1, 2-Benzenedicaboxylic acid (phthalic acid)
+Similarly, carboxylic acids that contain three carboxyl groups in their structure are called
+tricarboxylic acids.
+Example 6.3
+Citric acid is a typical tricarboxylic acid, having the following structure:
+CH COOH 2
+C
+CH COOH 2
+HO COOH
+Citric acid
+Activity 6.2
+Form a group and make a list of some fruits having acidic taste. Try to identify the
+carboxylic acids present in these fruits, and classify these acids as monocarboxylic,
+dicarboxylic, and tricarboxylic acids.
+Present your findings to the class.
+CHEMISTRY GRADE 11
+320
+Exercise 6.1
+1. Write the structure of the following monocarboxylic acids:
+a Butanoic acid b Pentanoic acid
+2. Write the structure of the following dicarboxylic acids:
+a Pentanedioic acid b Hexanedioic acid
+c 1,3-Benzenedicarboxylic acid
+Nomenclature of Carboxylic Acids
+i Common names carboxlic acids
+a Straight chain monocarboxylic acids
+A large number of carboxylic acids have widely used common names which need to be
+learned. Those with an even number of carbon atoms ranging from 4 to 22 may be obtained
+by hydrolysis of animal and vegetable fats and oils. They are referred to as fatty acids, and
+they have common names derived from various sources. Formic acid derives its name
+from the Latin word for ants, because it is one of the toxic ingredients of the secretion
+injected by the stinging ant. Butanoic acid (butyric acid) derives its name from butter, in
+which it is found when the butter becomes rancid. Caproic, caprylic, and capric acids are
+involved in the odor of a goat, and their names derive from the Latin word, caper, for goat.
+Table 6.1 lists common names of some of the most important monocarboxylic acids.
+Table 6.1 Common names of some monocarboxylic acids
+Structure Common name Source of name
+HCOOH Formic acid Ant (Latin, formica)
+CH3 – COOH Acetic acid Vinegar (Latin, acetum)
+CH3 – CH2 – COOH Propionic acid Milk (Greek, propion)
+CH3
+– CH2 – CH2 – COOH Butyric acid Butter (Latin, butyrum)
+CH3 – CH2 – CH2 – CH2 – COOH Caproic acid Goat (Latin, caper)
+b Branched chain and substituted carboxylic acids
+In common naming system, the branched chain and substituted acids are named as
+derivatives of straight chain carboxylic acids. In this case, the position of the side chain or
+substituents is indicated by Greek letters, α, β, γ, δ... for designating the 1st, 2nd, 3rd,…
+position of carbon atoms as shown below:
+– C – C – C – C – C – OH – C – C – C – C – C – OH
+   
+O
+5 4 3 2 1
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+321
+Example 6.4
+Write the common names for:
+a CH – CH – CH – C OH 3 O
+CH3 CH3
+ 
+b CH – CH – C OH 3 O
+Br
+
+Solution:
+a It is monocaroxylic acid that consists of four carbon atoms. So, it is common
+name is butyric acid. In addition to this, two methyl groups are attached to
+α-and β-positon carbon atoms in the structure. Now, the complete common
+name is α, β-dimethylbutyric acid.
+b Similarly, the given acid contains three carbon atoms. Hence, the common name
+is propionic acid. Next, the position of bromo group , which is attached to
+α-carbon atom in the structure. This gives the complete common name as
+α-bromopropionic acid.
+c Dicarboxylic acids
+Dicarboxylic acids also possess common names which are based on their sources. Table
+6.2 lists common names of some of the most important dicarboxylic acids.
+Table 6.2 Common names of some dicarboxylic acids
+Structure Common name
+HOOC–COOH Oxalic acid
+HOOC–CH2–COOH Malonic acid
+HOOC–CH2–CH2–COOH Succinic acid
+HOOC–CH2–CH2–CH2–COOH Glutaric acid
+HOOC–CH2–CH2–CH2–CH2–COOH Adipic acid
+HOOC–CH2–CH2–CH2–CH2–CH2–COOH Pimelic acid
+d Aromatic carboxylic acids
+Compounds which have a carboxyl group directly attached to an aromatic ring are classified
+as aromatic carboxylic acids. The simplest aromatic carboxylic acid has a carboxyl group
+attached to benzene ring and its common name is benzoic acid.
+CHEMISTRY GRADE 11
+322
+C – OH
+O
+Benzoic acid
+In common naming system, the name of substituted aromatic acids are written by prefixing
+the names of substitutes. The position of the substituent is indicated by the prefixes ortho
+(o-), meta (m-), para (p-) as it is shown in the structure below.
+C
+O
+– OH
+ortho
+meta
+para
+Example 6.5
+1. Write the common name for:
+COOH
+CH3
+Solution:
+Since the methyl group is attached to ortho- position, then the IUPAC name becomes
+o-methylbenzoic acid.
+2. Write the structure for p-chlorobenzoic acid.
+Solution:
+The structure of benzoic acid with chloro group attached to para position is:
+COOH
+Cl
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+323
+Exercise 6.2
+1. Write the common names for the following carboxylic acids:
+a
+CH – CH – CH – COOH 3
+Cl Br
+b COOH – CH2
+ – CH2
+ – COOH
+2. Write the structures of carboxylic acids from the given common names:
+a Acetic acid b Ethanedioic acid c β-Bromobutyric acid
+ii IUPAC names of carboxlic acids
+a Straight chain monocarboxylic acid
+According to IPUAC system, monocarboxylic acids are named as alkanoic acids. The
+longest chain of carbon atoms containing the carboxyl group is selected and the name is
+derived from the corresponding alkane by replacing the suffix ‘‘–e’’ with ‘‘–oic acid’’.
+Example 6.6
+1. Write the IPUAC names for:
+a H–COOH b CH3
+–COOH
+Solution:
+a The longest chain contains only one carbon atom. The corresponding alkane
+name is methane. Now, we drop the suffix ‘‘–e’’ and replace it by ‘‘–oic acid’’
+so, the complete IPUAC name becomes methanoic acid.
+H–COOH Methanoic acid
+b Similarly, the longest chain in the structure is derived form and alkane with two
+carbon atoms called ethane. Now, when we drop the suffix ‘‘–e’’ and replace
+it with ‘‘–oic’’ acid, we get the complete IPUAC name of ethanoic acid.
+CH3
+–COOH Ethanoic acid
+2. Write the structure of
+a Propanoic acid b Butanoic acid
+CHEMISTRY GRADE 11
+324
+Solution:
+a Monocarboxylic acid with three carbon atoms is called propanoic acid.
+CH3
+–CH2
+–COOH Propanoic acid
+b Butanoic acid is IPUAC name given to moncarboxylic acid with four carbon
+atoms.
+CH3
+–CH2
+–CH2
+–COOH Butanoic acid
+Table 6.3 lists IUPAC names for the first six monocarboxylic acids.
+Table 6.3 IUPAC names of some monocarboxylic acids
+Structure IUPAC Name
+HCOOH Methanoic acid
+CH3COOH Ethanoic acid
+CH3CH2COOH Propanoic acid
+CH3(CH2)
+2COOH Butanoic acid
+CH3(CH2)
+3COOH Pentanoic acid
+CH3(CH2)
+4COOH Hexanoic acid
+b Branched chain and substituted monocarboxylic acids
+In IUPAC system, the positions of the substitutes are indicated by Arabic numerals as 1, 2,
+3. The numbering of the chain starts from the carboxyl carbon and it is alwasy assigned
+C-1 position. Note that C-2 position in the IUPAC system corresponds to the α-position
+in the common naming system.
+C – C – C – C – C – OH
+O
+5 4 3 2 1
+  
+IUPAC System
+Common System
+Example 6.7
+1. Write the IUPAC names for:
+a CH3
+–CH(CH3
+)–COOH b CH3
+–CH(Cl)–CH(CH3
+)–COOH
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+325
+Solution:
+a The carboxylic acid given contains three carbon atoms which makes IUPAC
+name to be propanoic acid. There is also methyl group attached to the 2nd
+carbon atom, so the substituent is 2-methyl. Thus, the complete IUPAC
+name is 2-methylpropanoic acid.
+ CH3
+–CH(CH3
+)–COOH 2-Methylpropanoic acid
+b The longest chain in the structure consists of four carbon atoms and this gives
+IUPAC name of butanoic acid. The chloro group (–Cl) is attached to the 3rd
+carbon atom and the methyl group is located at the 2nd carbon atom. Based
+on the alphabetical order, these substituents are arranged as 3-chloro-2-
+methyl. Finally, the complete IUPAC name of this acid becomes 3-chloro2-methyl butanoic acid.
+ CH3
+–CH(Cl)–CH(CH3
+)–COOH 3-Chloro-2-Methylbutanoic acid
+c Dicarboxylic acids
+In IUPAC system, dicarboxylic acids are named as alkanedioic acids. These names are
+obtained by replacing the suffix ‘‘–e’’ in the name of corresponding alkane by ‘‘–dioic
+acid’’.
+Example 6.8
+1. Write the IUPAC name for:
+HOOC–CH2
+–CH2
+–COOH
+Solution:
+This dicarboxylic acid contains four carbon atoms. The name of the corresponding
+alkane is butane. Now, the suffix ‘‘–e’’ is replaced by ‘‘–dioic acid’’. This gives
+the complete IUPAC name of butanedioic acid.
+HOOC–CH2
+–CH2
+–COOH Butanedioic acid
+2. Write the structure of propanedioic acid.
+Propanedioic acid refers to IUPAC name of dicarboxylic acid that contains three
+carbon atoms. Hence, the structure is written as shown below:
+HOOC–CH2
+–COOH Propanedioic acid
+CHEMISTRY GRADE 11
+326
+Table 6.4 lists the IUPAC names of the first six dicarboxylic acids.
+Table 6.4 IUPAC names of dicarboxylic acids
+Structure IUPAC Name
+HCOOH Methanoic acid
+CH3 – COOH Ethanoic acid
+CH3 – CH2 – COOH Propanoic acid
+CH3
+– CH2 – CH2 – COOH Butanoic acid
+CH3 – CH2 – CH2 – CH2 – COOH Pentanoic acid
+CH3 – CH2 – CH2 – CH2 – CH2 – COOH Hexanoic acid
+d Aromatic carboxylic acids
+According to IUPAC system, aromatic carboxylic acids are named as benzenecarboxylic
+acids.
+COOH
+Benzenecarboxylic acid
+The position of the substitutes is indicated by the Arabic numerals 1, 2, 3,...starting with
+aromatic carbon bearing carboxyl group as C–1 and it is shown in the structure below.
+COOH
+1
+2
+3
+4
+5
+6
+Example 6.9
+1. Write the IUPAC name for:
+COOH
+1
+2
+3
+4
+5
+6
+NO2
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+327
+Solution:
+1. The nitro group (–NO2
+) is attached to the 3rd carbon of the aromatic ring. Hence,
+the complete IUPAC name becomes 3-nitrobenzenecarboxylic acid.
+2. Write the structure for 2-chloro-4-methylbenzenecarboxylic acid.
+Solution:
+We have two substitunts, chloro group (–Cl) attached to the 2nd carbon atom and
+methyl group (–CH3
+) to the 4th carbon atom. So, the structure of this aromatic carboxylic
+acid is:
+COOH
+1
+2
+3
+4
+5
+6 Cl
+CH3
+2-Chloro-4-methylbenzene carboxylic acid
+Exercise 6.3
+1. Write the IUPAC names for the following carboxylic acids:
+a CH – CH – CH – COOH 3 2
+CH3
+b Br – CH2 – CH2 – CH2 – CH2 – COOH
+c CH – CH – COOH 3
+OH
+d CH – CH – CH – CH – COOH 3 2
+Br Cl
+CHEMISTRY GRADE 11
+328
+e
+COOH
+OH
+f
+NH2
+COOH
+2. Draw the structures of the following carboxylic acids:
+a 2, 3-Dichloropropanoic acid
+b 4-Methylbenzoic acid
+c 2-Fluorobutanoic acid
+d 4-Hydroxy-2-bromobenzoic acid.
+6.1.2 Physical Properties of Carboxylic Acids
+Activity 6.3
+Form a group and discuss the following:
+1. The solubility of monocarboxylic acids in water decreases with increase in molecular
+mass.
+2. The higher monocarboxylic acids are almost odourless.
+3. Should the alcohols possess higher or lower boiling points than that of monocarboxylic
+acids of comparable molar masses?
+Share your ideas with the class.
+1. State
+The lower aliphatic acids containing up to 9 carbon atoms are liquids, whereas the higher
+members are colourless waxy solids. Benzoic acid and most of its derivatives are also
+colourless solids.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+329
+2. Odour
+The odours of the lower aliphatic acids progress from sharp, irritating odour of methanoic
+acid and ethanoic acids to the distinctly unpleasant odour of the butanoic, pentanoic and
+hexanoic acids. The higher acids have little odour because of their low volatility.
+3. Boiling Point
+Carboxylic acids have higher boiling points than alcohols of the similar size. For example,
+ethanoic acid (CH3
+COOH) boils at 118°C while the alcohol of comparable molecular
+mass, propan-1-ol (CH3
+CH2
+CH2
+OH) boils at 97.2°C. The higher boiling points of the
+carboxylic acids are also caused by hydrogen bonding between two molecules of acid to
+produce a dimer. The –OH and C O groups of one acid molecule form hydrogen
+bonding with C O and –OH groups of another molecule. Figure 6.1 shows the structure
+of two carboxylic acids with two intermolecular H-bonds between them.
+O
+C
+R O H O
+R
+H O
+Carboxylic acid C
+Carboxylic acid 
+–
+
++
+
++ 
+–
+
+–
+
+–
+Hydrogen bonding Hydrogen bonding
+Hydrogen bonding Hydrogen bonding
+Figure 6.1 Carboxylic acid dimer.
+The formation of a dimer immedately doubles the size of the molecule and so increases the
+Van der Waals dispersion forces between one of these dimers and its neighbours resulting
+in a high boiling point.
+4. Solubility
+In the presence of water, the carboxylic acids do not dimerize. Instead, hydrogen bonds
+are formed between water molecules and individual molecules of acid. Carboxylic acids
+up to four carbon atoms mix well with water in any proportion. The solubility in water
+decreases with the increasing molecular mass and higher acids are almost insoluble. The
+carboxylic acids dissolve in water due to formation of hydrogen bonding with water
+CHEMISTRY GRADE 11
+330
+molecules. The higher carboxylic acids are insoluble in water because of the decrease in
+the hydrogen bonding with water molecules as hydrocarbon increases (Figure 6.2).
+O
+C
+R O H O
+H
+H O = C
+R
+O H
+H
+O
+H
+Carboxylic acid
+Water
+Water
+Carboxylic acid
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
++
+
++
+
++
+
++
+
++
+ Hydrogen +
+bonding
+Hydrogen
+bonding
+Figure 6.2 Formation of hydrogen bonding between carboxylic acids and water molecules.
+Among the aromatic acids, benzoic acid is sparingly soluble in water at room temperature,
+although the solubility is more in hot water. However, all carboxylic acids are soluble in
+organic solvents like alcohol, ether, benzene etc.
+The boiling points, melting points and solubilities of some carboxylic acids are given in
+Table 6.5.
+Table 6.5 Physical constants of some carboxylic acids
+Structure IUPAC Name Boiling point Solubility,
+ °C g/100 mL
+H2O at 25°C
+HCOOH Methanoic acid 100.5 ∞*
+CH3COOH Ethanoic acid 118 ∞*
+CH3CH2COOH Propanoic acid 141 ∞*
+CH3(CH2)
+2COOH Butanoic acid 164 ∞*
+CH3(CH2)
+3COOH Pentanoic acid 187 4.97
+CH3(CH2)
+4COOH Hexanoic acid 205 1.08
+CH3(CH2)
+5COOH Heptanoic acid 223 —
+CH3(CH2)
+6COOH Octanoic acid 239 0.07
+CH3(CH2)
+7COOH Nonanoic acid 253 —
+CH3(CH2)
+8COOH Decanoic acid 269 0.015
+∞* means miscible in all proportions.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+331
+Exercise 6.4
+1. Arrange the following aliphatic carboxylic acids in the decreasing order of boiling
+point:
+a butanoic acid c octanoic acid
+b decanoic acid d propanoic acid
+2. Which aliphatic carboxylic acid is most soluble in water?
+a heptanoic acid c ethanoic acid
+b hexanoic acid d pentanoic acid
+3. Which aliphatic carboxylic acid has the lowest boiling point?
+a pentanoic acid c hexanoic acid
+b methanoic acid d propanoic acid
+4. Arrange in order of increasing boiling point:
+a C5
+H12 c C4
+H11OH
+Pentane Butanol
+b C2
+H5
+COOH d CH3
+(CH2
+)4
+COOH
+Propanoic acid Hexanoic acid
+6.1.3 Chemical Properties of Carboxylic Acids
+Activity 6.4
+Form a group and perform the following:
+Take 400 mL beaker and fill it with water to 2/3 level. Add 2 spoons of sodium
+bicarbonate and dissolve it. Then add few drops of litmus solution and 4-5 naphthalene
+balls. Now add benzoic acid, a pinch at a time and observe carefully. Explain the
+observations and discuss in the class.
+The carboxylic acids show reactions due to the alkyl or aryl group and the carboxyl group.
+The carboxyl group is further considered to be made up of a carbonyl and a hydroxyl
+group. All these groups modify the properties of each other due to their interaction. Some
+of the common reactions of carboxylic acids are:
+CHEMISTRY GRADE 11
+332
+i) Reaction as an acid
+In aqueous solution, the cleavage of O–H bond occurs leading to the formation 
+of carboxylate ion and hydronium ion. Carboxylic acids ionize partially and an 
+equilibrium exists between the ionized and un-ionized forms.
+R–C– OH + H2 3 O R–C–O + H O – +
+O O
+Carboxylate
+ion
+Hydronium
+ion
+Carboxylic acids are weak acids and dissociates slightly. The following are examples 
+of reactions of carboxylic acids as an acid.
+a Reaction with metals : Carboxylic acids react with active metals such as Na,
+K, Mg, Ca etc. to form salts and hydrogen gas.
+2R–C–OH + 2Na 2R–C–O Na + H +
+2
+–
+O O
+The salts of carboxylic acids are named by writing the name of the metal first, followed 
+by the name of the acid replacing the ending -ic acid by -ate.
+For example, sodium reacts with ethanoic acid to form sodium ethanoate and 
+hydrogen.
+2CH – COO 3 2 H + 2Na 2C – COO Na  + H – + H3
+b Reaction with Bases : Carboxylic acids react with strong bases like sodium 
+hydroxide or potassium hydroxide to form the corresponding salts and water.
+R–C– OH + NaOH R–C–O Na + H – +
+2O
+O O
+Reaction with base is a simple neutralization reaction. Carboxylic acids react with 
+weak bases like carbonates or bicarbonates to form salt, water and carbon dioxide.
+2R–C–OH + Na CO 2 2 3 R–C–O Na + H2
+– + O+CO2
+O O
+O O
+R–C– OH + NaHCO3 2 R–C– O Na + H – + O + CO2
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+333
+They also react with ammonia to form ammonium salts of carboxylic acids.
+R – C – OH + NH R – C – O NH 3 4
+– +
+O O
+Example 6.10
+Write the chemical equations for the reaction between ethanoic acid and each of the
+following reagents and write the names of the products formed:
+a KOH b Na2CO3 c NH3
+Solution:
+a CH – C – OH + KOH 3
+O
+CH – C – O K + H O 3 2
+– +
+O
+Potassium ethanoate
+b 2CH – C – OH + Na CO 3 23
+O
+2CH – C – O Na + H O + CO 3 22
+– +
+O
+Sodium ethanoate
+c CH – C – OH + NH 3 3
+O
+CH – C – O NH 3 4
+– +
+O
+Ammonium ethanoate
+ii) Formation of Esters : One of the important reactions of carboxylic acids involves the
+replacement of –OH group by an alkoxy group to form esters as products. In this
+reaction, carboxylic acids are heated with alcohols in the presence of concentrated
+sulphuric acid. The reaction is called esterification.
+R–C– OH + H – O–R + H – O – R' R–C–O–R ' R – C – O – R'+H2O
+O O
+H2SO4
+Carboxylic acid Alcohol Ester
+CHEMISTRY GRADE 11
+334
+Activity 6.5
+Form a group and discuss the reason why ‘tella’ or ‘tej’ turn sour when kept for longer
+time?
+After the discussion, share your ideas with the rest of the class.
+6.1.4 Preparation of Carboxylic Acids
+One of the important methods for preparation of carboxylic acids is oxidation. Many
+saturated monocarboxylic acids are obtained by the oxidation of the corresponding primary
+alcohols whereas aromatic acids are obtained from the corresponding alkylbenzenes.
+i) Oxidation of Primary Alcohols: The primary alcohols are readily oxidized to the
+corresponding carboxylic acids by their reaction with common oxidizing agents like
+potassium permanganate or potassium dichromate. The oxidation can also be carried
+out by passing the vapours of primary alcohols through copper (II) oxide.
+R – CH2 – OH R – C – OH – OH R – C – OH
+O
+KMnO4
+For example, oxidation of ethanol yields acetic acid (ethanoic acid).
+CH3 – CH2 – OH CH – OH CH3 – C – OH – C – OH
+O
+KMnO4
+ii) Oxidation of Alkylbenzenes: Aromatic compounds containing alkyl group as substituent
+undergo oxidation to form aromatic acids. The reaction involves oxidation with potassium
+permanaganate or potassium dichromate under vigorous conditions. The alkyl group
+is oxidised to carboxyl group irrespective of its size. For example, toluene and
+ethylbenzene, both give benzoic acid on refluxing with KMnO4
+ in alkaline medium.
+CH3 C – OH
+O
+KMnO4
+Toluene Benzoic acid
+heat
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+335
+ Experiment 6.1
+CH2 – CH3 C – OH
+O
+KMnO4
+Ethylbenzene Benzoic acid
+heat
+iii) Preparation of acetic acid (Ethanoic acid) : Acetic acid is one of the important carboxylic
+acids which is used as food preservative. It can be prepared in laboratory by the
+oxidation of ethanol with potassium permanganate. It can also be obtained by passing
+the vapours of ethanol through copper oxide as described in Experiment 6.1.
+Laboratory Preparation of Acetic Acid
+Objective: To prepare acetic acid in the laboratory by oxidation of ethanol.
+Apparatus: Goggles, test tubes, test tube rack, quickfit apparatus, 250 mL beaker,
+pipettes, Bunsen burner, stand, clamp, tripod, wire gauze, digital
+balance, blue litmus paper, broken porcelain pieces.
+Chemicals: Ethanol, sodium dichromate, 1 M sulphuric acid, 0.5 M sodium
+carbonate solution, blue litmus paper.
+Procedure
+Oxidation of ethanol to ethanoic acid
+1. Set up the Quickfit apparatus for refluxing as shown in Figure 6.3.
+2. Place about 10 mL of 1 M sulphuric acid into the 250 mL round-bottom flask.
+3. Add 2-3 g of sodium dichromate (Na2Cr2O7) and a few pieces of broken
+porcelain. Swirl the contents of the flask until the solution is complete (warm if
+necessary).
+4. Cool the mixture under a running tap.
+5. Add 1 mL of ethanol dropwise into the flask.
+6. Boil under reflux for 20 minutes and distil 2-3 mL of the liquid.
+CHEMISTRY GRADE 11
+336
+7. Notice the smell of the product (distilled liquid) and compare it with that 
+of ethanol.
+8. Add a few drops of the distilled liquid to a small amount of solid
+sodium carbonate.
+9. Add a drop of the distilled liquid to moistened blue litmus paper.
+Observation and analysis
+1.	 What happened to the colour of the solution in the flask?
+2.	 What is the role of sodium dichromate in the above reaction? Is it oxidized
+or reduced?
+3. Write the chemical equation for this reaction.
+4.	 What do you conclude from this experiment?
+Wire gauze
+Thermometer
+Stand
+Clamp
+Bunsen burner
+Receiver
+Condenser
+Water inlet
+Water outlet
+Acetic acid
+Figure 6.3 Laboratory setup for preparation of acetic acid.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+337
+Large quantities of acetic acid is obtained in industry from fermentation of ethanol. The
+process is known as Quick Vinegar Fermentation Process. In the process large wooden
+vats (Figure 6.4) are used which have a perforated bottom. They are packed with wood
+shavings moistened with old vinegar. Ethanol solution is poured from the top and trickles
+down slowly to the perforated bottom. From the lower portion, air is pumped in the vat.
+The bacteria present in old vinegar, ferment the ethanol into acetic acid. The liquor
+obtained at the bottom is recirculated through the tower. The maximum concentration
+of acetic acid obtained by this process is about 10%, which can be fractionated to yield
+glacial acetic acid.
+Air Outlet
+Wood
+Shavings
+Air Inlet
+Perforated
+Bottom
+Vinegar
+Pump
+Figure 6.4 Industrial preparation of acetic acid.
+6.1.5 Fatty Acids
+Activity 6.6
+Form a group and discuss the following question. After the discussion, share your idea
+with the rest of the class.
+1. What are fatty acids and why are they named so?
+2. Give some examples of fatty acids.
+CHEMISTRY GRADE 11
+338
+Fatty acids are a carboxylic acids with a long hydrocarbon chains. Fatty acids are found in
+all cells. The hydrocarbon chains of animal fatty acids are more saturated than those of
+vegetable origin. With only a few exceptions, the fatty acids are all straight-chain compounds.
+Most fatty acids contain an even number of carbon atoms.
+Fatty acids that do not contain carbon-carbon double bonds are termed as saturated fatty
+acids, and those that contain one or more double bonds are called unsaturated fatty acids.
+When there is only one double bond, it is usually between the ninth and tenth carbon atoms
+in the chain. Some common fatty acids present in different fats and oils are listed in
+Table 6.6.
+Table 6.6 Examples of naturally occurring saturated fatty acids
+Name Formula
+Lauric acid CH3(CH2)
+10COOH
+Myristic acid CH3(CH2)
+12COOH
+Palmitic acid CH3(CH2)
+14COOH
+Stearic acid CH3(CH2)
+16COOH
+Arachidic acid CH3(CH2)
+18COOH
+6.1.6 Uses of Carboxylic Acids
+Acetic acid is used as a solvent and as a starting material in the preparation of acetates,
+acetic anhydride, etc. It is also used to prepare the vinyl acetate polymer which is used in
+paints and adhesives. Vinegar contains about 8-10 % acetic acid which is used in many
+food items. Aspirin, the common painkiller, is prepared by the reaction of salicylic acid
+(2-hydroxylbenzoic acid) with acetic acid.
+OH
+C
+O
+OH
+Salicylic acid
+CH3 – C – OH – C – OH
+O
+H+
++ C
+O
+OH
+H3C –C–O
+O
+Acetylsalicylic acid
+(Aspirin)
+–
+Carboxylic acids are very important, industrially. Perhaps one of the most important industrial
+applications of long chain carboxylic acid is for making soaps, detergents, and shampoos.
+Carboxylic acids are also important in the manufacture of greases, crayons, and plastics.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+339
+They are used commerically as raw materials for the production of synthetic odors and
+flavors.
+6. 2 ESTERS
+At the end of this section, you should be able to:
+• list common sources of esters;
+• write the general structural formula of esters;
+• write the molecular formulas and names of some simple esters;
+• describe the physical properties of esters;
+• explain the chemical properties of esters;
+• explain the general methods of preparation of esters; and
+• describe some common uses of esters
+6.2.1 Sources of Esters
+Activity 6.7
+Form a group and discuss the following:
+Why do some fruits and flowers have pleasant odours?
+Share your ideas with the rest of the class.
+Esters are among the most widely occurring compounds in nature. Many esters are pleasantsmelling substances and are responsible for the flavor and fragrance of many fruits for
+example, apples, pears, banana, pineapple, strawberry, etc. Oils, fats and waxes of plants
+or animal origin are all esters. Many esters are found in flowers also and form the part of
+essential oils obtained from flowers.
+6.2.2 Structure and Nomenclature of Esters
+Esters are derivatives of carboxylic acids in which the hydroxyl group of carboxylic acid
+has been replaced by an alkoxy group. Esters can also be formed by the reaction between
+acids and phenols. In such cases, the hydroxyl group is replaced by an alkoxy group.
+CHEMISTRY GRADE 11
+340
+Esters can be represented by the general formula
+where R = hydrogen, alkyl or an aryl group and R′ = alkyl or an aryl group.
+Esters are named by the common system as well as by IUPAC system. In both the cases,
+the name consists of two parts. The first part is named on the basis of the portion coming
+from alcohol and the second part of the name is based on the portion from acid. Therefore,
+it is necessary to identify first the portions coming from alcohol and carboxylic acid.
+R – C – OH R – C – OH + H–O–R  R–C – O – R
+O O
+Acid portion Alcohol
+portion
+Carboxylic acid Alcohol
+The above reaction shows that the portion coming from alcohol is attached to the oxygen
+as alkyl group, and the acid portion is attached to the oxygen through carbonyl group.
+While writing the name of an ester, first the name of alkyl group is written first followed by
+the name of the acid by replacing -ic acid with -ate. When we use the common name of
+carboxylic acid, the name of the ester is a common name, and when IUPAC name of the
+acid is used, we get IUPAC name for ester. For illustration, consider the ester formed from
+ethyl alcohol and methanoic acid.
+H – C – O – CH H – C – O – CH2 – CH3
+O
+The common name for this ester is ethyl formate, and the IUPAC name is ethyl methanoate.
+The formulae and names of some esters are listed in Table 6.7.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+341
+Table 6.7 Names and formulae of some common esters
+Molecular Structural Common IUPAC
+Formula Formula Name Name
+C3O2H6 CH – C – O – CH 3 3
+O
+Methyl acetate Methyl ethanoate
+C3O2H6 Ethyl formate Ethyl methanoate
+C4O2H8 Ethyl acetate Ethyl ethanoate
+C4O2H8 Propyl formate Propyl methanoate
+C5O2H10 Propyl acetate Propyl ethanoate
+Note that in the given Table 6.7 molecular formula can represent more than one structure.
+For example, methyl ethanoate and ethyl methanoate have the same molecular formula,
+C3
+O2
+H6
+. Similarly, ethyl ethanoate and propyl methanoate have the same molecular formula.
+Exercise 6.5
+1. Name the following esters.
+a H – C – O – CH CH CH 223
+O
+c
+C – O – CH3
+O
+b CH – C – O – 3
+O
+d CH – CH – C – O – 3 2
+O
+CHEMISTRY GRADE 11
+342
+2. Write the structure of the following esters:
+a Isopropyl methanoate b Ethyl propanoate
+6.2.3 Physical Properties of Esters
+Activity 6.8
+Form a group and discuss the following questions. After the discussion, share your ideas
+with the rest of the class.
+1. Do you expect esters to have lower or higher boiling points compared to carboxylic
+acids of comparable molecular mass?
+2. Do you expect esters to have lower or higher boiling points compared to alcohols of
+comparable molecular mass?
+i) Odour
+In sharp contrast to the disagreeable odours of carboxylic acids, esters have pleasant
+odour. The odour of many fruits and flowers result from mixtures of carboxylic esters, and
+many of them are used in perfumes and food flavoring.
+ii) Boiling points
+The boiling points of esters increase with increasing molecular mass. Branched-chain esters
+have lower boiling points than their straight-chain isomers. Esters have lower boiling points
+than carboxylic acids and alcohols of comparable molecular mass. This is because ester
+molecules cannot form hydrogen bonds with each other.
+iii) Solubility
+Esters of low molecular mass are fairly soluble in water. Since carboxylic esters can form
+hydrogen bonding with water (Figure 6.5), it is not surprising that their solubility in water is
+about the same as that of carboxylic acids of the same molecular mass. The solubility of
+esters in water decreases with increasing molecular mass. All esters are soluble in organic
+solvents.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+343
+O
+C
+R O R'
+O = C
+R
+O R'
+H
+O
+H
+Ester
+Water
+Ester
+H
+O
+H Water
+
+–
+
+–
+
+–
+
+–
+
+–
+
++
+
++
+
++ 
++
+Figure 6.5 Hydrogen bonding between ester and water molecule.
+6.2.4 Chemical Properties of esters
+Activity 6.9
+Form a group and discuss the following questions. After the discussion, share your ideas
+with the rest of the class.
+1. What would happen when esters are treated with water?
+2. Recall the reactants that form esters. What was the by-product of the condensation
+reaction?
+i) Hydrolysis
+One of the most important reactions of esters is their hydrolysis, which yields corresponding
+carboxylic acids and alcohols. The hydrolysis reaction is speeded up in presence of a
+mineral acid which act as catalyst in this reaction.
+The general reaction for acid-catalyzed hydrolysis of esters can be written as:
+R–C–O–R R – C – O – R + H2O R–C–O–H + R O R – C – O – H + R – OH
+O O
+H O3
++
+Example 6.11
+Write an equation showing the acid-catalyzed hydrolysis of methyl benzoate.
+Solution: 
+C
+O
+O CH3 + CH OH 3
+H O3
++ C
+O
+OH
+Methyl benzoate Benzoic acid Methanol
++ H O2
+CHEMISTRY GRADE 11
+344
+Esters also undergo base-catalyzed hydrolysis to give salts of carboxylic acids and alcohols.
+Base-catalyzed ester hydrolysis is called saponification. Sodium hydroxide or potassium
+hydroxide are the bases generally used for hydrolysis. For synthetic purpose, base catalysis
+is often preferred, because the reaction is not reversible.
+The general reaction for base-catalyzed hydrolysis of esters:
+R–C–O–R R – C – O – R + NaOH R–C–O Na + R – OH – +
+O O
+Example 6.12
+Write an equation showing the base-catalyzed hydrolysis of methyl octadecanoate.
+O
+||
+ CH3
+(CH2
+)
+16 C – OCH3
+Solution:
+O O
+|| ||
+ CH3
+(CH2
+)16 C – OCH3
+ + NaOH → CH3
+(CH2
+)16C – O–
+ Na+
+ + CH3
+OH
+In biological systems, many ester hydrolysis reactions take place, for example, in the
+digestion of fats. These reactions occur under very mild conditions, and in the presence of
+certain biological catalysts known as enzymes.
+i) Reduction
+Esters are reduced to primary alcohols by special reducing agents like lithium aluminium
+hydride, LiAlH4
+. The general reaction for reduction of esters is given by:
+R–C–O–R R – C – O – R R – CH2 – OH + R – OH + R – OH
+O
+1. LiAlH 1. LiAlH4
+2. H+
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+345
+Example 6.13
+Write an equation showing the reduction of methyl pentanoate.
+Solution: CH CH CH CH –C–O–CH CH CH CH CH CH OH + CH OH 3222 3 32222 3
+O
+1. LiAlH 1. LiAlH4
+2. H+
+Methyl pentanoate 1-Pentanol Methanol
+6.2.5 Preparation of Esters
+Esters can be synthesized by heating a mixture of a carboxylic acid and an alcohol in the
+presence of an acid catalyst such as H2
+SO4
+. This reaction is called esterification and is a
+common method for the preparation of esters.
+R O– H
+O
+Carboxylic acid
++ H– O – R + H – O – R'
+R O– R'
+O
+Ester
++ H2O H+
+Alcohol
+In this condensation reaction, the hydroxyl group (–OH) from the acid and a hydrogen
+atom (–H) from the alcohol are eliminated in the form of water, as indicated by the dotted
+rectangle in the above reaction.
+Example 6.14
+Write an equation showing the preparation of methyl ethanoate from methanol and
+ethanoic acid.
+Solution:
+CH – C – OH 3
+O
++ CH – OH 3 CH – C – O 3
+H+
+– CH + H O 3 2
+Ethanoic acid Methanol Methyl ethanoate
+O
+Exercise 6.6
+Write the reactions for the preparation of each of the following esters using appropriate
+acids and alcohols:
+a Ethyl acetate c Methyl benzoate
+b Ethyl butanoate d Phenyl ethanoate
+CHEMISTRY GRADE 11
+346
+6.2.6 Uses
+Esters have numerous uses as solvents, medicines, clothing (e.g. polysters), fragrances in
+perfumes, and plasticizers (e.g. octyl phthalate).
+Most esters of small acids and alcohols are non-corrosive, non-toxic liquids with good
+properties for use as solvents. Esters are used as solvents for oils and fats, nail polishes,
+varnishes, paints, gums and resins. Because of their pleasant fruity smells, esters are used
+in making artificial flavours and perfumes. Table 6.8 depicts same common fruits and the
+esters responsible for their flabours (see also Figure 6.6).
+Table 6.8 Some common fruits and the esters responsible for their flavour
+Fruit Ester present
+Apple Ethyl isovalerate
+Pineapple Methyl butanoate and Ethyl butanoate
+Banana Isopentyl acetate
+Orange Octyl acetate
+Oranges
+Pineapple Bananas
+Apple
+Figure 6.6 Some fruits containing ester.
+6. 3 FATS AND OILS
+At the end of this section, you should be able to:
+• define fats and oils;
+• write the general structural formula for fats and oils;
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+347
+• present the structures of some common trigycerides;
+• describe physical properties of fats and oils;
+• explain the hardening of oils (process of converting oils to hard fats);
+• explain rancidity;
+• define soap and detergent;
+• explain saponification;
+• prepare soap; and
+• explain the cleaning action of soaps.
+6.3.1 Source and Structure of Fats and Oils
+Activity 6.10
+Form a group and perform the following activity:
+Collect samples of butter, lard, tallow, peanut oil, soyabean oil and olive oil. Classify them
+according to vegetable or animal origin and according to their physical state. Do you find
+any relation between their source and the physical state?
+Share your ideas with the rest of the class.
+Fats and oils belong to a class of biomolecules called lipids. They are triesters of
+glycerol which are collectivity known as triglycerides or triacylglycerols.
+The distinction between a fat and an oil depends on their physical states. If the
+substance is solid or semisolid at ordinary temperature, it is termed as a fat and if it is
+fluid, it is called an oil.
+Fats and oils are widely found in nature especially in living things. Animal fats and oils
+are derived both from terrestrial (land) and marine (water) animals. Marine fats
+include liver oils, blubber oils, and fish oils.
+Vegetable fats and oils are found in greatest abundance in fruits and seeds. While fats
+and oils occur in the roots, stalks, branches and leaves of plants.
+Structure of Fats and Oils
+Fats and oils are triesters. Variation in the structure of fats and oils occur in the fatty
+acid portion of the triglyceride (or triacylglycerol).
+CHEMISTRY GRADE 11
+348
+Fats and oils are represented by the following general structural formula:
+H C–O–C–R C – O – C – R
+2 1
+H–C – O – C – R H–C – O – C – R
+2
+H C–O–C–R C – O – C – R
+2 3
+O
+O
+O
+H C – OH
+2
+H–C – OH H–C – OH
+H C – OH
+2
+A triglyceride (triacylglycerol) Glycerol
+Where R1
+, R2
+ and R3 may be the same or different hydrocarbon groups.
+Fats are esters of glycerol and mostly saturated fatty acids and oils are liquid esters
+primarily derived from unsaturated fatty acids and glycerol. The acid part of fats and
+oils almost always contain on even number of carbon atoms.
+The structures of some common triglycerides are shown below:
+H C – O – C – (CH C – O – C – (CH ) CH
+2 2 16 3
+HC – O – C – (CH HC – O – C – (CH ) CH
+2 16 3
+H C – O – C – (CH C – O – C – (CH ) CH
+2 2 16 3
+O
+O
+O
+Glyceryl tristearate (stearin) fat
+H C–O–C–C C – O – C – C H
+2 17 33
+HC – O – C – C HC – O – C – C H
+17 33
+H C–O–C–C C – O – C – C H
+2 17 33
+O
+O
+O
+Glyceryl trioleate (olein) oil
+Exercise 6.7
+Write the structure of:
+(a) Glyceryl trimyristate
+(b) Glyceryl palmitooleostreate
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+349
+Some of the commercialy available vegetable oils are shown in Figure 6.7.
+Figure 6.7 Some vegetable oils.
+6.3.2 Physical Properties of Fats and Oils
+Activity 6.11
+From a group and compare vegetable oils with mineral oils. Do they behave in similiar
+fashion? Explain.
+Share your ideas with the rest of the class.
+The common physical properties of fats and oils are that; they are greasy to the touch, and
+have lubricating properties; they are not readily volatile; and may be burned without leaving
+any residue, that is, ash.
+Fats like butter, lard and tallow are solids at room temperature. On the other hand, oils are
+mainly obtained from plants, e.g., corn oil, peanut oil, cotton seed oil, olive oil and soyabean
+oil which are liquids at room temperature. All oils and fats are colourless, odourless and
+CHEMISTRY GRADE 11
+350
+neutral substances in pure state. They are lighter than water and immiscible with it. They
+are soluble in organic solvents e.g. benzene, ether and chloroform etc.
+6.3.3 Hardening of Oils
+Activity 6.12
+Form a group and classify the given fatty acids as saturated or unsaturated fatty acids:
+Myristic acid, oleic acid, linolic acid, lauric acid, palmitic acid, linolenic acid and stearic acid.
+Saturated fatty acids Unsaturated fatty acids
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+Can you suggest a method of converting unsaturated fatty acids to saturated fatty acids.
+Present your findings to the class.
+Oils can be converted to fats by addition of hydrogen (hydrogenation) at high pressure
+in presence of nickel or palladium as catalyst. This process of converting oils to hard
+fats is known as hardening of oils. This reaction is used in the preparation of margarine.
+Example 6.15
+A glyceryl tristearate (found in animal fat) can be prepared by hydrogenation of
+glyoryl trioleate (oil found in olive oil and whole oil) is shown in the equation
+below
+H C–O–C–C C – O – C – C H
+2 17 35
+HC – O – C – C HC – O – C – C H
+17 35
+H C–O–C–C C – O – C – C H
+2 17 35
+O
+O
+O
+Glyceryl tristearate
+H C–O–C–C C – O – C – C H
+2 17 33
+HC – O – C – C HC – O – C – C H
+17 33
+H C–O–C–C C – O – C – C H
+2 17 33
+O
+O
+O
+Glyceryl trioleate
++ 3H2
+heat
+Ni
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+351
+Activity 6.13
+Exercise 6.8
+Write the equation for the hydrogenation of:
+(a) Glyceryl palmitooleostreate, and
+(b) Glyceryl trimyristate
+6.3.4 Rancidity
+Form a group and perform the following activity:
+Obtain two packets of fried potato chips from the market. Open one packet and smell it.
+Now place half the contents in a close tight container and other half in an open container.
+Let the second packet be kept as such. After 15 days, smell the chips kept in the open
+container, closed container and sealed packet. Record your observations and find out what
+is the best method to keep such items.
+Share your findings with the class.
+Fats and oils are quite reactive substances. When stored for any considerable length of
+time, especially when the temperature is high and the air has free access to them, they
+deteriorate and spoil. Among the various fats, spoilage takes the form of rancidity.
+Fats and oils develop an unpleasant odour due to rancidity. It is caused mainly due to the
+hydrolysis of ester linkage and oxidation across the double bonds. In this respect, different
+fats differ markedly. Some spoil very much more rapidly than others. The fat acquires a
+peculiarly disagreeable odor and flavor.
+The rancidity of a given fat is not necessarily the result of long storage under unfavorable
+conditions. The fat may have been spoiled and rancid from the moment of its production.
+This will inevitably be true when the materials from which it was produced have undergone
+decomposition. In other words, to obtain a sound and sweet fat, the raw material must be
+sound and sweet; it must be processed speedily before it gets time to decompose; and this
+must be done under clean and sanitary conditions. The fat thus obtained must be stored
+under favorable conditions and its consumption should not be delayed.
+CHEMISTRY GRADE 11
+352
+Activity 6.14
+6.3.5 Soaps and Detergents
+Form a group and collect the information regarding the substances which were used for
+cleaning before the discovery of soaps. Share the information with the class.
+The commercialy available soaps are shown in Figure 6.8.
+Figure 6.8 Some commercially available soaps.
+i) Soaps
+Soaps are sodium or potassium salts of long chain fatty acids. These are generally obtained
+by alkaline hydrolysis of oils and fats. This process is called saponification. A general
+reaction can be written as follows:
+CH – OH
+CH
+2
+– OH
+CH2 – OH
+Soap
+CH –O– C – R
+CH – O – C – R CH – O – C – R
+CH –O–C–R
+2
+2
+1
+2
+3
+O
+O
+O
++ 3NaOH + 3NaOH 3R – C – O 3R – C – O Na + – +
+O
+Triglyceride Glycerol
+Although chemically all soaps are salts of fatty acids but many variations are created when
+used for specific purposes, for example colour and perfumes are added when used as
+toilet soap.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+353
+Transparent soaps are prepared by first dissolving in alcohol and then evaporating the
+excess alcohol. Floating soaps are prepared by beating air before it hardens during
+manufacture. Certain antibacterial substance are also added for making medicinal soaps.
+Potassium salts of fatty acids form soft soaps and are used as baby soaps.
+ii) Detergents
+Detergents are synthetic substances which are used as substitutes to soaps. Although synthetic
+detergents vary considerably in their chemical structure, the molecules of all of them have
+one common feature which they share with ordinary soaps. They are amphipathic, have a
+large non-polar hydrocarbon end that is oil-soluble and a polar end that is water-soluble.
+The C12-C18 alcohols are converted into the salts of alkyl hydrogen sulphate by treatment
+with H2
+SO4
+. The resulting alkyl sulphates, when treated with NaOH, produce a detergent,
+sodium alkyl sulphate.
+For example, sodium lauryl sulphate, a very common detergent is obtained from lauryl
+alcohol as shown in the following reaction.
+CH (CH ) CH –OH + H SO CH – (CH ) CH –OSO H CH (CH ) CH –OSO Na 3 2 10 2 2 4 3 2 10 2 3 3 2 10 2 3
+– + – –– NaOH
+Lauryl alcohol Lauryl hydrogen sulphate Sodium lauryl sulphate
+Detergents act in essentially the same way as soap does. However, they have certain
+advantages over soap. For example, the sulphates retain their efficiency in hard water,
+since the corresponding calcium or magnesium salts are soluble. Hence detergents can be
+used in hard water. Detergents are neutral whereas soaps are basic. But, detergents are
+not without drawbacks. For example, some are not biodegradable, which makes them
+environmentally non-friendly. The new detergents are better in being more biodegradable
+than the older generation.
+iii) Saponification (Soap-making)
+Soap-making (saponification) is one of the oldest chemical technologies. Man first boiled
+goat tallow and wood ash to give a lathering and cleansing product. The goat tallow contained
+the needed ester, and the wood ash the necessary alkali. Chemicals with the same reactive
+groups are the main raw materials still used in traditional and modern soap manufacture.
+Remember that saponification is the chemical process of breaking down an ester in presence
+of alkali to form soap.
+CHEMISTRY GRADE 11
+354
+ Experiment 6.2
+Laboratory Preparation of Soap
+Objective: To prepare soap in the laboratory by the alkaline hydrolysis of fats
+and oils.
+Apparatus: Water-cooled condenser, 100 mL flask, Bunsen burner, Buchner funnel
+ring stand, clamp, boiling chips and 400 mL beaker.
+Chemicals: Animal fat (tallow) or vegetable oil, NaOH, ethanol and table salt.
+Procedure:
+1. Set up a reflux apparatus as shown in Figure 6.9.
+2. Place 3 mL of vegetable oil or 3 g of animal fat (tallow) in the 250 mL distillation
+flask.
+3. Add about 15 mL of 20 % sodium hydroxide solution.
+4. Add a few boiling chips and connect the flask to the condenser and gently reflux
+the mixture over a small flame. Saponification is complete when a homogeneous
+solution is obtained (in 30-45 minutes).
+5. While the saponification is in progress, prepare a concentrated salt solution by
+dissolving 50 g of NaCl in a 150 mL of water in a 400 mL beaker.
+6. When saponification is complete, extinguish the flame and pour the mixture quickly
+into the saturated NaCl solution (brine).
+7. Stir the mixture thoroughly for several minutes.
+8. Collect the precipitated soap on a Buchner funnel.
+9. Wash the soap twice with 10 mL of ice-cold distilled water.Wait until it dries.
+Observations and Analysis :
+1. What happens to the animal fat (tallow) or vegetable oil in this reaction?
+2. What is the role of sodium hydroxide?
+3. Write the chemical reaction for this reaction.
+4. What do you conclude from this activity?
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+355
+Stand
+Clamp
+Condenser
+Round bottom
+flask
+Bunsen
+burner
+Figure 6.9 Laboratory set up for preparation of soap.
+iv) Cleaning Action of Soap
+Molecules of soap have two dissimilar ends. At one end is long carbon chain which is
+hydrophobic or water repellant. The other end has carboxylate ion which is water soluble
+end. So soap molecules have both polar and non-polar ends and, in addition, are big
+enough for each end to display its own solubility behaviour. Such molecules are called
+amphipathic. When they are dissolved in water, each non-polar end seeks a non-polar
+environment in line with rule of “like dissolves like”. Therefore, many nonpolar ends clump
+together to form the micelles as shown in Figure 6.10.
+CHEMISTRY GRADE 11
+356
+Polar “head”
+Non-polar
+“tail"
+(b) Cross section of a soap
+micelle in water
+Na ions + + +
++
++
++
++
++
++
++ +
++
++
++
++
++
+Na+
+O– O
+C
+(a) A soap
+Grease
+Soap
+(c) Soap micelle with
+“dissolved” grease
+Figure 6.10 Soap molecules form micelles when “dissolved” in water.
+When a cloth with spot of oil and dirt is soaked into the soap solution, the tiny droplets of
+oil are dissolved by the hydrocarbon end in the middle of the micelle. Due to the outwardly
+projected polar ends, these micelles dissolve in water and are washed away. In this way
+soaps act as cleaning agents.
+Exercise 6.9
+What saponification products would be obtained when mixing the following oils with
+NaOH?
+1. Glyceryl trimyristate 2. Glyceryl palmitooleostearate.
+CARBOXYLIC ACIDS, ESTERS, FATS AND OILS
+357
+Unit Summary
+• Carboxylic acids are compounds with a –COOH functional group.
+• Because of the –COOH functional group, carboxylic acids are polar
+compounds and can form hydrogen bondings with water and among
+themselves.
+• The common names of carboxylic acids are based on their origins in
+nature whereas their IUPAC names are created by replacing the ending
+“e” of the corresponding alkane, or alkyne by “oic acid.”
+• Carboxylic acids are generally prepared by the oxidation of corresponding
+primary alcohols.
+• Esters are mildly polar compounds that are widely distributed in nature.
+• Esters are named according to both the common name system and the
+IUPAC system.
+• In a laboratory, esters can be prepared from a reaction between a
+carboxylic acid and an alcohol. The process requires an acid catalyst and
+heating.
+• Fats and oils are esters of long-chain carboxylic acid with glycerol.
+• Soaps are sodium or potassium salts of long-chain carboxylic acids. They
+can be prepared by the saponification of fats or oils, using a base (NaOH
+or KOH).
+• One of the main difference between soaps and detergents is that the
+detergents can be used in hard water, whereas soaps form scum in hard
+water

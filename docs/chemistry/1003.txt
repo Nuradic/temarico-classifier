@@ -1,0 +1,652 @@
+Electrochemistry is a field of chemistry that deals with the relationship between
+electrical energy and chemical energy. It is a field of chemistry concerned with
+processes that bring about chemical reactions (changes) using electricity or generating
+electrical energy from chemical reactions. Thus, electrical energy and chemical energy
+are inter-convertible.
+The devices that convert chemical energy to electrical energy or electrical energy to
+chemical energy are called electrochemical cells. These cells can be classified as
+electrolytic cells and galvanic or voltaic cells. Electrolytic cells use electrical energy to
+bring about chemical changes that produce many desirable substances in our daily
+lives. Galvanic or voltaic cells convert chemical energy to electrical energy. The cells
+we use in flashlight batteries, wrist watches, cameras and car batteries are examples
+of Galvanic cells. The reactions between the chemicals in these cells are responsible
+for the generation of electricity.
+Electrochemistry has practical applications in our modern world and in everyday life.
+Electrolysis is used to manufacture metals like sodium, aluminium; non-metals like
+chlorine, hydrogen and compounds like sodium hydroxide and sodium hypochlorite.
+Electrochemistry also has a role in the production of dry cells and lead storage
+batteries used in the automotive industry.
+Activity 3.1
+ELECTROCHEMISTRY (UNIT 3)
+163
+3.2 ELECTRICAL CONDUCTIVITY
+Competencies
+After completing this subunit, you will be able to:
+• define electrical conductivity;
+• explain metallic conductivity;
+• explain electrolytic conductivity;
+• distinguish between metallic and electrolytic conduction;
+• distinguish between weak and strong electrolytes;
+• use conductivity apparatus to test the conductivity of substances.
+Why do metals conduct electricity? Do you know any non-metal, which conducts
+electricity? Electrical conductivity is the capacity of a substance to transmit electricity.
+The materials that allow the passage of electricity through them are called electrical
+conductors.
+Conductivity apparatus is used to test the conductivity of different solid substances or
+that of aqueous solutions of different compounds. The basic components of
+conductivity apparatus include electric wires, electrodes, a d.c. source or dry cells, a
+switch and light bulb. The components of the apparatus can be connected to one
+another as shown in Figure 3.1.
++ –
+Battery
+Switch
+Aqueous solution
+of a substance
+Carbon
+electrodes
+Figure 3.1 Conductivity cell.
+CHEMISTRY GRADE 10
+164
+Depending on the nature of the particles responsible for the flow of electric charges
+through conductors, electrical conductivity can be classified as metallic conductivity or
+electrolytic conductivity.
+a) Metallic conductivity
+1. With the help of your teacher collect pieces of iron bars, zinc metal, sodium chloride
+crystal, rubber stoppers, rubber bands, coins, stone, glass, pieces of dry wood, a spoon, a
+pencil, chalk and solid sulphur.
+2. Identify the substances that conduct electricity and classify them as conductors and
+non-conductors.
+3. From your observations above, (a) what type of solids conduct electricity, (b) why do
+you think some of the materials conduct electricity? (c) Does graphite have the same
+nature as the other conductors of electricity?
+Discuss in groups and present it to the class
+Why do metals transmit electric current? What are the charge carriers in metals?
+Metallic conductivity refers to the transmission of electric current through metals. This
+transmission is directly related to the structure of metals. In atoms of metals, the
+valence electrons are bounded very loosely to their respective nuclei and move very
+easily throughout the metal. This means metals contain electrons that do not have fixed
+positions and are relatively free to move. These electrons are called free electrons or
+mobile electrons or delocalized electrons. Thus, the structure of the metals can be
+regarded as a series of positively charged metal ions, or cations, in a sea of negatively
+charged electrons.
+Free Electrons Nucleus
+Electron
+in
+Electron
+out
++
++
++
++
++
++ +
++
+Figure 3.2 Electrical conductivity in metals.
+Activity 3.2
+ELECTROCHEMISTRY (UNIT 3)
+165
+The electrons entering the metal displace (repel) the freely moving electrons at the
+point of entry. The displaced electrons occupy new positions by pushing neighbouring
+electrons ahead. This will continue until electrons are forced out of the wire at the
+opposite end. So, metallic conductivity is caused by the flow of mobile electrons due
+to repulsion exerted on them from the electrons entering the metal from the source of
+electricity. The charge carriers in metallic conduction are electrons. Hence, metallic
+conductivity is also called electronic conductivity.
+Non-metals are generally non-conductors of electricity, because they do not have freely
+moving electrons. Graphite is a form of carbon in which the carbon atoms are bonded in
+trigonal planar fashion to the three other carbon atoms, to form inter-connected hexagonal
+rings, as shown in Figure3.3. Electrons move freely through the hexagonal layers, making
+graphite a good conductor of electricity.
+Figure 3.3 Structure of graphite (The blue colour is added to emphasize the planarity of the carbon layers.)
+b) Electrolytic conductivity
+Electrolytes are substances that transmit electricity in a molten state or in aqueous
+solution. Based on their degree of ionization or the extent to which they produce
+anions and cations, electrolytes can be classified as strong electrolytes or weak
+electrolytes. Strong electrolytes ionize almost completely in aqueous solutions. Weak
+electrolytes ionize only slightly. When electrical potential is applied through an
+electrolyte solution, the positive ions (cations) move in one direction and the negative
+ions (anions) move in the opposite direction. This movement of ions through the
+electrolyte, brought about by the application of electricity, is called electrolytic
+conductivity. Hence, the charge-carriers in electrolytic conductivity are ions (anions
+and cations).
+CHEMISTRY GRADE 10
+166
+ Experiment 3.1
+Construct a conductivity apparatus in your group. To construct the apparatus,
+you will need a light bulb, three dry cells, some electric wire, two graphite
+electrodes and a switch. You can get the graphite electrodes by peeling off
+two old dry cells. A graphite electrode is the long cylindrical black rod inside
+the cell. Ask your teacher for further assistance. Assemble the materials as
+shown in Figure 3.4. Demonstrate the experimental set-up to the class.
+Project 3.1
+Conductivity of electrolytes
+Objectives: To test the conductivity of different electrolytes.
+Materials required: Conductivity apparatus, distilled water, table salt, copper
+sulphate, hydrochloric acid, sodium hydroxide, acetic acid, ammonia solution,
+molten lead bromide and sugar solution.
+Procedure:
+1. Arrange the conductivity apparatus as shown in Figure 3.4.
+Figure 3.4 Conductivity of electrolytic solution.
+2. Pour some distilled water in the beaker, dip the electrodes into the water and
+turn the switch on.
+3. Repeat the experiment with separate solutions of table salt, copper sulphate,
+hydrochloric acid, sodium hydroxide, acetic acid, ammonia and sugar solutions
+(use 1.0 M solutions of each).
++ – Battery
+Switch
+Aqueous solution
+of an electrolyte
+Anode (+) Cathode (–)
+ELECTROCHEMISTRY (UNIT 3)
+167
+Observations and Analysis:
+a Does the bulb glow when the switch is turned on?
+b Solutions of which substances make the bulb glow and not glow, when you
+turn on the switch?
+c Solutions of which substances make the bulb to glow with a:
+i bright light?
+ii dim light?
+d Classify the substances used in this experiment as strong conductors, weak
+conductors and non-conductors by completing the table below:
+Strong conductors Weak conductors Non-conductors
+e Which substances in the experiment are used as:
+i strong electrolytes ii weak electrolytes
+Write a laboratory report on what you have observed and submit to your teacher.
+Exercise 3.1
+1. Explain the difference between i) metallic and electrolytic conductivity ii)
+electrolyte and non-electrolyte.
+2. Why do NaCl and CaCl2 conduct electricity when they are dissolved in water
+or when they are in the molten form, but not in the solid state?
+3. Why are solutions of strong electrolytes better conductors of electricity than
+weak electrolytes?
+The substances that do not transmit electricity either in solution or in a molten state are
+called non-electrolytes. Ionic compounds are non-conductors of electricity in the solid
+state. This is because their ions are held at fixed positions and cannot move. Other
+examples of non-electrolytes include sugar, ethanol, oil, benzene, and liquid nitrogen.
+3.3 ELECTROLYSIS
+Competencies
+After completing this section, you will be able to:
+• define the term electrolysis;
+• define the terms electrode, anode, cathode, electrolyte, anion and cation;
+CHEMISTRY GRADE 10
+168
+• describe an electrolytic cell;
+• draw and label a diagram of an electrolytic cell;
+• define the terms half-cell reaction and cell reaction;
+• write the oxidation half-reaction, reduction half-reaction and cell reaction for the
+electrolysis of molten or fused electrolytes;
+• perform an activity to show the electrolysis of molten electrolytes.
+Give an opinion on the following questions and present your ideas to the class.
+1. How do you identify whether an electrode is a cathode or an anode?
+2. Can you suggest why positive and negative ions are named as cations and anions
+respectively?
+Electrolysis is a process in which electrical energy is used to produce chemical
+changes. This process is carried out in an electrochemical cell known as an
+electrolytic or electrolysis cell. A typical electrolysis cell contains a source of direct
+electric current, an electrolyte and connecting wires that join the source to the
+electrodes.
+Electrodes are strips of metal or graphite that allow electrons to leave or enter the
+electrolytes. They can be chemically active or inert. Active electrodes directly take
+part in reactions. Examples include zinc and magnesium. Inert electrodes do not
+directly take part in chemical reactions. They only serve to transfer electrons.
+Examples include platinum and graphite.
+The electrode connected to the positive terminal of the source is positively charged
+and is called the anode. It is the electrode through which electrons leave the cell. The
+electrode connected to the negative terminal of the source is negatively charged and is
+called the cathode. It is the electrode through which electrons enter the cell.
+During electrolysis, the ions of the electrolyte migrate to the electrodes of the opposite
+charge. The positive ions are attracted to the cathode and are called cations. Since
+the cathode has excess electrons, the cations will discharge by gaining electrons. This
+process of gaining electrons is called reduction. The negative ions are attracted by the
+positive electrode (anode) and are called anions. These ions are discharged by losing
+electrons at the anode. This process of losing electrons is called oxidation.
+Thus, the cathode is the electrode at which reduction occurs and the anode is the
+electrode at which oxidation takes place.
+Activity 3.3
+ELECTROCHEMISTRY (UNIT 3)
+169
+The reaction that takes place at each electrode is known as a half-cell reaction. Oxidation
+half-reactions occur at the anode and reduction half reaction at the cathode. The net
+reaction that takes place in the electrolytic cell is known as a cell reaction. This overall
+reaction is also referred to as an oxidation-reduction reaction or redox reaction. So
+electrolysis is a process in which electric energy is used to bring about an oxidationreduction reaction. It is also defined as the decomposition of an electrolyte, using electricity.
+The process of electrolysis includes electrolyzing aqueous solutions of electrolytes.
+However, at this level, electrolysis of molten electrolytes will be discussed.
+Electrolysis of Molten (Fused) Electrolytes
+When ionic solids melt, they dissociates into positive and negative ions that are not
+held in fixed positions. To understand the chemical reactions that occur during
+electrolysis, consider a hypothetical electrolyte, MX, that dissociate into M+ and X–.
+MX melting
+→ M+ + X–
+During electrolysis, the cations, M+ ions, move toward the cathode, gain one electron
+each and become M atoms. The anions, X– ions, move toward the anode, lose one
+electron and become X atoms. The reaction at each electrode and the entire reaction
+in the electrolytic cell are represented by the following equations.
+Cathode reaction: M+ + 1e– Æ M (Reduction-half reaction)
+Anode reac tion: X–Æ X + 1e– (Oxidation half-reaction)
+Cell reaction: M+ + X– electrolysis
+→ M + X (Oxidation-reduction)
+Figure 3.5 Electrolysis of fused Electrolyte, MX.
+Here, it is very important to realize that the number of electrons gained by the cations
+at the cathode is exactly equal to the number of electrons lost by anions at the anode
+during electrolysis. This is true for any oxidation-reduction (redox) reaction.
+Moreover, oxidation and reduction reactions proceed simultaneously. Reduction and
+oxidation cannot occur separately. Oxidation is always accompanied by reduction and
+there cannot be reduction in the absence of oxidation, and vice versa.
+CHEMISTRY GRADE 10
+170
+ Experiment 3.2
+Electrolysis of Molten (Fused) lead bromide
+Electrolysis of fused lead Bromide (PbBr2 )
+Objectives: To observe substances produced at the electrodes during electrolysis.
+Materials required: Stand and clamp, two graphite electrodes, wires, switch, light
+bulb, test tube (bigger in size), Bunsen burner, lead bromide crystals.
+Precaution: Bromine causes very severe burn on the skin.
+Procedure:
+1. Assemble the materials as shown in Figure 3.6.
+Figure 3.6 Electrolysis of Fused Lead Bromide.
+2. Place small amount of lead bromide crystals in a beaker. Insert the two
+electrodes, as shown in Figure 3.6, until they are in contact with the lead
+bromide crystals. Then turn on the switch. Does the bulb glow?
+3. Heat the lead bromide in a beaker gently, using a Bunsen burner. When the
+lead bromide melts, turn on the switch.
+Observations and Analysis:
+1. Does the bulb glow? If yes, what is the reason?
+2. Write the dissociation reaction for PbBr2.
+3. Identify the ions which migrate to the respective electrodes.
+4. Write the products formed at each electrode.
+5. Identify the half reactions as oxidation and reduction.
+Write a laboratory report on your observation and present to the class.
+Molten lead
+Bromine gas
+Molten lead
+bromide
++ –
+Switch
+Bulb
+ELECTROCHEMISTRY (UNIT 3)
+171
+Exercise 3.2
+Consider the electrolysis of KI and NaCl
+a Identify ions which migrate towards the anode.
+b Identify ions which migrate towards the cathode.
+c Write down the half-reactions at the anode and cathode and cell reactions.
+d Write the substances produced at the electrodes.
+3.4 GALVANIC (VOLTAIC) CELLS
+Competencies
+After completing this section, you will be able to:
+• construct a simple galvanic cell, using strips of zinc, copper, ZnSO4 and CuSO4
+solutions;
+• mention different types of voltaic cells;
+• describe how voltaic cells can be used to make commercially useful batteries;
+• distinguish between voltaic cell and an electrolytic cell;
+• describe voltaic cells.
+Discuss the following and present your ideas to the class:
+1. Have you seen the expiry date written on dry cells? Can we get the expected amount
+of electric energy after the expiry date of the cell; why?
+2. Do we throw away car batteries when they fail to generate electricity? Explain.
+3. Galvanic cells available in the market have positive and negative terminals. Does this
+show that they also possess an anode and cathode?
+In the previous section, electrolytic cells were defined as electrochemical cells in which
+electricity was used to bring about chemical reactions. The chemical reaction in an
+electrolytic cell is caused by electricity and is a non-spontaneous redox reaction. This
+means the reaction can proceed only in the presence of electricity. If we stop passing
+electricity through the electrolyte, the reaction will stop.
+In a Galvanic cell, the reaction that occurs inside the cell is a spontaneous redox
+reaction. The reaction that occurs inside the cell will proceed on its own without any
+Activity 3.4
+CHEMISTRY GRADE 10
+172
+external influence. This reaction enables a galvanic cell to generate electricity.
+Therefore, Galvanic cells are electrochemical cells in which spontaneous redox
+reactions generate electricity. They convert chemical energy into electrical energy.
+Galvanic or voltaic cells are classified into primary cells, secondary cells, and fuel
+cells. For this level, only primary and secondary cells will be discussed.
+Primary Cells
+Primary galvanic cells are those cells that are not rechargeable. This is because the
+electrode reaction as well as the entire cell reaction cannot be reversed on recharging.
+Once the chemicals in the cells that serve as reactants are completely used up, it is
+not possible to recover them by charging the cells. Examples of primary cells include
+Daniel’s cell and zinc-carbon (Leclanche) dry cells. The common feature of all
+Galvanic cells is that they contain two electrodes in contact with an electrolyte. The
+electrolyte in a Galvanic cell can be in the form of a solution or a paste. The cells
+containing electrolytes in the form of solution are called wet cells, and those containing
+electrolytes in the form of paste are called dry cells.
+An example of a wet primary cell is the Daniell cell. It consists of a zinc strip placed
+in ZnSO4 solution in one compartment and a copper strip placed in copper sulphate,
+CuSO4, solution in another compartment. Each compartment is called a half-cell, and
+the reactions occurring in each compartment are called half-cell reactions. The
+solutions in the two compartments are linked by a salt bridge as shown in Figure 3.7.
+The salt bridge consists of a delivery tube filled with warm mixture of conc. KCl
+solution and agar solution, which is then allowed to cool so that it sets in the form of
+a gel.
+Alternately, a porous barrier is used to separate the solutions. The zinc atoms from the
+zinc electrode lose two electrons each and become zinc ions, Zn2+. The ions enter
+into the solution, and the electrons remain on the electrode and flow through the
+external wire to the copper electrode. This situation causes the zinc electrode to be
+negative and the solution to have an overall positive charge.
+On the other hand, in the compartment containing the copper electrode, copper ions,
+Cu2+, from the solution move to the cathode and gain two electrons each, to become
+copper atoms and deposit on the surface of the copper electrode. This condition
+causes the electrode to be positive and the solution to have a negative charge.
+ELECTROCHEMISTRY (UNIT 3)
+173
+Figure 3.7 The Daniell Cell.
+Note that the anode is the negative electrode and the cathode is the positive electrode
+in galvanic cells, as opposed to the situation in an electrolytic cell. But, it is always
+oxidation that occurs at the anode and reduction at the cathode.
+The half-cell reactions and the cell reaction in Daniell cells are represented as
+Anode reaction: Zn (s) Æ Zn2+ (aq) + 2e–
+Cathode reaction: Cu2+ (aq) + 2e– Æ Cu (s)
+Cell reaction: Zn (s) + Cu2+ (aq) Æ Zn2+ (aq) + Cu (s)
+Due to the oxidation-reduction reaction in the cell, the Daniell cell generates electricity.
+What is the purpose of the salt bridge in Figure 3.7?
+From the preceding discussion, it is clear that the solution in which the zinc electrode
+is placed has an overall positive charge while the solution in the copper compartment
+has a negative charge. Unless the two solutions are neutral, the cell cannot produce
+electricity. Thus, the purpose of the salt bridge is to:
+a maintain electrical neutrality between the two solutions. In this process the anions
+(negative ions) from the salt bridge diffuse into the solution containing the zinc
+electrodes, and the cations (positive ions) diffuse into the solution containing
+the copper electrode to compensate for the excess positive and negative charges,
+respectively;
+Cu + 2e Cu
+Reduction
+2+ –
+Zinc Copper
+Zinc electrode Copper electrode
+CHEMISTRY GRADE 10
+174
+b allow electrical contact between the two solutions;
+c prevent mixing of the electrode solutions.
+Although, wet cells like the Daniell cell can serve as a source of electricity, they are
+not portable since they contain solutions. Due to this practical problem of using wet
+cells, dry cells were developed.
+In a dry cell, a moist electrolyte paste is used instead of solutions. This cell was
+invented by Georges Leclanche, a French chemist.
+A zinc-carbon dry cell, which is also called a Leclanche cell (Figure 3.8) is used in
+devices like portable radios and flashlights. The cell consists of a zinc cup that serves
+as the anode. The zinc cup is filled with a paste of manganese (IV) oxide, zinc
+chloride, ammonium chloride and powdered carbon. A graphite rod, immersed in this
+paste, serves as the cathode.
+Figure 3.8 Zinc-carbon dry cell (Leclanche cell).
+A zinc-carbon dry cell produces electricity as a result of a spontaneous redox
+reaction. Oxidation occurs at the zinc cup.
+Oxidation: Zn (s) Æ Zn2+ (aq) + 2e–
+Reduction takes place at the graphite (carbon) electrode.
+2MnO2 (s) + 2NH+
+4 (aq) + 2e– Æ Mn2O3 (s) + 2NH3 (aq) + H2O (l)
+A build up of ammonia gas around the cathode may disrupt the current. However, this
+is prevented by the reaction between Zn2+ and NH3 to form a complex ion,
+[Zn(NH3)
+2]
+2+ which crystallizes as a chloride salt.
+Zn2+ (aq) + 2NH3 (g) + 2Cl– (aq) Æ Zn(NH3)2 Cl2 (s)
+ELECTROCHEMISTRY (UNIT 3)
+175
+The overall reaction occurring in a Leclanche cell is:
+Zn (s) + 2MnO2 (s) + 2NH4Cl (aq) Æ Zn(NH3)
+2Cl2 (s) + Mn2O3 (s) + H2O (l)
+There are other examples of dry cells, such as the alkaline dry cell, silver oxide cell,
+and copper oxide cell.
+Exercise 3.3
+1. In a Daniell cell, copper and zinc are used as electrodes. Which metal serves
+as an anode and which one as a cathode? Is the anode the positive or the
+negative terminal in this cell?
+2. Which electrode is negative and which one is positive in the Leclanche cell? Is
+the polarity of the electrodes in Galvanic cells similar to that of the electrodes
+in electrolytic cells?
+3. Why do we refer to the redox reactions in electrolytic and voltaic cells as nonspontaneous and spontaneous, respectively?
+ Experiment 3.3
+Constructing Simple Galvanic Cells
+Objectives: To design and construct a simple Galvanic cell.
+Materials required: 1.0 M solutions of ZnSO4, 1.0 M solutions of CuSO4,
+concentrated KCl solution, zinc and copper strips, electric wires, beakers, a
+salt bridge, a tomato or lemon, magnesium ribbon, zinc, iron and aluminium
+metals.
+Procedure:
+1. Put about 150 mL of 1.0 M ZnSO4 solution in one beaker and the same
+amount of 1.0 M CuSO4 solution in another beaker. Immerse a zinc strip in
+the beaker containing the ZnSO4 solution, and immerse a copper strip in the
+copper sulphate solution. Attach electric wires to the electrodes and a voltmeter
+as shown in Figure 3.7. Connect the solutions in the two beakers by yarn
+(thread used in kerosene stoves). Soak the yarn in concentrated KCl solution.
+2. Insert a magnesium ribbon and a copper strip into a raw tomato or lemon.
+The two metals should be at least 0.5 cm apart and should not touch each
+other. Attach magnesium and copper strips to the negative and positive ends of
+a voltmeter, respectively, using electric wires.
+CHEMISTRY GRADE 10
+176
+3. Repeat the same procedure using metals like Fe, Al, Zn in place of Magnesium
+and see which of the metals gives the greatest voltage and which one the least.
+Observations and Analysis:
+A For the cell in procedure 1
+1. What do you observe at each electrode in this cell?
+2. What is the direction of electron flow in the external circuit?
+3. Which metal serves as the a) anode b) cathode
+4. At which electrode does a) oxidation b) reduction occur?
+5. Write the a) anode b) cathode and c) cell reaction
+B For the cell in procedure 2
+1. Do you observe deflection of the pointer in the volt meter?
+2. Which of the metals has the greatest voltage and which one the least when
+coupled with copper?
+3. Is there any relationship between the voltage produced and the reactivity of
+the metals?
+Write a laboratory report and submit to your teacher.
+Secondary Cells
+Unlike primary cells, secondary cells are rechargeable. The electrode reactions can be
+reversed, and the original reactants can be regenerated. This can be achieved by passing
+a direct current through the cell. The process is called charging or recharging.
+A secondary cell needs to be recharged when it stops producing electricity. A lead
+storage battery is an example of a secondary cell.
+A lead Storage Battery is the common automobile battery that usually delivers either 6
+or 12 volts, depending on the number of cells used in its construction. The inside of
+the battery consists of galvanic cells connected in series. A fully-charged lead-acid cell
+is made up of a stack of alternating lead and lead (IV) oxide plates isolated from each
+other by porous separators. The individual cells contain a number of lead anodes
+connected together, plus a number of cathodes composed of PbO2, also joined
+together. These electrodes are immersed in 35% sulphuric acid, which serves as an
+electrolyte.
+A single lead-storage cell delivers 2 volts. Therefore, a 12 V battery contains six cells
+connected in series.
+ELECTROCHEMISTRY (UNIT 3)
+177
+Figure 3.9 Lead - Storage Battery.
+When a lead-storage battery is in operation (on discharge), the following reactions
+occur at the electrodes:
+Anode reactions: Pb (s) + SO2–
+4 (aq) Æ PbSO4 (s) + 2e–
+Cathode reactions: PbO2 (s) + 4H+ (aq) + SO2–
+4 (aq) + 2e– Æ PbSO4 (s) + 2H2O (l)
+and the overall reaction is:
+Pb (s) + PbO2 (s) + 4H+ (aq) 2SO2–
+4 (aq) Æ 2PbSO4 (s) + 2H2O (l)
+From the electrode reactions it can be noticed that PbSO4 is produced at both
+electrodes.
+Unlike primary cells a lead-storage battery is rechargeable when the battery runs
+down. The electrode reactions can be reversed by placing a potential across the
+electrodes that is slightly larger than that which the battery can deliver. The reaction
+that takes place on recharging a lead storage battery is given by the following
+equation.
+2PbSO4 (s) + 2H2O (l) Æ Pb (s) + PbO2 (s) + 2H2SO4 (aq)
+What are the differences between voltaic cells and electrolytic cells?
+Compare and contrast between voltaic and electrolytic cells. List the differences between
+voltaic cells and electrolytic cells, and discuss with your classmates.
+Activity 3.5
+CHEMISTRY GRADE 10
+178
+Exercise 3.4
+1. Explain the differences between primary and secondary cells.
+2. What substances are used as the anode, cathode and electrolyte in a lead
+storage battery?
+3. What happens to the concentration of sulphuric acid when a lead storage battery
+is on discharge?
+4. Write the overall reactions taking place in a lead storage battery when it is
+discharging.
+3.5 INDUSTRIAL APPLICATIONS OF ELECTROLYSIS
+Competencies
+After completing this section, you will be able to:
+• describe selected industrial applications of electrolysis;
+1. The copper used for the transmission of electric current is supposed to be 100% pure.
+What happens if the copper is impure?
+2. How many articles in your house are electroplated? Make a list. What is the purpose of
+electroplating?
+Discuss in groups and share your opinions with your classmates.
+Each day, our lives are touched directly or indirectly by the products of electrolysis.
+Electrolysis has important industrial applications. It is used for:
+a) The production of chemicals like sodium hydroxide, from
+electrolysis of brine (concentrated NaCl solution), using
+inert electrodes.
+The reactions that take place at the electrodes (when graphite electrodes are used)
+are as follows:
+Anode reaction: 2Cl– (aq) Æ Cl2 (g) + 2e–
+Cathode reaction: 2H2O (l) + 2e– Æ H2 (g) + 2OH– (aq)
+The overall cell reaction is:
+2NaCl (aq) + 2H2O (l) Æ 2Na+ (aq) + 2OH– (aq) + Cl2 (g) + H2 (g)
+Activity 3.6
+ELECTROCHEMISTRY (UNIT 3)
+179
+b) For the production of metals and non-metals.
+The non-metals like H2
+, Cl2, F2
+ etc are manufactured on an industrial scale by the
+process called electrolysis. The metal aluminium is extracted industrially by the Hall
+Process. This process involves the electrolysis of molten alumina (Al2O3
+) mixed with
+some amount of cryolite, Na3
+AlF6
+. The role of cryolite is to reduce the melting point
+of alumina from 2000°C to 1000°C. The vessel holding the molten mixture
+(Figure 3.8) is made up of iron lined with carbon, which serves as the cathode.
+Carbon (graphite) rods that serve as the anode are inserted into the melt. When the
+molten mixture is electrolyzed, pure aluminium is produced. The reactions at the
+electrodes are:
+Anode reaction: ( ) 2– –
+2 6O l 3O (g) + 12e → 
+Cathode reaction: ( ) 3+ – 4Al l + 12e 4Al(l) →
+Overall reaction: 3+ 2– 4Al (l) + 6O (l) 3O (g) + 4Al(l) → 2
+Figure 3.10 Production of Aluminium by Hall Process.
+c) For the Purification of Metals.
+Activity 3.7
+For electrolytic and voltaic cells, the cell reaction is the sum of anode and cathode halfreactions. For electrolytic cell used to purify copper, there is no net (overall) reaction.
+a Explain why this is so.
+b Does this process mean wastage of time, labour and energy? Why? Discuss in groups
+and present your opinion o the rest of the class.
+CHEMISTRY GRADE 10
+180
+Another important application of electrolysis is the purification of metals like copper.
+When first separated from its ore, copper metal is about 99% pure with nickel, silver,
+gold and platinum as major impurities. In the refining process, the impure copper is
+used as the anode, copper metal of high purity used as cathode, and copper sulphate,
+CuSO4 solution and aqueous H2SO4 as the electrolyte.
+When electrolysis is carried out, copper and impurities that are more easily oxidized
+than copper, such as nickel, will go into the solution. Copper passes through the
+solution and deposits on the cathode, while the impurities remain in solution. Impurities
+like silver and gold are less easily oxidized and do not dissolve but fall away from the
+anode as ‘sludge’. The electrode reaction in the purification of copper is the following:
+Anode reaction: 2 Cu (s) Cu (aq) 2e → + + −
+Cathode reaction: 2 Cu (aq) 2e Cu (s) + − + →
+During the process, the size of the impure copper anode decreases and that of the
+pure copper cathode increases.
+Figure 3.11 Purification of Copper by Electrolysis.
+Always remember that, in the purification of metals by electrolysis, the impure metal
+should be used as the anode, the pure form of the metal as the cathode and an
+electrolyte should contain soluble salt (ions) of the metal to be purified. The process
+of purifying metals by electrolysis is called electrorefining.
+ELECTROCHEMISTRY (UNIT 3)
+181
+d) Electroplating
+Activity 3.8
+When zinc electrode is dipped in copper sulphate solution, part of the electrode in the
+solution will be covered with a reddish brown layer of copper. Can this process be
+considered as electroplating? Explain. Discuss in groups and present your opinion to the
+class.
+What is the purpose of electroplating?
+Electroplating is a process of covering the surface of a metal (metal article) with a
+thin layer of another metal. Using this process, metals that easily corrode can be
+protected by a thin coating of another metal that resists corrosion. For example, tin
+cans are steel cans with a thin coating of tin, and chrome-plated bumpers are used for
+automobiles. Thus, the main objective of electroplating is to protect an article from
+corrosion and to give articles a beautiful appearance. In the process of electroplating,
+the pure plating metal should be used as the anode, the article (metal) to be plated
+the as cathode and a solution containing ions of the plating metal as the electrolyte.
+For example, to produce a silver-plated copper article, say, a medal, one should
+use silver as the anode, the copper medal as the cathode and silver nitrate solution as
+the electrolyte (Figure 3.12).
+Silver (Anode) Copper medal
+(Cathode)
+AgNO3 solution
+D.C. source
+Figure 3.12 Electroplating Copper medal with Silver.
+The reactions that occur at the electrodes during electroplating are:
+Anode reaction: + Ag (s) Ag (aq) + 1e− →
+Cathode reaction: + – Ag (aq) + 1e Ag (s) →
+CHEMISTRY GRADE 10
+182
+Unit Summary
+• Electrochemistry is a field of chemistry that studies how chemical reactions
+produce electricity and how electricity is used to bring about chemical
+reactions in electrochemical cells.
+• Electrochemistry deals with the relationship that exists between chemical
+energy and electrical energy.
+• Electrochemical cells include electrolytic cells and Galvanic (voltaic) cells.
+• Electrical conductivity is the ability of substances to conduct electricity.
+• Metallic conductivity is the flow of electricity through metals, and the
+conduction of electricity through metals is due to the presence of freely
+moving (delocalized) valence electrons.
+• Electrolytes are substances that conduct electricity, either in an aqueous
+solution or in a molten state.
+• The conduction of electricity through electrolytes is due to the movement
+of anions and cations towards electrodes of opposite charge, and the chargecarriers in electrolytic conduction are ions.
+• Electrolysis is a process in which electricity is used to bring about an
+oxidation- reduction reaction in an electrolytic cell.
+• Electrolysis is also the process of decomposition of an electrolyte, using
+electrical energy.
+Check list
+Key terms of the unit
+• anode
+• cathode
+• conductivity apparatus
+• Daniel cell
+• electrical conductivity
+• electrochemical cell
+• electrochemistry
+• electrode
+• electrolysis
+• electrolyte
+• electrolytic cell
+• electroplating
+• electrorefining
+• half - cell
+• half - reaction
+• hall process
+• primary cell
+• salt bridge
+• secondary cell
+• voltaic (galvanic) cell
+ELECTROCHEMISTRY (UNIT 3)
+183
+• Electrodes are either metal strips or graphite rods.
+• An anode is the electrode attached to the positive terminal of a direct
+current source, at which oxidation (loss of electrons) by anions occurs, and
+electrons leave the cell.
+• A cathode is the electrode attached to the negative terminal of a dc source,
+the negative electrode at which reduction (gain of electrons) of cations
+occurs and electrons enter the cell (electric current enters the electrolyte).
+• During electrolysis, anions move to the anode and cations move to the
+cathode.
+• The reaction taking place at each electrode (cathode or anode) is said to
+be a half-cell reaction.
+• Cell reaction is the reaction that takes place in the entire cell.
+• Voltaic (Galvanic) cells are electrochemical cells in which a spontaneous
+redox reaction generates electricity. They convert chemical energy into
+electrical energy.
+• Primary cells are voltaic cells that are not rechargeable, and the reactions
+taking place in them are irreversible.
+• Secondary cells are voltaic cells that are rechargeable since the reactions
+taking place in them are reversible.
+• Unlike electrolytic cells, the anode is negative and the cathode is positive
+in voltaic cells.
+• Electrolysis has important industrial applications such as in the production
+of chemicals like NaOH, in the production of non-metals like Cl2 and H2,
+metals like Na, Al and in purification of metals and electroplating

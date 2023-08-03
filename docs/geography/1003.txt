@@ -1,0 +1,2307 @@
+In the previous unit, you have learnt about the physical environment such as 
+structure, geological events and components of the earth’s environment. This unit 
+deals with population of the world and Ethiopia. You will learn about their size 
+and trend of population growth, dynamics of population structure and spatial 
+distribution of population, urbanization, and population policy of Ethiopia. 
+3.1 SIZE AND TREND OF WORLD POPULATION 
+GROWTH
+At the end of this section, you will be able to: 
+Þ Compare population size of the world on continental bases; 
+Þ Identify three leading populous countries in each continent; 
+Þ Describe population growth trends of the world to show doubling time; 
+Þ Compare the population trend between Africa and Europe. 
+Key Terms
+³ size of population 
+³ doubling time of population
+³ growth rate of populations 
+³ population explosion
+³ trend of population growth 
+What factors have contributed to the growth of world population since 5000 BC, 
+about 7000 years ago? 
+For most of our history, human populations have been small, compared to those of 
+other species. Studies of hunting and gathering societies (before 5000 BC) suggest 
+that total world population was probably only a few million people. A major 
+change occurred about 10,000 years ago, when humans began to domesticate 
+animals. This advance led to increased food supplies, which allowed the human 
+population to grow, reaching perhaps 50 million people by 5000 B.C. (See 
+Table 3.1). 
+However, for thousands of years, the human population increased very slowly, 
+and it took more than 1,500 years to reach the 500 million mark. Growth was not 
+steady, but was marked by great fluctuations dictated by climate, food supply, 
+disease and war. 
+Unit 3: World Population 125
+3.1 SIZE AND TREND OF WORLD POPULATION GROWTH 3.1 SIZE AND TREND OF WORLD POPULATION GROWTH
+Table 3.1: World population growth and doubling time 
+Date Population (millions) Doubling time (years) 
+5000 B.C 50 -
+800 B.C 100 4,200
+200 B.C 200 600
+1200 A.D 400 1,400
+1700 A.D 800 500
+1900 A.D 1,600 200
+1965 A.D 3,200 65
+1990 A.D 5,300 38
+2020 A.D (estimate) 8,230 55
+Source: Cunningham and Saigo, 1996 
+Activity 3.1
+In your geography workgroup of three to five students, discuss the following questions.
+With the help of Table 3.1 and Figure 3.1, briefly describe changes in world population 
+size and growth trends over time. Consider the following important points during 
+your discussion:
+a The 17th century and onwards has been a period of advancement of science 
+and technology. 
+b Since about 1950, we have had moderate medicine costs, high-yield varieties 
+of seeds, improvements in transport facilities, great declines in death rates, 
+increased life expectancy, and so forth. 
+BC 7000 – 6000 AD 1
+1000
+1650 1750
+Year
+World population (millions)
+1850 1950 2050
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Figure 3.1: World population growth 
+Grade 10 Geography 126
+3.1 SIZE AND TREND OF WORLD POPULATION GROWTH
+Both Table 3.1 and Figure 3.1 show that, by 1900, world population had reached 
+1.60 billion, and by 1960 it stood at 3.04 billion. 
+The United Nations estimated that world population reached 6 billion with an 
+annual growth rate of 1.5% by 2000 A.D. The number added to world population 
+per year would increase from 80 million to 90 million if the growth rate of 1.5% 
+continues, and world population would double in a period of 40-50 years from 
+about 2000 A.D. Such rapid and dramatic growth rate of the world population is 
+known as population explosion. 
+Focus
+How do you calculate population doubling time? 
+Population doubling time is the time taken, in years, for a population of a 
+given region or country to double at a given rate of population growth. It 
+can be calculated using the following formula: 
+Population growth rate determines the time required for a population to double. 
+The lower the growth rate, the longer is the doubling time, and the higher the 
+growth rate, the shorter is the doubling time (Table 3.2). 
+Table 3.2: World population size growth rate and doubling time
+Region 
+Population 
+(millions) 
+2010 
+Annual growth 
+rate in % 
+1975 - 2009
+Doubling 
+time (year) 
+1975 - 2010
+World 6,909 1.53 46
+Asia 4167 1.62 43
+Africa 1033 2.59 27
+Europe 733 0.23 304
+L.America 589 1.73 41
+N.America 352 1.07 65
+Oceania 36 1.49 47
+Source: World Population Prospects, UN, New York, 2009. 
+Doubling Time = 
+70
+Growth Rate
+Unit 3: World Population 127
+3.1 SIZE AND TREND OF WORLD POPULATION GROWTH 3.1 SIZE AND TREND OF WORLD POPULATION GROWTH
+Activity 3.2
+Answer the following questions, based on Table 3.2 and Figure 3.1.
+1 Identify the two continents whose population growth rates differ the most.
+2 Why do you think that Africa experiences the shortest doubling time in the 
+world? 
+3 Briefly discuss the consequences of any rapid population growth you have 
+observed in your locality. What measures do you suggest to correct the 
+situation? 
+4 Why is the beginning of the 20th century taken as a turning point in the history 
+of world population? (Refer to Table 3.1 and Figure 3.1.) 
+As it is shown in Table 3.2, Europe and Africa have shown very contrasting 
+doubling times. The doubling times of the former and the later are 304 years and 
+27 years, respectively. This implied that even among the developing regions, 
+Africa has the fastest population growth rate in the world. 
+Generally, nations are considered to be less developed if they have a lower 
+standard of living than the developed nations. A large share of the population in 
+these less developing countries live at subsistence levels, and medical resources 
+Less developed regions
+More developed regions
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Year
+1950 1970 1990 2010 2030 2050
+Billions
+2010 2050
+Country Population 
+(million) Country Population 
+(million)
+China 1338 China 1747
+India 1189 India 1437
+USA 310 USA 420
+Indonesia 236 Indonesia 297
+Brazil 193 Brazil 295
+Pakistan 185 Pakistan 282
+Bangladesh 164 Bangladesh 260
+Nigeria 158 Nigeria 231
+Russia 142 Russia 187
+Japan 128 Japan 150
+Ethiopia 85 Ethiopia 173
+Egypt 80.5 Egypt 138
+UK 62 UK 77
+Germany 82 Germany 72
+Colombia 46 Colombia 61
+Mexico 111 Mexico 129
+Canada 34 Canada 48
+Australia 22.4 Australia 34
+Source: 2010 Population Reference Bureau
+Table 3.3: The world’s populous countries 
+in each continent 
+Figure 3.2: Population growth 
+in more and less developed 
+countries, 1950 – 2050
+Grade 10 Geography 128
+3.1 SIZE AND TREND OF WORLD POPULATION GROWTH
+are limited. However, population growth in less developed nations occurs at a 
+much faster rate than in the developed nations. 
+As of 2000, 1.2 billion people lived in the developed nations of the world, and 4.9 
+billion people lived in the less developed countries. By region, over half the world’s 
+population was in East and South Asia: China, with 1.3 billion inhabitants, India 
+with 1.1 billion, and Indonesia with 0.23 billion were the dominant contributors. 
+Europe and the countries of the former USSR contained 14% of the world 
+population, North and South America made up 14%, Africa had 13%, Asia 58% 
+and the Pacific islands had about 1% (see Figure 3.3 and Table 3.4). 
+Table 3.4: Percentage distribution of population, over years, by continents 
+Continents 1750 1800 1850 1900 1950 2000 2050
+Africa 13.4 10.9 8.8 8.1 8.9 13.1 20.3
+Asia 63.5 64.9 64.1 57.4 56.2 60.7 59.0
+Europe 20.6 20.8 21.9 24.7 21.4 12.0 7.1
+L. America 2.0 2.5 3.0 4.5 6.5 8.6 5.3
+N. America 0.3 0.7 2.1 5.0 8.6 7.9 7.9
+Oceania 0.3 0.2 0.2 0.4 0.5 0.5 0.5
+Source: Microsoft (R) Encarta ® 2006. (C) 1993-2005 Microsoft corporation. 
+The nations currently defined as developed represented 20% of the world 
+population in 2000. This percent is expected to fall to 15% by 2050. Nine out of 
+every ten persons who are now being added to the world’s population are living 
+in the less developed countries. 
+More specifically, when we compare the population trends of Africa and Europe 
+(see Table 3.4), Africa’s population has increased since 1900. It had added 
+Figure 3.3: Population, by country
+SOUTH 
+AMERICA
+NORTH 
+AMERICA
+AFRICA
+EUROPE
+ASIA
+C.I.S.
+OCEANIA
+Number of people
+China
+Russia
+Japan
+Bangladesh
+Indonesia
+India
+Vietnam
+Thailand
+Egypt Pakistan
+Germany
+France
+Italy
+Nigeria
+United States
+Mexico
+Brazil
+Ang
+Arg
+C
+R
+C
+J
+H DR PR
+Eth
+Som
+Ken
+Sud
+Ug
+B
+T
+Zim M
+Moz Mad
+S
+Mal
+B
+C
+L
+B
+M
+M
+Li
+Tk Tj Kg
+Alg Nep
+G
+A
+HK
+Taj
+SL
+Ch
+B
+P E
+Cal
+N
+H
+G
+ES
+P U
+SA
+Zam
+Ukraine
+Pal
+P SP
+Mor Aug T L
+N
+T
+IC Ga B
+M BF
+Cr
+Y
+Y
+Sa
+Sy
+I
+L J
+A
+A
+H R
+B
+G
+Turkey
+Zaire Philippines
+United 
+Kingdom
+Can
+N
+N
+D
+S
+S
+E
+B
+South
+Korea
+Iran
+Iraq
+50 million
+10 million
+1 million
+Cr S
+S
+G
+SL
+L
+Aus
+P
+Unit 3: World Population 129
+3.1 SIZE AND TREND OF WORLD POPULATION GROWTH 3.2 COMPONENTS OF POPULATION CHANGE 
+about 5.0% of the world population between 1950 and 2000. This is expected to 
+increase to 20.3% by 2050. Whereas, the population of Europe has shown a trend 
+of decline by 12.7% in the same period. 
+Activity 3.3
+Work out the following questions in your group. 
+1 Look at Figure 3.3. Describe the differences in population growth and projected 
+growth, between 1950 and 2050, in the developed and developing countries. 
+2 Based on Figure 3.3 and Table 3.3, identify the three most populous countries 
+of each continent. 
+3 Draw a map of the world, identifying these countries on it. 
+3.2 COMPONENTS OF POPULATION CHANGE 
+At the end of this section, you will be able to: 
+Þ Describe components of population change; 
+Þ Compute natural increase rate of the population. 
+Key Terms 
+³ fertility
+³ mortality
+³ emigration
+³ infant mortality rate
+³ cohort 
+³ migration
+³ immigration 
+³ population change 
+³ total fertility rate
+What are the components of population change? How do the components 
+affect population structure and population size? 
+A change in the overall size of a population is the result of the collective effects of 
+changes in fertility, mortality and migration. The three factors are collectively 
+known as population-change dynamics or determinants or components. Fertility 
+and mortality are biological factors, while migration is purely non-biological. 
+The combined effect of the three factors controls the changes in population size 
+and composition. Their influence is shown in Figure 3.4.
+Grade 10 Geography 130
+3.2 COMPONENTS OF POPULATION CHANGE 
+What do the plus and minus signs imply in the above figure? 
+As you can see from Figure 3.4, the population size of a particular area is the 
+result of collective effects of birth, death and migration (here, “migration” is the 
+net balance of immigration and emigration). Immigration and birth are positive 
+factors, which tend to increase population size, while emigration and death are 
+negative factors that reduce population size. 
+Fertility 
+What is fertility? What factors affect the fertility of a society? How can the 
+fertility of a society be measured? 
+The study of human fertility occupies a central position in the study of population 
+because it is responsible for biological replacement and maintenance of the 
+population of the human race. The growth of world population depends largely 
+on human fertility. This is so because any society replenishes itself through the 
+process of human fertility. Thus, in population dynamics, fertility is a force of 
+expansion of population by counteracting the force of attrition caused by mortality. 
+Fertility is the actual occurrence of live births in a given population; it is 
+the beginning of life. Specifically, fertility refers to the actual reproductive 
+performance of a population.
+Population 
+Change 
+Births Immigration
+Deaths Emigration
+Natural
+Change
+Migration
+Change
+Population Gain
+Population loss
++
++ +
+Figure 3.4: Components of population change
+Unit 3: World Population 131
+3.2 COMPONENTS OF POPULATION CHANGE 3.2 COMPONENTS OF POPULATION CHANGE 
+Measures of fertility. Fertility can be determined using different methods, but it 
+is measured most commonly in terms of: 
+Â Crude Birth Rate (CBR), 
+Â General Fertility Rate (GFR) and 
+Â Total Fertility Rate (TFR). 
+a Crude Birth Rate (CBR): is the most common and simplest index of 
+fertility. It is simply the number of live births observed in one year among 
+one thousand people in a given region. It can be expressed as a number of 
+live births per thousand people.
+where B is the total number of live births during a 
+year, P is mid-year total population and k is a constant, 
+conventionally 1000. 
+Example 
+If the number of live births in a population of 70,686,000 was 270,300, 
+the crude birth rate is: 
+This measure is simple to compute, but it is crude because its denominator includes 
+all persons, regardless of their contribution to fertility (birth). For example all 
+unmarried persons, including children, are included. This is the weakness of the 
+CBR as a measure of fertility. 
+b General Fertility Rate (GFR): The easiest method of refining the weakness 
+of CBR is by expressing live births, not in terms of total population, but 
+as a percentage of the number of adults or, even better, of the number of 
+women of reproductive age (typically defined as between the ages of 15 
+and 49). GFR measures the number of live births in a year per thousand 
+women of reproductive age. It is calculated: 
+where B is the total number of live births during a year, 
+P1
+ is mid-year population of women between 15 and 49 
+years age and k is a constant, conventionally 1000.
+CBR
+P
+ = 
+B k×
+CBR b = × = irths per per year
+270 300
+70 686 000
+1 000 3 8 1 000 ,
+, , , . , .
+GFR
+P
+ = 
+B k
+1
+×
+Grade 10 Geography 132
+3.2 COMPONENTS OF POPULATION CHANGE 
+Fertility rates differ greatly among continents, regions and countries. Generally, 
+fertility rate is much higher in developing countries than in the developed regions. 
+Let us consider the following example.
+Example 
+The estimated mid-year population of a given country in 2000 was 
+50,000,000, of which women in their reproductive ages constituted onefifth. In the course of the year, there were 500,000 live births. Calculate 
+the general fertility rate of this population. 
+Given:
+ Number of live births = 500,000
+Number of women in their reproductive age was one-fifth of total 
+population = (1/5) × 50,000,000 = 10,000,000
+Then, GFR = (500,000/10,000,000) × 1000 = 50 per 1000. This shows that 
+50 children were born for every 1000 women in their reproductive years. 
+Activity 3.4
+Calculate the following: 
+1 The number of live births for place “A” was 8400, and its mid year population 
+was 240,000, find CBR.
+2 The number of deaths for place “B” was 170,300, and its mid year population 
+was 10,296,000. Calculate CDR.
+3 The estimated mid-year population of a given country in 2000 was 100,000,000, 
+of which women in their reproductive ages constituted 25%. In the course of 
+the year, there were 600,000 live births. Find the general fertility rate of the 
+population. 
+What problem of GFR have you noticed from the above example? Explain to 
+the class. 
+GFR’s drawback is that it does not account for differences in age groups. Each 
+age group is not equally fertile. That is, the child-bearing rate is appreciably 
+higher in the age group of 20-29 than in the 15-19 and 30-49 age groups. 
+Unit 3: World Population 133
+3.2 COMPONENTS OF POPULATION CHANGE 3.2 COMPONENTS OF POPULATION CHANGE 
+c Total Fertility Rate (TFR):
+What makes TFR different from the other measures of fertility? How do you 
+calculate it?
+TFR is the average number of children that would be born alive to a woman during 
+her lifetime if she were to pass through all her child-bearing years. This happens 
+if the group under question passed through its reproductive span of life with these 
+birth rates in each year of age. It is generally known as an effective summary 
+rate for describing the frequency of child bearing in a year. More importantly, 
+TFR is useful when comparison is made, for it is standardized for age and is a 
+single summary measure. It is helpful for comparing the fertility performance of 
+different populations or social groups. 
+TFR is the sum of the age-specific birth rates (5-year age groups between 15 
+and 49) for female residents of a specific geographic area (example: country, 
+kelil, zone, kefle-ketema, woreda kebele, etc.) during a specified time period 
+(usually a calendar year) multiplied by 5. This rate estimates the number of 
+children a hypothetical cohort (person of same age group) of 1000 females in 
+the specified population would bear if they all went through their childbearing 
+years experiencing the same age-specific birth rates for a specified time period. 
+More importantly, TFR is useful when comparison is made, for it is standardized 
+for age and is a single summary measure. It is helpful for comparing the fertility 
+performance of different populations or social groups. 
+Formula:
+	 (∑ASBR) × 5, where ∑ is summation of, ASBR is each five-year
+age-specidfic birth rate defined as 
+where Bx
+ is the number of live births to mothers of age x and Px
+ is the 
+number of resident women age x. The values or age group represented by 
+Bx
+ 15 - 19, 20 - 24, 25 - 29, 30 - 34, 35 - 39, 40 - 44 and 45+. The values 
+or age groups represented by Px
+ are 15 - 19, 20 - 24, 25 - 29, 30 - 34, 35 - 
+39, 40 - 44 and 45 - 49 years. The sum of these ASBRs is multiplied by 5 
+because each ASBR represents a five-year cohort of women.
+B
+p
+x
+x
+×1 000,
+Grade 10 Geography 134
+3.2 COMPONENTS OF POPULATION CHANGE 
+Example:
+The Total Fertility Rate for a given hypothetical kelil for year 2007:
+Age Group 2007 Births 2007 Female 
+Population
+ASBR
+(Live births per 1000 per 
+ages)
+15 - 19 11,000 179,000 61.5
+20 - 24 20,000 192,000 104.2
+25 - 29 22,000 222,000 99.1
+30 - 34 20,000 213,000 93.9
+35 - 39 10,000 212,000 47.2
+40 -44 2000 210000 9.5
+45 - 49 500 200,000 2.5
+ Total or ∑of ASBR = 417.9
+TFR = 417.9 ×5 = 2089.5 live births per 1000 female kelil residents in 2007 
+who live through their reproductive years. 
+Activity 3.5
+Calculate the TFR based on the data given below. 
+The Total Fertility Rate for a given hypothetical kelil for year 2009:
+Age Group 2009 Births 2009 Female population 
+15 - 19 15,000 195,000
+20 - 24 25,000 213,000
+25 - 29 30,000 232,000
+30 - 34 24,000 221,000
+35 - 39 12,000 215,000
+40 - 44 3000 210,000
+45 - 49 800 200,000
+Unit 3: World Population 135
+3.2 COMPONENTS OF POPULATION CHANGE 3.2 COMPONENTS OF POPULATION CHANGE 
+Focus
+Remember that, although CBR, GFR and TFR are the most common 
+measures of fertility in a community, they are not the only measures. 
+Although the CBR is simple to compute, it is said to be crude because it 
+considers persons of all ages indiscriminately. The GFR refines the CBR, 
+but it has a weakness, in that it regards all females aged 15-49, regardless 
+of differences in their potential birth performances. Note that a woman can 
+bear a child only after the onset of menstruation and can continue to bear 
+children only until she reaches the age of menopause. Statistically, 15 is 
+the age when menstruation begins, and 45-49 is the age span during which 
+menopause occurs. Therefore, on average, women are less likely to bear 
+children before the age of 15 or after the age of 50.
+The number of children born to women in developing countries is much larger 
+than to women in the developed regions (see Figure 3.5 and Table 3.6). 
+Figure 3.5 shows differences regarding birth rate in developing and developed 
+countries. 
+In developing countries, e.g., Ethiopia, 
+birth rates are high because people 
+want and need large families. Also, 
+life expectancy is relatively short due, 
+primarily, to poverty and its effects.
+“
+Developing Countries Developed Countries
+In developed countries, e.g., Japan, birth 
+rates are low, often because people do not 
+want to have many children. They prefer 
+small family sizes. Also, life expectancy 
+is relatively long due, primarily, to 
+comparative wealth and its effects.
+Why a high birth rate? Why a low birth rate? 
+“We need many children: 
+F to help us work on the land 
+and to carry wood and water. 
+F to care for us when we are 
+ill or old and can not work.”
+“Family planning controls the size of 
+our family. 
+F We only wanted two 
+children, and we are sure they 
+will live long lives, free from 
+disease. “ 
+“Children might get a job in the 
+city and send us money. “ 
+“Having a big family increases my 
+importance in the village.” 
+“My religion forbids birth control. “
+“We can afford to spend more 
+money on our car, holidays and 
+entertainment.” 
+I wanted to return to my career 
+and not stay at home.” 
+“We have pensions for when we 
+are old.” 
+Figure 3.5: Differences regarding birth rates (fertility), in 
+developing and developed countries
+Grade 10 Geography 136
+3.2 COMPONENTS OF POPULATION CHANGE 
+Activity 3.6
+Form a group of not more than five and discuss facts outlined in Figure 3.5 and 
+present your answers to questions 1 - 3 to the class and undertake the fourth activity. 
+1 What factors affect fertility in developed countries and in developing countries? 
+2 Give four reasons for each statement.
+i Many families in developing countries are large, with five or more 
+children. 
+ii Many families in developed countries are small, often with not more than 
+two or three children.
+3 How can birth rates be reduced in developing countries? 
+4 Design a poster showing the need for family planning for a small village or a 
+neighbourhood in Ethiopia (your locality). Assume that the community members 
+can read and understand it. 
+Factors of Fertility Distribution 
+Various factors affect fertility distribution in the world including those presented 
+in Table 3.5. 
+Table 3.5: Factors of fertility and their effects 
+ Factors Effects 
+1 Age at marriage: the age 
+at which a person marries 
+influences the number of 
+children one can have.
+Early marriage: more children are born 
+to girls who marry early, because they 
+are exposed to sex for more of their 
+reproductive ages (15-49). They are also 
+exposed to related health problems. 
+2 Status of women: important 
+components of status include 
+access to (or lack of) education, 
+employment, family decision 
+making, etc.
+i Education: Education usually offers 
+women access to information about 
+how to limit family size, increase their 
+marriage ages, use contraception, 
+and so forth.
+ii Employment: Employment usually 
+motivates women to limit family size, 
+partly because they have less time 
+for performing child-care tasks. Also, 
+employment generally increases 
+access to information about how to 
+limit family size. 
+Unit 3: World Population 137
+3.2 COMPONENTS OF POPULATION CHANGE 3.2 COMPONENTS OF POPULATION CHANGE 
+ Factors Effects 
+3 Socio-cultural factors: religion, 
+ethnicity and family structure.
+Religion: the teachings of some religions 
+oppose the use of contraceptive methods. 
+This encourages large family size. 
+Ethnicity: some communities are more 
+biased toward males over females.
+Family structure: Some families need their 
+children to contribute socioeconomically 
+– for example, by working on family farms 
+and by providing their parents with the 
+status of having many children. 
+4 Sex preference (the desire to 
+have children of one sex over 
+the other). 
+When a family wants children of a particular 
+sex (usually male), but produces children of 
+the other sex, they are likely to keep having 
+more children until they achieve their goals. 
+Activity 3.7
+Part I
+Form a group of three to five and discuss fertility conditions in your area. Based on 
+the factors listed in Table 3.5, assess the fertility situation in your specific community. 
+Identify which factor most strongly influences the fertility situation of the community. 
+List the factors, according to their decreasing importance. Cite specific households 
+that are good examples for each factor. Add more effects for each factor. 
+1 Do you think information on family planning is needed for a woman to be able 
+to make an informed choices that affect her fertility situation? Why? 
+2 Are there barriers to accessing information about family planning in your 
+locality? If yes, what are they, and how can they be reduced?
+Part II
+In your geography workgroup, perform these activities: 
+1 Compare and contrast the population demographics of developed and 
+developing countries. Cite some countries from each group to support your 
+opinions.
+2 Discuss relationships between fertility and poverty. Support your opinions with 
+examples from your locality. 
+3 Work with your group to choose a representative to present the group’s 
+opinions to the class.
+Grade 10 Geography 138
+3.2 COMPONENTS OF POPULATION CHANGE 
+How Can Birth Rates be Reduced? 
+The United Nations stated that two basic conditions must be achieved if birth 
+rates are to be controlled. These include 
+F Improved status of women, including their rights to decide between the 
+use of birth control and having children. 
+F Improved educational levels regarding family planning, particularly 
+for women. Also improved access to family-planning supplies.
+A lesser, but still important condition is reduction of poverty and its effects. It 
+was previously believed that high birth rates were a result of poverty. However, 
+in those parts of the world where the status of women has been raised, there have 
+been declines in birth rates even though there have been no obvious reductions in 
+poverty. In all regions of the world, fertility rates are decreasing. However, Africa 
+still has the highest fertility rate in the world. 
+Activity 3.8
+Answer the following questions. 
+1 Why does Africa have the largest fertility rates? Discuss in pairs.
+2 Calculate the crude birth rates for the following two hypothetical regions, A and B: 
+i The number of live births and mid-year population in region A were 
+4,500 and 160,000, respectively.
+ii For region B, the number of live births was 20,500, and mid-year 
+population was 2,500,000.
+3 Work out the general fertility rates (GFR) for two hypothetical regions, F and G. 
+i In region F, the number of newborn children was 73,060 and the number 
+of women aged 15 – 49 years was 826,000. 
+ii In region G, the number of live births was 50,000, and the number of 
+women aged 15 – 49 years was 950,000. 
+Mortality 
+What is mortality? What factors affect mortality? 
+Mortality is the occurrence of death. Mortality rates, though decreasing 
+worldwide, are higher in the developing countries than in the developed ones. 
+This difference is caused by variations in standards of living, nutrition, medical 
+services, personal hygiene and environmental sanitation. 
+Unit 3: World Population 139
+3.2 COMPONENTS OF POPULATION CHANGE 3.2 COMPONENTS OF POPULATION CHANGE 
+Mortality can be measured in a number of ways, including the use of crude death 
+rate and infant mortality rate.
+Measures of Mortality 
+i Crude death rate (CDR): is the ratio of the total registered deaths of a 
+specified year in a region to the total mid-year population, multiplied by 
+1000. It is computed as follows:
+where CDR is crude death rate, D stands for total 
+observed deaths, P is total mid-year population, and k 
+is a constant, 1000.
+Example: 
+In a hypothetical region, the total number of deaths observed in 
+2006 was 60,000, and the total mid-year population was 12,000,000. 
+Therefore, the resulting CDR was: 
+This number indicates that the deaths of 5 persons were observed for each 1000 
+people. 
+What are some of the weaknesses of CDR? Describe them.
+ii Infant mortality rate (IMR): is the number of deaths of infants under the 
+age of one year, per 1000 live births, in a given year. 
+Example: 
+A total of 400,000 babies were born in a certain region in 2010. Of these 
+newborns, 340,000 babies survived their first year of life. Calculate 
+the IMR of this region. 
+Deaths under age one: 400,000 - 340,000 = 60,000 babies 
+Out of 1000 children born in the year 2010, about 150 infants died 
+before celebrating their first year of life.
+CDR = D
+P
+ × k
+CDR = × = 60,000
+12 000 000
+1 000 5/1000 , , ,
+IMR = Number of deaths below the age of 1 year
+Number of live births in the year × 1000
+IMR = × = 60 000
+400 000
+1 000 150/1000 ,
+, ,
+Grade 10 Geography 140
+3.2 COMPONENTS OF POPULATION CHANGE 
+Focus
+Infant mortality rate is a good indicator of the level of development 
+of any country. In countries with better living conditions, for example, 
+countries in Europe, mortality is comparatively low. In contrast, the less 
+developed countries (example, most African countries, including Ethiopia), 
+infant mortality is quite high, due to malnutrition, various diseases and 
+poor environmental sanitation. Life expectancy is the number of years a 
+newborn is expected to live. It tends to increase with standard of living. 
+Activity 3.9
+Based on the following data, answer these questions. 
+Country Total 
+population 
+Total 
+deaths 
+Number of 
+deaths of infants
+Number of newly 
+born children
+A 200,000 9,000 4,200 25,000
+B 480,000 8,000 2,000 28,000
+i Calculate the CDR and IMR for each country. 
+ii Which country has better standard of living? Why?
+Migration 
+Does migration influence population? 
+Migration involves movement of people and thereby influences both the rate 
+of growth and distribution of population just like the other two components of 
+population change. (Formal definitions, types and causes of migration are given in 
+section 3.4.3). The most common measures of migration that can affect population 
+growth of an area include:
+a Immigration Rate: it is the number of people arriving at a destination 
+per 1000 people in a given year. 
+b Emigration Rate: it is the number of departing people from an area 
+of origin per 1000 people of the area of origin in a given year. 
+Immigrant rate = Number of immigrants
+Total population at destination
+ × 1000
+Emigration rate = Number of emigrants
+Total population at origin
+ × 1000
+Unit 3: World Population 141
+3.2 COMPONENTS OF POPULATION CHANGE 3.2 COMPONENTS OF POPULATION CHANGE 
+c Net Migration Rate (NMR): shows the net effect (balance) of 
+immigration and emigration in an area. It can be expressed as an 
+increase or decrease per 1000 people in the area in a given year. 
+ 
+Example
+Suppose the number of emigrants and immigrants of country ‘A’ are 40,000 
+and 250,000 respectively. If the total population is 105 million, what is the 
+NMR for country ‘A’?
+ 
+Measures of Population Change
+In order to calculate the change in the total population size of a particular nation 
+or place one has to use the following formula (see Figure 3.4). 
+i Rate of Natural Increase (RNI): it is the difference between birth 
+and death rates. 
+Hence, it is a naturally caused numerical change of a population 
+which results from the interplay between fertility and mortality. It is 
+expressed as: 
+ RNI = BR – DR
+Example 
+If the birth rate and death rate of a certain country were 50 per thousand and 
+28 per thousand, respectively, what was the rate of natural increase (RNI)? 
+ = 2.2%
+That is, 22 per thousand population or 2.2 per hundred people. 
+ii Population Growth Rate (PGR): in order to find the growth rate of 
+a population, we consider net migration rate and rate of natural 
+increase.
+ PGR = BR – DR ± NMR = RNI ± NMR 
+Example 
+If the RNI of place ‘y’ is 2.2% and the NMR is 2/1000, find the population 
+growth rate for place ‘y’.
+Net i M gration Rate = Number of Immigrants − Number of Emigrants
+Total Population × 1000
+250,000 - 40,000 NMR = × 1000
+105,000,000
+2 = (i.e 2 per thousand population) 1000
+RNI B= – R DR = – = 50
+1 000
+28
+1 000
+22
+, , 1 000 ,
+Grade 10 Geography 142
+3.3 POPULATION STRUCTURE 
+ 
+Activity 3.10
+Calculate the following: 
+1 Supposing the birth rate and death rate of a certain country to be 47 per 
+thousand and 18 per thousand, respectively, calculate the rate of natural 
+increase (RNI). 
+2 If the rate of natural increase of place “A” is 3.1% and the net migration rate is 
+20/1000, find the growth rate of population for place “A”. 
+3 The population of Ethiopia was reported as 53 million and 73 million in 1994 
+and 2007, respectively. What was the annual rate of population growth between 
+the two census periods. Use the formula given below.
+where Po
+ is mid-year population at the beginning of the 
+period, and P1
+ is population at the end of the period and t is 
+the number of years between the two periods. 
+3.3 POPULATION STRUCTURE
+At the end of this section, you will be able to:
+Þ interpret population pyramids of developed and developing countries.
+Key Terms
+³ population structure
+³ average dependency ratio
+³ sex ratio
+³ population pyramid
+³ old age dependency ratio
+³ youth dependency ratio 
+What is population structure? How do population structures differ between 
+developed and developing countries? 
+The structure of a population is the distribution of males and females within 
+different age groups. Sex and age structures are basic characteristics and biological 
+attributes of a population, and they affect demographic as well as socio-economic 
+situations. Data on population age-sex structure is ideally collected through 
+2 2.2 2 22 2 2.2%
+1000 100 1000 1000 1000
+24 20
+1000 1000
+PGR
+PGR or
+= ± = ± = ±
+=
+t p
+p
+1 × 100 1
+o
+− 
+
+ 
+
+
+Unit 3: World Population 143
+3.3 POPULATION STRUCTURE 3.3 POPULATION STRUCTURE 
+census, reflecting a complete population count. A population pyramid, also 
+called age structure diagram, is a graphical illustration. It normally forms the 
+shape of a pyramid and shows the distribution of various age groups of each sex 
+in a human population. 
+It typically consists of two back-to-back bar graphs, with the population plotted 
+on the x-axis and age on the y-axis, one showing the number of males and the 
+other showing females in a particular population of five-year age groups (also 
+called cohorts). Males are conventionally shown on the left and females on the 
+right, and they may be measured in raw numbers or as percentage of the total 
+population (See Figure 3.6).
+Population pyramids are often considered to be the most effective way to 
+graphically depict the age and sex distribution of a population. This is partly 
+because of the very clear image that these pyramids present. 
+Population is divided into age groups of five-year intervals (0-4, 5-9, 10-14, 
+etc.) for each sex. The population of a given country can be further grouped into 
+three categories (segments) of the population consisting of young dependents 
+(0-14), elderly dependents (65+) and the working age groups that are economically 
+active (15-65 years of age). The grouping applies to both males and females of all 
+ages (See Figure 3.6.). 
+A great deal of information about a population, broken down by age and sex, can 
+be read from a population pyramid. For example, it can shed light on the extent 
+of development and other aspects of the population. 
+The proportion of the three age groups varies from region to region and among 
+countries. Most developing countries have a large proportion of their population 
+  
+Male Ethiopia: 2010 Female
+6 5 4 3 2 1 0 1 2 3 4 5 6
+85+
+70-74
+65-69
+60-64
+55-59
+50-54
+45-49
+40-44
+35-39
+30-34
+25-29
+20-24
+15-19
+10-14
+5-9
+0-4
+75-79
+
+a)
+85+
+70-74
+65-69
+60-64
+55-59
+50-54
+45-49
+40-44
+35-39
+30-34
+25-29
+20-24
+15-19
+10-14
+5-9
+0-4
+75-79
+Male Canada: 2010 Female
+2.5 2.0 1.5 1.0 0.5 0.00.0 0.5 1.0 1.5 2.0 2.5
+  
+
+b)
+Figure 3.6: Typical examples of population pyramids of developing (a) and developed 
+(b) countries
+Grade 10 Geography 144
+3.3 POPULATION STRUCTURE 
+in the young age group. But in developed countries, people in the adult and old 
+age group account for the largest proportions of the population. As a result, the 
+shape of the population pyramids of the two groups of countries is not the same 
+(see Figure 3.6).
+Observing different characteristics of a population pyramid can tell you a lot 
+about the population it presents. 
+F Width of the base of the pyramid: birth rate varies with the width 
+of the base. A wide base indicates a high birth rate, and a narrow 
+base indicates a low birth rate. The former is typical of populations of 
+developing countries.
+F Symmetry: statistically speaking, pyramids are relatively 
+symmetrical. Any asymmetry indicates a size difference between males 
+and females.
+F Shape of sides: concave sides indicate a high death rate, and convex 
+sides indicate a low death rate. The population pyramid of Ethiopia 
+exhibits concave sides, indicating a high death rate. 
+Table 3.6: Age distribution of the world population and of selected countries 
+(2010)
+Region Percentage distribution of population, by age 
+Under 15 15 – 64 65 and over 
+World 27 65 8
+Developed regions 17 67 16
+Developing regions 30 64 6
+Africa 41 56 3
+N. America 20 67 13
+L. America 29 64 7
+Asia 26 67 7
+Europe 16 68 16
+Oceania 24 65 11
+Ethiopia 44 53 3
+Uganda 49 48 3
+Sweden 17 65 18
+Afghanistan 44 54 2
+Source: 2010 Population Reference Bureau, http://www.prb.org/pdf10/10wpds eng.pdf. 
+Unit 3: World Population 145
+3.3 POPULATION STRUCTURE 3.3 POPULATION STRUCTURE 
+Sex Structure or Composition 
+What is sex structure? Which sex is dominant in your locality? Why? 
+A population pyramid also tells how many people of each sex live in an area. This 
+statistic is typically defined in terms of what is called sex-ratio (SR), which is a 
+numerical measurement. It is the number of males per 100 females, or otherwise- for 
+example, the number of females per 100 males. Sex ratio is expressed in percentage 
+or ratio form. 
+Where SR is sex ratio which may also be referred to as 
+masculinity ratio Pm stands for the total number of males, 
+and Pf
+ stands for total number of females.
+This is also possible and gives the number of females per 
+100 males. This can be called femininity ratio as well as 
+sex ratio.
+Example: 
+Say total students of a given school was 5000. Out of this 3000 were 
+females. What was sex-ratio of student population? 
+Solution: 
+Dependency Ratio
+What is dependency ratio? Is the dependency ratio of your locality or region 
+high or low? Why? 
+Why do we need to know about dependency ratio? 
+The working age of people varies. Traditionally people worked until they were 
+65 years old. The common trend now is for people to retire closer to 55 years 
+of age. However, for statistical purposes, we recognize people between 15 and 
+65 as the workers of a society. People under 15 and over 65 are considered 
+dependent upon the working population. The age dependency ratio (ADR) of a 
+population indicates how many people are dependent upon every 100 workers.
+SR = P
+P
+ × 100 m
+f
+SR = P
+P
+ × 100 f
+m
+. 100
+2000 100
+3000
+66.7 /100
+m
+f
+P S R
+P
+m f
+= ×
+= ×
+=
+Grade 10 Geography 146
+3.3 POPULATION STRUCTURE 
+Activity 3.11
+By referring to the table below answer the questions that follow: 
+Country Total 
+Population 
+Female 
+population 
+Child Population 
+(%) 
+Old age population (%) 
+x 800,000 500,000 42 8
+y 1,250,000 790,000 20 15
+z 930,000 465,000 50 6
+a Calculate both the sex ratio and the ADR of each country (use SR = pm x 100). 
+b Which country has comparatively better socio-economic development? 
+c Which country shows the greatest dependency ratio? What do you suggest to 
+correct the situation? 
+Focus
+Age-sex structures of the population of different countries vary, depending 
+upon variation in the socio-economic settings and demographic history of 
+the individual countries. This is reflected in the shapes of their population 
+pyramids. There are three classes of population: 
+i Expansive or expanding population pyramids, which have the 
+classic triangular shape with wide base and narrow top, indicating
+a high birth rate and a high death rate.
+ii The sides of stationary or stable population pyramids have a 
+half-ellipse shape, which is a characteristic of a high standard 
+of living due to low birth rate (due to good family planning), 
+financial planning, education, etc. 
+iii Contractive or contracting population pyramids have a narrower 
+base than the reproductive age population. This indicates 
+a decreasing population trend. The low birth rate is indicative of 
+a well-developed country.
+ADR = Young + Elderly
+Adults 100 = (Population 0 14) + × − (Population 65+)
+(Population 15 64) 100 − ×
+Unit 3: World Population 147
+3.3 POPULATION STRUCTURE 3.3 POPULATION STRUCTURE 
+Activity 3.12
+Part I
+Test Yourself. 
+1 What does the vertical axis on population pyramids represent? 
+2 What type of population pyramid is indicative of a developing country? 
+3 What does a narrow base on a population pyramid indicate? 
+4 What type of population is shown in a pyramid that has a triangular shape? 
+5 What type of population pyramid is wider for the reproductive ages than for 
+the prereproductive ages? 
+6 What types of population pyramid are depicted in Figures 3.6 a and b?
+7 Which of the two population pyramids (Figure 3.6 a and b) indicate high birth 
+and death rates? 
+8 On the two pyramids, identify the age intervals of the three population 
+segments: young dependents, economically independent people and elderly 
+dependents. 
+9 Which of the two population pyramids shows a smaller population for the 
+working ages, compared to the two dependent age groups?
+Part II
+In your group answer the following questions. 
+10 Copy the table given below and complete it using information from 
+Figure 3.6. Which of the two countries (Ethiopia or Canada) is represented by 
+each population characteristic that is listed in the first column? Indicate your 
+choice, in one of the two right-hand columns, by drawing a tick (). 
+Population characteristics Ethiopia Canada
+Broad based and narrowing pyramid at the top 
+It has the highest birth rate. 
+It has fastest natural increase of population. 
+Highest infant mortality rate
+Highest % living to middle age 
+Lowest life expectancy. 
+Many people survive beyond the age of 65.
+Highest dependant age group 
+Grade 10 Geography 148
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+11 Write a short report about the population structures of the two countries.
+12 What would happen to the shape of Ethiopia’s population pyramid if there 
+were rapid declines in its birth rate and death rate? 
+3.4 SPATIAL DISTRIBUTION OF WORLD 
+POPULATION
+At the end of this section, you will be able to:
+Þ Discuss the factors affecting spatial distribution of world population;
+Þ Compute crude and agricultural population density; 
+Þ Realize causes and types of human migration; 
+Þ Recognize what urbanization is;
+Þ Compare level of urbanization at continental level; 
+Þ State factors affecting urbanization process. 
+Key Terms 
+³ population cluster
+³ population distribution 
+³ crude population density 
+³ agricultural population density 
+³ population density
+³ urbanization 
+Why is the distribution of world population uneven? 
+What factors have influenced the distribution of world population? 
+The most important characteristic feature of current world-population distribution 
+is its extreme unevenness. It was estimated, some years ago, that one-half of the 
+world's people was contained within about 5% of the earth's land area while, in 
+contrast, about 57% of the land area contained less than 5% of the population. 
+World population distribution, and hence concentration, varies considerably 
+across the earth, among different continents, between individual countries, 
+between developed countries and developing countries, between rim lands 
+and hinterlands, between highlands and lowlands, and between the Northern 
+Hemisphere and the Southern Hemisphere (see Figure 3.7).
+Unit 3: World Population 149
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+3.4.1 Factors of Population Distribution
+Numerous factors have positively and negatively influenced population 
+distribution. The extreme current unevenness in population distribution is due to 
+these factors: 
+F Ecological (physical) factors
+F Socio-economic factors
+F Political factors
+F Demographic factors
+Some factors, for example, favourable climate, fertile soil, adequate water supply, 
+and industrial development positively influence population concentration (See 
+Figure 3.8a). Others, such as unfavourable climate (for example, extremely hot 
+or cold and dry climates), mountainous regions of very rugged topography with 
+poor soils, and inhospitable areas where communication and trade are difficult, 
+discourage large human settlements (see Figure 3.8b). 
+The four population clusters and the sparsely populated regions are found in 
+varying geographical locations, have different population sizes and socioeconomic characteristics. Table 3.7 gives an overview of the various centers of 
+high and low population concentrations, their locations and determining factors.
+Tropic of Cancer
+Equator
+30o 30o 90o 120o
+30o
+30o 30o
+30o
+60o
+60o 60o
+0o 0o
+150o 60o 60o 90o 120o 150o 60o 0o
+Tropic of Capricorn
+One dot represents
+100,000 people
+Atlantic
+Ocean
+Indian
+Ocean
+Paciic Ocean
+Paciic Ocean
+Figure 3.7: Dot map showing world-population 
+distribution, 2000 (Source: Maps.com)
+Grade 10 Geography 150
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Table 3.7: Overview of the major densely and sparsely populated areas of the 
+world
+Population 
+distribution Regions or areas 
+Distribution factors
+Ecological Socio-economic
+Areas of very 
+high population 
+concentration
+Asiatic population belt (supports more 
+than 60% of world population). 
+F East Asia-China, Japan and Korean 
+Peninsula (supports 25% of world 
+population).
+F South Asia - India, Pakistan, 
+Bangladesh, Myanmar (Burma) and 
+Sri Lanka (supports) accounts for 
+about 25% of world population.
+Favourable climatic 
+condition for agriculture.
+Birthplace of one of the principal human 
+races.
+Ancient history of habitation; high industrial 
+development (Japan).
+Favourable monsoon 
+climate,
+Pre-modern civilization of small-scale 
+agriculture, which essentially is traditional in 
+nature and subsistence levels.
+Irrigation technology (for rice cultivation).
+Europe (more than 10% of world 
+population). Enjoys a very favourable 
+climate.
+Largest portion of its land area is devoted to 
+agriculture. 
+High industrial development.
+American cluster: Northeastern part of 
+the USA and Canada (supports about 5% 
+of world population).
+Favourable climate,
+Short growing season, 
+Rich natural resources.
+During its formative period, large influx of 
+immigrants and fast natural increase of the 
+population.
+Efficient agricultural management.
+High industrial development.
+Sparsely populated 
+areas
+Tundra (part of N. America and 
+Eurasia).
+Very cold climate (no 
+cultivation). 
+Hot and dry lands (tropical deserts). High temperature. 
+Shortage of water. 
+Hot and humid regions: Amazon, Congo 
+and Indonesia basins.
+Very high humidity, rainfall 
+and temperature.
+High relief areas.
+High mountains with 
+rugged topography,
+Cold temperature.
+Areas with poor soil. Poor soil, badly degraded 
+lands.
+(A)
+(B)
+Figure 3.8: The Nile Valley in Egypt, 
+one of the world’s most fertile 
+places, is intensively irrigated 
+and densely inhabited. It exists 
+in the heart of the Sahara Desert 
+(A); the Sahara Desert is very 
+inhospitable for permanent 
+human settlement because of its 
+hostile climate which is very hot 
+and dry (B).
+Unit 3: World Population 151
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Activity 3.13
+In your geography work group, perform these activities.
+1 Study the following table and then make a copy of it. 
+2 On your copy, fill in the blanks in the two right-most columns.
+Factors Explanation Example Encourages or 
+discourages people 
+Low rainfall Little water for farming Sahara desert Discourages 
+Fertile soil Good soil for farming Alexandria, Egypt Encourages 
+Very hot and dry climate Dallol depression Discourages
+Warm & humid climate Amazon forests Discourages 
+Icecaps Greenland Discourages 
+Alluvial plains Mesopotamia Encourages
+3 On another piece of paper, create two columns with these headings:
+F Encourage settlement F Discourage settlement
+In each column list as many factors you can think of, except those in the preceding 
+table. Consider all of these types of factors:
+F ecological, such as amount of rainfall and its seasonality, topography, 
+including plains and steep mountains
+F natural hazards, such as flooding 
+F socio-economic, such as poor standards of living
+F cultural, such as political unrest
+4 Consider your own locality and the factors that have caused people to settle 
+there, and also the factors that have caused them to leave. On a third piece of 
+paper create the same columns as you did in the preceding task. Then list the 
+factors you have thought of for your own locality.
+Next perform the same task for your woreda, zone, or region.
+5 Figure 3.7 shows the distribution of world population. Use it to identify 
+the regions which are densely populated, sparsely populated, moderately 
+populated and uninhabited. List them in writing. 
+Discuss the following questions and list them, and the group’s answers, on a new 
+piece of paper:
+F What are some possible consequences of increasing concentrations 
+of people in rural and other areas? What are consequences of falling 
+concentrations in different types of areas?
+F Can balances be achieve d between the number of people in a region and 
+that region’s ability to support people? Consider different types of regions.
+Grade 10 Geography 152
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+F How do we define overpopulation and underpopulation? Which areas of 
+the world are overpopulated and which are underpopulated?
+6 Considering the information that your group has created on the various pieces 
+of paper, work with the group to create a report that summarizes the data. 
+3.4.2 Population Density
+How can we measure and otherwise quantify world-population distribution? 
+What measure was used to create Table 3.8? 
+It was noted earlier that population distribution over the earth’s surface lacks uniformity. 
+Some areas are overcrowded, while others are sparsely settled or uninhabited. 
+Table 3.8: Population density of the world and its regions in 2000 
+Continent Population, in million Area, in km2 Density (p/km2
+)
+World 6,892 150,000,000 46
+Africa 1030 30,251,000 34
+Asia 4157 45,066,000 92.2
+Europe 739 10,530,750 70.2
+Latin America 585 17,825,479 33
+North America 344 24,346,000 14.1
+Oceania 37 7,772,021 4.7
+Source: Population Reference Bureau 2010; Microsoft (R) Encarta (R) 2006. (C) 1993 – 2005.
+Population density, also termed as the spread of population over space, is 
+measurable in various ways. For example, we can relate numbers of inhabitants 
+to area of lands inhabited: 
+a Crude density or Arithmetic density 
+b Agricultural density or Rural density
+a Crude density or Arithmetic Density: is a measure of the number of 
+inhabitants per unit area. This type of measurement is also known as 
+human-land ratio.
+Crude density = Total population of an area
+Total area, in sq.km, of the area
+Unit 3: World Population 153
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Activity 3.14
+Calculate the following: 
+1 The population of Ethiopia was estimated at 79 million in 2010 (CSA 2010) and 
+its total area is 1,106,000 km2
+. Find the crude population density. 
+2 The total population and total area of China in 1999, were 1, 264, 536,000 and 
+9,596,960 km2 , respectively. Find the crude density. 
+b Agricultural density or Rural density: It is the ratio of agricultural 
+(rural) population to cultivated land. Agricultural density considers 
+only agricultural population, the segment of an area’s population whose 
+livelihood depends on agricultural activities. The area under consideration 
+can be a single contiguous piece of land, or it can be multiple unjoined 
+areas – such as the land occupied by all rural populations in all developing 
+countries. In countries like Ethiopia, almost all rural areas are occupied by 
+people who are engaged in agricultural activities and whose livelihoods 
+depend mainly on agricultural income. This may not be the case in the 
+developed regions. 
+Activity 3.15
+Part I
+Perform the following activities:
+1 Ethiopia has a total territorial expanse of about 1,106,000 km2
+, out of which 
+about 16% was under cultivation in 2007. Its urban population was about 
+16.2% of the country’s total population which stood at about 73.9 million 
+people. Rural population, was about 61.9 million, and the area under crop was 
+about 176,960 km2
+. Find agricultural density. 
+2 Why is agricultural density a better measure of rural population density than 
+the crude population density in countries like Ethiopia?
+3 What advantages does agricultural density have for a country? 
+4 What is the weakness of crude density in this respect? 
+Grade 10 Geography 154
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Part II
+Answer the following questions, based on the table below: 
+Country Area (km2
+) Population 
+(thousands)
+% of urban 
+population 
+% of cultivated 
+land 
+A 95,000 18,000 25 30
+B 90,000 22,000 80 10
+C 150,000 30,000 45 35
+5 What are the crude and agricultural population densities of each country? 
+6 For which country does agricultural density appear to be a better measure than 
+crude population density? Why? 
+Agricultural population density is a more meaningful measure than crude 
+population density for developing countries where agriculture is the dominant 
+economic activity. It also gives a better indication of population pressure on 
+natural resources. 
+3.4.3 Human Migration
+What is migration? Can we consider all kinds of people’s movements as 
+“migration”? Why or why not? 
+Definition and Types of Migration 
+Many geographers consider migration to be the permanent or quasi-permanent 
+relocation, for a substantial duration of an individual or group of individuals 
+from a place of origin to a place of destination. Migration begins in an area 
+of origin and is completed at an area of destination and might involve a stay 
+of a substantial period one year or more. In order to avoid ambiguity, the term 
+permanent migration is used for situations in which the mover has no intention 
+of returning to the place of origin. 
+When migrants cross an international frontier, they are referred to as either 
+emigrants, if they are leaving a country or immigrants, if they are entering. 
+Migrants who move within a country are referred to as out-migrants or inmigrants depending on whether they are leaving or entering a region. 
+When migrants cross an international boundary, the movement is called 
+international migration (see Figure 3.9). However, if the movement is within 
+a national territory, it is referred to as internal migration. A movement in which 
+Unit 3: World Population 155
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+a migrant arrives at the last destination after a series of short-term moves to 
+other locations is referred to as step migration. When people move out with the 
+intention of returning back to their place of origin after a few months or a season 
+or more, this movement is called seasonal migration. Seasonal migration takes 
+place commonly in rural Ethiopia during peak and slack seasons of agricultural 
+labour. 
+Migration can take the form of refugee migration, when people move for political 
+reasons, war, ethnic conflicts and discrimination or religious persecution; or 
+evacuee migration, if movement is caused by natural calamities like earthquake, 
+volcanic eruption, flooding, drought, etc.; or resettlement migration, when
+people are displaced by war, natural calamity, etc. and are moved by government 
+to a new location and, generally, given assistance in order to establish themselves 
+therein. 
+Activity 3.16
+In your geography workgroup, discuss the following questions.
+1 Which forms of migration are common in your community? Is anyone a migrant 
+among your family members? Were all your household members, including 
+Dad and Mama, born and raised in your area? 
+2 What is the difference between ‘refugee’ and ‘evacuee’? 
+3 What do you call the people whom the present government moved, some 
+years back, from densely populated areas to sparsely populated parts of the 
+country and settled them there? 
+Figure 3.9: Major international migration flows Source: IGCSE, 2009
+Grade 10 Geography 156
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Causes of Human Migration 
+Many factors affect migration. These include economic, social and ecological 
+considerations, which, in turn, are affected by individual perceptions and 
+behaviour. These factors act in such a way as to ‘push’ or ‘pull’ migrants (see 
+Figure 3.10). Pull factors are those which attract the migrant to a particular 
+destination. For example, good social and welfare services, a pleasant environment 
+and political stability are typical pull forces.
+Push factors, on the other hand, are forces which work in the migrant’s home area. 
+They impose pressures which persuade or compel a person to move away. For 
+example, push factors include the impacts of natural disasters (drought, flood, and 
+famine), low wages, poor employment and political instability. 
+Â Economic factors: are often regarded as the main motivation for migration, 
+acting as pull or push factors. The principal economic force is the search for 
+employment, accompanied by the exploitation of natural resources, such as 
+minerals, and the availability of good communication networks. 
+Â Social factors: that influence migration, negatively and positively, include 
+social oppression, political control and the availability of housing, health 
+care and training.
+Â Ecological factors: Environmental crises such as droughts, desertification 
+and industrial accidents can have profound impacts on human migration. 
+Environmental or ecological refugees have become the single largest class 
+of displaced people in the world.
+Figure 3.10: Some forces of migration: 'push' and 'pull' factors
+Planning 
+decision 
+Good welfare 
+services 
+Low wages High wages 
+Political 
+unstability 
+Political 
+stability 
+Housing 
+shortage 
+Improved 
+housing 
+Poor 
+employment 
+High living 
+standard 
+Natural 
+disaster
+Employment 
+opportunities
+Harsh 
+climate
+Favourable 
+climate
+Push Pull
+Unit 3: World Population 157
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Activity 3.17
+In your geography workgroup, perform these activities.
+1 Classify the factors noted in Figure 3.10 as ecological, economic, socio-cultural 
+and political factors. 
+2 By asking ordinary people and government office holders in your community, 
+identify economic, social and ecological reasons that make people migrate. 
+3 What are some of the possible consequences of migration, both in areas of 
+origin and destination? 
+3.4.4 Urbanization
+ What is urbanization? What factors affect the process of urbanization? 
+What is Urban and What are Urban Settlements? 
+The term urban is something (for example a settlement) relating to, belonging to, 
+characteristic of, constituting, or forming part of a town or city. It is the opposite 
+of rural. Urbanism on the other hand refers to a city or town characteristic, the 
+typical condition of a city or town, or a way of life characteristic of a city or town.
+Urbanization, in conventional terms, refers to the process through which society 
+is transformed from being predominantly rural, in economy, culture and life style, 
+to being predominantly urban. It is also a process of territorial reorganization, in 
+that it shifts the locations, as well as the characteristics, of a population and its 
+production activities. Typically, urbanization is commonly defined as the process 
+by which large numbers of people become permanently concentrated in relatively 
+small areas, forming cities or towns. 
+Some of the criteria used to identify urban settlements and desiginate them as 
+towns or cities include the status of an urban settlement, population size and of 
+population function. 
+In terms of population size, the minimum population of a locality considered 
+as a city varies from 1000 or less (example: Canada) to 50,000 (Japan). In most 
+countries, this threshold varies from 2000 to 5000. In Ethiopia, a settlement is 
+designated as urban if the number of inhabitants equals or exceeds 2000, and 
+if most of them are engaged in non-agricultural activities. Another defining 
+characteristic is that the area is an officially municipality.
+Grade 10 Geography 158
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+The course of human history has been marked by accelerating urbanization. In 
+1800, less than 3% of the world’s population lived in cities. During the post 
+industrial revolution, sometimes defined as 1900, about 20% lived in cities. By 
+1950, 30% lived in cities. By the end of 1999, 47% lived in cities. Currently 
+(2010) the percent of the world’s population in cities equals or exceeds that in 
+rural areas (see Table 3.9.)
+Table 3.9: Level of world urbanization, 1950 – 2000
+Region
+Percentage of urban population as 
+compared to the total
+1950 1975 2000 2010*
+World 30 38 47 50
+Developed 55 70 75 75
+Developing 52 67 73 44
+Africa 15 25 37 38
+Europe 64 74 77 71
+North America 50 76 79 79
+Japan 18 27 56 86
+Asia 15 22 36 43
+Latin America 42 61 75 77
+Source: 2010 Population Reference Bureau, http://www.prb.org/pdf10/10wpds_eng.pdf. 
+Activity 3.18
+In your geography workgroup, perform these activities: 
+1 Compare the level of urbanization at the continental level and identify the most 
+and the least urbanized continents. 
+2 Why do the more developed regions of the world have higher percentages of 
+urban populations than the less developed regions? 
+3 Why do the proportions of urban populations in the developing regions show 
+faster growth rates than in the more developed regions? 
+4 About three-fourths of the population of the developed countries live in urban 
+centres. How do people in these regions earn their living? 
+Work with your group to choose a representative to present the group’s 
+opinions to the class. 
+Unit 3: World Population 159
+3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 3.4 SPATIAL DISTRIBUTION OF WORLD POPULATION 
+Factors that affect Urbanization 
+In your previous discussions, you might have considered, directly or indirectly, 
+some of the factors that affect urbanization. Can you mention some of them to 
+your class? 
+One can attribute the growth and development of urbanization to several factors, 
+including: 
+F High rate of natural increase of population: This is happened when 
+birth rates remain high, but death rates fall rapidly due to great 
+improvements in social facilities and in food production, that resulted 
+in population growth and so does urbanization 
+F Significant of rural to urban migration: Many large cities in developing 
+countries are growing at a faster rate due to rural ‘push’ factors that 
+forced the people to leave the country side, and due to urban ‘pull’ 
+factors where people migrate to cities hoping (in reality doesn’t exist) 
+for better job prospects better social services, etc. 
+F Industrialization: In the 19thC, industrialization led to a huge demand 
+for labour in mining and manufacturing centers, in what are now 
+referred to as developed countries. In these countries, urbanization was 
+the result of economic development triggered by industrialization.
+Activity 3.19
+In your geography work group, answer the following questions and perform the 
+following activities. 
+1 Which factors have positively contributed to the growth of urbanization in 
+Ethiopia? 
+2 By referring to a world atlas or other sources, identify the ten largest cities of 
+the world. Create a world map that emphasizes these big cities. 
+3 What are the five largest urban centres (cities/towns) in Ethiopia?
+4 What are the main problems of rapid urbanization in less developed countries 
+like Ethiopia? Suggest possible ways of solving the problems. 
+Grade 10 Geography 160
+3.5 POPULATION OF ETHIOPIA 
+3.5 POPULATION OF ETHIOPIA
+At the end of this section, you will be able to: 
+Þ Compare the present population size of Ethiopia with the past; 
+Þ Describe the spatial distribution of Ethiopia’s population; 
+Þ Show the demographic characteristics of Ethiopia’s population; 
+Þ Analyze the population structure of Ethiopia; 
+Þ Realize population policy of Ethiopia. 
+Key Terms
+³ annual growth rate 
+³ population policy 
+³ physical factors
+³ pro-natalist
+³ human factors 
+³ anti-natalist 
+3.5.1 Population Size, Distribution and 
+Growth Rate
+When did the population of Ethiopia started growing very fast? 
+The population of Ethiopia was about 12 million toward the beginning of the 20th
+century (1900). It had an annual growth rate of 0.2%. Had this growth continued, 
+the population would have doubled in 346 years. The rate of growth of the 
+population was relatively very slow until 1920. But, after 1920, the population of 
+Ethiopia started growing very fast, and it took only 60 years to double. The 1950’s 
+was another remarkable period. By 1960 the growth rate quadrupled, doubling 
+the size of the population to 23.5 million. Then, between 1960 and 1990, i.e., 
+within thirty years, the population once again doubled. During that period, its 
+growth rate tripled, compared with the rate of 1920. The smallest doubling period 
+recorded was in 1996, after which it started increasing again. 
+Ethiopia conducted its first census in May 1984. So far, the governments have 
+conducted three successive population and housing censuses. The first census 
+report showed that the population of Ethiopia (together with Eritrea) was 42.2 
+million. When we compare the 2007 census results with those of 1984 and 1994, 
+we see that the population of the country increased by more than 31 and 21 
+million over 23 and 13 years, respectively. The population growth rate increased 
+from 2.9% in 1984-1985 to 3.0% in 1994-1995. 
+Unit 3: World Population 161
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+Table 3.10: Estimates of population growth in Ethiopia 
+Year Population 
+(million) 
+Annual Growth 
+Rate (%)
+Population Doubling 
+Time (year) 
+1900 11.8 0.2 346
+1910 12.1 0.5 139
+1920 12.9 1.0 69
+1930 14.4 1.2 58
+1940 16.2 1.5 46
+1950 19.2 2.0 38
+1960 23.5 2.2 32
+1970 29.5 2.3 30
+1980 37.7 2.8 25
+1990 51.2 3.0 24
+1993 53.4 3.1 23
+1996 60.0 3.2 22
+1999 61.6 2.9 24
+2000 63.4 2.8 25
+2010 79.0 2.6 27
+Source: Central statistical Authority (CSA), 1994 and 2010. 
+Since 1999, the growth rate has decreased at an average rate of about 0.2% per 
+year (see Table 3.10). By 2010, the rate had dropped to about 2.6% per year. With 
+the current growth rate of 2.6%, the country’s population is projected to grow by 
+1.9 million annually, and to attain a size of about 79 million by 2010, 94.5 million 
+in 2015, about 118 million by 2025. This trend would make Ethiopia the most 
+populous country in Africa, next to Nigeria. This rapid growth seriously strains 
+socio-economic development. 
+80
+60
+40
+20
+0
+1984
+39.9
+53.1
+73.9
+1994
+Census Year
+Population (In millions)
+2007
+Figure 3.11: Population size of Ethiopia (in million) 1984 – 2007 (CSA, 2007) 
+Grade 10 Geography 162
+3.5 POPULATION OF ETHIOPIA 
+Activity 3.20 
+With your geography workgroup, study Table 3.11 and Figure 3.11. Then perform the 
+following tasks.
+1 Assess the changes in these population characteristics in Ethiopia between 
+1900 and 2010.
+F size F growth rate F doubling time
+2 Draw a line graph to illustrate the changes that you investigated in Task 1; 
+F growth rate F doubling time
+Under the graph, create a note that describes the changes in words.
+3 Study your graph. Can you divide the entire graph of changing growth rates 
+and doubling times into approximately equal parts? 
+How many approximately equal periods are there for the growth-rate changes? 
+How do their slopes differ? How many for the doubling time? 
+4 Consider the results of Task 3 and the effects they probably had on Ethiopia’s 
+F natural resources
+F food production
+F investment and national savings opportunities
+F social services, such as health and education
+5 What do you think Ethiopians can do to control population growth? Consider 
+actions that can be taken at all of these levels.
+F individual
+F household
+F community
+F regional government
+F federal government
+6 During your lifetime, in what different ways could you affect population 
+growth? Do you expect to contribute to the problem or to the solution? How?
+Spatial Distribution of Population 
+What does spatial (areal) distribution of population mean? Which parts of 
+Ethiopia are densely and sparsely populated? Why? 
+Spatial distribution of population is the pattern created as a result of human 
+occupation of land surface for settlement. The pattern of Ethiopian population 
+distribution is markedly uneven. For example, we have very high population 
+densities in the highlands. On the other hand, the peripheral lowlands of the 
+country, which account for more than 50% of the total area of the country, are 
+Unit 3: World Population 163
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+very sparsely populated. There are variations in the distribution at the national 
+level as well as at lower levels for example, between and within regions, 
+zones, weredas and kebele administration units. Table 3.11 shows the country’s 
+population distribution at the regional level. 
+Table 3.11: Ethiopia’s population distribution, by region: 1994 and 2007
+Region 
+1994 2007
+Number % Number %
+Tigray 3,136,267 5.9 4,314,456 5.8
+Afar 1,060,573 2.0 1,411,092 1.9
+Amhara 13,834,297 25.0 17,214,056 23.3
+Oromiya 18,732,525 35.0 27,158,471 36.7
+Somalia 3,198,514 6.0 4,439,147 6.0
+Benishangul Gumuz 460,459 0.9 670,847 0.9
+SNNP 10,377,028 19.4 15,042,531 20.4
+Gambella 181,862 0.3 306,916 0.4
+Harari 131,139 0.2 83,344 0.2
+Addis Ababa 2,112,737 4.0 2,738,248 3.7
+Dire Dawa 251,864 0.5 342,827 0.5
+Special Enumeration Not available Not available 96,570 0.1
+Country total 53,477,265 100.0 73,918,505 100.0
+Source: 2007 population and housing census report, CSA, 2008. 
+What have you observed from Table 3.11? Which regions were the most and 
+least populous in the country in 2007? What factors are responsible for this 
+variation? Which regions showed decrease or increase in their population 
+proportion as compared to others, and why? 
+More than 80% of the population lived in three regions – Oromiya, Amhara and 
+Southern Nations, Nationalities and Peoples Region (SNNPR). Their populations 
+accounted for 36.7%, 23.3% and 20.4% of Ethiopia’s total population, respectively. 
+According to the 1984 Ethiopian census, the nation’s crude population density 
+was 34 persons per square kilometer. By 1994, 10 years later, it had increased 
+to 48.3. By 2007, the crude population density was almost double that of 1984 – 
+about 67 persons per square kilometer. 
+Grade 10 Geography 164
+3.5 POPULATION OF ETHIOPIA 
+Source: Atlas of the Ethiopian Rural Economy. 
+Table 3.12 presents Ethiopia’s ten most densely and sparsely populated zones, 
+as of 2009. Population densities exceeded 150 persons per square kilometre. All 
+of the zones listed in the first half of the table, except for the last four shown in 
+the table, are in the SNNPR and are enset-growing areas. Of the SNNPR zones, 
+the most densely populated are Gedeo Kembata and Tembaro, and Sidama. Their 
+densities exceed 400 persons per square kilometre. In contrast, there are places 
+with very low population densities, below 25 persons per square kilometre. 
+Almost all very low-population areas are found in the peripheral lowlands of 
+Benishangul Gumuz, Gambella, Afar and Somali regions. Some of zones of very 
+low-population densities include Agnewak, Metekel, Kemashi, Zone one (Afar), 
+Etang, Zone two (Afar), Asossa zones, Warder zone, Korahe zone and Fik zone.
+Persons per square km
+< 5
+6 - 10
+11 - 25
+26 - 50
+51 - 100
+101 - 150
+151 - 250
+251 - 350
+> 350
+Figure 3.12: Population density of Ethiopia
+Unit 3: World Population 165
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+Table 3.12: Ethiopia’s ten most densely and most sparsely populated areas at the 
+zone level, 2009 
+No. The ten most densely populated areas No. The ten sparsely populated areas
+Zone Density (persons/km2
+) Zone Density (persons/km2
+)
+1 Gedeo 772.6 1 Agnewak 5.7
+2 Kembata Tembaro 535.8 2 Metekel 10.1
+3 Sidama 482.5 3 Kemashi 11.5
+4 Wolayita 386.0 4 Zone 1 (Afar) 14.8
+5 Hadiya 368.1 5 Etang Special Zone 18.8
+6 Gurage 231.0 6 Zone 2 (Afar) 20.6
+7 West Arsi 183.7 7 Asossa 22.5
+8 East Shewa 177.6 8 Warder 
+9 Jimma 175.5 9 Korahe 6 - 25 
+10 East Hararge 167.2 10 Fik
+Source: Central Statistical Authority (CSA), 2010.
+The spatial distribution of Ethiopia’s population is uneven, characterized 
+by high population density on the highlands while lowlands have very 
+low population density. Such uneven distribution of population has 
+been the result of ecological (physical) factors and human factors (see 
+Figure 3.13). More important physical factors include climate (mainly rainfall and 
+temperature), soil, vegetation and relief (altitude). The human factors primarily 
+consist of historical factors, for example peopling of the country and migration, 
+development of infrastructure, types of economic activities and political factors 
+related to government policies such as resettlement programs, land tenure 
+system, villagization process, etc. All these factors individually or collectively 
+have influenced human settlements favorably or adversely. They have either 
+encouraged or discouraged settlement. 
+Activity 3.21
+In your geography workgroup, perform these tasks. 
+1 Find a political map of Ethiopia that shows the nation’s administrative units. 
+Locate the ten most densely populated and most sparsely populated areas of 
+the country. (See Table 3.12 again.)
+2 Which ecological and human factors, for example, those shown in Figure 3.13, 
+could have influenced the patterns of population distribution, you considered 
+in Table 3.13? 
+3 Variation of physical factors such as climate (temperature and rainfall), soil, and 
+vegetation, are strongly correlated with altitude. With this fact in mind, explain 
+the impacts of changes in elevation on population distribution.
+Grade 10 Geography 166
+3.5 POPULATION OF ETHIOPIA 
+Table 3.13: Population distribution, related to altitude 
+Altitude (metre) % of total area of Ethiopia % of total population of 
+Ethiopia (1984)
+Density (persons/
+km2
+) (1984)
+> 2600 5.8 10.4 85.0
+1800 – 2600 31.8 67.1 157.5
+1400 – 1800 28.1 11.5 68.14
+1000 – 1400 13.4 8.5 69.14
+< 1000 21.5 2.8 29.0
+Total 100.0 100.0 6.2
+Source: Aynalem Adugna, The Population of Ethiopia, I.D.R, 1987. 
+4 Analyse the data in Table 3.13. What percent of the total population of Ethiopia 
+live in the lowlands, areas found below 1500 m above sea level? Why? 
+5 In Ethiopia, areas found between 1800 m and 2600 m are the most densely 
+populated. They are inhabited by about 67% of the total population. Why? 
+6 Briefly explain the impacts of such high population density on the environment. 
+7 Suggest possible measures to improve the situation in the lowland areas, 
+enabling them to support more population, and also measure to help the overpopulated highland areas, motivating their people to settle in the lowlands.
+Figure 3.13: Factors that contributed to high population density in Ethiopia
+Low incidence of
+tropical disease 
+(like malaria)
+Positive factors giving area 
+with high population densities 
+Transport linking 
+dierent areas
+Economic – money and 
+technology to create
+industry and jobs
+Agriculture – enset and 
+coee cultivation 
+Political – government
+investment in schools, 
+hospitals, roads, etc
+Rich biotic life
+(plants and animals)
+Fertile soil 
+Low incidence of 
+tropical disease 
+(like malaria) 
+Flat, low-lying relief 
+and good drainage
+Environmental 
+(Physical) Factors 
+Human Factors 
+Favourable climate
+Unit 3: World Population 167
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+3.5.2 Components of Population Change in 
+Ethiopia 
+What factors affect fertility, mortality and migration? How does the three 
+components of population change influenced growth rate of the population of 
+Ethiopia? 
+Fertility in Ethiopia 
+Is the rate of birth higher or lower in Ethiopia, compared to the rest of Africa 
+and to the world at large? 
+What are the trends of fertility in Ethiopia? Is fertility decreasing or increasing? 
+Why? What measures, if any, have been taken to improve the situation in your 
+locality? If none have been taken, why is that? 
+Ethiopia’s total fertility rate is one of the highest in the world. In 1984, TFR was 
+7.52 per woman. By 1994 it dropped to 6.74 (see Table 3.14), and then to 5.4 in 
+2010.
+There is significant fertility variation between urban and rural areas. For example, 
+in 1984, TFR in urban areas was 6.33, while it was 8.08 in rural areas. In 2010 
+these rates, respectively, dropped to 4.5 and 7.19. 
+Fertility also varies from region to region. In 1994, Oromiya and the SNNPR 
+recorded the highest TFRs, reaching as high as 7.26 and 7.16, respectively. In 
+contrast to this, Addis Ababa, Dire Dawa, Harari and Gambella recorded TFRs 
+of less than 4.3. 
+Grade 10 Geography 168
+3.5 POPULATION OF ETHIOPIA 
+Table 3.14: Measures of fertility in Ethiopia, by major regions, 1994 
+Region 
+Total Urban Rural
+TFR CBR TFR CBR TFR CBR
+Ethiopia 6.74 4.434 4.50 34.88 7.19 45.80
+Tigray 6.95 43.89 5.38 39.33 7.28 45.11
+Afar 6.39 36.21 4.47 39.51 6.61 36.05
+Amhara 6.76 43.86 5.40 43.40 6.94 43.95
+Oromiya 7.26 45.63 6.10 44.14 7.42 45.83
+Somali 6.73 36.38 5.84 35.04 6.89 36.67
+Benshangul and 
+Gumuz 6.46 45.63 5.46 44.70 6.56 44.61
+SNNPR 7.16 49.95 6.42 48.06 7.22 49.72
+Gambella 4.72 36.24 4.19 38.14 4.82 35.10
+Harari 4.68 36.50 3.40 26.63 6.98 51.48
+Addis Ababa 2.14 18.78 2.09 16.37 7.40 41.10
+Dire Dawa 4.95 37.82 4.28 35.21 6.89 43.37
+Source: CSA, 1999.
+Activity 3.22
+In your geography workgroup, study Table 3.14 and answer the following questions.
+1 Which regions have the highest CBR in their rural and urban areas? Why? 
+2 Why do rural areas have higher TFRs than urban areas? What do you suggest to 
+improve the situation?
+3 Why is that both CBR and TFR are lower in urban areas than in rural areas?
+4 Why are crude birth rates as well as TFR generally higher in Ethiopia than in 
+most of the rest of the world?
+5 Choose 10 families (households), including yours, in your locality and answer 
+the following question: 
+i How many children does each family have? 
+ii Do parents in your community tend to have many or few children? Why? 
+iii Do women in your locality have easy access to medical, education and 
+family planning services? If no, why not? What is the effect of such 
+availability or lack of availability?
+Unit 3: World Population 169
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+Mortality in Ethiopia 
+Has the number of deaths in your community per year increased or decreased 
+during your lifetime? Your parents’ lifetimes? What causes death most often in 
+your locality? Among which age groups is death observed most frequently in 
+your community?
+Mortality is the measure of frequency of deaths in a population. Ethiopia has one 
+of the highest levels of mortality in the world (see Table 3.15). The main causes 
+of such high mortality are the effects of poverty, low living standards and poor 
+access to health services.
+Other significant factors include civil war, and recurrent drought and famine. 
+Deaths of children under the age five accounts for over half of all deaths in the 
+country. The main causes of children death are measles, malaria, malnutrition, 
+and acute respiratory infections such as pneumonia and influenza. 
+However, despite all of the current factors that cause deaths in Ethiopia, 
+mortality rates have decreased because of improved medical technology and the 
+population’s improved access to health services. During the last two decades, 
+crude death rate dropped from 20 per 1000 population in 1970 to 16.4 per 1000 in 
+1990 and then to 12 per 1000 in 2010. Similarly, the infant mortality rate declined 
+from 153 deaths per 1000 live births in 1970 to 110 in 1990 and then to 77 in 
+2010 (see Table 3.15 again). 
+Unfortunately, however, many people now fear that such decreasing trend (and 
+that of increasing life expectancy) will soon be reversed due to the increasing 
+prevalence of HIV/AIDS in Ethiopia’s population. For 1999, estimates put the 
+number of infected people in the country at 3 million. Now, ten years later, some 
+experts are predicting increases in mortality rates and decreases in life expectancy.
+Grade 10 Geography 170
+3.5 POPULATION OF ETHIOPIA 
+Table 3.15: Crude death rate, infant mortality rate and life expectancy in Ethiopia, 
+1970 – 2010
+Year of 
+Survey 
+Crude death rate Infant mortality rate Life 
+expectancy 
+Rural Urban Total Rural Urban Total Rural Urban 
+1970 20.0 16.9 20.0 155 134 153 43.8 45.0
+1981 18.1 15.7 17.9 141 117 139 46.5 46.8
+1984 17.2 14.17 17.1 112 94 110 46.0 58.1
+1990 − − − 111.6 94.2 110.1 47.4 49.4
+1998 17.8 14.0 17.0 109.9 92.0 109.0 48.0 50.9
+2010* 12 77 − 51
+Source: Central Statistical Authority (CSA), 1994; * Population Reference Bureau, 2010. 
+Activity 3.23
+1 Based on Table 3.15, answer the following questions: 
+i Are the trends of CDR and IMR in Ethiopia increasing or decreasing? What 
+about life expectancy at birth? Why? 
+ii Why is the IMR higher in rural areas than urban areas of the country? How 
+can we improve the situation?
+2 Can we relate high mortality rate with poverty and environmental degradation 
+in Ethiopia? Support your answer with examples. 
+3 It is known that HIV/AIDS have direct impacts on mortality. 
+In your opinion, what roles should teachers and students play to control the 
+expansion of HIV/AIDS in your locality? 
+3.5.3 Population Structure of Ethiopia 
+Can you remember the factors that influence population structure? How 
+does population structure influence the process of Ethiopia’s socio-economic 
+development? 
+Age Structure 
+Which age group is greatest in Ethiopia? What are the socio-economic and 
+demographic implications of its size? Does the shape of Ethiopia’s population 
+pyramid correspond to that of most developing countries?
+Unit 3: World Population 171
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+Table 3.16 presents Ethiopia’s population age distribution. As you can see from the 
+recent population pyramid of Ethiopia shown in Figure 3.6a and from the data in 
+Table 3.16, Ethiopia’s population is predominantly young. It has persistently 
+remained so, at least since 1970. On average, about 45% of the population is 
+young and economically dependent. Elderly people account for about 3% of the 
+total. This would mean only 52% of the population is economically active and 
+supports both itself and the rest of the population. Ethiopia has one of the largest 
+non-productive populations in the world. This is a direct result of the country’s 
+high fertility rate. 
+Table 3.16: Age structure (composition) of the Ethiopian population 
+Year Population in 
+millions
+Percentage distribution of population by age
+Under 15 15 – 64 65 and over 
+1970 - 45.3 51.5 3.2
+1981 - 45.5 51.0 3.5
+1984 41.1 48.1 47.1 4.8
+1990 - 50.0 43.8 6.2
+1994 53.4 45.4 51.4 3.2
+1999 - 43.8 53.1 3.1
+2007 73.9 45.0 51.8 3.2
+2010* 79.0 44.0 53.0 3.0
+Source: Central Statistical Authority (CSA), 1999 and 2007 and Population Reference Bureau 2010.
+With such a large dependent young population, government expenditure for 
+education, health, shelter, food and other basic social services is very high. The 
+only way that Ethiopia can release this large amount of budgetary resources for 
+more economically productive investments is by reducing its dependency ratio.
+Focus
+Fast population growth, like that of Ethiopia and many other developing 
+countries, produces a youthful population dominated by children who are 
+economically dependent. This age-structure has the potential to increase the 
+momentum of population growth as those numerous children grow up and 
+enter their reproductive years and have multiple children of their own. This 
+demographic instability of large, highly dependent and consuming, rather than 
+effectively producing, populations cripples the socio-economic development 
+process and can impede sectorial planning. Moreover, unemployment and 
+under employment tend to prevail due to national economic issues. 
+Grade 10 Geography 172
+3.5 POPULATION OF ETHIOPIA 
+Sex Structure 
+What is the importance of studying sex structure? 
+Sex is one of the basic demographic characteristics of a population. Sex structure 
+is very important for demographic analysis because it provides useful information 
+about reproductive potential, human resources, and so on. 
+Table 3.17: Population size, by sex and by region, in Ethiopia (2007) 
+Region 
+Sex 
+Male Female 
+Number % Number %
+Country – total 37,296,657 50.5 36,621,848 49.5
+Tigray 2,124,853 49.2 2,189,603 50.8
+Afar 786,338 55.7 624,754 44.3
+Amhara 8,636,875 50.2 8,577,181 49.8
+Oromiya 13,676,159 50.4 13,482,312 49.6
+Somali 2,468,784 55.6 1,970,363 44.4
+Benshangul – Gumuz 340,378 50.7 330,469 49.3
+SNNP 7,482,051 49.7 7,560,480 50.3
+Gambella 159,679 52.0 147,237 48.0
+Harari 92,258 50.3 91,086 49.7
+Addis Ababa 1,304,518 47.6 1,433,730 52.4
+Dire Dawa 171,930 50.2 170,897 49.8
+Special Enumerations 52,834 54.7 43,736 45.3
+ Source: Central statistical Authority (CSA), 2010. 
+What does Table 3.17 show you? For example, which sex is most numerous at 
+national and regional levels? 
+In 2007, Ethiopia had an almost balanced (one-to-one) sex ratio, both in rural and 
+urban areas. The sex ratio for the whole country was 100.8. This meant that in 
+the 2007 estimate, males slightly outnumbered females. Earlier, 1999, estimates 
+indicated slightly different sex ratios. In rural areas, males slightly outnumbered 
+females – the sex ratio was 101.2. In urban areas, females slightly outnumbered 
+males – the sex ratio was 98.5.
+Unit 3: World Population 173
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+Regional sex-ratio data generally supported the preceding data for the nation as a 
+whole, showing slight variations. 
+Male populations exceeded female populations in all regions except in Addis 
+Ababa, Tigray and the SNNPR. In Addis Ababa, whose population is nearly 
+100% urban and may be considered ‘representative’ of other urban centres of the 
+country, the number of females is considerably higher than the number of males.
+Activity 3.24
+In your geography work group, study Table 3.16 and perform the following tasks. 
+1 Calculate, for 1984, 1994, 2007 and 2010 
+i ADR (age dependency ratio) 
+ii young age dependency burden
+iii old age dependency burden Inter the economic implications of these 
+series of numbers. 
+2 What measures should be taken to reduce Ethiopia’s ADR? Support your answer 
+by citing examples from your locality. 
+Along with each of the students in your workgroup, list your household 
+members, giving their age and sex. 
+3 Form a group consisting of 10 classmates. Let each student consider his or her 
+household and list each person’s age and sex with your group, aggregate the 
+results for all of the householdes by creating a table that shows the age-sex 
+structure of the combined households. Then compare the 
+a Age distribution 
+b ADR 
+c Youth dependency burden 
+ratio 
+4 Using population data, from Table 3.17 calculate the sex ratio of all regions. 
+Which region(s) has the highest and lowest sex-ratio? Why? 
+5 Calculate the sex-ratio for each grade or grades (10-12) in your school? Which 
+grade has the highest sex-ratio? What does the ratio indicate? 
+3.5.4 Population Policy of Ethiopia 
+What is population policy? Why has the government of Ethiopia formulated a 
+population policy? When did it do that? What type of population policy has been 
+adopted in Ethiopia? Do you support the idea of this type of policy? Why or why not? 
+Population policy is defined in a variety of ways. Some of them include: 
+F “All deliberate government actions intended to influence population 
+growth, size, distribution and composition”;
+Grade 10 Geography 174
+3.5 POPULATION OF ETHIOPIA 
+F “A deliberate effort by a national government to influence the three 
+demographic variables: fertility, mortality and migration.” 
+F “Measures initiated by governments to influence, in a targeted direction, 
+the size, rate of change, composition or geographic distribution of a 
+population.” 
+What did you understand from the three above definitions of population policy? 
+What is the main issue stressed by all of the definitions? 
+Generally, population policies are used as guidelines to create positive relationships 
+between population and resources. To this end, they are used to ensure balanced 
+growths of population and economy. Maintaining a balance between a country’s 
+population and its economy helps improve the peoples’ quality of life while 
+improving the environment. 
+There are two major types of population policy used by different countries in the 
+world: 
+a Pro-natalist (populationist) policies: they are designed to encourage 
+population growth. Such policies are adopted with the objective 
+of achieving various goals such as maintaining military strength, 
+economic production and national pride. When more-developed 
+countries have expanding economies but very low growth rates, 
+they adopt pro-natalist population policy programs. Examples: the 
+Netherlands, Kuwait and Israel. 
+b Anti-natalist policies: they are designed to reduce birthrates. Such 
+policies are promoted for several reasons. For example, moderating 
+rapid population growth and preventing related social problems such 
+as shortages of housing, education and services. Example; China. 
+As you know, Ethiopia has a rapid population growth rate and one of the fastest 
+growing populations in the world. Because of this, the government adopted an 
+anti-natalist population policy since 1993. As such the population policy of the 
+country aims at attaining these general objectives: 
+a Closing the gap between high population growth and low economic 
+productivity through planned reduction of population growth and 
+increasing economic returns; 
+b Speeding up economic and social development processes through 
+holistic, integrated development programs designed to speed up the 
+structural differentiation of the economy and employment; 
+Unit 3: World Population 175
+3.5 POPULATION OF ETHIOPIA 3.5 POPULATION OF ETHIOPIA 
+c Reducing the rate of rural-to-urban migration; 
+d Maintaining and improving the carrying capacity of the environment 
+by taking appropriate environmental-protection and conservation 
+measures; 
+e Raising the economic and social status of women by freeing them 
+from the restrictions and hard work of traditional life and making it 
+possible for them to participate productively in the larger community; 
+f Significantly improving the social and economic status of unprotected 
+or easily affected groups; 
+g Facilitating research programs in reproductive health; 
+h Developing population programs specially designed to promote male 
+involvement in family planning; 
+i Diversifying methods of contraception with particular attention to 
+increasing the availability of male-orientated methods. 
+Activity 3.25
+In your geography workgroup, answer the following questions and perform the 
+following activities. 
+1 Of the two main types of population policy, which one is more appropriate for 
+the demographic characteristics of the population of Ethiopia? Why? 
+2 Explain briefly how anti-natalist population policies can contribute to the well 
+being of the environment in your locality. 
+3 How can the traditional institutions like “Edir”, “Equb”, “Mahaber” and others 
+contribute to implementing population policies in your locality? Identify the 
+obstacles that have hindered these institutions from acting as facilitators for 
+such changes. Suggest possible strategies to overcome the obstacles. 
+Grade 10 Geography 176
+Unit Review
+Unit Review
+ UNIT SUMMARY 
+Þ Until 1650, the world’s population grew quite slowly. But by 2000 A.D, it had 
+reached six billion. The current annual world growth rate is quite largeabout 1.5%. But developing countries have higher growth rates, and these 
+rates are much higher than those of the developed countries. 
+Þ For instance, Africa and Europe has shown a very contrasting population 
+growth trends. The former has shown fastest growth rate with shortest 
+doubling time but the later has revealed an opposite trends. 
+Þ By 2010, world population has reached 6.9 billion. The first three populous 
+continents may include Asia, Africa and Europe, and then followed by 
+L. America, N. America and Oceania according to their size of population.
+Þ The three leading populous countries in Asia (China, India and Indonesia), 
+in Europe (Geromany, UK and Italy), in North America (USA,Mexioc and 
+Canada), in Latin America (Brazil, Argentina and Colombia) and in Africa 
+(Nigeria, Egypt and Ethiopia). 
+Þ The population of any area is determined by fertility, mortality and 
+migration. The difference between birth and death rates is known as rate 
+of natural increase. Overall, growth rate is determined by the net effect of 
+natural increase and net migration rate. The three main age groups that 
+determine population structure are young, adult and old age. 
+Þ Population pyramids show considerable differences in population age 
+structures between developed and developing countries. In the former, it 
+is rectangualr at the middle adn narrow both at the base and at the top. 
+But in the later, it is narrow at the top and very broad at the base. 
+Þ Population is unevenly distributed across the earth’s surface. This distribution 
+is dictated by positive and negative factors. Favourable climate, fertile soil, 
+adequate water supply and industrial development positively influence 
+population concentration. Where as unfavourable climate (extremely hot 
+or cold and dry climates) mountaiinous regions of very rugged topography 
+with poor soil, and inaccessible areas discourage large human settlements. 
+Unit 3: World Population 177
+Unit Review
+Þ Urbanization is the increase in the proportion of people living in cities. It is 
+most rapid in cities of developing countries, where it causes considerable 
+problems. 
+Þ Population denisty, which shows the spread of population over space, 
+can be measured using crude (arithmetic) density and agriculatural (rural) 
+density. The former is the best measure of population density in agrarian 
+countires such as in Ethiopia. 
+Þ The major causes of migration include economic factors (employment 
+opportunities, communication and transport networks, etc), social factors 
+(social facilities, political control, etc) and ecological factors (ecological 
+crises such as droughts, desertification, etc). 
+Þ There are many factors that affect urbanization like rate of natural increase, 
+rural to urban migration, establishment of large number of industries, the 
+development of commerce, transportation and communication, etc. 
+N. America, L. America and Europe are the most urbanized continents 
+followed by Asia and Africa accordingly.
+Þ By 1900, the estimated population of Ethiopia was only 11.8 million. Since 
+then, it has grown at a rapid rate. At the current rate, the country’s 
+population is projected to grow by 1.9 million persons annually. Fertility and 
+mortality are the main factors in population growth rates. Migration has 
+very little effect because most of the population has low mobility across 
+international boundaries. 
+Þ The pattern of Ethiopiain population distribution is marked unequal. High 
+population densities observed in the highlands but teh peripheral lowlands 
+of the country are very sparsely populated. 
+Þ Ethiopian population is predominatly young, which is economically 
+dependent with elderly people upon the economically active population. 
+This adversely affect the development of the country at large. 
+Þ The population pyramid of Ethiopia is very wide at the base that indicates 
+a high birth rate and very narrow towards the top due to a high infant 
+mortality rate and relatively short life expectancy. The country also has 
+almost a balanced sex ratios both in rural and ruban areas. 
+Þ There are two main types of population policy: pro-natalist and antinatalist. Ethiopia’s population policy’s main goal is to achieve a balanced 
+population growth rate. It was launched in 1993 and is essentially antinatalist. 
+Grade 10 Geography 178
+Unit Review
+ REVIEW EXERCISE FOR UNIT 3
+I Write ‘true’ for correct statements and ‘false’ for wrong 
+statements 
+1 Population growth in the developed nations occurs at a much faster rate 
+than in less developed countries. 
+2 Anti-natalist population policies refer to policies proposed to reduce the 
+birth rate. 
+3 In Ethiopia, fertility is higher in urban centers than in rural areas. 
+4 Standard of living is one of the factors that affects fertility. 
+5 There is a direct relationship between fertility and education. 
+6 The Nile Valley of Egypt is one of the most densely populated regions of 
+the world. 
+7 The rate of urbanization is higher in developing countries than in the 
+developed countries. 
+8 The shape of population pyramids of developing countries is broad-based.
+II Matching Item: Match the items under column “A” with those 
+under column “B” 
+A B
+9 Doubling time 
+10 Early marriage 
+11 Mortality
+12 Migration
+13 Age dependency ratio 
+14 Total fertility rate 
+15 General fertility rate 
+A Number of live births per 1000 women 
+B Sex structures 
+C Increases fertility rate 
+D It has little effect on population change 
+in Ethiopia 
+E Average number of children that would 
+be born alive to a woman
+F The time needed for a population to 
+double in size. 
+G The rate of frequency of death in a 
+population 
+Unit 3: World Population 179
+Unit Review
+III Multiple-choice items: choose the correct answer from the 
+given options. 
+16 A population pyramid is a drawing that shows population distribution by 
+A Age group and death rate
+B Sex and birth rate 
+C Sex and age group 
+D Age group and growth rate 
+17 Which one of the following is a ‘push’ factor of migration? 
+A High living standard 
+B Poverty and poor 
+employment 
+C Hostile climate
+D Land scarcity
+E All except ‘A’. 
+18 The most densely populated part of Ethiopia is 
+A The enset-growing regions of the SNNPR 
+B The southwestern part of Ethiopia 
+C The Gambella and Somali regions 
+D The Cereal-growing regions of Bale and Arsi
+19 The age structure of the Ethiopian population implies that: 
+A There is a low dependency ratio in Ethiopia. 
+B There is a high dependency ratio in Ethiopia. 
+C The old age group is twice as large as that of the middle age group.
+D The middle age group and the old age group are roughly equal in 
+number. 
+20 If the birth rate of a population is 50/1000, and the death rate is 30/1000, 
+then the natural increasing rate is equal to:
+A 8% B 80% C 2% D None
+IV Fill the following blank spaces with appropriate word(s). 
+21 An exceptionally fast world-population growth is known as________.
+22 Policy that designed to encourage population growth is ________. 
+23 The adult age group is also known as ________.
+24 Among the measures of population dynamics, ________ can be regarded 
+as a good indicator of level of development. 
+25 The main population agglomeration centres of world population are called 
+________.
+Grade 10 Geography 180
+Unit Review
+V Workout Items. 
+26 The birth rate of country “X” was 47/1000, and its death rate was 18/1000. 
+Find the rate of natural increase. 
+27 Suppose the demographic characteristics of a certain region are: 
+Total population = 120,000; 
+Urban population = 25,000;
+Total area = 5000 km2
+Area of arable land = 3000 km2
+. Based on the above data, calculate: 
+i crude density ii agricultural density 
+28 By mid 1995, the population size of a hypothetical country, “X”, was 100 
+million, of which 35% of the people were under 15 years of age, and 40% 
+were adult. What is the ADR of this population? 
+29 The population size of a hypothetical country “Y” was 75 million, of which 
+30% were under 15 years of age and 10% were in old age. Calculate the 
+ADR of this population. 
+30 A hypothetical country “A” has a sex ratio of 88%. If the female population 
+is 10 million, what is the total population? 

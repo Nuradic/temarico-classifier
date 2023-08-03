@@ -1,0 +1,2099 @@
+Inorganic compounds are the compounds consisting of mineral constituents of the earth
+or generally found in non-living things. The term inorganic compound refers to all
+compounds that do not contain carbon. Although, carbon dioxide, carbon monoxide,
+carbonates and hydrogen carbonates are carbon-containing compounds, which are
+classified as inorganic compounds. Inorganic compounds are mostly found in nature as
+silicates, oxides, carbonates, sulphides, sulphates, chlorides and nitrates, etc.
+There are different ways for the classification of inorganic compounds. They can be
+classified on the bases of their composition. For example; they can be classified on
+the basis of the:
+i) metal they contain such as copper compounds, aluminium compounds, etc.
+Activity 2.1
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+93
+ii) non-metal they contain such as sulphur compounds, nitrogen compounds, etc.
+iii) group they contain such as sulphates, nitrates, carbonates, etc.
+This unit emphasizes on the four groups of inorganic chemicals namely oxides, acids,
+bases and salts.
+Exercise 2.1
+1. List some inorganic compounds with which you are familiar.
+2. Which branch of chemistry is concerned with the study of all elements?
+2.2 OXIDES
+Competencies
+After Completing this section, you will be able to:
+• define oxides;
+• classify oxides as acidic, basic, amphoteric, neutral and peroxides;
+• define acidic oxides and give examples;
+• explain the chemical properties of acidic oxides;
+• define basic oxides and give examples;
+• explain the chemical properties of basic oxides;
+• conduct experiments to distinguish acidic oxides from basic oxides;
+• compare and contrast acidic and basic oxides;
+• define amphoteric oxides and give examples;
+• explain the chemical properties of amphoteric oxides;
+• discuss the salt forming nature of acidic, basic and amphoteric oxides;
+• define neutral oxides and give examples;
+• define peroxides and give examples;
+• explain the chemical properties of peroxides; and
+• conduct an experiment to distinguish peroxides from other oxides.
+What are oxides? Oxygen reacts directly with almost all elements except the noble
+gases and inactive metals like gold, platinum, and palladium. Such compounds of oxygen
+are called oxides. Oxides are binary compounds containing oxygen and any other
+element (metal, non-metal or metalloid). Binary compounds are those consisting of
+CHEMISTRY GRADE 10
+94
+only two elements. Examples of oxides are calcium oxide, CaO, aluminium oxide,
+Al2O3, sulphur dioxide, SO2, and carbon monoxide, CO.
+The classification of oxides into different groups is based on their chemical behaviour;
+they are classified as:
+• Acidic oxides
+• Basic oxides
+• Amphoteric oxides
+• Neutral oxides, and
+• Peroxides
+Exercise 2.2
+Decide whether the following compounds are oxides or not:
+a Na2O d P4O6 g Na2CO3
+b KOH e N2O4 h KNO3
+c Ga2O3 f H2O i H2SO4
+1. The oxides, CO2
+, N2
+O5
+, P4
+O10, SO2 are acidic oxides.
+a Are these oxides formed by the combination of oxygen with
+i) metals ii) non-metals or iii) metalloids?
+b What general conclusion can you draw about the composition of acidic oxides?
+2. The presence of CO2
+ is confirmed by reacting CO2
+ with lime water.
+a What is lime water? Is it a base or an acid?
+b Write a balanced chemical equation for the above reaction.
+c What type of oxides react with bases?
+Discuss in your group and present your findings to the class.
+A Acidic Oxides
+Acidic oxides are the oxides formed by the chemical combination of oxygen with nonmetals. Thus, acidic oxides are non-metal oxides. These oxides are also called acid
+anhydrides, since they form acidic solutions when reacted or dissolved in water. Acid
+anhydride means acid without water.
+Activity 2.2
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+95
+Generally speaking, acidic oxides are non-metal oxides. Examples of acidic oxides
+include carbon dioxide, CO2, nitrogen dioxide, NO2, and sulphur dioxide, SO2.
+However, it is very important to note that all non-metal oxides are not necessarily
+acidic oxides. For example, carbon monoxide, CO, and di-nitrogen monoxide, N2O,
+are non-metal oxides, but they are neutral oxides which will be discussed later.
+Chemical Properties of Acidic Oxides
+Acidic oxides undergo the following reactions:
+1. Acidic oxides (acid anhydrides) dissolve in water to form acidic solution (acid).
+Acid anhydride + water Æ Acid
+Examples
+CO2 + H2O Æ H2CO3 (Carbonic acid)
+N2O3 + H2O Æ 2HNO2 (Nitrous acid)
+SO2 + H2O Æ H2SO3 (Sulphurous acid)
+2. Acidic oxides react with basic or metallic oxides to form salt.
+Acidic oxide + Basic oxide Æ Salt
+Examples
+CO2 + Na2O Æ Na2CO3
+SO3 + CaO Æ CaSO4
+3. Acidic oxides react with bases to form salt and water. This reaction is called
+neutralization reaction.
+Acidic oxide + Base Æ Salt + Water
+Examples
+SO2 + 2NaOH Æ Na2SO3 + H2O
+CO2 + 2LiOH Æ Li2CO3 + H2O
+Exercise 2.3
+1. List five examples of acidic oxides.
+2. Complete and balance the following equations.
+a P4O6 + H2O Æ
+CHEMISTRY GRADE 10
+96
+b SO3 + H2O Æ
+c CaO + CO2 Æ
+d Ca(OH)2 + SO3 Æ
+e NaOH + CO2 Æ
+B. Basic Oxides
+Oxides that are composed of metals and oxygen are basic oxides. But, all metal oxides
+are not necessarily basic oxides; for example Al2O3 and ZnO are amphoteric oxides,
+which will be discussed in part (C).
+Oxides of metals that dissolve in water and react with it to form basic or alkaline solutions
+are called basic anhydrides. There are metallic oxides which have basic properties but
+are insoluble in water. These oxides react with acids to give salt and water.
+Example
+FeO + 2HCl Æ FeCl2 + H2O
+The oxides of active metals, group IA and heavier members of group IIA, dissolve in
+water and readily form bases. The term base is used to describe both soluble and
+insoluble basic oxides. Some examples of basic oxides are Li2O, Na2O, K2O, MgO,
+CaO, BaO, and CuO.
+Chemical Properties of Basic Oxides
+What common reaction do basic oxides undergo? What products do they form
+in their reactions with water, acidic oxides and acids?
+1. Basic oxides dissolve in water to form alkaline solutions. As they dissolve, they
+react with water to form the corresponding metal hydroxides.
+Basic oxide + water Æ Base (Alkali)
+Examples
+Li2O + H2O Æ 2LiOH
+CaO + H2O Æ Ca(OH)2
+2. Basic oxides react with acidic oxides to form salts.
+Basic oxide + acidic oxide Æ salt
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+97
+Examples
+BaO + SO3 Æ BaSO4
+CaO + CO2 Æ CaCO3
+Na2O + CO2 Æ Na2CO3
+3. Basic oxides react with acids to form a salt and water.
+Basic oxide + Acid Æ salt + water
+Example
+CaO + 2HCl Æ CaCl2 + H2O
+CuO + H2SO4 Æ CuSO4 + H2O
+Exercise 2.4
+1. Complete and balance the following chemical equations:
+a K2O+H2O Æ e BaO + H2SO4 Æ
+b MgO + H2O Æ f CuO + HCl Æ
+c Na2O + CO2 Æ
+d Li2
+O + SO2 Æ
+2. Classify the following oxides as basic or acidic:
+a MgO b BaO c P4O10 d N2O5
+e Cu2O f Fe2O3 g K2O h SO2
+ Experiment 2.1
+Test for Acidity and Basicity of Oxides
+Objective: To identify basic and acidic oxides.
+Materials required: Deflagrating spoon, gas jar and gas jar lid, test tubes. Sulphur,
+magnesium or calcium metal, water, universal indicator, litmus paper (blue
+and red).
+CHEMISTRY GRADE 10
+98
+Procedure:
+1. Ignite a small amount of powdered sulphur on a deflagrating spoon and insert
+in a gas jar of oxygen. Add 10 mL water after ignition is complete. Cover the
+gas jar with a lid and shake. Take two test tubes and pour 5 mL of the
+solution to each test tube. Add a few drops of universal indicator solution to
+the first test tube and blue litmus paper in the second.
+2. Ignite a small amount of magnesium or calcium metal on a deflagrating spoon and
+insert in to a gas jar of oxygen. Add 10 mL water to the ash formed and shake. Take
+two test tubes and pour 5 mL of the solution to each of the test tubes. Add a few
+drops of universal indicator in the first and red litmus paper to the second test tube.
+Observations and analysis:
+a What compounds are formed by the combustion of sulphur and magnesium or
+calcium? Write chemical equations to show the reactions.
+b What happens when water is added to the gas jars in which sulphur was burnt?
+c What colours are observed by adding drops of universal indicator and blue or
+red litmus to the solutions in the test tubes?
+d Why does the change in the colour of indicators occur in the various solutions?
+Write a laboratory report and submit to your teacher.
+Universal indicator and litmus paper serve as indicators. Indicators are substances
+used to identify whether a given solution is acidic or basic by showing colour changes.
+Table 2.1 shows some common indicators and the colour they develop in acidic and
+basic solutions.
+ Table 2.1 Some common indicators and their colours in acidic and basic solution.
+Indicator Colour in aqueous solution Colour in aqueous
+of acidic oxide solutionof basic oxide
+Universal Indicator Yellow – Orange (in weakly acidic) Blue (in weakly basic) and
+and red (in strongly acidic) purple (in strongly basic)
+Litmus Red Blue
+Phenolphthalein Colourless Pink (red)
+Methyl orange Red Yellow
+In addition to their effects on indicators, acidic and basic oxides can be identified by their
+chemical properties. Acidic oxides react with bases while basic oxides react with acids.
+But acidic oxides do not react with acids and basic oxides do not react with bases.
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+99
+C. Amphoteric Oxides
+Activity 2.3
+1. How would you classify the oxides of period III elements?
+2. What trend do you observe in the properties of oxides of the elements in a period as
+you go from left to right in the periodic table?
+Discuss this in your group and present to the class.
+There are oxides which exhibit both acidic and basic properties. These are known as
+amphoteric oxides. In their reaction with acids, they behave as bases and, in their
+reaction with bases they act as acids. The following reaction shows the amphoteric
+behaviour of aluminium oxide, Al2
+O3
+.
+Amphoteric oxide + Acid Æ salt + water
+Al2O3 (s) + 6HCl (aq) Æ 2AlCl3 (aq) + 3H2
+O (l)
+Amphoteric oxide + base Æ salt + water
+Al2O3 (s) + 2NaOH (aq) Æ 2NaAlO2 (aq) + H2O (l)
+sodium aluminate
+Some other examples of amphoteric oxides are ZnO, PbO, PbO2, SnO, and SnO2. It
+is also important to realize that hydroxides which react with both acids and bases are
+described as amphoteric substances. For example, aluminium hydroxide, Al(OH)3
+, reacts
+with both acids and bases to form salt and water. So, Al(OH)3, is amphoteric in nature.
+What is the common characteristic of acidic, basic and amphoteric oxides? Acidic
+oxides form salts when reacted with basic oxides and bases. Basic oxides also produce
+salts in their reactions with acidic oxides and acids. Amphoteric oxides form salts
+when they react with acids and bases. Thus, acidic oxides, basic oxides and amphoteric
+oxides are salt-forming oxides.
+Exercise 2.5
+Write chemical equations to show the amphoteric properties of ZnO and PbO
+when they react with:
+a HCl
+b NaOH
+c HNO3
+d KOH
+CHEMISTRY GRADE 10
+100
+Investigating Amphoteric Behaviour of Oxides
+Objective: To observe the amphoteric behaviour of Al2O3.
+Materials required:
+ Spatula, reagent bottles, beakers, glass rod, Al2O3, HCl, NaOH, Universal
+indicator and water.
+Procedure:
+1. Prepare solutions by:
+a mixing 20 mL concentrated HCl and 80 mL water in one reagent bottle;
+b dissolving 8 g NaOH in 100 mL water in another reagent bottle.
+c Add universal indicator to the acid and base, and observe the colour change.
+2. Take two beakers and place a spatula full of Al2O3 in each of the beakers.
+3. Pour the HCl solution (which you prepared) into one of the beakers and NaOH
+solution into the other. Stir the mixture with a glass rod.
+4. Add universal indicator in the two beakers and observe the colour change.
+Observations and analysis:
+1. Does Al2O3 react with the substances in both solutions?
+2. What does the change in colour of the indicator in the mixtures indicate?
+3. Write chemical equations to show what has happened?
+Write a laboratory report and present to the class.
+D. Neutral Oxides
+Neutral oxides react neither with acids nor with bases to form salt and water. Hence,
+neutral oxides do not show basic and acidic properties. Examples of neutral oxides
+are water, H2O, carbon monoxide, CO, dinitrogen monoxide, N2O, and nitrogen
+monoxide, NO. Neutral oxides are very few in number.
+ Experiment 2.2
+1. In a beauty saloon which chemical is used to decolorize hair? What is the oxidation
+number of oxygen in this compound?
+Activity 2.4
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+101
+2. If Na2O2 and CaO2 are reacted with water, do you get the same compound, which is
+used to decolorize hair? Compare the oxidation number of oxygen in Na2O and MgO
+with the oxidation number of the compound used for decolorizing hair.
+Discuss your findings in group and present to the class.
+E. Peroxides
+In acidic, basic, amphoteric and neutral oxides, the oxidation state of oxygen is –2,
+but in peroxides it is –1. In peroxides, the two oxygen atoms are linked to each other
+and with atoms of other elements. They contain the peroxide, “– O – O –” link. In
+the oxides discussed above, oxygen atoms are linked directly with atoms of other elements.
+Some examples of peroxides are hydrogen peroxide, H2O2
+, sodium peroxide, Na2
+O2,
+calcium peroxide, CaO2, barium peroxide, BaO2, and strontium peroxide, SrO2.
+Most peroxides of metals are formed by burning the metals in a sufficient amount of oxygen.
+2Na (s) + O2 (g) Æ Na2O2 (s)
+Ca (s) + O2 (g) Æ CaO2 (s)
+Chemical Properties of Peroxides
+What chemical properties do the peroxides exhibit? Some of the chemical properties
+of peroxides include:
+a Peroxides are powerful oxidizing agents; they react with different substances
+by losing oxygen.
+Examples
+PbS (s) + 4H2O2 (aq) Æ PbSO4 (s) + 4H2O (l)
+2KI (aq) + H2SO4 (aq) + H2O2 (aq) Æ I2 (s) + K2SO4 (aq) + 2H2O (l)
+b Peroxides react with aqueous acids to form hydrogen peroxide.
+Hydrogen Peroxide
+The structure of the hydrogen peroxide molecule is:
+Examples
+Na2O2 (s) + 2HCl (aq) Æ 2NaCl (aq) + H2O2 (aq)
+CaO2 (s) + H2SO4 (aq) Æ CaSO4 (s) + H2O2 (aq)
+CHEMISTRY GRADE 10
+102
+Hydrogen peroxide decomposes to release oxygen. This reaction is slow but can be
+speeded up by the addition of manganese (IV) oxide, MnO2, as a catalyst.
+2H2O2 (aq) Æ 2H2O (l) + O2 (g)
+Hydrogen peroxide is a strong oxidizing agent. Its oxidizing power is responsible for
+its effectiveness as an antiseptic for mouthwash and cleansing wounds. It is also used
+as a bleaching agent. When hydrogen peroxide is added to a coloured dye, the molecule
+responsible for the colour will oxidize and so the colour will disappear. For example,
+if hydrogen peroxide is added to a black dye (paint) that contains lead sulphide, PbS,
+the black colour turns white. This is due to the oxidation of PbS to PbSO4. The
+equation for this process is:
+PbS (s) + 4H2O2 Æ PbSO4 + 4H2O (l)
+ Experiment 2.3
+Distinguishing Peroxides from Other Oxides
+Objective: To identify peroxides from other oxides.
+Materials required:CaO or MgO, Al2O3 or ZnO or PbO, Na2O2 or BaO2,
+,
+P4O10, KI, dilute H2SO4, starch, water, reagent bottle, six beakers, dropper,
+and spatula.
+Procedure:
+1. Take three beakers. In the first beaker, dissolve 20 g KI in water to prepare
+a 250 mL solution. Dilute 2 mL concentrated H2SO4 by pouring it in 18 mL
+of water in the second beaker. Prepare starch solution in the third beaker by
+boiling 1g starch in 100 mL water.
+2. Take four beakers and pour 50 mL KI solution to each of them. Acidify the
+solutions in each of the beakers by adding 5-10 drops of dilute H2SO4. Add
+a spatula full of CaO or MgO in the first, Al2O3 or ZnO or PbO in the
+second, Na2O2 or BaO2 in the third and P4O10 in the fourth beaker and then
+add about 5 mL starch solution to each of the four beakers.
+Observations and analysis:
+a In which beaker do you see a colour change?
+b What is the cause of the colour change?
+c Write a balanced chemical equation for the change?
+Write a laboratory report and present to the class.
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+103
+Exercise 2.6
+1. Classify the following oxides as acidic, basic, amphoteric, neutral and peroxides:
+a K2O c SO2 e CaO
+b CO d Al2O3 f NO2
+g MgO k NO n CaO2
+h N2O l PbO o Li2
+O
+i ZnO m Na2O2 p P4O6
+j BaO2
+2. Complete and balance the following equations:
+a BaO + P4O10 Æ e Al2O3 + HNO3 Æ
+b SrO + SO3 Æ f CaO + HCl Æ
+c CO2 + KOH Æ g PbO + NaOH Æ
+d ZnO + H3PO4 Æ h MgO + H2SO4 Æ
+3. Which acidic oxide should react with water to form each of the following
+acids?
+a HNO3 d H2SO3
+b H2CO3 e H3PO4
+c H2SO4 f H3PO3
+4. Identify the basic anhydrides that react with water to form each of the following
+bases:
+a Ba(OH)2 e KOH
+b Sr(OH)2 f CsOH
+c Mg(OH)2
+d LiOH
+5. How do peroxides differ from other groups of oxides?
+6. How can you identify whether an oxide is acidic or basic?
+2.3 ACIDS
+Competencies
+After completing this section, you will be able to:
+• define acids in terms of Arrhenius, Brønsted-Lowry and Lewis;
+CHEMISTRY GRADE 10
+104
+• give examples of acids based on Arrhenius, Brønsted-Lowry and Lewis concepts;
+• classify acids as monoprotic and polyprotic based on the numbers of ionizable
+hydrogen atoms;
+• group acids as binary and ternary based on the number of elements they contain;
+• explain the general properties of acids;
+• define strong and weak acids;
+• distinguish between strong and weak acids;
+• define concentrated and dilute acids;
+• describe the conceptual difference between strong and concentrated acids;
+• use the necessary precautions while working with acids;
+• define pH and describe the pH scale;
+• identify a given pH labelled solution as acidic, basic or neutral;
+• perform activities to determine the pH of some common substances using
+universal indicator or a pH-meter;
+• calculate the pH of a given acidic solution;
+• calculate the hydrogen ion concentration from the given information;
+• perform activities to investigate some physical properties of acids;
+• perform activities to investigate some chemical properties of acids;
+• explain the direct combination of elements, the reaction of acidic oxides with
+water, formation of volatile acids from non-volatile acids as the three methods
+of preparation of acids;
+• conduct simple experiments to prepare acids in a laboratory; and
+• describe the uses of three common laboratory acids.
+1. How do you describe an acid?
+2. Give some examples of acids and bases that you have encountered in your everyday
+life?
+3. List as many sour foods as possible which you have ever tasted.
+4. In which form does the hydrogen ion, H+, exist in aqueous solutions?
+Discuss with your group and present it to the class.
+Activity 2.5
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+105
+Acids are among the most familiar of all chemical compounds. Acetic acid in vinegar,
+citric acid in lemons and other citrus fruits, are among the acids that we encounter
+every day. Hydrochloric acid is the acid in gastric juice; it is essential to digestion.
+Phosphoric acid gives flavour to many carbonated beverages.
+Definitions of Acids
+a Arrhenius Definition of Acids
+The simplest definition of acids is suggested by Savante Arrhenius, a Swedish Chemist.
+Arrhenius defined an acid as a substance that releases hydrogen ion or proton, H+, or
+hydronium ion, H3
+O+, in aqueous solution.
+Example
+HCl(aq) Æ H+(aq) + Cl–(aq)
+or,
+HCl(aq) + H2
+O(l) Æ H3
+O+(aq) + Cl–(aq)
+Some examples of Arrhenius acids are HCl, HNO3, H2SO4, HI, HBr, and HF. For a
+substance to be called an Arrhenius acid, it should contain ionizable hydrogen.
+Despite its early success and usefulness, the definition of an acid, first proposed by
+Arrhenius has some limitations. The Arrhenius definition of acids explains their behaviour
+only in aqueous solution. In addition, it does not explain why some substances show
+acidic behaviour in the gaseous state and in non-aqueous solutions.
+For example, when ammonia and hydrogen chloride gases are brought together, they
+react to form ammonium chloride as follows:
+NH3 (g) + HCl (g) Æ NH4Cl (s)
+In this reaction, the hydrogen chloride provides hydrogen ion (or proton), H+, which
+reacts with NH3 to form NH4
++. But, this happens in the gaseous state not in aqueous
+solution. Due to the limitations of Arrhenius’ definition, chemists tried to define acids in
+a more general way.
+Brønsted-Lowry Definition of Acids
+A broader and more general definition of acids was provided independently in 1923,
+by Johannes Brønsted and Thomas M. Lowry. According to Brønsted-Lowry definition;
+an acid is a substance that donates protons, H+, to some other substance.
+CHEMISTRY GRADE 10
+106
+Examples
+HCl (aq) + H2O (l) Æ H3O+ (aq) + Cl– (aq)
+NH3 (aq) + H2O (l) U NH4 
++ (aq) + OH– (aq)
+H3PO4 (aq) + 2H2O (l) U HPO2–
+4 (aq) + 2H3O+ (aq)
+In the above reactions, HCl in the first, H2O in the second and H3PO4 in the third
+are Brønsted-Lowry acids because they are proton donors. Here it is very important
+to realize that all Arrhenius acids are Brønsted-Lowry acids. However, the reverse
+is not true because Brønsted-Lowry acids include substances that are not acids
+according to Arrhenius.
+Although the Brønsted-Lowry definition of an acid is more general than the definition
+proposed by Arrhenius, it still depends on the transfer of protons. However, the
+presence of acids that are not proton-donors, initiated chemists to search for another
+definition of acids.
+b Lewis Definition of Acids
+In 1923, the American chemist Gilbert Newton Lewis produced a definition of acid
+that extends the concept of acids even further than that of Brønsted-Lowry.
+According to Lewis, an acid is a substance that can form a coordinate covalent
+bond by accepting an electron pair from another substance. In other words, an
+acid is an electron-pair acceptor. Consider the following reactions:
+In the above reaction, between BF3 and F–, BF3 acts as a Lewis acid since it accepts
+a pair of electrons from F–.
+The Lewis definition of an acid is also valid for the Arrhenius concept of an acid.
+This is because as the acid releases an hydrogen ion, H+, in aqueous solution, the
+released proton or H+ accepts a pair of electrons from a water molecule to form an
+hydronium, H3O+ ion.
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+107
+The Lewis definition of an acid is also valid for the Brønsted-Lowry concept of
+acids. Since Brønsted-Lowry defined an acid as a proton donor, the donated proton
+can be accepted by a molecule or species that has lone pair of electrons. So the
+proton, H+, is an electron pair acceptor and hence a Lewis acid. Consider the
+following reaction.
+NH3 (g) + H2O (l) U NH4
++ (aq) + OH– (aq)
+In this reaction, H2
+O is a proton donor and hence a Brønsted-Lowry acid. The donated
+proton from water to ammonia, accepts a pair of electrons from the nitrogen atom in
+NH3 to form NH4
++ as shown below:
+The Lewis concept of acids not only includes H+ as an acid, but also ions or molecules
+capable of accepting an electron pair that neither release H+ in aqueous solution nor
+donate a proton.
+Classification of Acids
+Phosphoric acid, H3
+PO4
+, has three hydrogen atoms and it is a triprotic acid. Acetic acid,
+CH3
+COOH, has four hydrogen atoms and is classified as a monoprotic acid. Discuss the
+reason in your group and present it to the class.
+There are different ways of classifying acids; they can be classified depending on the
+number of replaceable (ionizable) hydrogen atom(s) they contain per molecule as
+monoprotic or polyprotic acids.
+Monoprotic acids are the acids containing only one ionizable (replaceable)
+hydrogen atom per molecule or those acids that can furnish only one hydrogen
+Activity 2.6
+CHEMISTRY GRADE 10
+108
+ion per molecule in aqueous solution. Common examples of monoprotic acids are
+HCl, HNO3
+, HBr, HI, and CH3
+COOH. The ionization of a monoprotic acid in aqueous
+solution is presented using HCl and HNO3 as specific examples, as shown below:
+HCl (aq) Æ H+ (aq) + Cl– (aq)
+HNO3 (aq) Æ H+ (aq) + NO3
+– (aq)
+Polyprotic acids are those acids containing more than one ionizable (replaceable)
+hydrogen ion in aqueous solution. Example of acids in this category includes H2SO4
+,
+H2CO3, and H3PO4.
+The ionization of polyprotic acids in aqueous solution is shown in the following chemical
+equations:
+H2SO4 (aq) Æ 2H+ (aq) + SO4
+2– (aq)
+H2CO3 (aq) U 2H+ (aq) + CO3
+2– (aq)
+H3PO4 (aq) U 3H+ (aq) + PO4
+3– (aq)
+Polyprotic acids which contain two ionizable hydrogen atoms such as H2SO4, H2S,
+and H2CO3 are also called diprotic acids; those containing three ionizable hydrogen
+atoms like H3PO4 are called triprotic acids.
+Activity 2.8
+Activity 2.7
+Ammonia and phosphoric acid have three hydrogen atoms but ammonia does not behave
+as triprotic acid. Why? Discuss in your group and present it to the class.
+Acids can also be classified depending on the number of their constituent elements as
+binary and ternary acids. Binary acids are those acids composed of only two elements.
+Examples of binary acids are HCl, HBr, HF, HI, and H2S.
+Ternary acids also called oxy-acids are acids composed of three different elements.
+They usually contain hydrogen, oxygen and a non-metal. Examples are H2SO4
+, H2
+CO3
+,
+HClO4, and H3PO4.
+General Properties of Acids
+Add a drop of lemon juice on your tongue and try to identify its taste. Repeat your
+observation with orange juice. Do the two juices taste bitter or sour? Try to classify them
+as acid or base, depending on their taste. Share your observations with the rest of class.
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+109
+Acids generally have the following properties:
+1. Acids have a sour taste
+Aqueous solutions of acids have a sour taste. Lemon juice and orange juice taste
+sour due to the presence of citric acid. Citric acid is harmless. However, most
+concentrated acids are corrosive and poisonous. So it is strictly forbidden to attempt
+to identify such acids by tasting them.
+2. Acids change the colour of indicators
+The common indicators available in high school laboratories are litmus,
+phenolphthalein, methyl orange or methyl red and universal indicator. The effect of
+acids on the colour of indicators is summarized in Table2.1, Section 2.2.
+ Experiment 2.4
+Effect of Acids on Indicators
+Objective: To detect acidity of a solution using indicators.
+Materials required: Lemon juice, dilute HCl, dilute HNO3, dilute H2SO4
+phenolphthalein, litmus, methyl red, universal indicator, test tubes, test tube rack,
+test tube holder, and reagent bottles.
+Procedure:
+Take four clean test tubes and place some lemon juice in the first, dilute HCl
+in the second, dilute HNO3
+ in the third and dilute H2
+SO4
+ in the fourth. Dip a
+strip of blue litmus paper into each of the four test tubes and observe. Follow
+the same procedure and repeat the experiment until each acid has been tested
+by each indicator. Record your observation.
+Observations and analysis:
+What colours have you observed when each indicator was added to each of
+the four acid solutions? Use the following Table to record your observation:
+Colour of indicator in
+Indicator Lemon juice dilute HCl dilute HNO3 dilute H2SO4
+Phenolphthalein
+Litmus
+Methyl red
+Universal
+indicator
+Write a laboratory report and present to the class.
+CHEMISTRY GRADE 10
+110
+3. Acids react with active metals to form salt and hydrogen gas
+Metals like magnesium, zinc, and iron react with dilute acids to form salt and liberate
+hydrogen gas.
+Acid + Active metal Æ Salt + Hydrogen gas
+Examples
+2HCl + Zn Æ ZnCl2 + H2
+H2SO4 + Mg Æ MgSO4 + H2
+Very active metals like sodium, potassium, and calcium react very violently with dilute
+acids. The reaction is very dangerous and should not be performed.
+Acids reacting with metals do not necessarily produce hydrogen gas. For example,
+concentrated nitric acid and hot concentrated sulphuric acid react with copper producing
+nitrogen dioxide and sulphur dioxide gases, respectively, instead of hydrogen. This is
+because concentrated HNO3 and hot concentrated H2
+SO4 are oxidizing acids. The
+reactions of these acids with copper are given by the following equations:
+Cu + 4HNO3 Æ Cu(NO3)2 + 2NO2 + 2H2O
+Cu + 2H2SO4 Æ CuSO4 + SO2 + 2H2O
+ Experiment 2.5
+Investigating the Reactions of Metals with Dilute Acids
+Objective: To investigate the reaction between active metals and dilute acids.
+Materials required: Dilute H2SO4, dilute HCl, zinc, magnesium and iron, test
+tubes, test tube holder, test tube rack, burner, wooden splint, spatula.
+Procedure:
+Take three test tubes and place a spatula-full of powdered zinc in the first,
+powdered magnesium in the second and iron filings in the third. Pour dilute
+HCl into each of the test tubes until the metals are completely covered by the
+acid. To test the type of gas evolved, cover one of the test tubes with a piece
+of cardboard for a few seconds. Bring a burning splint close to the mouth of
+the test tube and remove the cardboard.
+Repeat the experiment with dilute H2
+SO4
+ after placing each of the three metals
+in three different test tubes.
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+111
+Observations and analysis:
+a What does the formation of bubbles indicate?
+b What sound do you hear when the burning splint is close to the mouth of
+the test tube?
+c Which gas is evolved during the reaction?
+d Which metal’s reaction with dilute HCl or H2
+SO4
+ is the most violent?
+Write a laboratory report on your observations and present to the class.
+4. Acids react with carbonates and hydrogen carbonates to form salt, water
+ and carbon dioxide gas
+Acid + hydrogen carbonate Æ salt + water + carbon dioxide
+Acid + carbonate Æ salt + water + carbon dioxide
+Examples
+2HCl + MgCO3 Æ MgCl2 + H2O + CO2
+H2SO4 + Ca(HCO3)2 Æ CaSO4 + 2H2O + 2CO2
+2HNO3 + Na2CO3 Æ 2NaNO3 + H2O + CO2
+ Experiment 2.6
+Reactions of Acids with Carbonates and Hydrogen Carbonates
+Objective: To investigate the reaction between acids and carbonates and bicarbonates.
+Materials required: Sodium carbonate, calcium carbonate, calcium or magnesium
+or sodium bicarbonate, dilute HCl, dilute H2SO4, dilute HNO3, lime water
+(Ca(OH)2 solution) blue and red litmus paper, conical flask, delivery tube,
+rubber stopper, beaker.
+Procedure:
+1. Take three conical flasks and add powdered Na2CO3 in the first, powdered
+CaCO3 to the second and powdered sodium bicarbonate to the third. Pour
+dilute HCl into each of the three conical flasks until the acid covers the carbonates
+and bicarbonate. Hold damp blue litmus paper close to the mouth of the conical
+CHEMISTRY GRADE 10
+112
+flasks. Repeat this with damp red litmus paper and record your observations.
+Bubble the gas through limewater as shown in Figure 2.1.
+Limewater
+Delivery tube Rubber stopper
+CaCO3
+Gas bubbles
+Dilute H lC
+Beaker
+Conical flask
+Figure 2.1 Test for Carbon dioxide.
+2. Repeat the experiment using the same carbonates and hydrogencarbonate with
+dilute H2SO4 and dilute HNO3.
+Observations and analysis:
+a What does the formation of bubbles in the conical flasks indicate?
+b Does the colour of the damp blue litmus paper change when you hold it close
+to the mouth of the conical flasks? What about the colour of damp red litmus?
+c What happened to the colour of lime water when you bubble the gas through
+it? If there was any change, what did it prove? Write a balanced chemical
+equation for the change?
+Write a laboratory report on your observation and present to the class.
+5. Concentrated acids react with sulphites liberating sulphur dioxide gas
+ and forming a salt and water
+Sulphite + Acid Æ Sulphur dioxide + Salt + Water
+Examples
+Na2SO3 + 2HCl Æ SO2 + 2NaCl + H2O
+CaSO3 + H2SO4 Æ SO2 + CaSO4 + H2O
+6. Acids neutralize basic oxides and bases or alkalis to form salt and water
+The reaction of acids with basic oxides or bases to form salt and water is called
+neutralization reaction.
+Acid + Basic oxide Æ Salt + Water
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+113
+Examples
+2HCl + MgO Æ MgCl2 + H2O
+H2SO4 + CaO Æ CaSO4 + H2O
+Acid + Base Æ Salt + Water
+Examples
+H2SO4 + 2NaOH Æ Na2SO4 + 2H2O
+HNO3 + KOH Æ KNO3 + H2O
+ Experiment 2.7
+Neutralization Reaction
+Objective: Investigate the reaction between acids and bases
+Materials required: 1 M HCl, 1 M NaOH, 0.5 M Ca(OH)2, red and blue litmus
+papers, four 150 mL beakers, two droppers, stirring rod, two watch glasses.
+Procedure:
+1. Make 1 M NaOH solution by dissolving 4.0 g NaOH in enough water to
+make 100 mL solution.
+2. Make a 1 M HCl solution by dissolving 8.3 mL of concentrated HCl in enough
+distilled water until the volume of the solution is 100 mL.
+3. Dissolve 3.7 g of Ca(OH)2 in enough distilled water to make 100 mL solution.
+4. To a 150 mL beaker add 10 mL HCl solution and 9.5 mL NaOH solution and
+stir thoroughly and test with blue and red litmus paper. Continue adding NaOH
+solution dropwise using a dropper, stirring after each addition and checking
+with red and blue litmus until the blue remains blue and the red stays red. Put
+2 mL of the neutral solution in a watch glass and allow the water to evaporate
+until the next day.
+5. To another 150 mL beaker add 10 mL Ca (OH)2 solution and 9.5 mL HCl
+solution. Repeat all the steps, which you followed in procedure 4.
+CHEMISTRY GRADE 10
+114
+Observations and analysis:
+a Is there any colour change, when you dip blue and red litmus papers into the
+solution of the acid and the base?
+b Why is it necessary to add NaOH solution dropwise (one drop at a time) in
+procedure 4?
+c During this experiment, under what conditions does the blue litmus remain blue
+and the red remain red?
+d What are the products formed in procedures 4 and 5? Write balanced chemical
+equations for the reactions?
+Write a laboratory report on your observations and submit to your teacher.
+7. Acids are electrolytes They conduct electricity in aqueous solutions.
+Strength of Acids (Strong and Weak Acids)
+1. Add a few drops of citric acid solution and nitric acid separately on a piece of waste
+cotton cloth; what happens? Based on your observations, can you classify these acids as
+weak acid or strong acid?
+ 2. You are allowed to taste some acids like acetic acid (in the form of vinegar), and citric
+acid at home, but you are never allowed to taste any kind of acids in the laboratory.
+What is the reason?
+Discuss your findings in your group and present to the class.
+Acids can be classified as strong acids and weak acids depending on their degree of
+ionization in aqueous solution, i.e., the extent to which the acids dissociate to form
+hydrogen or hydronium ions when they dissolve in water. A strong acid is one that
+ionizes almost completely in aqueous solution. Examples of strong acids are HClO4,
+HI, HBr, HCl, HNO3, and H2SO4. These acids dissociate to a very high extent as
+shown below:
+HCl (aq) Æ H+ (aq) + Cl– (aq)
+HNO3 (aq) Æ H+ (aq) + NO3
+– (aq)
+HClO4 (aq) Æ H+(aq) + ClO4
+– (aq)
+A dilute aqueous solution of strong acids contains predominantly the ions derived from
+the acids instead of the acid molecules. For example, HCl and HNO3 are almost
+completely ionized in water.
+Activity 2.9
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+115
+An acid that releases few hydrogen ions in aqueous solution is a weak acid. The
+aqueous solution of a weak acid contains hydronium ions, anions and dissolved
+molecules of the acid.
+Organic acids which contain the acidic carboxyl group –COOH, are generally weak
+acids. For example, CH3
+COOH, ionizes slightly in water to give hydronium ions and
+acetate ions, CH3COO–.
+CH3COOH (aq) + H2O(l) U CH3COO– (aq) + H3O+(aq)
+Concentrated and Diluted Acids
+1. In a solution, if there is 95% H2
+O and the rest is HCl, what kind of solution is it?
+2. In a car battery, the electrolyte used is 35% of H2
+SO4
+. How many percent of it is water?
+What do you think about the concentration of the electrolyte?
+“Concentrated” and “dilute” are terms used to describe the relative amount of acid in
+a given acid solution.
+A concentrated acid contains a relatively large amount (percentage) of acid and a
+small amount of water. For example, concentrated sulphuric acid is 98% H2SO4 and
+2% water. Concentrated acetic acid is 99% acetic acid and 1% water. But, H2SO4 is
+a strong acid and CH3COOH a weak acid.
+A dilute acid contains a relatively small amount of acid dissolved in large amount of
+water. For example, a diluted solution of sulphuric acid may contain 10% H2SO4 and
+90% H2O.
+The concentration of an acid is the measure of the number of moles of the acid in one
+litre of acid solution and is expressed in mol/L. This unit of concentration is called
+Molarity, denoted by M. Mathematically,
+Molarity (M) = 
+Number of moles of the substance dissolved
+Volume of solution in litres
+Number of moles of the substance = Mass of the substance dissolved in grams
+Molar mass of the substance
+For example, the concentration of 98% H2SO4 is about 18 mol/L. If one litre of this
+acid is added to 2 litres of water to make 3 litres of solution, the concentration will
+Activity 2.10
+CHEMISTRY GRADE 10
+116
+become 6 mol/L. The new solution obtained is a dilute solution of H2SO4. Thus,
+concentrated acids contains a greater number of moles of acid while dilute acids contain
+less number of moles of the acid per litre of the acid solution.
+Example
+How many moles of HCl are present in 0.8 L of a 0.5 M HCl solution?
+Solution:
+M = 
+n
+V fi n = MV = 0.5 M × 0.8 L = 0.4 mol HCl, where M is the
+molarity, n, the number of moles and V, volume of solution in litre.
+An important aspect of the property of acids is that they conduct electricity in aqueous
+solutions, i.e., the acids are electrolytes. The extent of conduction of electricity depends
+on the amount of ions present in the solution. Thus, aqueous solutions of strong acids
+are better conductors of electricity than the same concentrations of weak acid solutions.
+The conduction of electricity through acid solution is also used as one means of
+identification between weak and strong acids.
+ Experiment 2.8
+Can Aqueous Acid Solution Conduct Electricity?
+Objectives: To investigate the conductivity of acids
+Materials required: 1 M HCl, 1 M HNO3, 1 M CH3
+COOH, three 150 mL beakers,
+two graphite electrodes, insulated electric wires, two dry cells, and bulb
+Procedure:
+Take about 100 mL of 1 M HCl in the first beaker, the same volume and
+concentration of HNO3
+ and CH3
+COOH in the second and third beakers respectively.
+Arrange the set up as shown in Figure 2.2. First test the conduction of electricity
+through HCl solution by inserting the two graphite electrodes. See whether the
+bulb glows or not. Is the light bright or dim? Record your observation. Repeat
+the same activity with HNO3 and CH3COOH. Rinse the electrodes after use
+in each of the acid solutions. Compare the intensity of light produced with
+HNO3 and CH3COOH.
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+117
++ –
+Battery
+Switch
+Anode (+) Cathode (–)
+HCl solution
+Bulb
+Figure 2.2 Conductivity of acid solution.
+Observations and analysis:
+a In which of the acid solutions does the bulb produce:
+i) bright light? ii) dim light?
+b What conclusions can you draw from your observations?
+Write a laboratory report on your observations and present to the class.
+Precautions when Handling Acids
+Concentrated acids are extremely corrosive and poisonous. They can destroy metals
+and clothes; produce a chemical burn on skin or inside the body. If taken internally
+they can be fatal. So acids must be handled with care.
+The following precautions are helpful while working with acids:
+a Wear goggles, gloves and a laboratory coat.
+b If a concentrated acid is spilled or splashed on your body, first wash the affected
+part with running water and then with 10% Na2
+CO3
+ solution.
+c If concentrated acid is spilled on to cloth, immediately wash it with running water.
+d If an acid enters your eye, wash with water repeatedly and then consult a doctor.
+CHEMISTRY GRADE 10
+118
+e If corrosive acids are swallowed, administer weak bases such as Mg(OH)2 or
+Al(OH)3
+.
+f Use bellows to pipette acid instead of sucking using yours lips.
+g To dilute concentrated acids, pour the concentrated acid in to water and not
+water in to the acid.
+pH and pH scale
+Expressing acidity as the concentration of H3O+ can be cumbersome because the
+values tend to be very small. A more convenient quantity called pH is used to indicate
+the concentration of H3O+. The letter pH stands for the French words pouvoir
+hydrogène, meaning “hydrogen power”.
+pH is defined as the negative logarithm of the hydrogen ion concentration (hydronium
+ion concentration). The mathematical expression is:
+pH = log 1
+[ ] H + = – log [H+]
+The square bracket [ ] means concentration in mol/L.
+To calculate the hydrogen ion concentration of a solution from its pH we can proceed
+as follows.
+[H+] = antilog (–pH) = 10–pH
+The pH of a solution can be measured using universal indicator solution, pH indicator
+paper or a pH-meter. When universal indicator solution or pH indicator papers are
+added to an acid solution, they develop different colours depending on the pH of the
+solution. So, to identify the pH, we need to compare the colour developed with the
+standard colour chart. A pH meter is an electronic device, which reads the pH of a
+solution directly. (Figure 2.3).
+Figure 2.3 a) The colour of universal indicator in solutions of pH from 1 to 12,
+ b) A pH meter with its electrical probe dipped into an orange.
+a
+b
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+119
+Acidity and alkalinity are usually expressed on the pH scale. The range is between 0
+and 14.
+A neutral solution has a pH value of 7 at 298 K. Acidic solutions have pH values less
+than 7. As the pH value decreases the acidity of the solution increases. For example,
+if two solutions A and B have pH values of 4 and 6, respectively, then we can conclude
+that solution A is more acidic than solution B. The hydrogen ion concentration in
+solution A is one hundred times greater than that in B.
+The following examples will guide us through how to calculate pH values of solutions.
+Example
+Calculate the pH of a 0.001 M solution of HCl?
+Solution:
+HCl is a strong acid and dissociates almost completely.
+The dissociation of 0.001 M (0.001 mol/L) of HCl produces 0.001 mol/L of
+H+ and 0.001 mol/L of Cl– as follows:
+ HCl (aq) Æ H+(aq) + Cl– (aq)
+ 0.001 mol/L 0.001mol/L 0.001 mol/L
+Thus, [H+] = 0.001 mol/L = 1 × 10–3 M
+pH = –log [H+] = – log 1 × 10–3 = 3
+Example
+The hydrogen ion concentration in a dilute solution of vinegar is 4.6 × 10-5 M.
+What is the pH of the solution?
+Solution:
+pH = – log [H+] = – log (4.6 × 10–5) = – (log 4.6 + log 10–5)
+= – (log 4.6 – 5) = – (0.663 – 5) = 4.337
+CHEMISTRY GRADE 10
+120
+Example
+The pH of lemon juice was determined to be 3. What is the hydrogen ion
+concentration in the lemon juice?
+Solution:
+pH = – log [H+]; –pH = log [H+]
+[H+] = antilog (–pH) = 10–pH
+ = 10–3M
+Exercise 2.7
+1. The pH of a given solution is 8. What is the hydrogen ion concentration of the
+solution?
+2. Two solutions A and B have pH values of 2 and 6 respectively. How many
+times greater is the hydrogen ion concentration in solution A than that of
+solution B?
+ Experiment 2.9
+pH of Solutions of Common Substances
+Objective: To determine the pH of different substances
+Materials required: Lemon juice, vinegar, tonic water, tomato juice, beakers, and
+universal indicator solution or pH indicator paper
+Procedure:
+Take four beakers and place lemon juice in the first, vinegar solution in the
+second, tonic water in the third and filtered tomato juice solution in the fourth.
+Then pour a few drops of universal indicator solution or dip a piece of pH
+indicator paper into each of the solutions. Compare the colour developed with
+standard colour chart to decide the pH of each solution.
+Observations and analysis:
+a What is your conclusion based on your observations?
+b Are the substances used in this experiment acidic or neutral? Why?
+c Record your observations using the following Table:
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+121
+Substance Colour developed pH
+Lemon juice
+Vinegar solution
+Tonic water
+Tomato juice
+Write a laboratory report on your observations and present to the class.
+Preparation of Acids
+Acids can be prepared by:
+1. The reaction of oxides of non-metals (acidic oxides) and water:
+Acidic oxide + Water Æ Acid
+Examples
+SO2 (g) + H2O (l) Æ H2SO3 (aq)
+N2O5 (s) + H2O (l) Æ 2HNO3 (aq)
+P4O10 (s) + 6H2O (l) Æ 4H3PO4 (aq)
+2. Direct combination of some non-metals like S, Cl, Br with hydrogen:
+This method is mostly used to prepare binary acids (acids consisting only two
+elements)
+Examples
+H2 (g) + Cl2 (g) Æ 2HCl (g)
+H2 (g) + Br2 (g) Æ 2HBr (g)
+When gaseous hydrogen chloride and hydrogen bromide dissolve in water,
+they form hydrochloric acid and hydrobromic acid respectively.
+3. Using a non-volatile acid: Volatile acids can be prepared by heating their
+salts with a non-volatile acid such as concentrated sulphuric acid, H2SO4.
+Hydrochloric acid HCl and nitric acid, HNO3
+ can be prepared by this method
+according to the following equations.
+NaCl (s) + H2SO4 (l) Æ NaHSO4 (s) + HCl (l)
+NaNO3 (s) + H2SO4 (l) Æ NaHSO4 (s) + HNO3 (l)
+CHEMISTRY GRADE 10
+122
+Preparation of Chlorous Acid
+Objective: To investigate the product formed from Ba(ClO2)
+2 and H2SO4
+Materials required: Two 250 mL beakers, glass rod, water, dropper, test tubes,
+test tube rack, blue and red litmus papers, methyl red, Ba(ClO2)2 and
+concentrated H2SO4.
+Procedure:
+1. Dissolve 12 g Ba(ClO2)
+2 to prepare 100 mL solution in one beaker. Dilute 2
+mL concentrated H2SO4 with water to prepare 50 mL of dilute H2SO4 solution
+in the second beaker.
+2. Add 80 mL of Ba(ClO2)
+2 solution to the dilute solution of H2SO4 in the second
+beaker. Is there any formation of the white precipitate? What do you think is
+the precipitate formed? Wait for some time till the precipitate settles. Continue
+adding Ba(ClO2)
+2 solution using a dropper, one drop at a time until formation
+of white precipitate stops. After all the precipitate settles, take 5 mL of the
+clear liquid in a test tube and test with litmus or methyl red.
+Observations and analysis:
+a Is the final solution acidic or basic?
+b Which acid is formed?
+c Write a balanced chemical equation for the reaction.
+Write a laboratory report as a group and present to the class.
+Reading assignment
+Refer to chemistry books from the library and write the uses of sulphuric acid, nitric
+acid and hydrochloric acid.
+Uses of some important acids
+ Experiment 2.10
+1. List uses of some common acids in your daily life.
+2. High consumption of sulphuric acid in a country indicates the economic growth of the
+country. What is the reason? Discuss in groups and present to the class.
+Activity 2.11
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+123
+Hydrochloric Acid, HCl is present naturally in the gastric juice of our body and
+helps in the digestion of food. Industrially, hydrochloric acid is important for pickling
+of iron and steel (to remove surface impurities) before galvanizing and tin plating. It
+is also used to produce aniline dyes, drugs, photographic films, plastics like polyvinyl
+chloride (PVC), and to recover magnesium from sea water.
+Nitric Acid, HNO3 is used industrially in the manufacture of explosives such as
+trinitrotoluene (TNT) and trinitroglycerine, fertilizers such as KNO3
+ and NH4NO3,
+rubber, chemicals, plastics, dyes and drugs.
+Sulphuric acid, H2SO4 is the leading industrial chemical. It is widely used in the
+production of sulphate and phosphate fertilizers, synthetic fibres, paints, drugs,
+detergents, paper and dyes. It is also used in petroleum refining, production of metals
+and as electrolyte in car batteries.
+Exercise 2.8
+1. Which one of the following substances are Arrhenius acids:
+a HClO4 d BF3
+b HI e HF
+c HBr f PCl5
+2. In each of the reactions listed below, identify the Brønsted-Lowry acid:
+a CH3COOH (aq) + H2O (l) U CH3COO– (aq) + H3O+ (aq)
+b HCN (aq) + SO4
+2– (aq) U CN– (aq) + HSO4
+– (aq)
+c HF (aq) + NH3 (g) U F– (aq) + NH4
++ (aq)
+d HClO4 (aq) + N2H4 (aq) U ClO4
+– (aq) + N2H5
++ (aq)
+3. Identify the Lewis acids in each of the following reactions:
+a AlCl3 + Cl– Æ AlCl4
+–
+b BF3 + NH3 Æ F3B – NH3
+c SiCl4 + 2Cl– Æ SiCl6
+–2
+d PF5 + F– Æ PF6
+–
+CHEMISTRY GRADE 10
+124
+4. Classify the following acids as monoprotic, diprotic or triprotic, binary or ternary,
+strong or weak acids. (give three answers for each type):
+a HClO4 h HNO3
+b H2SO4 i CH3COOH
+c H2CO3 j H2SO3
+d HF k H2S
+e HCl l H3PO4
+f HNO2
+g HCN
+5. A reagent bottle (labelled as A) is filled with HCl solution and the other (labelled
+as B) is filled with water. Both liquids in the bottles are colourless. What
+method do you recommend to identify the acid and water?
+6. What is the basis for the classification of acids as strong and weak?
+7. What is the pH of a solution having the following hydrogen ion concentrations?
+a 5 × 10–3 M b 0.003 M c 2.0 × 10–6 M
+8. Calculate the hydrogen ion concentrations in solutions having the following pH
+values:
+a 4 b 2 c 5
+9. How many moles of H2SO4 are present in 0.500 L of a 0.150 M H2SO4
+solution?
+2.4 BASES
+Competencies
+After completing this section, you will be able to:
+• define bases in terms of the concepts of Arrhenius, Brønsted-Lowry and Lewis;
+• give examples of bases based on Arrhenius, Brønsted-Lowry and Lewis
+concepts;
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+125
+• explain the general properties of bases;
+• define strong and weak bases;
+• distinguish between strong and weak alkalis (soluble bases);
+• define concentrated and dilute alkalis;
+• distinguish between concentrated and dilute alkalis (soluble bases);
+• use the necessary precautions while working with bases;
+• define pOH;
+• show the mathematical relationship between pH and pOH;
+• calculate the pOH of a given solution;
+• calculate the concentration of hydroxide ions from the given information;
+• conduct activities to investigate some chemical properties of bases;
+• explain the reaction of active metals with water, the reaction of basic oxides
+with water, and double displacement reactions as the three methods of preparation
+of bases;
+• conduct simple experiments to prepare bases in a laboratory;
+• describe the uses of the three common laboratory bases (NaOH, Ca(OH)2
+and NH3).
+1. Have you ever wondered about the origin of the saying “it is a bitter pill (kosso) to
+swallow”? Discuss and give a meaning to the saying.
+2. Discuss why farmers sometimes need to put crushed limestone on their soil.
+3. While taking bath, have you ever had soap in your mouth? How does it taste?
+Share your experience with your class.
+Bases belong to the class of inorganic compounds that include most oxides and
+hydroxides of metals. They are of great importance in chemical industries and in our
+daily lives, directly or indirectly. For example, sodium hydroxide, NaOH is used in the
+production of soap, paper, textile etc. Potassium hydroxide, KOH is used to produce
+soft soap, fertilizers etc. Calcium hydroxide, Ca(OH)2, is used to manufacture mortar
+and bleaching powder, to remove soil acidity etc.
+Definition of Bases
+There are different definitions of bases, as suggested by different chemists namely Arrhenius,
+Bronsted-Lowry and Lewis.
+Activity 2.12
+CHEMISTRY GRADE 10
+126
+Arrhenius definition of bases: A base is any substance that ionizes (dissociates) in
+aqueous solution to release hydroxide, OH– ions. Arrhenius bases are mostly ionic
+metal hydroxides such as, LiOH, NaOH, KOH and Ba(OH)2. The dissociation of a
+few bases is shown by the following equations:
+NaOH (aq) Æ Na+ (aq) + OH– (aq)
+Ba(OH)2 (aq) Æ Ba2+ (aq) + 2OH– (aq)
+Brønsted-Lowry definition of bases: A base is a substance that is capable of
+accepting proton(s), H+. Thus, a base is a proton, H+ acceptor.
+Note:
+Note that not all Brønsted-Lowry bases are Arrhenius bases, but all Arrhenius
+bases contain the hydroxide ion which is a Brønsted-Lowry base. This is because
+OH-
+ can accept a proton, H+, to form water.
+According to the Brønsted-Lowry definition, an acid-base reaction is the transfer of a
+proton from an acid to a base.
+Example
+NH3 (aq) + HCl (aq) Æ NH4
++ (aq) + Cl– (aq)
+ Base Acid
+HCO–
+3 (aq) + OH– (aq) U CO 2
+3
+− (aq) + H2O (l)
+ Acid Base
+Lewis Definition of Bases
+The Lewis definition is a more general definition than the Arrhenius and BrønstedLowry definitions. According to Lewis, a base is a substance that is capable of
+donating a pair of electrons. In other words, a base is an electron-pair donor.
+Brønsted-Lowry bases are also bases according to the Lewis concept. This is
+because for Brønsted-Lowry bases to accept a proton, H+ they should have a
+lone pair. However, Lewis base include other species that can form a coordinate
+covalent bond by sharing their lone pair with substances other than a proton, H+.
+It is important to note that Lewis acid-base reactions include many reactions that
+do not involve protons. The following equation shows an acid-base reaction
+according to Lewis concept:
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+127
+Example
+Consider the following reactions:
+NH3 + H+ Æ NH4
++
+BF3 + F– Æ BF4
+–
+In the above reactions, name the Lewis acids and Lewis bases. Do NH3
+ and F–
+ act as Lewis
+acid or Lewis base? Why?
+General Properties of Bases
+Activity 2.13
+Dissolve one table-spoon of washing soda in a glass of water. Try to wash your hands with
+this solution. How do you feel? Does it give a soapy touch or an oily touch. Share your
+observations with the rest of the class.
+Activity 2.14
+Bases like NaOH, KOH, and Ba(OH)2 are readily soluble in water, while others such as
+Mg(OH)2 are slightly soluble. Bases that are soluble in water are also called alkalis.
+Bases or alkalis show the following properties:
+1. Bases are slippery to the touch and have a bitter taste: Bases have a bitter
+taste; feel slippery to the skin in dilute aqueous solutions. Strong bases such as
+NaOH and KOH are very corrosive and poisonous. So they should be neither
+brought in to contact with the skin nor tasted.
+2. Soluble bases change the colour of indicators: Aqueous solutions of bases
+turn the colour of red litmus to blue, phenolphthalein to pink (red), methyl red to
+yellow and universal indicator blue (purple).
+CHEMISTRY GRADE 10
+128
+3. Soluble bases release hydroxide ion in aqueous solution: The characteristic
+properties of bases in aqueous solutions are due to the presence of the hydroxide
+ion, OH–
+ which they release on dissolution.
+Examples
+KOH (aq) Æ K+ (aq) + OH– (aq)
+Ca(OH)2 (aq) U Ca2+ (aq) + 2OH– (aq)
+4. Bases neutralize acids or acidic oxides to form salt and water:
+Base + Acid (or acidic oxide) Æ Salt + Water
+Examples
+2NaOH (aq) + H2SO4 (aq) Æ Na2SO4 (aq) + 2H2O (l)
+2KOH (aq) + SO3 (g) Æ K2SO4 (aq) + H2O (l)
+Ca(OH)2 (aq) + 2HCl (aq) Æ CaCl2 (aq) + 2H2O (l)
+5. Aqueous solutions of bases conduct electricity: Soluble bases are electrolytes.
+Solutions of strong bases are good conductors while solutions of weak bases are
+poor conductors.
+Strength of Bases (Strong and Weak Bases)
+Activity 2.15
+Is a concentrated base a strong base and a dilute base a weak base? Discuss in your
+group and present to the class.
+Both acids and bases are classified as strong and weak depending on their degree of
+ionization (dissociation) in aqueous solution.
+Strong bases are those which ionize (dissociate) completely or almost completely in
+water solutions. Examples of strong bases include hydroxides of alkali (Group IA)
+metals and lower members of alkaline earth metals such as LiOH, NaOH, KOH, and
+Ba(OH)2.
+Examples
+LiOH (aq) Æ Li+ (aq) + OH– (aq)
+KOH (aq) Æ K+ (aq) + OH– (aq)
+IMPORTANT INOGANIC COMPOUNDS (UNIT 2)
+129
+Weak bases are those bases which ionize (dissociate) only partially or slightly in aqueous
+solution. Examples of weak bases include NH3, and Ca(OH)2.
+The dissociation of a weak base can be shown as follows using, NH3
+, as an example.
+NH3 (g) + H2O (l) U NH4
++ (aq) + OH– (aq)
+The double arrow shows that the dissociation of a weak base does not proceed to
+completion. This means an aqueous solution of a weak base contains only a small
+amount of ions derived from the dissociation of the base and a large amount of the
+non-ionized base. For example, a solution of ammonia containing 0.1 mole NH3
+ per
+litre of solution ionizes only to the extent of 1.3%.
+Concentrated and Dilute Bases
+Concentrated and dilute solutions are terms used to describe the amount of a substance
+present in a given volume of solution. The amount can be described in terms of either
+percentage or number of moles. Concentrated bases contain relatively large amounts
+of a base in a given volume of solution while dilute base solutions contain only a small
+amount of base. The concentration of a base is the measure of the number of moles
+of the alkali (base) dissolved in one litre of solution. The concentration is expressed
+in terms of mole per litre (Molarity).
+Molarity of the base = 
+number of moles of the base 
+volume of solution in litres
+The greater the number of moles of the base per litre of the solution the more
+concentrated is the solution. For example, a solution containing ten moles of NaOH
+per litre is more concentrated than the solution containing two moles of NaOH per
+litre. The latter solution is more dilute than the former. Thus, both a strong base and a
+weak base may be concentrated or dilute depending on the number of moles of the
+base present per litre.
+Precautions when Handling Bases
+Strong bases such as sodium hydroxide and potassium hydroxide can attack human
+skin, and even damage animal and plant tissues. That is why NaOH and KOH are
+named caustic soda and caustic potash respectively. The word “caustic” refers to a
+substance that can cause burning. Thus, it is very important to avoid the contact of
+bases with any part of our body or clothing. Not only strong bases but weak bases
+are also corrosive. For example, concentrated ammonia solution can cause blindness if
+splashed into the eye.
+CHEMISTRY GRADE 10
+130
+The following safety precautions are useful in handling bases in school laboratories or
+anywhere while working with them.
+a Wear eye goggles, gloves and a laboratory coat.
+b If bases are spilled on your working table wipe the spillages immediately.
+c Whenever bases are splashed on your cloth, wash the affected part with running
+water.
+d If a base enters your eyes, wash with water repeatedly as first aid treatment
+and seek medical advice.
+e If a base is swallowed by accident, drink 1-2% acetic acid or lemon juice
+immediately.
+f Whenever bases come in to contact with your skin, wash the affected part with
+plenty of water and then wash the affected part with a very dilute solution (about
+1%) of a weak acid such as acetic acid.
+pOH
+1. Since water, H2
+O, has H+ and OH–
+, it is both acidic and basic. Is this true?
+2. If [OH–
+] increases in a solution what happens to its [H+]? Share your comments with
+your group.
+pH is the measure of the hydrogen (H+) or hydronium (H3O+) ion concentration in a
+solution. In the same manner, pOH is the measure of the hydroxide, OH– ion
+concentration in a solution. It also measures the acidity or alkalinity of a solution as
+pH does.
+pOH is defined as the negative logarithm of hydroxide, OH”
+ ion concentration.
+pOH = –log [OH–]
+To calculate the hydroxide ion concentration from a given pOH value, we proceed as
+follows:
+[OH–] = antilog (–pOH) = 10–pOH
+Relationship Between pH and pOH
+How can you derive the mathematical relationship between pH and pOH? To
+understand the relationship between pH and pOH let us start from the ionization of
+water. Water undergoes ionization to a small extent as follows:
+H2O (l) U H+ (aq) + OH– (aq)
+Activity 2.16
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+131
+or
+2H2O (l) U H3O+ (aq) + OH– (aq)
+We can write a mathematical expression for the ionic product of water or dissociation
+constant for water, Kw as
+Kw = [H+] [OH–] = [H3O+] [OH–] (2.1)
+Kw = 1.0 × 10–14 (mol/L)2 at 25°C
+Since water is neutral, [H+] = [OH–] or [H3O+] = [OH–]. So we can write equation
+2.1 as
+Kw = [H+] [OH–] = [H+]2 = 1.0 × 10–14(mol/L)2
+Solving for [H+]
+[H+] = ( )2 –14 –7 mol 1.0 × 10 = 1.0 × 10 mol/L L
+Thus, in any neutral aqueous solution at 25°C,
+[H+] = [OH–] = 1.0 × 10–7 mol/L
+In an acid solution, [H+] > [OH–] and in a basic solution, [OH–] > [H+]. However,
+the product [H+] × [OH–] remains constant, i.e., 1.0 × 10–14 at 25°C. Thus, if the
+concentration of either H+ or OH– is known in a given solution, we can calculate the
+concentration of the other.
+[OH–] =
+KW
++ [H ]; [H+] = W
+–
+K
+[OH ]
+To find the relationship between pH and pOH let us begin with equation 2.1.
+Kw = [H+] [OH–] = 1.0 × 10–14 (mol/L)2
+Take the negative logarithm of both sides
+–log Kw = –log [H+
+] [OH–
+] = –log 1.0 × 10–14
+–log Kw = –log [H+
+] + (–log [OH–
+]) = –log 1.0 ×10–14
+but, –log Kw = pKw,
+–log [OH–] = pOH,
+–log [H+] = pH
+–log 1.0 × 10–14 = 14
+So, the above equation becomes
+pkw = pH + pOH = 14 (at 25°C) (2.2)
+CHEMISTRY GRADE 10
+132
+Thus, the sum of pH and pOH is 14 for any aqueous solution, at 25°C. Since pH,
+pOH, [H+] and [OH–] are interrelated through Kw, knowing any one of the values
+enables us to determine the others.
+Table 2.2: Acidity and Basicity in relation to [H+], [OH–
+], pH and pOH.
+Solution [H+] (mol/L) [OH–] (mol/L) pH pOH
+Acidic solution > 10–7 < 10–7 < 7 > 7
+Basic solution < 10–7 > 10–7 > 7 < 7
+Example
+The hydroxide ion concentration in a solution is 5.0 × 10–5M? Calculate:
+a pOH b [H+] c pH
+Solution:
+a To calculate pOH we proceed as follows.
+pOH = – log [OH–] = – log (5 ×10–5) = – (log10–5 – log 5)
+ = 5 – log 5 = 4.3
+b [H+] is calculated using the relationship
+[H+] = W
+–
+K
+[OH ] = 
+–14 2
+–5
+1.0×10 (mol/L)
+5.0×10 mol/L
+ = 2.0 × 10–10 M
+c pH = –log [H+] = –log 2.0 × 10–10
+ = 10 – log 2 = 9.7
+Since the pOH of the solution is found in part (a), we can also calculate the
+pH using the relationship
+pH + pOH = 14
+pH + 4.3 = 14
+pH = 14 – 4.3 = 9.7
+Exercise 2.9
+1. Determine the [OH–] in 3 × 10–5 M solution of HCl.
+2. Determine the pH of 2.0 × 10–2 M Sr(OH)2 solution assuming complete
+dissociation.
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+133
+Chemical Behaviour of Bases
+Objectives: To investigate the thermal stability and reaction of bases with acids.
+Materials required: NaOH or KOH, Ca(OH)2, HNO3, water, blue and red litmus
+papers, cobalt chloride, test-tube, test-tube rack, test-tube holder, Bunsen
+burner, three beakers, dropper, measuring cylinder, glass rod and watch glass.
+Procedure:
+1. Place 4.5 g NaOH or KOH in one test-tube and the same amount of Ca(OH)2
+in another test-tube. Heat the test-tube containing NaOH or KOH gently using
+a Bunsen burner, by holding the test tube with a test tube holder. Hold the
+cobalt chloride paper partly inserted in the test tube. See whether the cobalt
+chloride paper shows a colour change or not. Repeat the same experiment
+with the second test tube that contains Ca(OH)2.
+2. Dissolve 3.6 g KOH in distilled water to prepare 100 mL solution in one
+beaker. Dilute 2 mL concentrated HNO3 to make a 50 mL solution in another
+beaker. Add 10 mL KOH solution and 9.5 mL HNO3 to the third beaker, stir
+thoroughly and test with blue and red litmus papers. Continue adding HNO3
+using a dropper, one drop at a time stirring after each addition and checking
+with red and blue litmus until the blue remains blue and the red remains red.
+Put 5 mL of the neutral solution on a watch glass and allow the water to
+evaporate until the next day.
+Observations and analysis:
+1. What type of reaction occurred between the KOH and HNO3
+? Write the balanced
+chemical equation for the reaction.
+2. What is left on the watch glass?
+3. Which hydroxide melts on heating? Which base decomposes on heating to give
+metal oxide and water? How do you know this? Write the balanced chemical
+equation for the reaction.
+Write a laboratory report and present to the class.
+Preparation of Bases
+Bases containing hydroxide ion (hydroxide bases) can be prepared by the following
+methods:
+ Experiment 2.11
+CHEMISTRY GRADE 10
+134
+1. By the reaction of highly reactive metals from Group IA and Group IIA (below
+magnesium) with water. This reaction produces the metal hydroxide with the
+liberation of hydrogen gas.
+Examples
+2Li (s) + 2H2O (l) Æ 2LiOH (aq) + H2 (g)
+2K (s) + 2H2O (l) Æ 2KOH (aq) + H2 (g)
+Ca (s) + 2H2O (l) Æ Ca (OH)2 + H2 (g)
+2. By the reaction of Group IA or Group IIA metal oxides with water, which
+gives the metal hydroxides.
+Metal oxide + Water Æ Metal hydroxide
+Examples
+Na2O (s) + 2H2O (l) Æ 2NaOH (aq)
+CaO (s) + 2H2O (l) Æ Ca(OH)2 (aq)
+BaO (s) + 2H2O (l) Æ Ba(OH)2 (aq)
+3. By double displacement reaction.
+This method involves the reaction of an aqueous solution of a soluble base and
+a soluble salt, which gives another soluble base and an insoluble salt as products.
+Soluble base + Soluble salt Æ Another Soluble base + Insoluble salt
+Examples
+Ba(OH)2 (aq) + K2SO4 (aq) Æ 2KOH (aq) + BaSO4 (s)
+Ca(OH)2 (aq) + Na2CO3 (aq) Æ 2NaOH (aq) + CaCO3 (s)
+ Experiment 2.12
+Preparation of Bases
+Objective: To prepare bases from metal and metal oxides.
+Materials required: Water, trough, a knife, tongs, filter paper, litmus paper,
+test tubes, test tube rack, calcium or sodium metal, CaO or MgO, Na2SO4
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+135
+or K2SO4, Ba(OH)2 solution, spatula, balance, three beakers, measuring
+cylinder, dropper, glass rod.
+Procedure:
+1. Pour clean water into a trough to three-fourth of its volume. Then take a piece
+of sodium metal or calcium metal from the bottle with tongs. If you use sodium,
+place it on filter paper and then blot it to remove the oil. Carefully cutoff a
+very small piece with a knife and drop this piece onto the surface of the water
+in the trough. Observe the reaction.
+After the reaction is complete, take some solution from the trough and add it
+to two test tubes. Test the solution in the first test tube using red litmus paper
+and add a few drops of methyl orange to the second.
+2. Add a half a spatula measure of CaO or MgO to a test tube containing clean
+water. Shake well and then test whether the solution is acidic or basic using
+red litmus paper. Does the colour of the red litmus paper change?
+3. Add 6 g Na2SO4 or 7 g K2SO4 to the first and 7 g Ba(OH)2 to the second
+beaker. Add water to each beaker and stir with a glass rod to prepare a 100
+mL solution of each sample. After dissolution is complete, take 20 mL Ba(OH)2
+solution and pour it into the third beaker. Measure 20 mL Na2SO4 or K2SO4
+solution, mix it with the solution in the third beaker and shake well. Observe
+what is happening. Continue adding Na2SO4 or K2SO4
+ solution drop by drop
+using a dropper while shaking the solution after the addition of each drop.
+When the formation of a white precipitate does not occur anymore stop adding
+Na2
+SO4 or K2
+SO4
+ solution and test whether the solution in the third beaker is
+acidic or basic using litmus paper.
+Observations and analysis:
+1. Does the colour of red litmus paper change when dipped into the solutions obtained
+in procedure 1 and 2? Are the solutions acidic or basic?
+2. What gas is given off during the reaction in procedure 1?
+3. Why do you think is the white precipitate formed?
+4. What is the nature of the final solution in the third beaker?
+5. Write balanced chemical equations for the reactions.
+Write a laboratory report on your observations and present to the class.
+CHEMISTRY GRADE 10
+136
+Uses of Some Important Bases
+Sodium hydroxide, NaOH: This is known by the common name lye or caustic soda.
+It is one of the most important laboratory and industrial chemicals. It is used in the
+laboratory for absorbing carbon dioxide and other acidic gases, in a number of organic
+reactions and in chemical analysis. Industrially, it is used in the manufacture of soaps
+and detergents, pulp and paper, textiles, dyes, cosmetics, pharmaceuticals, in purifying
+aluminium ore and petroleum refining. It is also used to clean drains since it dissolves
+grease and other organic matter.
+Potassium hydroxide, KOH: It is commonly known as caustic potash. It is a stronger
+base and is more expensive than NaOH and has limited uses. It is used as an electrolyte
+in some dry cells and to make soft soap.
+Calcium hydroxide, Ca(OH)2
+: It is also called slaked lime or lime water when it is
+dissolved in water. It is a weaker base than NaOH and KOH, and is widely used to
+remove soil acidity, to make mortar (mixture of lime, sand and water) which serves
+as binding material for bricks and plastering walls, to remove temporary hardness of
+water and in manufacturing bleaching powder. Its aqueous solution is also used to test
+for carbon dioxide gas.
+Ammonia: A solution of gaseous ammonia, NH3
+ in water is used as household cleaning
+agent and as a laboratory reagent. It is used to manufacture ammonium fertilizers,
+Reading Assignment
+The common uses of NaOH, KOH, Ca(OH)2 and NH3 have been described
+above. After reading reference books in your library, search for some more uses
+of these compounds. Present your findings to the class.
+Exercise 2.10
+1. Identify the Brønsted-Lowry bases and acids in each of the following chemical
+reactions:
+a HCOOH (aq) + CN– (aq) U HCOO– (aq) + HCN (aq)
+b H2S (g) + OH– (aq) U HS– (aq) + H2O (l)
+2. Identify the substances acting as Lewis bases and acids in each of the following
+chemical reactions:
+a AlCl3 (aq) + Cl– (aq) Æ AlCl4
+– (aq)
+b H+ (aq) + NH3 (g) Æ NH4
++ (aq)
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+137
+3. What is the concentration of the base (in molarity) containing:
+a 80 g NaOH is dissolved in water to make 1 litre of solution?
+b 224 g KOH is dissolved in water to make 2 litres of solution?
+4. Calculate the pOH, [H+] and pH of the solutions having the following hydroxide
+ion concentrations:
+a [OH–] = 4.6 × 10–3 mol/L b [OH–] = 2.5 × 10–6 mol/L
+5. Potassium hydroxide solution is added from a burette to dilute hydrochloric
+acid solution in a beaker. Which of the following changes will not occur in the
+beaker:
+a The pH of the solution in the beaker increases.
+b The [H+] of the solution in the beaker decreases.
+c The pOH of the solution in the beaker increases.
+6. How many moles of NaOH are contained in 65 mL of a 2.20 M solution of
+NaOH in H2O?
+7. A solution of barium hydroxide, Ba(OH)2
+, contains 4.285 g of barium hydroxide
+in 100.0 mL of solution. What is the molarity of the solution?
+2.5 SALTS
+Competencies
+After completing this section, you will be able to:
+• define salts;
+• give examples of salts;
+• classify salts as acidic, normal and basic salts;
+• explain the direct combination of elements, the reaction of acids with bases and
+the reaction of acids with metals as methods of salt preparation;
+• conduct simple experiments to prepare a salt by neutralization;
+• list some important salts and discuss their uses;
+• explain the properties of salts;
+• describe the chemical tests of some salts by conducting activities;
+• mention the essential nutrients of plants;
+• describe the functions of nitrogen, phosphorus and potassium in plant growth;
+CHEMISTRY GRADE 10
+138
+• define fertilizers;
+• list some common fertilizers;
+• explain the importance of fertilizers; and
+• list some common inorganic compounds that are used as pesticides and herbicides.
+Discuss the following in your group and present it to the class:
+1. List all the salts that you know and tell where they are found.
+2. Make a list of coloured salts available in your school laboratory.
+3. Which salts are found in Dalol area, Ethiopia?
+Salts are ionic compounds that contain positive ions (cations) derived from bases and
+negative ions (anions) derived from acids. Salts are also defined as ionic compounds
+formed when the ionizable hydrogen of acids are partly or completely replaced by
+metal ions or ammonium ions. For example, Ca(HCO3)
+2 and CaCO3 are salts derived
+from the acid H2CO3 while the salts Mg(H2PO4)2, MgHPO4 and Mg3(PO4)2 are
+salts derived from H3PO4.
+• A salt is produced when an acid is neutralized by a base:
+Acid + Base Æ Salt + Water
+Examples
+HCl (aq) + NaOH (aq) Æ NaCl (aq) + H2O (l)
+H2SO4 (aq) + Ca(OH)2 (aq) Æ CaSO4(s) + 2H2O (l)
+Some common examples of salts are sodium chloride (NaCl), calcium carbonate
+(CaCO3), potassium nitrate (KNO3), copper sulfate (CuSO4) etc.
+Classification of Salts
+Recall the concept of the neutralization reaction between an acid and a base to give a salt and water.
+a What would be the nature of the salt, if all the acid hydrogen ions are not replaced by
+metal ions or ammonium ion?
+Activity 2.18
+Activity 2.17
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+139
+b What would be the nature of the salt, if all the base hydroxide ions are not replaced by
+the anions of the acid?
+Discuss in your group and present the findings to the class.
+Salts can be classified as:
+• Acidic salts: These are salts in which not all of the hydrogen ions in an acid have
+been replaced by metal ions or ammonium (NH+
+4
+) ions.
+Example: Sodium hydrogen sulphate, NaHSO4
+.
+When acidic salts are dissolved to make an aqueous solution, they release H+
+ions which make the solution acidic. For example, NaHSO4 releases ions in
+aqueous solution as follows:
+NaHSO4 (aq) Æ Na+ (aq) + H+ (aq) + SO2–
+4 (aq)
+• Normal salts: These are salts in which all of the hydrogen ions in an acid
+have been replaced by metal ions or ammonium ions.
+Example: Sodium sulphate, Na2SO4.
+Normal salts do not contain ionizable H+ or OH–.
+Example
+Na2SO4 release ions as follows:
+Na2SO4 (aq) Æ 2Na+ (aq) + SO2–
+4 (aq)
+• Basic salts: These are salts in which not all of the hydroxide ions in a base
+have been replaced by the anions of the acid.
+Example: Zinc hydroxychloride, Zn(OH)Cl.
+When basic salts are dissolved to make an aqueous solution, they release OH–
+ions and this makes the solution basic.
+Zn(OH)Cl (aq) Æ Zn2+ (aq) + OH– (aq) + Cl– (aq)
+Preparation of Salts
+List a few methods to prepare sodium chloride in the laboratory? Discuss in groups and
+present it to the class.
+Activity 2.19
+CHEMISTRY GRADE 10
+140
+Salts can be prepared by the following methods:
+1. Direct combination of elements: This method is used to prepare binary
+salts, that is, salts consisting of only two elements.
+Examples
+2Na (s) + Cl2 (g) Æ 2NaCl (s)
+Fe (s) + S (s) Æ FeS (s)
+Fe (s) + 3Cl2 (g) Æ 2FeCl3 (s)
+2. Reacting active metals with dilute acids:
+Active metal + Acid Æ Salt + Hydrogen gas
+Examples
+2Al (s) + 6HCl (aq) Æ 2AlCl3 (aq) + 3H2 (g)
+Mg (s) + 2HCl (aq) Æ MgCl2 (aq) + H2 (g)
+Zn (s) + H2SO4 (aq) Æ ZnSO4 (aq) + H2 (g)
+Since, the reactions of metals of Group IA like sodium and potassium are very
+vigorous, it is advisable not to use the metals of Group IA for the preparation
+of salts by this method.
+Sometimes, the reaction of active metals with dilute acids to prepare salts may
+not be as successful as expected. For example, calcium sulphate is only sparingly
+soluble in water. So in the reaction with dilute sulphuric acid, calcium tends to
+become coated with calcium sulphate which inhibits the reaction from proceeding.
+3. Reacting metal oxides with acids (by neutralizing basic oxides with
+dilute acids):
+Metal oxide + Dilute acid Æ Salt + Water
+Examples
+CaO (s) + 2HCl (aq) Æ CaCl2 (aq) + H2O (l)
+CuO (s) + H2SO4 (aq) Æ CuSO4 (aq) + H2O (l)
+ZnO (s) + 2HNO3 (aq) Æ Zn(NO3)
+2 (aq) + H2O (l)
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+141
+4. Reacting metal hydroxides with dilute acids: This reaction is commonly called
+neutralization.
+Metal hydroxides + Dilute acid Æ Salt + Water
+Examples
+NaOH (aq) + HCl (aq) Æ NaCl (aq) + H2O (l)
+2KOH (aq) + H2SO4 (aq) Æ K2SO4 (aq) + 2H2O (l)
+5. Reacting metal carbonates or hydrogen carbonates with dilute acids:
+The reaction of carbonates or hydrogen carbonates with dilute acids always
+releases carbon dioxide gas along with the formation of a salt and water.
+Metal carbonates + Dilute acid Æ Salt + Water + Carbon dioxide
+Examples
+MgCO3 (s) + H2SO4 (aq) Æ MgSO4 (aq) + CO2 (g) + H2O (l)
+CuCO3 (s) + 2HCl (aq) Æ CuCl2 (aq) + H2O (l) + CO2 (g)
+Na2CO3 (s) + 2HNO3 (aq) Æ 2NaNO3 (aq) + H2O (l) + CO2 (g)
+Ca(HCO3
+)
+2
+ (s) + 2HCl (aq) Æ CaCl2 (aq) + 2H2O (l) + 2CO2 (g)
+6. Double decomposition reaction (double displacement reaction): In this
+method, two different soluble salts react to form a soluble and an insoluble salt
+as products that can be separated easily.
+Examples
+Pb(NO3)2 (aq) + NaI (aq) Æ PbI2 (s) + 2NaNO3 (aq)
+CaCl2 (aq) + Na2CO3 (aq) Æ CaCO3 (s) + 2NaCl (aq)
+It may be noted that each method of preparing salts cannot be used to make
+every salt; i.e., different methods may be used to make different salts.
+CHEMISTRY GRADE 10
+142
+Preparing salts from Metallic Oxides and Acid
+Objective: To prepare copper sulphate from copper oxide and sulphuric acid.
+Materials required: Copper oxide, sulphuric acid, beaker, filter funnel, filter paper,
+evaporating dish.
+Procedure:
+1. Pour some sulphuric acid in beaker and add copper (II) oxide, warm and stir
+gently.
+2. When the reaction is complete, filter the solution to remove excess copper
+oxide.
+3. Transfer the filtrate to the evaporating dish and evaporate some of the water
+from the filtrate. Leave for the salt to crystallize out.
+Observations and analysis:
+1. What is the product formed? Write a balance chemical equation for the reaction.
+2. What is the colour change as the reaction occurs? What does this show?
+Write a laboratory report and present to the class.
+Some Important Salts and their Uses
+ Experiment 2.13
+1. Have you ever taken Oral Rehydration Salt (ORS) for diarrhoea? What are the contents
+of the ORS?
+2. Can you prepare your own ORS?
+ Discuss in your group and present to the class.
+Sodium chloride (common salt, NaCl) is widely used in the preparation and
+preservation of food, as raw a material for the manufacture of sodium, chlorine, and
+sodium hydroxide. It is used as component of Oral Rehydration Salt (ORS) that has
+medical applications. It is also used to manufacture baking soda (NaHCO3) and
+Na2
+CO3 that serve as raw materials for the production of glass.
+Ammonium nitrate, (NH4NO3) is used as a nitrogenous fertilizer and in explosives.
+Activity 2.20
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+143
+Copper (II) sulphate, (CuSO4
+) is used to make Bordeaux mixture (mixture of CuSO4
+and Ca(OH)2
+) and other fungicides. Bordeaux mixture is used to prevent fungal attack
+of leaves and vines. CuSO4 is also useful in electroplating.
+Iron (III) chloride, (FeCl3
+) is used in the treatment of waste water, and in etching
+printed circuits.
+Potassium nitrate, (KNO3
+) is used in making gun powder (mixture of KNO3
+, carbon
+and sulphur) and other explosives. It is also used as a fertilizer.
+Calcium sulphate, (CaSO4
+.2H2O, Gypsum) is used for plastering walls and
+supporting fractured bones.
+Barium sulphate, (BaSO4) is given to patients as a “barium meal” before gastrointestinal x-ray photography; it is also used as a white pigment.
+Iron (II) sulphate (FeSO4
+) is given as iron tablets to patients who suffer from anaemia.
+Properties of salts
+Salts can be classified depending on the anion (negative ion) they possess, because
+the anion is partly responsible for the solubility of the salt.
+1. Solubility of salts. The following table summarizes some simple observations
+about the solubility of some groups of salts.
+Table 2.2 Solubility of salts.
+Soluble salts Exceptions
+• All nitrates (NO3
+–), perchlorates (ClO4
+–), • No exception
+chlorates (ClO3
+–) and acetates
+(CH3COO–)
+• Most halides • Those containing Ag+, Hg2+, Pb2+
+(AgCl, AgBr, AgI, HgCl2, HgBr2, HgI2, PbCl2, PbBr2,
+PbI2) (PbCl2 is soluble in hot water)
+• Most sulphates • BaSO4, HgSO4, PbSO4, SrSO4
+• Carbonates (CO3
+2–), phosphates (PO4
+3–) • All carbonates, phosphates and
+and sulphides (S2–) of alkali metals sulphides of other elements are insoluble
+and ammonium ion (NH4
++)
+• Sulphides of alkaline-earths, Group IIA,
+elements
+2. Tendency to absorb water from the atmosphere or release water to the
+atmosphere.
+CHEMISTRY GRADE 10
+144
+Depending on their tendency to absorb water from or release water to the
+atmosphere, salts can be classified as hygroscopic, deliquescent and
+efflorescent.
+Hygroscopic salts are those which absorb water from the atmosphere but remain
+solid.
+Deliquescent salts absorb water from the atmosphere to form a solution. The
+process of absorbing water from the atmosphere by a solid to form a solution
+is called deliquescence.
+Efflorescent salts lose their water of crystallization to the atmosphere. The
+loss of water of crystallization by solid crystals to the atmosphere is known as
+efflorescence.
+It is very important to note that all deliquescent substances are hygroscopic,
+but all hygroscopic substances are not necessarily deliquescent.
+Table 2.3 Examples of hygroscopic, deliquescent and efflorescent salts.
+Deliquescent Hygroscopic Efflorescent
+• Calcium chloride , CaCl2 • Anhydrous Copper( II) • Hydrated sodium
+sulphate, CuSO4 carbonate Na2CO3•10H2O
+• Sodium Nitrate, NaNO3 • Hydratedsodium sulphate,
+Na2SO4•10H2O
+• Iron (III) chloride, FeCl3
+• Magnesium chloride, MgCl2
+• Lithium nitrate, LiNO3
+• Sodium nitrate, NaNO3
+3. Aqueous solutions of soluble salts are good conductors of electricity, because
+they release mobile positive and negative ions in solution.
+Examples
+NaNO3 (aq) Æ Na+ (aq) + NO3
+– (aq)
+CaCl2 (aq) Æ Ca2+(aq) + 2Cl– (aq)
+4. Thermal stability of salts: When different salts containing the same anion
+are heated, they may not show similar behaviour. Some salts are thermally
+stable while others undergo decomposition. The following examples illustrate
+this fact.
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+145
+a Thermal decomposition of carbonates:
+Carbonates are salts containing a carbonate, as an anion. Carbonates of Group
+IIA and most transition metals decompose on heating to give the metal oxides
+and carbon dioxide:
+MgCO3 (s) heat → MgO (s) + CO2 (g)
+CuCO3 (s) heat → CuO (s) + CO2 (g)
+However, carbonates of sodium and potassium are not decomposed by heat.
+b Thermal decomposition of nitrates
+Nitrates are salts containing a nitrate, as an anion. Heating nitrates of Group IIA
+and most transition metals produces a metal oxide, nitrogen dioxide and oxygen:
+Nitrate heat → Metal oxide + Nitrogen dioxide + Oxygen
+Examples
+2Mg(NO3)
+2 (s) heat → 2MgO (s) + 4NO2 (g) + O2 (g)
+2Pb(NO3)2 (s) heat → 2PbO (s) + 4NO2 (g) + O2 (g)
+Nitrates of sodium and potassium decompose on heating to give nitrites and
+oxygen gas;
+2NaNO3 (s) heat → 2NaNO2 (s) + O2 (g)
+2KNO3 (s) heat → 2KNO2 (s) + O2 (g)
+The carbonate and nitrate of lithium differ from those of sodium and potassium;
+they decompose on heating in the following manner:
+4LiNO3 (s) heat → 2Li2O (s) + 4NO2 (s) + O2 (g)
+Li2CO3 (s) heat → Li2O (s) + CO2 (g)
+CHEMISTRY GRADE 10
+146
+Chemical Tests of Some Ions in Salts
+1. Do you know why fireworks give different colours? Consult books in your library, and
+discuss in your group. Explain to the class.
+2. How do chemists know of the presence of certain ions in a compound?
+There are several simple tests which may help in the identification of metal ions and
+anions present in salts.
+1. Flame tests: Certain metals give a characteristic colour to a Bunsen flame
+when their solid salts or moist salts are heated directly in the flame.A flame test
+is commonly used to identify the presence of lithium, sodium, potassium, calcium,
+strontium and barium ions in salts.
+ Experiment 2.14
+Test for cations-I
+Objective: To identify the presence of Li+
+, Na+
+, K+
+, Ca2+, Sr2+ and Ba2+ in salts by
+flame tests.
+Materials required: Platinum or nichrome wire, watch glass, Bunsen burner, distilled
+water, salts containing Li+
+, Na+
+, K+
+, Ca2+, Sr2+ and Ba2+.
+Procedure:
+1. Place a small amount of the salt containing a Li+
+ ion on a watch glass, moisten it
+with pure concentrated HCl, dip the tip of the platinum or Nichrome wire into the
+moist salt and then bring to the Bunsen flame.
+2. Observe the colour produced.
+3. Repeat the same step for salts containing Na+
+, K+
+ Ca2+, Sr2+ and Ba2+ and record
+your observations. Rinse the platinum or Nichrome wire with distilled water after
+each test.
+Observations and analysis:
+a Write the colour of the flame produced in the following table.
+Activity 2.21
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+147
+Metal ion in the salt Colour of flame produced
+Lithium (Li+)
+Sodium (Na+)
+Potassium (K+)
+Calcium (Ca2+)
+Strontium (Sr2+)
+Barium (Ba2+)
+Write a laboratory report and present to the class.
+ Experiment 2.15
+Test for cations-II
+Objectives: To identify the presence of Cu2+, Fe2+ and Fe3+ in salts.
+Materials required: Beakers, test tubes, test tube rack, glass rod, ammonia solution,
+sodium hydroxide solution, salts containing each of Cu2+, Fe2+ and Fe3+ ions
+Procedure:
+1. Dissolve a salt containing Cu2+ in the first beaker, Fe2+ in the second and Fe3+
+in the third. Take three test tubes and add a 2 mL solution of (each ion) Cu2+
+salt to the first, Fe2+ salt solution to the second and Fe3+ salt solution to the
+third.
+2. Add aqueous ammonia in small quantities until it is in excess, to the first test
+tube containing a copper (II) salt solution and record your observations.
+3. Add sodium hydroxide solution in small quantities, until it is present in excess,
+to the second and third test tubes, and record your observations.
+Observations and analysis:
+1. What does the formation of a blue precipitate in the first indicate? Write the chemical
+equation for the blue precipitate formation.
+2. Observe the colours of the precipitates formed and complete the following Table:
+CHEMISTRY GRADE 10
+148
+Colour observed Confirms the presence of
+3. Write balanced chemical equations for the reactions.
+Write a laboratory report in group and present to the class.
+ Experiment 2.16
+Test for Halide Ions
+Objectives: To identify the presence of Cl–, Br– and I– ions.
+Materials required: test tubes, test tube rack, NaCl, NaBr, NaI, AgNO3, ammonia
+solution, reagent bottles, dilute HNO3
+Procedure:
+1. Prepare 125 mL solution by dissolving 2.0 g AgNO3 in the first, 1.59 g NaCl
+in the second, 2.50 g NaBr in the third and 3.75 g NaI in the fourth reagent
+bottle respectively.
+2. Take three test tubes and pour about 5 mL of NaCl solution in to the first, 5
+mL NaBr solution in to the second and 5 mL NaI solution in to the third. To
+each of the solutions in the test tube add 1 mL of dilute HNO3 followed by
+addition of about 5 mL AgNO3
+ solution. Observe if a precipitate is formed in
+each beaker.
+3. After a precipitate has been formed, add ammonia solution to each test tube
+and see what happens to the precipitate.
+Observations and analysis:
+1. What did the formation of the white precipitate in the first test tube confirm? Name
+the compound formed as the white precipitate.
+2. What did the formation of the yellow precipitate in the second test tube confirm?
+Name the compound formed as the yellow precipitate.
+3. What did the formation of the deep-yellow precipitate in the third test tube confirm?
+Name the compound formed as the deep-yellow precipitate.
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+149
+4. What happened to the contents in the three test tubes, when ammonia solution was
+added to each of the test tubes?
+5. Write balanced chemical equations for the reactions taking place in each test tube.
+Write a laboratory report and present to the class.
+ Experiment 2.17
+Test for Sulphates
+Objective: To identify for the presence of sulphate using barium salts.
+Materials required: Beakers, test tubes, and test tube rack, any soluble sulphate
+salt (such as sodium sulphate), barium chloride or barium nitrate solution, and
+dilute HCl.
+Procedure:
+Add some sodium sulfate solution to a test tube and acidify the solution by
+adding a few drops of dilute HCl. Then add BaCl2 or Ba(NO3
+)
+2 solution and
+note if a white precipitate is formed.
+Observations and analysis:
+1. Name the white precipitate formed?
+2. Why is it necessary to add a few drops of dilute HCl?
+3. Write a balanced chemical equation for the reaction.
+Write a laboratory report and present to the class.
+ Experiment 2.18
+Test for Carbonates and Hydrogen Carbonates
+Objective: To distinguish betweem carbonates and hydrogen carbonates
+Materials required: Na2CO3, NaHCO3, dilute HCl, lime water, conical flasks,
+beakers, rubber stopper, gas delivery tube, calcium chloride solution
+CHEMISTRY GRADE 10
+150
+Procedure:
+1. Take 20 mL solution of Na2CO3 and add it to one conical flask and 20 mL
+NaHCO3 solution to another. Add the same amount of dilute HCl to each of
+the conical flasks; Fit a rubber stopper to which a delivery tube is inserted to
+each conical flask. Allow the gas produced to pass through lime water and
+observe the changes.
+2. Again take Na2
+CO3
+ solution in one conical flask and NaHCO3 solution in the
+other. Add the same amount of CaCl2
+ solution to each of the conical flasks.
+Observations and analysis:
+1. What has happened to the lime water in each case?
+2. Which solution forms a white precipitate on the addition of CaCl2
+ solution?
+3. Write balanced chemical equations for all the reactions.
+ Write a laboratory report and present to the class.
+ Experiment 2.19
+Test for Nitrates (Brown Ring Test)
+Objectives: To identify the presence of nitrate in a solution.
+Materials Required: Test tube, test tube rack, beaker, nitrate solution, iron (II) sulphate
+solution, concentrated H2SO4
+Procedure:
+Take 2 mL of nitrate solution in a test tube and add an equal volume of freshly
+prepared iron (II) sulphate solution. Hold the test tube in an inclined position
+and carefully pour concentrated sulphuric acid down along the inclined side of
+the test tube. The acid sinks to the bottom. Carefully observe the changes in
+test tube.
+Observations and analysis:
+1. Where is the brown ring formed?
+2. Write the chemical equation for the formation of the brown ring.
+3. What does the formation of brown ring in the solution indicate?
+Write a laboratory report and present to the class.
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+151
+Exercise 2.11
+1. Name the acid and base pairs required to prepare each of the following salts:
+a K2SO4 c MgBr2
+b Ca(NO3)2 d BaI2
+2. Suggest at least three methods for the preparation of salts.
+3. Classify the following salts as soluble or insoluble in water:
+a NH4Cl e Li3PO4
+b FeCO3 f AgCl
+c AgNO3 g CaCl2
+d PbSO4 h Na2S
+4. Why do aqueous solutions of soluble salts conduct electricity?
+5. Which carbonates do not decompose on heating?
+6. Nitrates mostly decompose by heat to give metal oxide, nitrogen dioxide and
+oxygen. Which nitrates do not give these products on heating?
+7. What reagents do you use to identify the presence of the following ions in
+salts?
+a Halide ions?
+b Fe2+ and Fe3+ ions?
+c Sulphate, SO4
+2– ions?
+8. An unknown salt when heated with a Bunsen flame produced a bright-yellow
+flame. An aqueous solution of this salt when reacted with dilute HCl released a
+gas that turns lime water milky. Upon addition of calcium chloride solution to
+an aqueous solution of this salt, a white precipitate is formed. What is the
+unknown salt?
+Plant Nutrients
+Essential nutrients
+1. Form a group and list the kind of fertilizers you are familiar with. Which of the listed
+fertilizers are inorganic salts?
+Activity 2.22
+CHEMISTRY GRADE 10
+152
+2. Plants need nitrogen for their growth, and there is plenty of nitrogen in the air. If this
+is so, why do we apply nitrogeneous fertilizers for plants?
+3. Some people prefer to eat organic food that has been grown without fertilizers and
+pesticides. Does eating organic food overcome the problems caused by artificial
+fertilizers? Discuss in groups and present to the class.
+The growth and development of plants is determined by various factors of soil, climate,
+and by factors inherent in the plants themselves. Minerals required by plants for their
+growth and development are called plant nutrients. For a soil to produce crops
+successfully, it must have an adequate supply of all the necessary nutrients that plants
+take from the soil. The required nutrient elements must be present in the soil in forms
+that plants can use and also there should be a rough balance among them in accordance
+with the amounts needed by plants. When any one of these elements is lacking or is in
+excess of the required proportion, the normal plant growth will not take place.
+Elements required by plants for their growth and development are called essential
+nutrients. The elements considered as essential nutrients are carbon, hydrogen, oxygen,
+sulphur, nitrogen, phosphorus, potassium, calcium, magnesium, iron, manganese, boron,
+copper, zinc, molybdenum, cobalt and chlorine. All these seventeen elements have
+their own roles in the growth and development of plants. Depending on the amount
+required by plants, these elements are classified as macronutrients and micronutrients.
+Try to identify the (a) micronutrients, (b) macronutrients, required for the growth of wheat,
+maize, and rice crops, by consulting the books in your library. Share your findings with the
+class.
+Activity 2.23
+Macronutrients are the elements required in relatively large amounts by plants. These
+are nitrogen, phosphorus, potassium, calcium, magnesium, sulphur, carbon, hydrogen and
+oxygen.
+Micronutrients are the elements required by plants in relatively small (trace) amounts.
+These elements are iron, cobalt, zinc, manganese, molybdenum, copper, boron and
+chlorine.
+The elements carbon, hydrogen and oxygen are obtained by plants from air and water.
+These are not considered as mineral nutrients. Nitrogen, phosphorous and potassium
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+153
+are said to be primary mineral nutrients. The roles of nitrogen, phosphorus and potassium
+in the plant growth are discussed below:
+Nitrogen is a very important plant nutrient. It is absorbed by plants in the form of
+nitrate ions (NO3
+–). In the growth and development of plants, nitrogen is utilized in the
+synthesis of amino acids, proteins, coenzymes and nucleic acids. The proteins formed
+control the metabolic processes that occur in plant cells. Nitrogen is also involved in
+the synthesis of chlorophyll to produce a deep green colour.
+Phosphorus is an important element without which the growth of plants is impossible.
+It facilitates early growth and root formation, quick maturity and promotes seed or
+fruit production. Phosphorus is absorbed by plants mainly in the form of H2
+PO4
+–
+ and
+HPO3
+2– in small amounts. Phosphorus has a role in the formation of some amino
+acids and proteins, coenzymes, nucleic acids and high energy phosphate compounds
+like Adenosine Triphosphate (ATP).
+Potassium is absorbed by plants in the form of the K+ ion. It is a component of
+enzymes that facilitate the process of photosynthesis and protein synthesis. It also adjusts
+stomata movement. It is the most important ion in controlling the turgidity of plant
+cells. It increases in the solute potential (sap concentration) within the cells which
+leads to an increase in the amount of water that enters the cells osmotically.
+Exercise 2.12
+1. What is the importance of the following elements for the growth of food crops?
+a nitrogen b phosphorus c potassium
+2. In what form do plants absorb these elements?
+Fertilizers
+During the growth and development of plants, the plants consume the essential nutrients
+from the soil. The concentration of these nutrients will decrease in the soil. If the
+plants are specially food crops, the nutrients can be lost from the soil when the plants
+are removed on harvest. So for the soil to be suitable for the growth of plants in the
+next round, the nutrients lost must be replaced.
+How can we replace the nutrients lost from the soil? How can we increase the
+crop producing potential of soils? The nutrients lost from the soil can be replaced or
+the crop producing potential of soils can be increased by adding the appropriate fertilizers
+to the soil.
+CHEMISTRY GRADE 10
+154
+What are fertilizers? Fertilizers are materials that are added to soils to increase the
+growth, yield or nutrient value of crops. Fertilizers are usually classified as organic
+(natural) fertilizers and synthetic or artificial fertilizers.
+Organic (natural) fertilizers are those derived from animals and plants. This includes
+animal dung, urine and substances obtained from the decay and decomposition of
+plants. These fertilizers provide readily available nutrients to plants after some period
+of decay and decomposition. These fertilizers can supply the elements nitrogen,
+phosphorus, potassium and various trace elements to the soil.
+Synthetic or artificial fertilizers contain all three major plant nutrients i.e., nitrogen,
+phosphorous and potassium, and are known as complete fertilizers.
+A mixed artificial fertilizer may contain nitrogen, phosphorus and potassium. Such a
+type of fertiliser is called a complete fertiliser. The term NPK is used to describe
+fertilizers containing the elements nitrogen, phosphorus and potassium.
+Examples of artificial fertilizers are ammonium sulphate, (NH4
+)
+2
+SO4
+, potassium nitrate
+(KNO3
+), ammonium nitrate (NH4
+NO3
+), and diammonium hydrogen phosphate, DAP
+((NH4)
+2HPO4).
+The most important mineral nutrients that need to be added to the soil are usually
+nitrogen, phosphorus and potassium. All the three elements are needed in large quantities.
+Commercial fertilizers are normally given a “grade”, which reflects the percentages
+they contain of N, P and K by dry weight. For example, a NPK fertilizer may be
+described as 10:10:10 indicating that there is 10% of each element in the fertilizer. The
+suitable proportions are best determined in relation to the tested fertility of the soil and
+the requirements of the particular crop that is being grown on it. This means fertilizers
+of the same composition are not used for different purposes. In nitrogen deficient soil,
+a fertilizer containing a higher percentage of nitrogen than phosphorus and potassium
+must be used. In addition to this, all fertilizers are not used for treatment of all kinds
+of soil. For example, ammonium sulphate is more suitable for use in basic soils than in
+acidic or neutral soils.
+Exercise 2.13
+1. Classify the following as organic or synthetic fertilizers:
+a NH4NO3 b urea c (NH4)
+2SO4
+2. Can the same fertilizer be applied to all types of soil? Explain.
+Pesticides
+Pesticides are chemicals that can be applied to agricultural crops to kill pests which
+affect the growth and development of plants. Parasitic fungi, insects and animals like
+rodents, rabbits and birds reduce crop yields or even completely destroy crops.
+IMPORTANT INORGANIC COUMPOUNDS (UNIT 2)
+155
+Pesticides are used to overcome the damage caused by fungi and pests. The majority
+of the pesticides used in agriculture are organic compounds. However, there are some
+inorganic substances that serve as pesticides. These include fumigant insecticides that
+exist in the vapour phase. Examples of fumigants are hydrogen cyanide (HCN), sulphur
+dioxide (SO2), carbon disulphide (CS2) and phosphine (PH3). These pesticides are
+mostly used in the treatment of empty transport containers, grain stores, warehouses,
+harvested products prior to or during storage and to destroy pests in the soil. The
+other inorganic pesticides are mostly copper compounds such as CuCl2, Cu(OH)2,
+Cu(NO3)2, CuSO4, Cu2O and CuCO3. Among the inorganic compounds, CuSO4
+and Cu2O are used as fungicides where as HCN, SO2, PH3, CuCl2, Cu(OH)2,
+Cu(NO3)2 and CuCO3 are used as insecticides.
+Herbicides
+Herbicides are also called weed killers. They are used to control the damage caused
+by weeds. Inorganic compounds used as herbicides include ammonium sulphamate
+((NH4)SO3–NH2), borax (Na2B4O7
+.10H2O), sodium chlorate (NaClO3) and ferrous
+sulphate (FeSO4
+.7H2O)

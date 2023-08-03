@@ -1,0 +1,1054 @@
+You recall that all object around us is called matter. Matter is defined as anything that
+occupies space and has mass. It can exist in the form of gas, liquid and solid. The
+simplest example is the water we use in our daily life. The three physical states of
+water are:
+• Steam, water in the form of gas.
+• Water, in the form of liquid.
+• Ice, water in the form of solid.
+The changes of the states of matter are our every day experience. That is, ice melts
+and water freezes; water boils and steam condenses.
+The physical state of a given sample of matter depends on the temperature and
+pressure. Changing these conditions or variables may change the behaviour of the
+substances as solids, liquids or gases.
+Solid
+A solid has a definite shape and a definite volume. Solids are almost completely
+incompressible and have very high average density. A high average density reflects the
+fact that the particles within solids are usually packed closer than those in liquids or
+gases do. The tightly packed particles of solids are also highly organized.
+The particles of a solid, whether they are atoms, ions or molecules only vibrate about
+a fixed point with respect to the neighboring particles. Because of these, the particles
+maintain a fixed position; for example substances like metals, wood, coal and stone,
+are solids.
+Activity 5.1
+ CHEMISTRY GRADE 9
+166
+Liquid
+A liquid has a definite volume, but does not have a definite shape. Liquids take the
+shape of their container. This is explained in terms of arrangement of particles. In the
+liquid state, particles vibrate about a point, and constantly shift their positions relative
+to their neighbours. At room temperature, water, ethanol, benzene and oil are liquids.
+Gas
+A gas has neither a definite shape nor a definite volume. This is because its particles
+are virtually independent of one another. For example, air, hydrogen, oxygen, carbon
+dioxide and nitrogen are gases.
+Plasma
+Besides, solid, liquid and gas, there exists a fourth-state of matter at very high
+temperature (million degrees Celsius). At such high temperatures molecules cannot
+exist. Most or all of the atoms are stripped of their electrons. This state of matter, a
+gaseous mixture of positive ions and electrons, is called plasma. Because of the
+extreme temperatures needed for fusion, no material can exist in the plasma state.
+Exercise 5.1
+1. Can oxygen exist as a liquid and solid?
+2. Compare and contrast the three states of matter.
+3. What is dry ice?
+5.2 KINETIC THEORY AND PROPERTIES OF MATTER
+Competencies
+By the end of this section, you will be able to:
+• give examples for each of the three physical states of matter;
+• state kinetic theory of matter;
+• explain the properties of the three physical states of matter in terms of kinetic
+theory; and
+• compare and contrast the three physical states of matter.
+PHYSICAL STATES OF MATTER
+167
+Activity 5.3
+Activity 5.2
+Form a group and perform the following task. Present your findings to the class.
+1. Select any three different substances; one existing in the solid state, the second in the
+liquid state and the third in the gaseous state at room temperature. Use the following
+table to explain the motion, distance and attraction between particles.
+Substances Motion of Distance between Attraction between
+particles particles particles
+ 1
+ 2
+ 3
+2. In which state do the particles possess the highest kinetic energy?
+5.2.1 The Kinetic Theory of Matter
+The three states of matter in which substances are chemically the same but physically
+different are explained by the kinetic theory of matter. The kinetic theory of matter gives
+an explanation of the nature of the motion and the heat energy. According to the kinetic
+theory of matter, every substance consists of a very large number of very small particles
+called ions, atoms and molecules. The particles are in a state of continuous and random
+motion with all possible velocities. The motion of the particles increases with a rise in
+temperature.
+Generally, the kinetic theory of matter is based on the following three assumptions:
+1. All matter is composed of particles which are in constant motion.
+2. The particles possess kinetic energy and potential energy.
+3. The difference between the three states of matter is due to their energy contents
+and the motion of the particles.
+5.2.2 Properties of Matter
+Form a group and discuss each of the following idea.Present your discussion to the class.
+1. Compare and contrast the density of solid, liquid and gaseous forms of a substance.
+2. Discuss the compressibility of solid, liquid and gaseous forms of water.
+ CHEMISTRY GRADE 9
+168
+As discussed earlier, matter exists as gas, liquid, and solid. Their properties are
+explained in terms of the kinetic theory as follows:
+Properties of Gases
+From the kinetic molecular theory of gases, the following general properties of gases
+can be summarized.
+1. Gases have no definite shape and definite volume. This is because gases assume
+the volume and shape of their containers.
+2. Gases can be easily compressed. By applying pressure to the walls of a flexible
+container, gases can be compressed; the compression results in a decrease in
+volume. This happens due to the large spaces between the particles of gases.
+3. Gases have low densities compared with liquids and solids. This is due to the
+fact that the particles of a gas are very far apart and the number of molecules
+per unit volume is very small. A small mass of a gas in a large volume results in
+a very low density.
+4. Gases exert pressure in all directions. Gases that are confined in a container
+exert pressure on the walls of their container. This pressure is due to collisions
+between gas molecules and the walls of the container.
+5. Gases easily flow and diffuse through one another. A gas moves freely and
+randomly throughout in a given space.
+Properties of Liquids
+Liquids can be characterized by the following properties.
+1. Liquids have a definite volume, but have no definite shape. They assume the
+shapes of their container. Lack of a definite shape for liquid substances arises
+from its low intermolecular forces as compared to that of solids.
+2. Liquids have higher densities than gases. Their density is a result of the close
+arrangement of liquid particles. Thus, the particles of liquids are closer than
+those of gases. This accounts for the higher densities of liquids as compared to
+gases.
+3. Liquids are slightly compressible. With very little free spaces between their particles
+liquids resist an applied external force and thus are compressed very slightly.
+4. Liquids are fluids. A fluid is a substance that can easily flow. Most liquids naturally
+flow downhill because of gravity. Because liquids flow readily the molecules of
+a liquid can mix with each other. They flow much more slowly than gases.
+Properties of Solids
+1. Solids have a definite shape and a definite volume. This is due to the strong
+force of attraction that holds the particles of solids together.
+PHYSICAL STATES OF MATTER
+169
+2. Solids generally have higher densities than gases and liquids. The particles of
+solids are very close to each other. There is almost no empty space between
+the particles of solids. This closeness of particles makes solids to have more
+particles (mass) per unit volume, and hence solids have high density.
+3. Solids are extremely difficult to compress. This is because of the high interparticle
+forces, and a very short distance between the particles.
+4. Solids are not fluids. That is they normally do not flow. This is due to the fact
+that solid particles are rigidly held in position by strong forces that cause the
+restricted motion of their particles.
+Activity 5.4
+Form a group and perform the following activity:
+Take a balloon and blow air into it. What happens to the volume of balloon. Explain your
+observations and findings to the class.
+Exercise 5.2
+Arrange the three states of matter in order of increasing:
+a intermolecular force
+b density
+c compressibility
+d kinetic energy
+5.3 THE GASEOUS STATE
+Competencies
+By the end of this section, you will be able to:
+• explain the assumptions of kinetic molecular theory of gases;
+• describe the properties of gases using kinetic molecular theory;
+• describe the behavior of gases by using the variables V (volume), T (Temperature)
+P (pressure) and n (number of moles);
+• state Boyle’s law;
+• perform an activity to show changes in volume and pressure of gases to illustrates
+Boyle’s law;
+ CHEMISTRY GRADE 9
+170
+Activity 5.5
+• apply Boyle’s law in solving problems;
+• state Charles’ law;
+• perform an activity to show changes in volume and temperature of gases to
+illustrate Charles’ law;
+• apply Charles’ law in solving problems;
+• derive combined gas law equation from Boyle’s law and Charles’ law;
+• use the combined gas law to calculate changes in volume, pressure or
+temperature;
+• define an ideal gas;
+• derive an ideal gas equation from Boyle’s law, Charles’ law and Avogadro’s
+law;
+• compare the nature of real gases with ideal gases;
+• solve problems related to ideal gas equation;
+• define diffusion;
+• state Graham’s law of diffusion;
+• carry out an activity to compare the rate of diffusion of two different gases;
+• apply Graham’s law of diffusion in solving problems.
+Form a group and discuss each of the following phenomenon. Present your conclusion to
+the class.
+Regarding the pressure in the tyres, what would you recommend to the driver of a car
+who is taking a trip to an area that is experiencing very cold temperatures, more or less
+air? Explain.
+5.3.1 The Kinetic Molecular Theory of Gases
+The particles in an ideal gas are very widely spaced and they are in a constant
+random motion. The pressure of a gas is the result of continuous collisions between
+the particles and the walls of their container.
+PHYSICAL STATES OF MATTER
+171
+Activity 5.6
+Assumptions of the kinetic molecular theory of gases
+1. The particles are in a state of constant, continuous, rapid, random motion and,
+therefore, possess kinetic energy. The motion is constantly interrupted by collisions
+with molecules or with the container. The pressure of a gas is the effect of these
+molecular impacts.
+2. The volume of the particles is negligible compared to the total volume of the
+gas. Gases are composed of separate, tiny invisible particles called molecules.
+Since these molecules are so far apart, the total volume of the molecules is
+extremely small compared with the total volume of the gas. Therefore, under
+ordinary conditions, the gas consists chiefly of empty space. This assumption
+explains why gases are so easily compressed and why they can mix so readily.
+3. The attractive forces between the particles are negligible. There are no forces of
+attraction or repulsion between gas particles. You can think of an ideal gas
+molecule as behaving like small billiard balls. When they collide, they do not
+stick together but immediately bounce apart.
+4. The average kinetic energy of gas particles depends on the temperature of the
+gas. At any particular moment, the molecules in a gas have different velocities.
+The mathematical formula for kinetic energy is K.E. = ½ mν2
+, where m is mass
+and ν is velocity of gas molecules. Because the molecules have different velocities,
+they have different kinetic energies. However, it is assumed that the average
+kinetic energy of the molecules is directly proportional to the absolute (Kelvin)
+temperature of the gas.
+5.3.2 The Gas Laws
+Form a group and discuss the following phenomena in terms of the gas laws. Present your
+conclusion to the class.
+a The increase in pressure in an automobile tire on a hot day.
+b The loud noise heard when a light bulb shatters.
+The gas laws are the products of many experiments on the physical properties of
+gases, which were carried out over hundreds of years. The observation of Boyle and
+other scientists led to the development of the Gas Laws. The gas laws express
+mathematical relationships between the volume, temperature, pressure, and quantity of
+a gas.
+ CHEMISTRY GRADE 9
+172
+Pressure: pressure is defined as the force applied per unit area.
+Force Pressure =
+Area
+Pressure is one of the measurable properties of gases. Thus, the pressure of a gas can
+be expressed in unit of atmosphere, Pascal, torr, millimetre of mercury. The SI unit of
+pressure is Pascal (Pa), and is defined as one Newton per square metre.
+1 Pa = 1 N/m2 and
+1 atm = 760 mmHg = 76 cmHg = 760 torr = 101325 Pa = 101.325 kPa
+Volume: Volume is the space taken up by a body. The SI unit of volume is the cubic
+metre (m3). Volume is also expressed in cubic centimetre (cm3
+) and cubic decimetre
+(dm3
+). Other common units of volume are millilitre (mL) and litre (L).
+1 cm3 = (1×10–2 m)3 = 1×10–6 m3
+1 dm3 = (1×10–1 m)3 = 1×10–3 m3 = 1 L
+A litre is equivalent to one cubic decimeter: The relation is given as follows
+1 L = 1000 mL = 1000 cm3 = 1 dm3
+Temperature: Temperature is the degree of hotness or coldness of a body. Three
+temperature scales are commonly used. These are °F (degree Fahrenheit), °C (degree
+Celsius) and K (Kelvin). In all gas calculations, we use the Kelvin scale of
+temperature.
+We use the following formulae for all necessary inter-conversions:
+K = °C + 273
+5 C = ( F – 32 ) 9 ° °
+9 F = × C + 32 
+5 ° °      
+Exercise 5.3
+Convert the following:
+a 500 mmHg into atm, torr, and cmHg
+b 100 dm3 into mL, cm3, L, m3
+c 54°C into K and °F.
+PHYSICAL STATES OF MATTER
+173
+Molar Volume and Standard Conditions (STP)
+The conditions of a pressure of 1 atmosphere and a temperature of 0oC (273.14 K)
+are called standard temperature and pressure or STP for gases. At STP the volume of
+one mole of any gas is equal to 22.4 litres. This volume is known as molar gas
+volume.
+Quantity of gas: The quantity of a gas is expressed in mole (n). Mole is the quantity
+of gas in terms of number of particles. It is the number of atoms or molecules in
+1 gram-atom or 1 gram-molecule of an element or a compound.
+1. Boyle’s Law
+Activity 5.7
+Form a group and discuss the following phenomenon. Present your discussion to the class.
+Explain why a helium weather balloon expands as it rises more in the air. (Assume the
+temperature remains constant.)
+The first quantitative experiments on gases were performed by the Irish chemist,
+Robert Boyle (1627-1691). His experiment helped to analyze the relationship
+between the volume and pressure of a fixed amount of a gas at constant temperature.
+Decreasing the external pressure, causes the gas to expand and to increase in volume.
+Correspondingly, increasing the external pressure allows the gas to contract and
+decrease in volume. This is shown in Figure 5.1.
+Figure 5.1 The relation between pressure and volume.
+Boyle studied the relationship between the pressure of the trapped gas and its volume.
+Accordingly, he discovered that at constant temperature doubling the pressure on a
+ CHEMISTRY GRADE 9
+174
+sample of gas reduces its volume by one-half. Tripling the gas pressure reduces its
+volume to one-third of the original. Generally, the volume of a gas decreases, as the
+pressure on the gas increases. This volume-pressure relationship is illustrated in
+Table 5.1.
+Table 5.1 Pressure and volume data for a gas at constant mass and temperature.
+Presssure (atm) Volume (mL) P × V
+0.5 1200 600
+1.0 600 600
+2.0 300 600
+3.0 200 600
+4.0 150 600
+5.0 120 600
+6.0 100 600
+0.5 1.0 2.0 3.0 4.0 5.0 6.0
+1200
+900
+600
+300
+0
+Volume (mL)
+Pressure (atm)
+Figure 5.2 Volume versus pressure graph for a gas at constant temperature and mass.
+The general volume-pressure relationship illustrated above is called Boyle's law.
+Boyle's law states that the volume of a fixed mass of gas is inversely proportional
+to the pressure at a constant temperature. The inverse relationship between
+pressure and volume is mathematically given as
+1 V α
+P (at constant T and n)
+From which follows,
+V = k
+1
+P
+or PV = k ;
+where k is a constant at a specific temperature for a given sample of gas.
+PHYSICAL STATES OF MATTER
+175
+ Experiment 5.1
+If P1 and V1 represent the initial conditions; and P2 and V2 represent the new or final
+conditions, Boyle’s law can be written as:
+P1V1 = P2V2;
+Effect of Pressure on the Volume of Gas
+Objective: To observe the relationships between the volume and pressure of a gas
+ at constant temperature.
+Apparatus: U-tubes, ruler, rubber tube, burette, glass tube.
+Chemicals: Mercury.
+Procedure:
+1. Join two tubes by a rubber tubing to give a U-arrangement as shown in
+Figure 5.3, and then partially fill these two tubes with mercury.
+2. Put a ruler in the middle of the tube.
+3. The first arm of the tube (A) contains air and is sealed by a tap.
+4. By moving the second arm of the tube (B) up and down, the volume of air in
+the first tube can be varied.
+5. The pressure exerted on the air is obtained from the difference in height of
+mercury in the two arms of the tube.
+Figure 5.3 Effect of pressure on the volume of a gas at constant temperature.
+ CHEMISTRY GRADE 9
+176
+Observations and analysis:
+1. Plot a graph taking pressure on the vertical axis versus volume on the horizontal
+axis and comment on the shape of the graph.
+2. What can you conclude from this experiment?
+Discuss the following activity in your group and present your discussion to the class. Plot
+a graph of pressure, P, versus 1/V, using the following data:
+(Note: Calculate 1/V values from the given volume by yourself )
+Pressure(atm) 1 2345
+Volume(mL) 20 10 6.7 5 4
+1. What does the graph look like?
+2. What does the graph indicate?
+3. What can you conclude from the graph?
+Example 1
+An inflated balloon has a volume of 0.55 L at sea level (1.0 atm) and is
+allowed to rise to a height of 6.5 km, where the pressure is about 0.40 atm.
+Assuming that the temperature remains constant, what is the final volume of the
+balloon?
+Solution:
+Givens:
+Initial conditions Final conditions
+P1 = 1.0 atm P2 = 0.40 atm
+V1 = 0.55 L V2 = ?
+Use Boyles’ law equation: P1V1 = P2 V2
+Therefore, 1 1
+2
+2
+P V 1.0 atm V = = 0.55 L × 
+P 0.40 atm = 1.4 L.
+Activity 5.8
+
+ CHEMISTRY GRADE 9
+178
+compartment of our refrigerator, its volume shrinks drastically as the air inside cools
+(Figure 5.4(c)).
+Figure 5.4 Relationship between the volume of air in the balloon and its temperature.
+From your observation what can you conclude about the effect of temperature
+on the volume of a gas?
+In 1848, Lord Kelvin realized that a temperature of -273.15oC is considered as
+absolute zero. Absolute zero is theoretically the lowest attainable temperature. Then he
+set up an absolute temperature scale, or the Kelvin temperature scale, with absolute
+zero as the starting point on the Kelvin scale.
+The average kinetic energy of gas molecules is closely related to the Kelvin
+temperature. The volume of a gas and Kelvin temperature are directly proportional to
+each other. For example, doubling the Kelvin temperature causes the volume of a gas
+to double, and reducing the Kelvin temperature by half causes the volume of a gas to
+decrease by half. This relationship between Kelvin temperature and the volume of a
+gas is known as Charles’ law.
+Charles’ law states that the volume of a fixed mass of gas at constant pressure
+varies directly with the Kelvin temperature.
+PHYSICAL STATES OF MATTER
+179
+Mathematically;
+V a T at constant P and n:
+V = kT, or = 
+T
+ k V
+The value of T is the Kelvin temperature, and k is a constant. The value of k depends
+only on the quantity of gas and the pressure. The ratio V/T for any set of volumetemperature values always equals the same k. Charles' law can be applied directly to
+volume-temperature problems using the relationship:
+1 2
+1 2
+V V = T T
+where V1 and T1 represent the initial condition; V2 and T2 represent the new
+condition.
+Charles found that the volume of a gas at constant pressure increases linearly with
+the temperature of the gas. That is, a plot of the volume of a gas versus its
+temperature (K) gives a straight line assuming the pressure remains constant.
+Figure 5.5 illustrates the relationship between the volume of a gas and Kelvin
+temperature. If the graph is extrapolated to give zero volume for a gas, the
+temperature reached is –273.15oC. This temperature is the lowest temperature
+attained by a gas and it is called absolute zero.
+Figure 5.5 A plot of volume versus the Kelvin temperature.
+Note that the ratio V/T is constant for every plot of the curve. Figure 5.5 is drawn
+using the data given in Table 5.2 for the same sample of gas. In all cases, V/T is
+constant as noted in the table.
+ CHEMISTRY GRADE 9
+180
+Table 5.2 Volume-Temperature Data for a Gas sample (at constant mass and pressure).
+Volume (mL) Temperature in Kelvin V/T
+600 300 2
+500 250 2
+400 200 2
+300 150 2
+200 100 2
+100 50 2
+ Experiment 5.2
+Effect of Temperature on the Volume of Gas
+Objective: To observe the changes in volume of a gas as temperature changes.
+Apparatus: Round bottomed flask, beaker, delivery tube and burner.
+Procedure:
+1. Set up the apparatus as shown in Figure 5.6.
+2. Warm the flask gently with a low Bunsen flame.
+3. Cool the flask and note what happens.
+4. Record your observation.
+Observations and analysis:
+1. What do you observe from the experiment?
+2. What is your conclusion from this activity?
+Figure 5.6 Relationship between temperature and volume of a gas.
+PHYSICAL STATES OF MATTER
+181
+Activity 5.10
+Form a group and perform the following activity and present to the class.
+Given the following data at a constant pressure:
+Volume of Nitrogen gas (L) Temperature (K)
+4.28 L 303
+5.79 L 410
+7.77 L 550
+a Draw a graph of the relationship between volume and temperature.
+b Calculate the expected volume of the gas when the temperature reaches 700K.
+c Explain the relationship between temperature and volume.
+Example 2
+A quantity of gas occupies a volume of 804 cm3 at a temperature of 127°C.
+At what temperature will the volume of the gas be 603 cm3, assuming that
+there is no change in the pressure?
+Solution:
+Given:
+Initial conditions Final conditions
+T1 = 127oC T2 = ?
+= 127 + 273 = 400 K V2 = 603 cm3
+V1 = 804 cm3
+Based on Charles’ equation V V 
+T T =      
+1 2
+1 2
+, the unknown variable (T2) can be
+calculated as:
+ 1 2 2
+2 1
+1 2 1
+V V V
+ T T 
+T T V = ⇒ = ×
+3
+3
+603cm = 400K × = 300K
+804cm
+ CHEMISTRY GRADE 9
+182
+Example 3
+A gas at 65°C occupies 4.22 L. What will be the volume of the gas at a
+temperature of 36.9°C, assuming a constant pressure?
+Solution:
+Given:
+Initial conditions Final conditions
+T1 = 65°C T2 = 36.9°C + 273 = 309.9 K
+= 65 + 273 = 338 K
+V1 = 4.22 L V2 = ?
+From Charles’ law
+ 1 2 1
+2 2
+1 2 1
+= = × V V T
+V T
+T T V
+fi
+ = 
+4.22 L × 309.9 K 3.87 L
+338 K =
+Exercise 5.5
+1. At constant pressure, by what fraction of its volume will a quantity of gas
+change if the temperature changes from -173°C to 27°C?
+2. At what temperature will the volume of a gas be
+a halved, b doubled,
+c tripled at constant pressure if the original temperature is 17°C?
+3. At 25°C and 1 atm a gas occupies a volume of 1.5 dm3. What volume will it
+occupy at 100°C and 1 atm?
+3. The Combined Gas Law
+A sample of a gas often undergoes changes in temperature, pressure, and volume.
+When this happens, the three variables must be dealt with at the same time.
+Boyle’s law and Charles’ law can be combined to give one expression called the
+combined gas law. The combined gas law expresses the relationship between
+pressure, volume, and temperature of a fixed amount of gas.
+Derivation of the combined gas law:
+Boyle’s law: V a 1/P
+Charles’ law: V a T
+Then, V a T/P (combined)
+ V = kT/P (where k is a constant)
+PHYSICAL STATES OF MATTER
+183
+It follows,
+1 2 2
+1 2
+ = and = PV PV k k
+T T
+1
+Since in each case k is constant, the combined gas law equation is given as follows:
+11 2 2
+1 2
+ = P V PV
+T T
+Where P1, V1 and T1 are the initial pressure, volume and temperature; P2, V2 and T2
+are the final pressure, volume and temperature of the gas respectively.
+Example 4
+A 300 cm3 sample of a gas exerts a pressure of 60.0 kPa at 27°C. What
+pressure would it exert in a 200 cm3 container at 20°C?
+Solution:
+Given:
+Initial Conditions V1 = 300 cm3 T1 = 27 + 273 = 300 K P1= 60.0 kPa
+Final Conditions V2 =200 cm3 T2 = 20 + 273 = 293 K P2 = ?
+Using the combined gas law, 11 2 2
+1 2
+PV PV T T
+    =
+ 
+.
+ ⇒
+3
+1
+3
+1 2 60.0 kPa 300 cm 293 K
+2
+1 2 300 K 200 cm
+P T P 
+T V
+V × = = × ×
+ P2 = 87.9 kPa
+Exercise 5.6
+If a 50 cm3 sample of gas exerts a pressure of 60.0 kPa at 35°C, what
+volume will it occupy at STP?
+4. Avogadro’s law
+Activity 5.11
+Form a group and discuss the following phenomena. Present your discussion to the class.
+Suppose while you are playing a football in your school football team, the ball is
+accidentally deflated. Then immediately you fill the ball with air using air pump.
+i. Why did the ball become strong enough?
+ii. What happened to the number of particles in the ball?
+iii. Which gas law can be obeyed? Explain.
+ CHEMISTRY GRADE 9
+184
+Activity 5.12
+The relationship between the volume of a gas and its number of molecules was
+explained by Avogadro. Avogadro’s law states that equal volumes of different
+gases, under the same conditions of temperature and pressure, contain the same
+number of molecules. Thus, according to the law the volume of a gas is proportional
+to the number of molecules (moles) of the gas at STP.
+Mathematically, V α n; where V is the volume and n is number of moles.
+5. The Ideal Gas Equation
+Form a group and discuss the following phenomenon. Present your discussion to the class.
+A balloon can burst when too much air is added into it. Describe what happens to the
+pressure, volume, temperature, number of moles, and the balloon itself as it is inflated and
+finally bursts. Can you derive an equation which describes these relationships?
+An ideal gas is a hypothetical gas that obeys the gas laws. Real gases only obey the
+ideal gas laws closely at high temperature and low pressure. Under these conditions,
+their particles are very far apart. The ideal gas law is a combination of Boyle’s law,
+Charles’ law and Avogadro’s law.
+We have considered the three laws that describe the behavior of gases as revealed by
+experimental observations:
+Boyle's law: V α
+1
+P (at constant T and n)
+Charles' law: V α T (at constant P and n)
+Avogadro's law: V α n (at constant P and T )
+This relationship indicates how the volume of gas depends on pressure, temperature
+and number of moles.
+α
+nT V
+P
+or = nT V R
+P
+where R, is a proportionality constant called the gas constant.
+PV = nRT (the ideal gas equation)
+Thus, the ideal gas equation describes the relationship among the four variables P, V,
+T and n. An ideal gas is a gas whose pressure-volume-temperature behavior can be
+completely explained by the ideal gas equation.
+At STP, the values of R can be calculated from the ideal gas equation.
+(1 atm) (22.414 L)
+(1 mol)(273.15K)
+PV R
+nT = =
+PHYSICAL STATES OF MATTER
+185
+L.atm 0.082057 8.314 L. kPa/K.mol = 8.314 J/mol.K
+K.mol = =
+For calculations, we round off the value of R to three significant figures
+(0.0821 L.atm/K.mol) and use 22.4 L for the molar volume of a gas at STP.
+Example 5
+Calculate the volume (in liters) occupied by 7.4 g of CO2 at STP?
+Solution:
+The ideal gas equation is given as
+PV = nRT
+V = since / by rearranging nRT mRT n mM V
+P M P
+    = =
+ 
+= 
+7.4 g L.atm 273 K 0.082 3.77 L
+44 g / mol K mol 1 atm
+× =
+Example 6
+At STP, 0.280 L of a gas weighs 0.400 g. Calculate the molar mass of the
+gas.
+Solution:
+Given: V = 0.280 L, m = 0.400 g
+At conditions of standard temperature and pressure
+T = 273 K, P = 1 atm
+R = 0.082 L.atm/K.mol
+⇒ PV = nRT
+(Since ) m m PV RT n
+M M =⋅ = ;
+⇒ m 0.400 g 0.082 L. atm/K.mol 273K
+1 atm 0.280 L
+× × = = ×
+RT M
+PV =31.98g/mol
+ CHEMISTRY GRADE 9
+186
+Exercise 5.7
+The density of a gas at a pressure of 1.34 atm and a temperature of 303 K
+is found to be 1.77 g/L. What is the molar mass of this gas?
+6. Graham's Law of Diffusion
+Activity 5.13
+Form a group and discuss the following phenomenon. Present your discussion to the class.
+Explain why a helium-filled balloon deflated over time faster than an air-filled balloon does.
+(Hint: A balloon has many invisible pinholes).
+We have seen that a gas tends to expand and occupy any space available to it. This
+spreading of gas molecules is called diffusion.
+How do you compare the rate of diffusion of molecules with different
+densities?
+Thomas Graham (1805 - 1869), an English chemist, studied the rate of diffusion of
+different gases. He found that gases having low densities diffuse faster than gases with
+high densities. He was able to describe quantitatively the relationship between the
+density of a gas and its rate of diffusion. In 1829, he announced what is known as
+Graham's law of diffusion.
+Graham’s law of diffusion states that at constant temperature and pressure, the rate
+of diffusion of a gas, r, is inversely proportional to the square root of its density,
+d, or molar mass, M.
+Mathematically it can be expressed as:
+1
+or 
+1 ∝ ∝ d
+r r
+M
+;
+where r is the rate of diffusion, d is the density and M is the molecular mass of the gas.
+For two gases (Gas 1 and Gas 2), their rates of diffusion can be given as:
+1
+1 1
+1
+1 1
+d
+r r or M ∝ ∝
+and 2 2
+2 2
+1 1
+d
+r r or 
+M ∝ ∝
+Rearranging these relationships gives the following expression
+1 2
+2 1
+1 2
+2 1
+d
+d
+or
+r rM r rM = = ;
+PHYSICAL STATES OF MATTER
+187
+ Experiment 5.3
+where r1, d1 and M1 represent the rate of diffusion, density and molecular mass
+of gas 1. r2, d2 and M2 represent the rate of diffusion, density and molecular
+mass of gas 2.
+Determination of Diffusion of Gases
+Objective: To compare the rates of diffusion of HCl and NH3 gases.
+Apparatus: Glass tube, cork, cotton and stand.
+Chemicals: conc NH3, conc. HCl.
+Procedure:
+1. Set up the apparatus as shown in Figure 5.7.
+2. Insert pieces of cotton at the two ends of the tube.
+3. Add 8 drops of concentrated ammonia on the cotton at one end and 8 drops
+of concentrated hydrochloric acid at the other end of the tube at the same
+time. Immediately close the two ends with corks.
+4. Watch till a white ring is formed and record the time at which the white ring is
+formed.
+5. Measure the distances between the white ring and the two ends.
+Figure 5.7 Determination of diffusion of gases.
+Observations and analysis:
+1. Which gas has moved the shorter distance to the white ring?
+2. How do you compare the rate of diffusion of the two gases?
+3. Which gas diffuses faster? HCl or NH3?
+4. Write your conclusions about the experiment.
+ CHEMISTRY GRADE 9
+188
+Example 7
+Which gas will diffuse faster, ammonia or carbon dioxide? What is the relative
+rate of diffusion?
+Solution:
+The molecular weight of CO2 is 44 g/mol and that of NH3 is 17 g/mol.
+Therefore, NH3 diffuses faster than CO2
+.
+We can calculate the rate of diffusion as follows:
+Let the rate of diffusion of NH3 be rNH3
+Let the rate of diffusion of CO2 be rCO2
+2
+3
+3
+2
+CO
+NH
+NH
+CO
+44
+ = = = 1.6
+17
+M
+M
+r
+r
+This means rate of diffusion of NH3
+ is 1.6 times that of CO2.
+Example 8
+The rate of diffusion of methane (CH4) is twice that of an unknown gas. What
+is the molecular mass of the gas?
+Solution:
+Let rCH4
+ and rx
+ be the rates of diffusion of CH4 and the unknown gas
+respectively.
+Let MCH4
+ and Mx
+ be the molecular masses of CH4 and the unknown gas
+respectively.
+The rate of diffusion of CH4 is two times faster than the unknown gas. This
+can be written mathematically as rCH4
+= 2rx
+.
+Now, substitute 2rx
+ in place of rCH4
+and solve for Mx using Graham’s law.
+ 4
+4
+1 2 CH
+2 CH 1
+ = = x
+x
+rM M r
+rM r M
+fi
+X X
+X
+2 = 16
+r M
+r
+ fi MX = 64
+Therefore, the molecular mass of the unknown gas is 64.
+PHYSICAL STATES OF MATTER
+189
+Also the rate at which a gas diffuses is inversely proportional to the time taken.
+Mathematically, 1
+r
+t ∝
+If two different gases (gas 1 and gas 2) under the same conditions of temperature and
+pressure diffuse through a porous container, then the time required to diffuse for the
+two gases can be given by the following formula:
+12 2
+21 1
+rt M
+rt M = =
+where t
+1 and t
+2 are the time taken, r1 and r2 are the rates, M1 and M2 are the
+molecular masses of Gas 1 and Gas 2 respectively.
+Activity 5.14
+Form a group and discuss the kinetic molecular theory to explain the compression and
+expansion of gases. Present your findings to the class.
+Reading Check
+What names are given for the following ideal gas relationships?
+a Volume and moles at constant temperature and pressure.
+b Volume and pressure at constant temperature and moles.
+c Volume and Kelvin temperature at constant pressure and moles.
+5.4 THE LIQUID STATE
+Competencies
+By the end of this section, you will be able to:
+• explain the terms: evaporation, boiling, condensation, vapor pressure; boiling point,
+molar heat of vaporization and molar heat of condensation;
+• carry out an activity to demonstrate the concept of vapor pressure; and
+• carry out an activity to determine the boiling points of water and ethanol.
+ CHEMISTRY GRADE 9
+190
+Activity 5.16
+Form a group and discuss the following phenomenon:
+When you take bath with hot water in your bathroom, the water collects on the mirror of
+the bathroom.
+Present your discussion to the class.
+Activity 5.15
+Discuss the following activities in your group and present to the class.
+1. Why some liquids are volatile and others are not?
+2. What is the relationship between altitude and boiling point of a liquid?
+You recall that liquids have a definite volume and an indefinite shape. They take the
+shape of their containers to the level they fill. On the average, liquids are more dense
+than gases, but less dense than solids.
+As in a gas, particles in a liquid are in constant motion. However, the particles in a
+liquid are closer together than those in a gas. The attractive forces between particles
+in a liquid are more effective than between particles in a gas. This attraction between
+liquid particles is caused by the intermolecular forces (dipole-dipole forces, London
+dispersion forces, and hydrogen bonding).
+Liquids are more ordered than gases because of the stronger intermolecular forces
+and the lower mobility of liquid particles. Accordingly, liquid particles are not bound
+together in fixed positions.
+Energy Changes in Liquids
+The process by which a liquid changes to a gas is known as vaporization. Evaporation
+is the process by which liquid molecules break freely from the liquid surface and enter
+the vapor phase. Evaporation is explained in terms of the energy possessed by the
+molecules on the surface of the liquid.
+PHYSICAL STATES OF MATTER
+191
+In an open container, evaporation continues until all of the liquid enters the vapor
+phase. However, liquids in a closed container behave differently. The volume of the
+liquid decreases for a period of time, and remains unchanged. In closed containers,
+the vapor cannot escape. As the vapor concentration increases, some of the vapor
+molecules lose energy and return to the liquid state. When a vapor returns to the
+liquid state, it is said to condense. The process is called condensation. Evaporation
+and condensation are opposing processes.
+Liquid Evaporation
+Condensation YZZZZZZ ZZZZZZXZZ Gas
+The rate of evaporation of a liquid depends on three factors. These are temperature,
+intermolecular forces, and surface area of the liquid.
+An increase in temperature increases the average kinetic energy of the molecules and
+this increases the tendency to change into the gaseous state. Some liquids evaporate
+readily at room temperature. Such liquids are said to be volatile. The volatile liquids
+have relatively weak forces of attraction between particles. Diethyl ether, ethyl alcohol,
+benzene and acetone are volatile liquids.
+Non-volatile liquids have a little tendency to evaporate at a given temperature. They
+have relatively stronger attractive forces between their molecules, e.g., sulphuric acid,
+water, and molten ionic compounds.
+Vapour pressure: The partial pressure of the vapour above a liquid is called vapour
+pressure. The vapour pressure of a liquid depends up on the temperature. At a given
+temperature, vapour pressure is constant. As the temperature increases, the vapour
+pressure of a liquid also increases due to high rate of evaporation.
+Vapour pressure depends also on the strength of the intermolecular forces between
+the particles of the liquid. The stronger the intermolecular forces, the lower the vapour
+pressure will be, because fewer particles will have enough kinetic energy to overcome
+the attractive force at a given temperature. For example, water and alcohol have
+relatively low vapour pressure. On the contrary, liquids with low intermolecular forces
+have high vapour pressures at room temperature. For example, diethyl ether, a nonpolar molecule with relatively weak dispersion forces, has a relatively higher vapour
+pressure.
+ CHEMISTRY GRADE 9
+192
+Boiling and Boiling Point
+What is the difference between evaporation and boiling? How does boiling
+point depend on the external pressure?
+Boiling is the change of a liquid to bubbles of vapour that appear throughout the
+liquids. It is the conversion of liquid to vapour within the liquid as well as at its
+surface. It occurs when the equilibrium vapour pressure of the liquid equals the
+atmospheric pressure. During evaporation only molecules at the surface escape into
+the vapour phase, but at the boiling point the molecules within the liquid have sufficient
+energy to overcome the intermolecular attractive forces of their neighbors, so bubbles
+of vapour are released at the surface. It is the formation of vapour bubbles within the
+liquid itself that characterizes boiling and distinguishes it from evaporation.
+If the temperature of the liquid is increased, the equilibrium vapour pressure also
+increases. Finally, the boiling point is reached. The boiling point of a liquid is the
+temperature at which the equilibrium vapour pressure of the liquid equals the
+atmospheric pressure. Therefore, the lower the atmospheric pressure, the lower the
+boiling point will be.
+The boiling point of a liquid can be reduced as lowering the external pressure,
+because the vapour pressure of the liquid equals the external pressure at a lower
+temperature.
+If the external pressure is 1.0 atmosphere (760 mmHg), the boiling point is called
+normal boiling point. For instance water boils, at 100°C at 1.0 atmospheric pressure.
+Thus, the normal boiling point of water is 100°C.
+Where will water boil first? In Addis Ababa or Hawassa? Why?
+Activity 5.17
+Form a group and discuss the following ideas. Present your discussion to the class.
+1. How does the kinetic-molecular theory explain why atmospheric pressure is greater at
+lower altitude than at a higher altitude?
+2. Ice melts normally at 0°C. What happens to the melting point of ice in the presence of
+impurities? Does it melt below 0°C, above 0°C or exactly at 0°C? Explain.
+PHYSICAL STATES OF MATTER
+193
+ Experiment 5.4
+Observing the Vapour Pressure of liquid
+Objective: To observe the vapour pressure of liquid.
+Apparatus: Erlenmeyer flask, rubber bung, U-tube and burner.
+Procedure:
+1. Set up the apparatus as shown in Figure 5.8.
+2. Add about 100 mL of water into the Erlenmeyer flask and put a stopper. Heat
+the flask to expel the air above the water in the flask.
+3. Half fill the U-tube with water.
+4. Connect the U-tube to Erlenmeyer flask and note the water level in the two
+arms of the U-tube.
+5. Heat the flask gently and observe the water level changes in the arms of the
+U-tube.
+Fig. 5.8 Determination of vapour pressure.
+Observations and analysis:
+1. What do you observe? Give an explanation for the observation.
+ CHEMISTRY GRADE 9
+194
+ Experiment 5.5
+Determining of Boiling Point
+Objectives: To determine the boiling point of water.
+Apparatus: Test tube, stopper, thermometer, beaker, burner, clamp, stand and base.
+Procedure:
+1. Half fill the test tube with a sample of pure water and add some porclein chips.
+2. Take a rubber stopper and pierce a thin opening on the side of the rubber
+stopper to allow the vapour to escape.
+3. Fit the thermometer with the rubber stopper and insert it in the test tube.
+4. Put the test tube in a beaker containing oil as shown in Figure 5.9.
+5. Heat the oil in beaker gently and record the temperature at which the water boils.
+Thermometer
+Test tube
+Beaker
+Bunsen
+burner
+Oil
+Stand
+Figure 5.9 Determination of boiling point.
+Observations and analysis:
+1. What is the boiling point of water that you obtained from the experiment?
+2. Does the temperature from the thermometer reading increase after the water
+starts to boil?
+3. Explain why the thermometer was not put into the liquid.
+4. Explain the purpose of adding porclein chips.
+PHYSICAL STATES OF MATTER
+195
+Boiling of a liquid requires a certain amount of heat energy to break the forces of
+attraction that holds the molecules together. The amount of heat energy necessary to
+bring about the vaporization of a fixed amount of a liquid at a fixed temperature to the
+gaseous state is called the heat of vaporization. For example, the heat of vaporization
+per mole of water at 298 K and 1 atmosphere is 44.0 kJ. This is called the molar
+heat of vaporization (∆H
+vap) of water.
+Molar heat of vaporization (∆H
+vap) and molar heat of condensation (∆Hcond) are
+equal in magnitude but opposite in sign, i.e., ∆H
+vap
+ = – ∆Hcond. Vaporization is an
+endothermic processes where as condensation is an exothermic process.
+Reading Check
+1. What are the effects of impurity on the boiling point of liquids?
+2. Why does the boiling point of liquid decrease as altitude increases?
+5.5 THE SOLID STATE
+Activity 5.18
+Form a group and discuss the following:
+1. When the crystals of iodine are warmed, they disappear into vapours without being
+changed into liquid.
+2. When ethyl alcohol is taken in an open container it disappeares after sometime.
+Present your discussion to the class.
+Competencies
+By the end of this section, you will be able to:
+• explain the terms melting, fusion, sublimation, melting point, freezing point, molar
+heat of solidification;
+• describe phase changes;
+• explain temperature changes associated with phase changes;
+• determine melting point of ice; and
+• demonstrate an experiment to show the phase changes from ice to liquid water
+and then to water vapor.
+ CHEMISTRY GRADE 9
+196
+When a solid is continuously heated its ordered crystalline structure is disturbed. The
+particles attain their freedom of motion gradually and melting (or fusion) takes place
+where the solid is converted into the liquid state. The temperature at which a
+crystalline solid is converted to a liquid is known as the melting point.
+In contrast when a liquid is cooled, the molecules become closer and closer, and the
+intermolecular forces of attraction become stronger and stronger. The particles arrange
+themselves into a regular pattern in the liquid. This process is called freezing or
+solidification. Note that the freezing point of a liquid is the same as the melting point of
+a crystalline solid. This means that:
+• Both melting and freezing take place at the same temperature.
+• Both liquid and solid phases coexist at equilibrium with each other at the melting
+or freezing point.
+To clarify this, let us consider ice, which melts at 0°C and water freezes at 0°C. Ice
+and water coexist in equilibrium with each other at 0°C as follows.
+melting 0 C
+freezing 0 C
+Ice Liquid water ,
+,
+°
+° YZZZZZ ZZZZZZXZZZ
+The amount of heat needed to convert one gram of a solid to a liquid at the melting
+point is called heat of fusion. The molar heat of fusion or molar enthalpy of fusion
+(∆Hfus) is the quantity of heat needed to convert one mole of a solid at its melting
+point to the liquid state. For example, the molar heat of fusion of ice is 6.01 kJ at
+0°C. This is the amount of energy needed to break the attractive forces in the solid at
+the melting point. Melting requires the supply of energy; therefore, it is an endothermic
+process.
+During the process of solidification, an amount of heat equal to the heat of fusion must
+be liberated. This quantity of heat liberated, which is exactly equal to the heat of
+fusion, is called the heat of solidification or heat of crystallization.
+The molar heat of crystallization (∆Hcryst) is the quantity of energy that must be
+removed from one mole of a liquid to convert it to the solid state at its freezing point.
+∆Hcryst = –∆Hfus
+Although the motion of the particles in a solid are more restricted than those in a
+liquid, many solids have a significant vapour pressure and evaporate directly from the
+solid to the vapour state without passing through the liquid state. This process is called
+sublimation.
+sublimation
+deposition
+Solid YZZZZZ ZZZZZZXZ Vapour (gas)
+PHYSICAL STATES OF MATTER
+197
+During the sublimation process heat energy is absorbed. That is, it is an endothermic
+process.
+Molar heat of sublimation (∆Hfus) is the quantity of heat required to convert one mole
+of a solid to a gas at its sublimation point. The heat (enthalpy) of sublimation is related
+to the enthalpies of fusion and vaporization by:
+DHsub = DHfus + DH
+vap
+Phase Changes and Energy Changes in Solids
+A phase is any part of a system that has uniform composition and properties. A state
+of matter represents a phase. Most solid substances undergo two changes of state
+when heated. A solid change to a liquid at the melting point, and the liquid changes to
+vapour at the boiling point. To understand state changes, we will consider the heating
+curve for a substance given in Figure 5.10.
+A heating curve is a plot of temperature verses the uniform addition of heat. This can
+be illustrated for a hypothetical substance, in which the temperature of the substance is
+on the vertical axis and the passage of time during which heat is added to the
+substance is on the horizontal axis. Figure 5.10 shows the changes in the temperature
+and phases of a pure substance as it is heated, beginning with a solid and continuing
+to the gaseous state as described.
+Figure 5.10 Heating curve.
+Initially, the substance exists in the solid state, and the addition of heat increases its
+temperature. When the solid is heated, its temperature rises (A to B) until it reaches
+the melting point (point B), and the temperature remains constant (B to C) until all the
+ CHEMISTRY GRADE 9
+198
+solid is converted to a liquid (point C). The added heat energy is used to break the
+intermolecular forces, thus disrupting the solid structure. At point C phase change is
+completed. Once melting is completed, heating of the liquid raises its temperature
+(C to D) until the boiling point is reached at point D. In region (D to E) the addition
+of heat is utilized to break the intermolecular forces of the liquid to change it to a gas.
+When all the liquid has been converted into a gas, addition of heat simply raises the
+temperature of the gas

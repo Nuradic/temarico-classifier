@@ -1,0 +1,970 @@
+o thousand years ago, ancient Greek philosophers developed a theory of matter
+that was not based on the experimental evidences. A notable Greek philosopher,
+namely, Democritus, believed that all matter was composed of very tiny, indivisible
+particles. He called them atomos. Hence, the word ‘atom’ came from the Greek word
+atomos, which means uncuttable or indivisible.
+Aristotle was part of the generation that succeeded Democritus. He did not believe in
+atomos. Aristotle thought that all matter was continuous. That is, if one proceeded on
+breaking down a substance, it would be impossible to reach to the last indivisible
+particle. In other words, it would continue to divide infinitely. His opinion was
+accepted for nearly 200 years.
+The early concept of atoms was simply a result of thinking and reasoning on the part
+of the philosophers, instead of experimental observations. In 1803, however, John
+Dalton proposed a completely different theory of matter. His theory was based on
+scientific experimental observations and logical laws. These scientific assumptions were
+STRUCTURE OF THE ATOM
+3
+very closely related to what is presently known about the atom. Due to this, John
+Dalton is often referred to as the father of modern atomic theory.
+Dalton also worked on the relative masses of atoms and gave symbols to some
+elements as illustrated in Figure 1.1.
+ 1.1 Atomic Theory
+Competencies
+By the end of this section, you will be able to:
+• describe Dalton’s atomic theory;
+• describe modern atomic theory; and
+• compare and contrast Dalton’s atomic theory with modern atomic theory.
+Form a group and discuss the following idea: Dalton’s contribution was different from that
+of the ancient Greeks who postulated the existence of atoms. Point out the differences
+between the two ideas. Present your discussion to the class.
+Even though the idea of the existence of atoms and atomic theory dates back to
+classical times, as discussed earlier, only Dalton's atomic theory ideas were the basis
+for the new era of science.
+1.1.1 Dalton’s Atomic Theory
+Activity 1.1
+British physicist and chemist John Dalton is best known for
+developing the atomic theory of elements and molecules, the
+foundation of modern physical science. While pondering the
+nature of the atmosphere during a meteorological study in the
+early 1800s, Dalton deduced the structure of carbon dioxide and
+proposed that an exact number of atoms constitute each
+molecule. He held that all atoms of a given element are identical
+and different from the atoms of every other element. The first to
+classify elements according to their atomic weights, Dalton set
+the stage for a revolution in scientific thought.
+John Dalton
+Historical Note
+ CHEMISTRY GRADE 9
+4
+In 1804, John Dalton developed the first modern theory of atoms and proposed their
+existence. Dalton's atomic theory was based directly on the ideas of elements and
+compounds, and on the three laws of chemical combination. The three laws are:
+i) The law of conservation of mass states that matter is neither created nor
+destroyed. This law is also called the law of indestructibility of matter. It means
+that the mass of the reactants is exactly equal to the mass of the products in
+any chemical reaction. A chemical reaction involves only the separation and union
+of atoms.
+ii) The law of definite proportions states that a pure compound is always
+composed of the same elements combined in a definite ratio by mass. For
+example, water (H2O) is composed of hydrogen and oxygen only. These elements
+are always in the proportion of 11.19% hydrogen to 88.81% oxygen by mass
+and in the proportion 2 : 1 by volume.
+iii) The law of multiple proportions states that when two different compounds are
+formed from the same elements, the masses of one of the elements in the two
+compounds, compared to a given mass of the other element, is in a small wholenumber ratio. For example, carbon and oxygen form two compounds: carbon
+monoxide and carbon dioxide. Carbon monoxide contains 1.3321 g of oxygen
+for each 1 g of carbon, whereas carbon dioxide contains 2.6642 g of oxygen
+for each 1g of carbon. Hence, carbon dioxide contains twice the mass of oxygen
+as does carbon monoxide.
+Activity 1.2 Activity 1.2
+Form a group and perform the following task. Present your findings to the class.
+Using two chemical compounds as an example, describe the difference between the law
+of definite proportions and the law of multiple proportions.
+Dalton proved that these laws are entirely reasonable if the elements are composed of
+tiny particles, which he called atoms. An atom is the smallest fundamental particle of
+an element.
+The basic postulates of Dalton’s Atomic Theory are summarized as follows:
+1. All elements are made up of small particles called atoms.
+2. Atoms are indivisible and indestructible.
+3. All atoms of a given element are identical in mass and in all other properties.
+4. Atoms are neither created nor destroyed in chemical reactions.
+5. Compounds are formed when atoms of more than one element combine.
+6. In a given compound, the relative numbers and types of atoms are constant.
+STRUCTURE OF THE ATOM
+5
+Although some of these postulates, like postulate number 2 and number 3, have been
+shown to be incorrect by later work, Dalton's theory was a brilliant and logical
+explanation of many experimental discoveries and laws that were known at that time.
+Activity 1.2
+Form a group. Discuss the following laws and present to the class.
+Use Dalton’s atomic theory to explain:
+a The law of conservation of mass
+b The law of definite proportions
+c The law of multiple proportions.
+1.1.2 Modern Atomic Theory
+Towards the end of the 19th century, various experimental discoveries revealed the
+existence of subatomic particles, isotopes, and so on. In light of these findings,
+Dalton's Atomic Theory was modified.
+The Modern Atomic Theory can be summarized as follows:
+1. Atoms are the smallest particles of all elements that can take part in a chemical
+reaction.
+2. An atom is divisible. It can be subdivided into electrons, protons, and neutrons.
+An atom is also indestructible i.e., atoms can neither be created nor destroyed
+during ordinary chemical reactions.
+3. Atoms of the same element may not be identical in mass because of the existence
+of isotopes.
+4. Atoms of the same elements have identical chemical properties.
+5. Atoms of different elements have different chemical properties.
+6. Atoms of two or more elements combine in simple whole-number ratios to form
+compounds.
+Exercise 1.1
+1. Name the postulates of Dalton’s atomic theory.
+2. Compare and contrast Dalton’s atomic theory with modern atomic theory.
+Activity 1.3
+ CHEMISTRY GRADE 9
+6
+ 1.2 DISCOVERIES OF THE FUNDAMENTAL SUBATOMIC
+ PARTICLES AND THE ATOMIC NUCLEUS
+Competencies
+By the end of this section, you will be able to:
+• explain the discovery of the electron;
+• explain the discovery of the nucleus;
+• explain the discovery of the neutron.
+Activity 1.3
+Form a group and discuss the following ideas. Present your discussion to the rest of the
+class.
+1. In your grade 7 chemistry lesson, you have learned that atoms consist of three
+fundamental subatomic particles. What are these? Where is their location in the atoms?
+What are their charges?
+2. What were the consequences of the discoveries of subatomic particles on Dalton’s
+atomic theory?
+In the late 1880’s, John Dalton thought atoms were indivisible. However, a series of
+investigations and astounding discoveries clearly demonstrated that atoms are made up
+of smaller particles, called subatomic particles. The three fundamental subatomic
+particles of an atom are electrons, protons, and neutrons.
+1.2.1 Discovery of the Electron
+Do you think that there is a similarity between cathode rays and electrons?
+The electron was the first subatomic particle to be identified. In 1879, William
+Crooke studied electrical discharges in partially evacuated tubes called
+discharge tubes.
+Two electrodes from a high-voltage source are sealed into a glass tube from which air
+has been evacuated. The negative electrode is the cathode and the positive one is the
+anode. When the high-voltage current is turned on, the glass tube emits a greenish
+light and a beam of light is seen at the anode. These rays flow from the cathode
+towards the anode in a straight line. They are called cathode rays. Later on, in 1897,
+J.J. Thomson found that the beam was deflected by both electrical and magnetic
+Activity 1.4
+STRUCTURE OF THE ATOM
+7
+fields. In an electric field, they bend toward the positive plate. From this he concluded
+that the cathode rays are made up of very small negatively charged particles, which he
+named electrons. He concluded that electrons are constituents of all matter, because
+he obtained the same results when he changed the gas and the electrode in the tube.
+Figure 1.2 A simple cathode-ray tube.
+Properties of Cathode Rays
+Cathode rays possess the following properties:
+1. An object placed between the cathode and the opposite end of the tube,
+casts a shadow on the glass. This shows that the cathode rays travel in a
+straight line.
+2. A paddle wheel placed in the path of cathode rays rotates. This indicates that
+cathode rays are of particle nature-the particles strike the paddle and therefore
+move the wheel.
+Paddle wheel
+Anode
+Cathode
+Rail to support
+paddle wheel
+Gas at low pressure
+Figure 1.3 A paddle wheel placed in the path of cathode ray.
+3. When an electric or magnetic field is applied in the path of cathode rays, they
+are deflected towards the positive plate. This shows that cathode rays are
+negatively charged.
+ CHEMISTRY GRADE 9
+8
+4. The properties of cathode rays (like charge to mass ratio, e–/m ratio) do not
+depend on the nature of the gas in the discharge tube or on the material of the
+cathode. This shows that electrons are present in the atoms of all elements.
+Thus, cathode-ray experiments provided evidence that atoms are divisible into small
+particles, and that one of the atom’s basic constituents is the negatively charged
+particle called electron.
+PROJECT WORK
+Produce a model of cathode ray tube from simple and locally available materials
+such as glass tube, copper wire and rubber stoppers. Using your model show how
+cathode rays are generated and explain their properties.
+Charge and Mass of an Electron
+J.J. Thomson studied the deflection of cathode rays under the simultaneous application
+of electric and magnetic fields, that are applied perpendicular to each other. His
+experiment led to the precise determination of the charge-to-mass ratio (e–/m) of an
+electron, and this ‘e–/m’ value was found to be 1.76 × 108 coulomb/g. Coulomb is a
+unit of electric charge.
+Activity 1.5
+Form a group and discuss how J.J Thomson's determination of the charge-to-mass ratio of
+the electron led to the conclusion that atoms were composed of sub atomic particles.
+Present your findings to the class.
+In 1909, Robert Millikan determined the charge of an electron (e–), using the oil drop
+experiment. He found the charge of an electron to be 1.60 × 10–19 coulombs.
+Combination of e–/m and e– values are used to determine the mass of an electron,
+which is found to be 9.11 × 10–31 kg.
+From Thomson’s experiment, e–/m = 1.76 × 108 C/g
+From Millikan’s experiment, e– = 1.60 × 10–19 C
+\ Mass of the electron = m =
+/
+e
+e m
+−
+− = 
+-19
+8
+1.60 × 10 C
+1.76 × 10 C/g
+= 9.11 × 10–28 g = 9.11 × 10–31 kg
+From the above discussion, it follows that:
+An electron is a fundamental particle of an atom carrying a negative charge and having
+a very small mass. The mass of an electron is approximately 1
+1837 times the mass
+of a hydrogen atom.
+STRUCTURE OF THE ATOM
+9
+Exercise 1.2
+1. Explain how the electron was discovered.
+2. Give explanation on the works of J.J. Thomson and R. Millikan.
+1.2.2 Discovery of the Atomic Nucleus
+Radioactivity
+In 1895, the German physicist, Wilhelm Röntgen noticed that cathode rays caused
+glass and metals to emit very unusual rays. This highly energetic radiation penetrated
+matter, darkened covered photographic plates, and caused a variety of substances to
+fluoresce. Since these rays could not be deflected by a magnet, they could not contain
+charged particles as cathode rays do. Röntgen called them X-rays.
+Not long after Röntgen’s discovery, Antoine Becquerel, a professor of physics in
+Paris, began to study fluorescent properties of substances. He found that exposing
+thickly wrapped photographic plates to a certain uranium compound caused them to
+darken, even without the stimulation of cathode rays. Like X-rays, the rays from the
+uranium compound were highly energetic and could not be deflected by a magnet.
+Also, these rays were generated spontaneously. One of Becquerel's students, Marie
+Curie, suggested the name radioactivity to describe this spontaneous emission of
+particles and/or radiation. Consequently, any element that spontaneously emits
+radiation is said to be radioactive.
+Further investigation revealed that three types of rays are produced by the “decay”, or
+breakdown of radioactive substances such as uranium, polonium, and radium. These
+are alpha, beta, and gamma rays.
+Alpha (α) rays consist of positively charged particles called α-particles. They are
+deflected by positively charged plates. Beta (β) rays or β-particles are electrons of
+nuclear origin that are deflected by negatively charged plates. The third type of
+radioactive radiation consists of high-energy rays called gamma (γ) rays. Like X-rays,
+γ-rays have no charge and are not affected by an external electric or magnetic field.
+Activity 1.6
+Form a group and discuss the following ideas. Present your discussion to the class.
+Scientists discovered the three subatomic particles (electrons, protons and neutrons).
+Compare and contrast these fundamental sub atomic particles with alpha particles, beta
+particles and gamma rays in terms of the nature of the particles.
+More details about the structure of an atom were provided in 1911 by Ernest
+Rutherford and his associates, Hans Geiger and Ernest Marsden. The scientists
+ CHEMISTRY GRADE 9
+10
+bombarded a thin gold foil with fast moving alpha particles. Alpha particles are positively
+charged particles with about four times the mass of a hydrogen atom. Geiger and
+Marsden assumed that mass and charge were uniformly distributed throughout the atoms
+of the gold foil. Therefore, they expected the alpha particles to pass through the gold foil
+with only a slight deflection. However, when the scientists checked for the possibility of
+wide-angle deflections, they were shocked to find that roughly 1 in 8000 of the alpha
+particles had actually been redirected back toward the source.
+After thinking about the observations for two years, Rutherford finally came up with
+an explanation. He reasoned that the rebounded alpha particles must have
+experienced some powerful force within the atom. He concluded that the source of
+this force must occupy a very small amount of space because very few of the total
+number of alpha particles had been affected by it. He also concluded that the force
+must be caused by a very densely packed bundle of matter with a positive electric
+charge. Rutherford called this small, dense, positive bundle of matter the nucleus.
+Figure 1.4 Rutherford’s a– particles experiment.
+Rutherford’s Conclusion
+1. Since most of the α-particles passed through the gold foil undeflected, most of
+the space in an atom is empty.
+2. Some of the α-particles were deflected by small angles. This indicated the presence
+of a heavy positive centre in the atom, which Rutherford named the nucleus.
+3. Only a few particles (1 in about a million) were either deflected by a very large
+angle or deflected back. This confirmed that the space occupied by the heavy
+positive centre must be very small.
+STRUCTURE OF THE ATOM
+11
+Activity 1.7
+Form a group and perform the following task. Present your findings to the class.
+Predict what Rutherford might have observed if he had bombarded copper metal instead
+of gold metal with alpha particles.
+From the angles through which alpha particles are deflected, Rutherford calculated
+that the nucleus of an atom has a radius of about 10–15 m. The radius of the whole
+atom is about 10–10 m. Therefore, the nucleus is about 1/10,000 (one ten-thousandth)
+of the size of the atom as a whole. Thus, if we magnified an atom to the size of a
+football stadium (about 100 m across), the nucleus would be represented by a pea
+placed at the centre of the pitch.
+Rutherford suggested that the negatively charged electrons surrounding the positively
+charged nucleus are like planets around the sun revolving. He could not explain,
+however, what kept the electrons in motion around the nucleus.
+1.2.3 Discovery of Neutrons
+In 1932, an English scientist, James Chadwick, identified the existence of neutrons.
+He bombarded a thin foil of beryllium with α-particles of a radioactive substance. He
+then observed that highly penetrating rays, consisting of electrically neutral particles of
+a mass approximately equal to that of the proton, were produced. These neutral
+particles are called neutrons.
+A neutron is a subatomic particle carrying no charge and having a mass of 1.675 ×
+10–24 g. This mass is almost equal to that of a proton or of a hydrogen atom.
+Exercise 1.3
+1. Which experimental evidence indicates that:
+i) electrons are negatively charged particles?
+ii) electrons are the constituents of all atoms?
+2. In Rutherford’s experiment, most of the alpha particles passed through the
+gold foil undeflected. What does this indicate?
+3. In Rutherford’s experiment, some of the α-particles were deflected by small
+angles. What does this indicate?
+4. What was determined from Millikan’s oil drop experiment?
+5. Three particles are fired into a box that is positively charged on one side and
+negatively charged on the other side. The result is shown in Figure 1.5.
+ CHEMISTRY GRADE 9
+12
+Figure 1.5 particles fired into a box.
+a Which particle is a proton?
+b Which particle is an electron?
+c Which particle is a neutron?
+Activity 1.8
+Hydrogen is the most abundant element in the universe. It is the fuel for the sun and
+other stars. It is currently believed that there are roughly 2,000 times more hydrogen
+atoms than oxygen atoms. There are also 10,000 times more hydrogen atoms than carbon
+atoms.
+Make a model of a hydrogen atom, using materials of your choice, to represent a
+hydrogen atom, including the proton and electron. Present the model to the class, and
+explain in what ways your model resembles a hydrogen atom.
+1.3 COMPOSITION OF AN ATOM AND ISOTOPES
+Competencies
+By the end of this section, you will be able to:
+• write the relative charges of an electron, a proton, and a neutron;
+• tell the absolute and relative masses of an electron, a proton, and a neutron;
+• tell the number of protons and electrons in an atom from the atomic number of
+the element;
+• determine the number of neutrons from given values of atomic number and mass
+number;
+STRUCTURE OF THE ATOM
+13
+• explain the terms atomic mass and isotope, and
+• calculate the atomic masses of elements that have isotopes.
+Activity 1.9 Activity 1.6
+Based on your previous knowledge discuss the following concepts in groups, and share
+your ideas with the rest of the class.
+1. Would you think that it is possible for someone to discover a new element that would
+fit between magnesium (atomic number 12) and aluminum (atomic number 13)?
+2. You are given the following three findings:
+a An atom of calcium has a mass of 40 a.m.u. Another atom of calcium has 44 a.m.u.
+b An atom of calcium has a mass of 40 a.m.u. An atom of potassium has a mass
+of 40 a.m.u.
+c An atom of calcium has a mass of 40 a.m.u. An atom of cobalt has a mass of
+59 a.m.u.
+Are these findings in agreement with Dalton’s atomic theory? Discuss your conclusions in
+your group.
+All atoms have two regions. The nucleus is a very small region located at the center of
+an atom. Except for the nucleus of the simplest type of hydrogen atom, all atomic
+nuclei are made of two kinds of particles, protons and neutrons. Surrounding the
+nucleus, there is a region occupied by negatively charged particles called electrons.
+This region is very large compared with the size of the nucleus. A proton has a
+positive charge, which is equal in magnitude to the negative charge of an electron.
+Atoms are electrically neutral because they contain equal numbers of protons and
+electrons.
+Figure 1.6 A simple representation of an atom.
+A proton has a mass of 1.673 × 10–27 kg, and a neutron has a mass of 1.675 × 10–27
+kg. Hence, protons and neutrons have approximately the same mass. Most of the
+mass of the atom is concentrated in the nucleus, assuming the mass of an electron to
+be negligible or almost zero.
+
+STRUCTURE OF THE ATOM
+15
+1.3.1 Atomic Number and Mass Number
+Activity 1.12
+Form a group and perform the following task. Present your findings to the class.
+The table below gives the number of electrons, protons and neutrons in atoms or ions for
+a number of elements.
+Atom or ion of elements A B C D E F G
+Number of electrons 5 7 9 12 7 6 9
+Number of protons 5 7 10 10 7 5 9
+Number of neutrons 5 7 10 10 8 6 10
+Based on the table, answer the following questions:
+i) Which of the species are neutral?
+ii) Which of them are negatively charged?
+iii) Give the symbolic representations for 'B' , 'D' and 'F'
+All atoms are composed of the same basic particles. Yet all atoms are not the same.
+Atoms of different elements have different number of protons. Atoms of the same
+element have the same number of protons.
+The Atomic Number (Z) of an element is equal to the number of protons in the
+nucleus of an atom. It is also equal to the number of electrons in the neutral atom.
+Z = p+ or Z = e– (in a natural atom)
+For different elements, the nuclei of their atoms differ in the number of protons they
+contain. Therefore, they differ in the amount of positive charge that their atoms
+possess. Thus, the number of protons in the nucleus of an atom determines the identity
+of an atom.
+Each atom of an element is identified by its atomic number. In the periodic table, the
+atomic number of an element is indicated below its symbol. Notice that the elements
+are placed in order of increasing atomic number. Hydrogen, H, has atomic number 1,
+hence, atoms of the element hydrogen have one proton in the nucleus. Next is helium,
+He, which has two protons in its nucleus. Lithium, Li, has three protons. Beryllium,
+Be, has four protons, and so on.
+Mass Number (A) is the sum of the number of protons and neutrons in the nucleus of
+an atom. Collectively, the protons and neutrons of an atom are called its nucleons.
+ Mass Number (A) = Number of protons + Number of neutrons
+A = p+ + n°
+ CHEMISTRY GRADE 9
+16
+The name of an element, its atomic number and mass number can be represented by
+a shorthand symbol. For example, to represent neutral atoms of magnesium with 12
+protons and 12 neutrons, the symbol is 24
+12Mg. The atomic number is written as a
+subscript to the left of the symbol of magnesium. The mass number is written as a
+superscript to the left of the symbol. This method can be represented in general by
+the following illustration, in which X stands for any chemical symbol.
+Mass Number A
+Atomic NumberX or XZ
+24
+12
+Mg can be read as “Magnesium-24”, and “Magnesium-25” represents
+25
+12
+Mg. In a
+similar manner, 
+23
+11
+Na can be read as “Sodium-23”.
+The number of neutrons in an atom is found by subtracting the atomic number from
+the mass number. For example, the number of neutrons for a silver atom (108
+47Ag) is:
+Mass number – Atomic number = Number of neutrons
+ 108 – 47 = 61
+∴ The number of neutrons is 61.
+Example 1
+How many protons, electrons, and neutrons are found in an atom of bromine-80
+if its atomic number is 35?
+Solution:
+Atomic number of bromine is 35.
+Mass number of bromine is already given as 80. Now we can write bromine,
+Br in the form of:
+X
+A
+Z Br A
+Z as = Br 80
+35
+Mass number – Atomic number = Number of neutrons
+ 80 – 35 = 45 neutrons
+For a neutral atom: number of protons = number of electrons = atomic number.
+ \ Number of protons = Number of electrons = 35
+Activity 1.13
+Discuss the following idea in groups and present your discussion to the class.
+Why do all atoms of a chemical element have the same atomic number although they
+may have different mass numbers?
+STRUCTURE OF THE ATOM
+17
+Exercise 1.4
+Determine the atomic number, mass number, and number of neutrons in
+a
+31
+15
+P b 39
+19 K c 56
+26 Fe
+1.3.2 Isotopes and Atomic Mass
+The simplest atoms are those of hydrogen. Each hydrogen atom contains one proton
+only. However, hydrogen atoms contain different numbers of neutrons.
+Three types of hydrogen atoms are known. The most common type of hydrogen is
+called protium. It accounts for 99.985% of the hydrogen atoms found on Earth. The
+nucleus of a protium atom consists of one proton only, and it has one electron moving
+around it. The second form of hydrogen atom is called deuterium, which accounts for
+0.015% of the Earth's hydrogen atoms. Each deuterium atom has a nucleus containing
+Activity 1.14
+Form a group and discuss the following idea and present your discussion to the class.
+Nitrogen has two naturally occurring isotopes, N-14 and N-15. The atomic mass of
+nitrogen is 14.007. Which isotope is more abundant in nature? Explain.
+one proton and one neutron. The third form of hydrogen atom is known as tritium,
+and it is radioactive. It exists in very small amounts in nature, but it can be prepared
+artificially. Each tritium atom contains one proton and two neutrons. Protium,
+deuterium and tritium are the three isotopes of hydrogen.
+Isotopes are the atoms of the same element that have the same atomic number but different
+masses number. The isotopes of a particular element have the same number of protons and
+electrons but different number of neutrons. Isotopes of an element may occur naturally, or
+they may be made in the laboratory (artificial isotopes). Since isotopes have the same
+number of protons and electrons, they have the same chemical properties.
+Designating Isotopes
+Isotopes are usually identified by specifying their mass number. There are two
+methods for specifying isotopes. In the first method, the mass number is written
+with a hyphen after the name of the element. Tritium, for example, is written as
+Hydrogen-3. We will refer to this method as hyphen notation. The second method for
+ CHEMISTRY GRADE 9
+18
+designating an isotope is by indicating its isotopic nuclear composition. For example,
+Hydrogen-3 is written as 3
+1
+H. The following table illustrates this designation of
+isotopes for hydrogen and helium.
+Table 1.2 Isotopes of Hydrogen and Helium.
+Isotope Nuclear No. of No. of No. of Z A
+symbol protons electrons neutrons
+Hydrogen-1 (protium) 1
+1 H 1 1 0 11
+Hydrogen-2 (deuterium) 2
+1
+H 1 1 1 12
+Hydrogen-3 (tritium) 3
+1
+H 1 1 2 13
+Helium-3 3
+2 He 2 2 1 2 3
+Helium-4 4
+2 He 2 2 2 2 4
+Exercise 1.5
+1. Write the nuclear symbol for carbon-13 and carbon-12.
+2. The three atoms of elements X, Y and Z are represented as:
+23
+11X, 27
+13Y and 31
+15 Z. Determine the number of protons, electrons, and neutrons in
+the neutral atoms indicated.
+Relative Atomic Masses
+Actual masses of atoms, measured in grams, are very small. An atom of oxygen-16,
+for example, has a mass of 2.657 × 10–23g. For most chemical calculations, it is more
+convenient to use relative atomic masses. In order to set up a relative scale of atomic
+mass, one atom has been arbitrarily chosen as the standard and assigned a relative mass
+value. The masses of all other atoms are expressed in terms of this defined standard.
+The standard used by scientists to determine units of atomic mass is the carbon-12
+atom. It has been arbitrarily assigned a mass of exactly 12 atomic mass units, or 12
+a.m.u. One atomic mass unit, or 1 a.m.u, is exactly 1/12 the mass of a carbon-12
+atom, or 1.660 × 10–24 g. The atomic mass of any atom is determined by
+comparing it with the mass of the carbon-12 atom. The hydrogen-1 atom has an
+atomic mass of about 1/12 of that of the carbon-12 atom, or about 1 a.m.u. The
+precise value of the atomic mass of a hydrogen-1 atom is 1.007 a.m.u. An oxygen16 atom has about 16/12 (or 4/3 the mass of a carbon-12 atom). Careful
+measurements show the atomic mass of oxygen-16 to be 15.994 a.m.u. The mass
+of a magnesium-24 atom is found to be slightly less than twice that of a carbon-12
+atom. Its atomic mass is 23.985 a.m.u.
+STRUCTURE OF THE ATOM
+19
+Activity 1.15
+The masses of subatomic particles can also be expressed on the atomic-mass scale.
+The mass of an electron is 0.0005486 a.m.u, that of the proton is 1.007276 a.m.u,
+and that of the neutron is 1.008665 a.m.u. Note that the proton and neutron masses
+are close to 1 a.m.u but not equal to 1 a.m.u. You have learned that the mass number
+is the total number of protons and neutrons in the nucleus of an atom. You can now
+see that the mass number and relative atomic mass of a given nucleus are quite close
+to each other. They are not identical because the proton and neutron masses deviate
+slightly from 1 a.m.u.
+Form a group and perform the following task, based on the given information:
+Magnesium has three naturally occurring isotopes, namely Mg-12, Mg-13, and Mg-14.
+Make models of three isotopes of magnesium using locally available materials such as clay,
+colours and sticks, and depict the nucleus, the positions of protons, electrons and neutrons.
+Present your model to the class.
+Average Atomic Masses of Elements
+Most elements occur naturally as mixtures of isotopes, as shown in the examples in
+Table 1.3. The percentage of each isotope in the naturally occurring elements is nearly
+always the same, no matter where the element is found. The percentage at which each
+isotope of an element occurs in nature is taken into account when calculating the
+average atomic mass of the element. Average atomic mass is the weighted average of
+the atomic masses of the naturally occurring isotopes of an element.
+Table 1.3 Atomic masses and abundances of some natural occurring isotopes.
+Isotopes Mass % natural Atomic mass Average atomic mass
+number abundance (a.m.u) of element (a.m.u)
+Hydrogen-1 1 99.985 1.6078
+1.00794
+Hydrogen-2 2 0.015 2.0141
+Oxygen-16 16 99.762 15.994
+Oxygen-17 17 0.038 16.999 15.9994
+Oxygen-18 18 0.200 17.999
+* Since tritium is radioactive and exists in a very small amount in nature, it is not
+included in the calculation of atomic mass of hydrogen.
+ CHEMISTRY GRADE 9
+20
+The average atomic mass of an element is calculated by summing up the products of
+relative atomic mass and percentage abundance of each isotope and dividing by 100.
+Example 2
+Chlorine has two isotopic compositions: 75.77 % of 35
+17 Cl and 24.23 % of
+37
+17 Cl. Determine the average atomic mass of chlorine.
+Solution:
+75.77 % of natural chlorine exists as chlorine 35, and the rest 24.23 % as
+chlorine 37.
+The average atomic mass of chlorine is calculated as follows:
+= 
+(75.77 × 35) + (24.23 × 37) 
+100
+= 35.45
+Thus, the average atomic mass of chlorine is 35.45 a.m.u
+ Example 3 
+Calculate the average atomic mass of boron, using the following data:
+Isotope Relative Percent
+masses abundance
+10
+5 B 10.0134 19.70
+11
+5B 11.0094 80.30
+Solution:
+The average atomic mass of boron is obtained by taking the sum of the products
+of the relative atomic mass and the percentage abundance of the first and the
+second isotopes of boron and dividing by 100.
+ Average atomic mass of B = ( )( ) 10.0134 × 19.70 + 11.0094 × 80.30
+100
+ = 10.813 a.m.u
+Exercise 1.6
+Give appropriate answers for the following questions.
+1. What are isotopes? Explain their symbolic designation using the isotopes of
+hydrogen.
+STRUCTURE OF THE ATOM
+21
+Activity 1.16
+2. The three isotopes of uranium are: 234
+92U, 235
+92U and 238
+92U. How many protons,
+neutrons and electrons are present in each isotope?
+3. Indicate the number of fundamental particles present in an atom of 206
+82Pb.
+4. The metal thallium occurs naturally as 30% thallium-203 and 70%
+thallium-205. Calculate the atomic mass of thallium.
+Critical Thinking
+5. Why is the gravitational force in the nucleus so small?
+6. Could a nucleus of more than one proton but no neutron exist? Explain.
+1.4 ATOMIC MODELS
+Competencies
+By the end of this section, you will be able to:
+• name the five atomic models,
+• describe Dalton’s, Thomson’s and Rutherford’s atomic models,
+• state Bohr’s postulates,
+• describe Bohr’s model,
+• describe the quantum mechanical model,
+• describe main-energy level and sub-energy level,
+• define the term electronic configuration,
+• write the ground state-electronic configuration of the elements,
+• draw diagrams to show the electronic configuration of the first 18 elements,
+• write the electronic configuration of the elements using sub–energy levels,
+• write electronic configuration of elements using noble gas as a core and
+• describe valence electrons.
+Discuss the following concept in groups and present your conclusion to the class. Have
+you heard the word “model” in your everyday life? Car makers produce different models as
+time passes. What is your understanding about the atomic model?
+Atoms are too small to be observed directly. Hence, it is better to develop a tentative
+mental picture (model) of the atomic concept. The ideas about atoms have changed
+ CHEMISTRY GRADE 9
+22
+many times. But, at present we can reduce these ideas into five models: Dalton’s
+Model, Thomson’s Model, Rutherford’s Model, Bohr’s Model, and the Quantum
+Mechanical Model.
+i) Dalton’s Atomic Model
+This model of atoms was accepted for 100 years without serious challenge. He
+thought of atoms as solid indestructible spheres. He called it the billiard ball model.
+Figure 1.7 Dalton’s model of an atom.
+ii) Thomson Model
+After learning that atoms contain electrons, Thomson proposed a new model of the
+atom, which is shown in Figure 1.8. It is sometimes called the plum-pudding model. In
+his model of an atom, Thomson proposed thought that electrons were embedded
+inside a positively charged sphere, just like plums in a pudding. Today we might call
+Thomson’s model the chocolate chip ice-cream model.
+Figure 1.8 Thomson’s model of an atom.
+Activity 1.17
+Perform the following tasks in groups and present your findings to the class.
+1. Draw a sketch diagram of a carbon atom using Thomson's atomic model.
+2. What was incorrect about Thomson's model of the atom?
+iii) Rutherford Model
+Why was Thomson’s model of atom discarded and replaced by
+Rutherford’s model?
+STRUCTURE OF THE ATOM
+23
+By 1911, evidence was collected that allowed scientists to modify Thomson’s model
+of an atom. Ernest Rutherford (1871–1937), a former student of Thomson, performed
+one of the classic experiments of scientific history. As indicated earlier in this unit, he
+bombarded different types of matter with high-energy, positively charged alpha
+particles. Based on the Thomson’s model of an atom, Rutherford hypothesized that
+the alpha particles should go through very thin metal foils undeflected. However, after
+performing an experiment on gold leaf, he found that a small but significant number of
+the alpha particles were deflected through large angles by the gold atoms. These
+results showed Rutherford that the Thomson model of the atom was not valid. A
+uniform positive charge with embedded negatively charged electrons would not
+interact with the alpha particles in such a manner.
+The Rutherford model of the atom has a small, dense, positively charged nucleus
+around which electrons whirl at high speeds and at relatively long distances from it.
+He compared the structure of an atom with the solar system, saying that the nucleus
+corresponds to the sun, while the electrons correspond to the planets. This picture of
+the atom is also called the planetary atom. In other words, Rutherford gave us the
+nuclear model of the atom.
+Even though Rutherford showed that the atom has a nucleus, he did not know how
+the electrons were arranged outside the nucleus. This was the major drawback of
+Rutherford’s model of an atom.
+Figure 1.9 Rutherford model.
+A Nobel Prize winner, Niels Bohr, was known not only for his
+own theoretical work, but also as a mentor to younger physicists
+who themselves made important contributions to physical
+theory. As the director of the Institute for Theoretical Physics at
+the University of Copenhagen, Bohr gathered together some of
+the finest minds in the physics community, including Werner
+Heisenberg and George Gawow. During the 1920’s, the Institute
+was the source of many important works in quantum mechanics
+and in theoretical physics in general.
+Historical Note
+Niels Bohr
+ CHEMISTRY GRADE 9
+24
+iv) Bohr Model
+In 1913, the Danish physicist Niels Bohr (1885–1962) proposed an atomic model in
+which the electrons moved around the nucleus in circular paths called orbits. He
+assumed the electrons to be moving around the nucleus in a circular orbit as the
+planets move around the sun. Based on the Rutherford's atomic model, Bohr made
+the following modifications.
+• The electrons in an atom can exist only in a restricted number of stable orbits
+with energy levels in which they neither absorb nor emit energy. These orbits
+designated by a number called the principal quantum number, n. The principal
+quantum number has the values of 1, 2, 3, . . . The energy levels are also called
+shells. They are represented by K, L, M, . . . etc. The K-shell is the first shell,
+the L-shell is the second shell, the M-shell is the third shell, etc.
+• When an electron moves between orbits it absorbs or emits energy. When an
+electron jumps from lower to higher states it absorbs a fixed amount of energy.
+When an electron falls from a higher (excited) state to a lower (ground) state it
+emits a fixed amount of energy.
+• The electrons move around the nucleus in energy levels.
+Figure 1.10 The first six energy levels in the Bohr model of an atom.
+• According to Bohr, for each element, the number of energy levels or shells is
+fixed. Also, each different energy level or shell of an atom can only accommodate
+a certain number of electrons. The maximum number of electrons that the main
+energy level can have is given by the general formula 2n2, where n is equal to
+the main energy level.
+Therefore, the maximum number of electrons in each shell in the Bohr model is:
+first energy level (n = 1) is 2(1)2 = 2 electrons
+second energy level (n = 2) is 2(2)2 = 8 electrons
+third energy level (n = 3) is 2(3)2 = 18 electrons
+fourth energy level (n = 4) is 2(4)2 = 32 electrons
+STRUCTURE OF THE ATOM
+25
+It can also be summarized in the form of Table 1.4.
+Table 1.4 Energy levels and electrons for the first four main energy levels.
+Principal quantum number (n) 1234
+Shell K L MN
+Maximum possible number of electrons 2 8 18 32
+• When electrons fill the various energy levels in an atom, they first occupy the
+shell with the lowest energy level. When the lowest energy level is filled, according
+to the 2n2 rule, then the electrons enter the next higher energy level.
+The outermost shell of an atom cannot accommodate more than eight electrons, even
+if it has the capacity to hold more electrons. This is because having more than eight
+electrons in the outermost shell makes the atom unstable.
+For example, let us write the electron configuration of magnesium that has 12
+electrons. The first 2 electrons occupy the K-shell (the first energy level). The L-shell
+(the second energy level) is occupied with 8 electrons. The remaining 2 electrons
+enter the M-shell (the third energy level). Hence, the electron configuration of
+magnesium atom becomes K
+2
+L
+8
+M
+2
+.
+Bohr’s diagrammatic representation, using shells, in some atoms are given below.
+Note that p = proton, n = neutron, and = electron.
+Figure 1.11 Diagrammatic representation of Bohr’s model.
+ CHEMISTRY GRADE 9
+26
+Activity 1.18
+Form a group and try to compare Rutherford’s atomic model with Bohr’s atomic model?
+Present your discussion to the class.
+Exercise 1.7
+Draw Bohr’s diagrammatic representations for the following atoms:
+a Nitrogen (atomic number = 7)
+b Sulphur (atomic number = 16)
+c Potassium (atomic number = 19)
+d Calcium (atomic number = 20)
+v) The Quantum Mechanical Model
+During the 1920’s, the discovery of the wave-like properties of electrons led to the
+wave-mechanical model or quantum-mechanical model of atoms. In this model, the
+electrons are associated with definite energy levels, but their locations cannot be
+pinpointed. Instead, they are described in terms of the probability of being found in
+certain regions of space about the nucleus. These regions of space are called orbitals.
+An orbital is a particularly shaped volume of space where the probability of finding an
+electron is at a maximum.
+According to this model, the electrons in an atom are in a series of energy levels or
+shells. Each energy level or shell is described by a number called the principal
+quantum number, n, which is related to the size of the energy level. The larger the
+energy value of n, the farther the electrons are found from the nucleus.
+The quantum mechanical model introduces the concept of sublevel for each main
+energy level. For atoms of the known elements, there are four types of sublevels
+designated by the letters s, p, d, and f. The number of sublevels within each energy
+level or shell is equal to the numerical value of n.
+STRUCTURE OF THE ATOM
+27
+Table 1.5 The principal quantum number specified with shell, sublevels and
+maximum number of electrons.
+Principal quantum Shell Number and type of Maximum number
+number (n) sublevels of electrons in
+each shell (2n2)
+1K 1 (s) 2
+2L 2 (s, p) 8
+3M 3 (s, p, d) 18
+4N4 (s, p, d, f) 32
+5 O5 (s, p, d, f, g) 50
+6 P6 (s, p, d, f, g, h) 72
+Any orbital can accommodate a maximum of two electrons. Accordingly,
+s-sublevel has only 1 orbital and can hold a maximum of 2 electrons,
+p-sublevel has 3 orbitals and can hold a maximum of 6 electrons,
+d-sublevel has 5 orbitals and can hold a maximum of 10 electrons, and
+f-sublevel has 7 orbitals and can hold a maximum of 14 electrons.
+Electron Configurations
+The arrangement of electrons in an atom is known as the electron configuration of the
+atom. Because atoms of different elements have different numbers of electrons, a
+distinct electronic configuration exists for the atoms of each element. Like all systems
+in nature, electrons in atoms tend to assume arrangements that have the lowest
+possible energies. The lowest energy arrangement of the electrons in an atom is called
+the ground state electron configuration. A few simple rules, combined with the
+quantum number relationships discussed below, allow us to determine these groundstate electron configurations.
+The quantum mechanical model is designated by the following notation: a coefficient
+which shows the main energy level, a letter that denotes the sublevel that an electron
+occupies, and a superscript that shows the number of electrons in that particular
+sublevel.
+The designation is explained as follows
+Number of electrons
+Sublevel
+Main energy level
+1s2
+ CHEMISTRY GRADE 9
+28
+Activity 1.19
+For example, the electron configuration of lithium ( 5
+3Li) is: 1s22s1.
+This indicates that there are 2 electrons in the first s-sublevel and 1 electron in the 2nd
+s-sublevel.
+The configuration for sodium ( 23
+11 Na) atom is: 1s22s22p63s1. This indicate that there
+are 2 electrons in the first s-sublevel, 2 electrons in the second s-sublevel, 6 electrons
+in the second p-sublevel, and 1 electron in the third s-sublevel.
+Form a group and perform the following task in groups and present your findings to the
+class.
+The following ground state electron configurations are incorrect. Identify in each case the
+mistakes that have been made and write the correct electron configurations.
+i) 1s2
+ 2s2
+ 2p4
+ 3s2
+ii) 1s2
+ 2s1
+ 2p6
+iii) 1s2
+ 2s2
+ 2p6
+ 3p3
+ 3s2
+iv) 1s2
+ 2s2
+ 2p6
+ 3s2
+ 3p3
+ 4s2
+ 3d4
+The following table lists the first 14 elements in the periodic table and shows the
+electron configuration of each.
+Table 1.6 The ground state electron configuration of the first 14 elements.
+Element Electron Configuration
+Hydrogen 1s1
+Helium 1s2
+Lithium 1s2 2s1
+Beryllium 1s2 2s2
+Boron 1s2 2s2 2p1
+Carbon 1s2 2s2 2p2
+Nitrogen 1s2 2s2 2p3
+Oxygen 1s2 2s2 2p4
+Fluorine 1s2 2s2 2p5
+Neon 1s2 2s2 2p6
+Sodium 1s2 2s2 2p6 3s1
+Magnesium 1s2 2s2 2p6 3s2
+Aluminium 1s2 2s2 2p6 3s2 3p1
+Silicon 1s2 2s2 2p6 3s2 3p2
+STRUCTURE OF THE ATOM
+29
+Exercise 1.8
+Write the ground state electron configuration for the following elements.
+a Phosphorus (atomic number = 15)
+b Sulphur (atomic number = 16)
+c Chlorine (atomic number = 17)
+d Argon (atomic number = 18)
+Rules Governing Electron Configuration
+Most of the electronic configuration of an atom can be explained in terms of the building-up
+principle, or also known as the Aufbau principle. According to the Aufbau principle, an
+electron occupies the lowest energy orbital available before entering a higher energy orbital.
+The atomic orbitals are filled in order of increasing energy. The orbital with the lowest energy
+is the 1sorbital. The 2s orbital is the next higher in energy, then the 2p orbitals, and so on.
+Beginning with the third main energy level, n = 3, the energies of the sublevels in the different
+main energy levels begin to overlap.
+In Figure 1.12, for example, the 4s sublevel is lower in energy than the 3d sublevel.
+Therefore, the 4s orbital is filled before any electrons enter the 3d orbitals. Less energy is
+required for two electrons to pair up in the 4s orbital than for a single electron to occupy a 3d
+orbital. Which sublevel will be occupied after the 3d sublevel is fully occupied?
+The electrons are arranged in sublevels according to Aufbau principle which is also known as
+the diagonal rule. The diagonal rule is a guide to the order of filling energy sublevels. It is
+particularly helpful for atoms with atomic numbers higher than 18. This is because for atoms
+with higher atomic numbers their sublevels are not regularly filled.
+ Figure 1.12 Diagonal rule for writing electron configuration.
+ CHEMISTRY GRADE 9
+30
+If you list the orbitals following the direction of arrows, you can obtain the electron
+configuration of most atoms. Therefore, the order of filling the sublevels is given as:
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f 14 5d10 6p6...
+The outermost occupied energy level of an atom is called the valence shell and the
+electrons that enter into these energy levels are referred to as valence electrons.
+Example 1
+What is the electron configuration of magnesium, 24
+12 Mg?
+Solution:
+24
+12 Mg = 1s2 2s22p6 3s2 fi in sublevel
+ 2 8 2 fi in main energy level
+From this, we can write the configuration of elements by using a noble gas as
+a core and the electrons outside the core. Note that noble gases have complete
+outer electron shells, with 2 or 8 electrons. Therefore, the above electron
+configuration can be written as follows:
+24
+12 Mg =
+1s22s22p6 3s2
+ [Ne]
+ = [Ne] 3s2
+ Example 2
+Write the electron configuration of copper (Z = 29).
+Solution:
+ Following the diagonal rule, we can fill the sublevels, in order of increasing
+energy, until all its electrons are filled. Therefore, the configuration will be:
+Cu = 1s22s22p63s23p6 4s13d10
+ [Ar]
+ = [Ar] 4s13d10
+Exercise 1.9
+1. Write the electron configuration of the following elements using noble gases as
+a core.
+a O b Al c Cl d Ca
+N 	
+ N
+STRUCTURE OF THE ATOM
+31
+2. Write the electron configuration of the following elements.
+a 84
+36 Kr b 56
+26 Fe c 65
+30 Zn
+Key terms of the unit
+Check list
+• Atom
+• Atomic Model
+• Aufbau principle
+• Average atomic mass
+• Bohr's Model
+• Cathode ray
+• Dalton's atomic theory
+• Dalton's Model
+• Electron
+• Electron configuration
+• Electron configuration
+• Isotopes
+• Main energy level
+• Modern atomic theory
+• Neutron
+• Nucleus
+• Proton
+• Quantum Mechanical Model
+• Radioactivity
+α - particles
+β - particles
+γ - particles
+• Rutherford's Model
+• Sub-energy level
+• Thomson's Model
+Unit Summary
+The Greek philosopher Democritus proposed what we consider as the first atomic
+theory. He believed that all matter consists of very small, indivisible particles. He
+named the particles atoms (meaning uncuttable or indivisible).
+John Dalton’s work in atomic theory marked the start of modern chemistry. His
+concept of an atom was far more detailed and specific than Democritus'.
+Dalton did not try to describe the structure or composition of atoms – he did not
+know what an atom really looked like. But he did realize that the different properties
+shown by elements such as hydrogen and oxygen can be explained by assuming that
+hydrogen atoms are not the same as oxygen atoms.
+In our current view of atomic theory, atoms consist of smaller particles – electrons,
+protons, and neutrons. The structure of an atom is basically a cloud of e

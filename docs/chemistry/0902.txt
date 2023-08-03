@@ -1,0 +1,876 @@
+Before the beginning of the 18th century, it was easy to study and remember the
+properties of the elements because very few were known. However, in the middle of
+the 19th century, many more elements were discovered. Scientists then began to
+investigate possibilities for classifying the known elements in a simple and useful
+manner. After numerous attempts, the scientists were ultimately successful. They
+grouped elements with similar properties together. This arrangement is known as the
+classification of elements.
+Early Attempts in classifying the elements
+What is meant by the term periodicity? Can you give some periodic events in
+nature?
+Early attempts to classify elements were based merely on atomic mass. Then scientists
+began to seek relationships between atomic mass and other properties of the
+elements.
+i) Dobereiner's Triads: One of the first attempts to group similar elements was
+made in 1817 by the German chemist J. Dobereiner. He put together similar
+elements in group of three or triads. According to Dobereiner, when elements in
+a triad are arranged in the order of increasing atomic masses, the middle element
+had the average atomic mass of the other two elements. For example, because
+the atomic mass of bromine is nearly equal to the average atomic mass of
+chlorine and iodine, he considered these three elements to constitute a triad when
+arranged in this order: chlorine, bromine, iodine see Table 2.2.
+Table 2.2 Dobereiner's Triads.
+Triads Atomic Masses
+Chlorine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35.5
+Bromine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+Iodine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+Average atomic masses of chlorine and iodine = 
+35.5 127 +
+2 = 81.25
+Reading Check
+Do you think that this classification works for all elements?
+ CHEMISTRY GRADE 9
+38
+ii) Newlands's Law of Octaves: In 1864, John Newlands, an English chemist,
+reported the law of octave, which is also known as the law of eight. He stated
+that when elements are arranged in increasing order of their atomic masses,
+every eighth element had similar properties to the first element.
+ Newlands first two octaves of eight elements are shown below:
+Li Be B C N O F
+Na Mg Al Si P S Cl
+K Ca
+However, the law of octaves could not be applied beyond calcium.
+Reading Check
+With the aid of an encyclopedia, reference books or other resources, write a report
+on:
+a J. Dobereiner and
+b J. Newlands works in organizing the elements.
+In your report include the merits and demerits of their works.
+Exercise 2.1
+1. Decide whether the principle of Dobereiner’s triad can be applied in the following
+groups of three elements.
+a Be, Ca, Sr b Li, Na, K
+2. Newlands stated that there was a periodic similarity in properties of every
+eighth element in his system. However, today we see that for periods 2 and 3,
+the similarity occurs in every ninth element. What is the reason? Explain.
+2.2 The Modern Periodic Table
+Competencies
+By the end of this section, you will be able to:
+• state Mendeleev’s and modern periodic law;
+• describe period and group;
+• explain the relationship between the electronic configuration and the structure of
+the modern periodic table;
+• describe the three classes of the elements in the modern periodic table;
+• explain the four blocks of the elements as related to their electronic
+configuration in the modern periodic table;
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+39
+• tell the block of an element from its electronic configuration;
+• give group names for the main group elements;
+• classify the periods into short, long, and incomplete periods;
+• tell the number of groups and periods in the modern periodic table;
+• tell the number of elements in each period;
+• predict the period and group of an element from its atomic number; and
+• tell the block and group of an element from its electronic configuration.
+Form a group and perform the following tasks. Share your findings with the rest of the
+class.
+1. Make a list of the symbols for the first eighteen elements. Beside each symbol, write
+its electronic configuration.
+2. Draw sets of vertical boxes. In order of increasing atomic number, fill into each set the
+symbol of all elements having the same outer electron configurations. How many sets
+are there? Record your answer.
+3. Draw sets of horizontal boxes. In order of increasing atomic number, fill into each set
+the symbols of all elements having the same number of shells. How many sets are
+there? How many elements are there in each set? Record your answers.
+4. Do you see any regular patterns that you created in Steps 2 and 3?
+5. Draw one complete table which shows all elements;
+a with the same number of outermost electrons in a vertical column
+b filling the same outer electron shell in a horizontal row.
+While attempting to group the elements according to their
+chemical properties and atomic weights, Dimitri Mendeleev
+developed the periodic table and formulated the periodic law.
+Because his classification revealed recurring patterns (periods) in
+the elements, Mendeleev was able to leave spaces in his table for
+elements that he correctly predicted would be discovered.
+Dimitri Mendeleev
+Historical Note
+Activity 2.2
+ CHEMISTRY GRADE 9
+40
+2.2.1 The Periodic Law
+A. Mendeleev’s Periodic Law
+In 1869, the Russian chemist Dimitri Mendeleev and the German scientist Luthar
+Meyer independently published periodic arrangements of the elements based on
+increasing atomic mass.
+Mendeleev observed that, when elements are arranged according to increasing atomic
+mass, the chemical and physical properties of the elements recur at regular intervals.
+This periodic variation and the recurrence of the properties of the elements led to the
+formulation of the Periodic Law.
+Mendeleev's periodic law states that the properties of the elements are periodic
+functions of their atomic masses. Only 63 elements were known when Mendeleev
+constructed his table in 1871. Mendeleev organized his table in columns, with each
+column containing elements that have similar chemical properties. Accordingly,
+elements in the same column gave family or groups of elements.
+How did Mendeleev know where to leave gaps for undiscovered elements in his
+periodic table?
+Mendeleev left blank spaces for the undiscovered elements and also predicted masses
+and other properties of these unknown elements almost correctly. For example,
+neither gallium nor germanium were discovered when Mendeleev constructed his
+periodic table. But he predicted the existence and properties of these unknown
+elements.
+Mendeleev left two blank spaces for these two elements in the table, just under
+aluminium and silicon. He called these unknown elements 'eka-aluminium' and 'ekasilicon.' ('eka' means 'first'). What he meant by 'eka-aluminium' is "a currently known
+element (galium) following aluminium".
+Later on, in 1874, the element Gallium (eka-aluminium in Mendeleev's system) was
+discovered. In 1886, the element Germanium (eka-silicon) was discovered. The
+observed properties of these elements were remarkably very close to those in
+Mendeleev’s predictions. Table 2.3 shows the properties of eka-silicon predicted by
+Mendeleev and compares them to the observed properties of Germanium.
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+41
+Table 2.3 Comparison of Mendeleev's predictions for the properties of Eka-silicon with
+Germanium.
+Property Mendeleev's Observed Properties for
+Predictions for Germanium (Ge) in 1886
+eka-silicon (Es) in 1871
+Atomic mass . . . . . . . . . . . . . . 72 72.6
+Density (g/cm3
+) . . . . . . . . . . . 5.5 5.47
+Colour . . . . . . . . . . . . . . . . . . . . Dark Gray Light Gray
+Oxide formula . . . . . . . . . . . . . EsO2 GeO2
+Density of oxide (g/cm3
+) . . . . . 4.7 4.7
+Chloride formula . . . . . . . . . . . EsCl4 GeCl4
+Density of chloride (g/cm3
+) . . . 1.9 1.887
+Boiling point of chloride . . . . . < 100°C 86°C
+Defects in Mendeleev's periodic table
+1. Position of isotopes: The isotopes were not given separate places in Mendeleev's
+periodic table. Since elements are arranged in order of increasing atomic masses,
+the isotopes belong to different groups (because isotopes have different masses).
+2. Wrong order of atomic masses of some elements: When certain elements are
+grouped on the basis of their chemical properties, some elements with higher
+atomic masses precede those with lower atomic masses. For example, argon,
+with atomic mass of 39.95, precedes potassium with atomic mass of 39.1.
+B The Modern Periodic Law
+What was Mosley's contribution to the modern form of the Periodic Table?
+In 1913, the English physicist Henry Mosley determined the atomic number of each of
+the elements by analyzing their X-ray spectra. He observed that when each element
+was used as a target in an X-ray tube, it gave out X-rays with a characteristic
+wavelength. The wavelength depends on the number of protons in the nucleus of the
+atom and was constant for a given element. By arranging the elements in order of
+decreasing wavelength, Mosley was able to assign atomic number to each element.
+The atomic number of every element is fixed, and it clearly distinguishes one element
+from another. 'No two elements can have the same atomic number.' For example,
+atomic number 8 identifies the element oxygen. No other element can have atomic
+number 8.
+ CHEMISTRY GRADE 9
+42
+Therefore, the atomic number of an element is the fundamental property that
+determines the chemical behavior of the element. The discovery of atomic number led
+to the development of the modern periodic law. The modern periodic law states that:
+‘‘the properties of the elements are periodic function of their atomic numbers.’’ This
+means that when elements are arranged according to increasing atomic number,
+elements with similar physical and chemical properties fall in the same group.
+2.2.2 Characteristics of Groups and Periods
+Many different forms of the periodic table have been published since Mendeleev's
+time. Today, the long form of the periodic table, which is called the modern periodic
+table, is commonly in use. It is based on the modern periodic law. In the modern
+periodic table, elements are arranged in periods and groups.
+What are the basis for classifying the elements into groups and periods?
+What are the similarities and differences in the electron configuration of S
+and Cl?
+Periods: The horizontal rows of elements in the periodic table are called periods or
+series.
+Elements in a period are arranged in increasing order of their atomic numbers from left
+to right.
+There are 7 periods in the modern periodic table, and each period is represented by
+an Arabic numeral: 1, 2 . . . and 7.
+• Elements in the same period have the same number of shells.
+• Periods 1, 2, and 3 are called short periods while periods 4, 5, and 6 are
+known as long periods.
+• Period 1 contains only 2 elements, hydrogen and helium. Period 2 and period 3
+contain 8 elements each.
+• Period 4 and period 5 contain 18 elements each. Period 6, the longest period,
+has 32 elements. Period 7, which is an incomplete period, contains more than
+24 elements.Period 7 element is radioactive and/or an artificial element.
+• Except for the first period, all periods start with an alkali metal and ends with a
+noble gas.
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+43
+Table 2.4 The number of elements in a given period and the orbitals being filled.
+Period number Orbitals occupied Number of elements
+1 1s 2
+2 2s, 2p 8
+3 3s, 3p 8
+4 4s, 3d, 4p 18
+and so on
+The position of an element in a given period can be determined by the number of
+shells occupied with its electrons. Accordingly, the number of shell is equal to the
+number of period to which the element belongs.
+Example
+Electronic configuration of 23
+11 Na = 1s2
+2s22p63s1 (2, 8, 1). Sodium has 3 main
+shells. Hence, sodium is found in period 3.
+What are the similarities and differences in the electron configuration of F
+and Cl?
+Groups or families: are the vertical columns of elements in the periodic table. There
+are 18 columns or groups in the modern periodic table.
+• Group numbers are usually designated with the Roman numerals I to VIII each
+followed by the letter A or B.
+These are: IA . . . . . . . . . VIII A Main groups (A groups)
+IB . . . . . . . . . VIIIB Sub groups (B groups)
+• Elements in a given group have the same number of outermost shell electrons.
+• Elements in the same group have similar chemical properties.
+• For the main group elements the group number equals the number of valence
+electrons.
+Example
+Electronic configuration of 35
+17Cl = 1s22s22p63s23p5
+ (2, 8, 7). The number of
+valence electrons of chlorine is 7. Hence chlorine is found in Group VIIA.
+ CHEMISTRY GRADE 9
+44PERIODIC TABLE
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+45
+Exercise 2.2
+Give appropriate answers for the following questions.
+1. Which group of elements was missing from Mendeleev's periodic table as
+compared to the modern periodic table?
+2. Why does the first period contain only two elements?
+3. To which group and period do the following elements belong?
+a carbon d potassium
+b neon e calcium
+c aluminium f sulphur
+2.2.3 CLASSIFICATION OF THE ELEMENTS
+Perform the following tasks in groups and present your conclusion to the class.
+For the following elements, determine the valence electrons, and identify the sub–shell
+(s, p, d or f ) in which the last electron of each element enters.
+a Nitrogen (atomic number = 7)
+b Sodium (atomic number = 11)
+c Silicon (atomic number = 14)
+d Iron (atomic number = 26)
+e Zinc (atomic number = 30)
+f Krypton (atomic number = 36)
+g Cerium (atomic number = 58)
+Elements in a periodic table can be classified into three distinct categories based on
+their electron configuration and the type of sub-level being filled. These are the
+representative elements, the transition elements, and the rare-earth elements.
+1. Representative Elements: s-and p-block elements
+These are elements in which valence electrons are filling the s- or p-orbitals.
+Representative elements are also known as Main Group Elements. They include
+elements in groups IA through VIIIA.
+s-block elements are elements in which the last electron enters the s-orbital of the
+outermost shell. Their general valence shell configuration is ns1
+ and ns2
+, where n
+represents the outermost shell. They are found on the left side of the periodic table
+Activity 2.3
+ CHEMISTRY GRADE 9
+46
+and contain the first two groups: Group IA and Group IIA. These two groups
+contain very reactive metals.
+p-block Elements are elements in which the last electron enters the p-orbital of the
+outermost shell. They have the general valence shell electron configuration of ns2
+np1
+–
+ns2
+np6
+. p-block elements are located at the right hand side of the periodic table and
+they include six groups-Group IIIA to VIIIA. Most of these elements are non-metals.
+Table 2.5 Valence electron configuration, blocks and common names for the
+representative elements.
+Group Common name General valence Number of
+Number shell electron valence
+configuration electrons
+IA Alkali metals ns1 1
+IIA Alkaline earth metals ns2 2
+IIIA Boron family ns2
+np1 3
+IVA Carbon family ns2
+np2 4
+VA Nitrogen family ns2
+np3 5
+VIA Oxygen family (Chalcogen) ns2
+np4 6
+VIIA Halogens ns2
+np5 7
+VIIIA Noble gases (Inert gases) ns2
+np6 except He 8
+Why is helium classified as a noble gas?
+2. Transition Elements: d-block elements
+These elements are found in the periodic table between the s-block and p-block
+elements. In these elements, the valence electrons are being added to the d-orbital of
+the outermost shell. They are also known as d-block elements. They are designated
+as 'B' group, and they consist of groups IB – VIIIB. The transition elements are found
+in periods 4, 5, 6, and 7. They include common elements such as iron, gold, and
+copper. d-block elements are also called transition metals.
+3. Rare-Earth Elements: f-block elements
+These elements are also known as inner-transition elements. They are elements in
+which the last electrons are being added to the f-orbital of the outermost shell. The
+inner transition elements are in periods 6 and 7. The period 6 inner transition series
+fills the 4f-orbitals. It is known as the Lanthanide series because it occurs after the
+element lanthanum and its elements are similar to it. The period 7 inner transition
+series fills the 5f-orbitals and appears after the element actinium. Its elements are
+similar to actinium, thus it is known as the Actinide series.
+s-block
+p-block
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+47
+Figure 2.1 presents a scheme to show the basic structure of the periodic table. On the
+basis of the electron configuration of the elements the table is divided into s, p, d and
+f-blocks.
+Figure 2.1 Division of the modern periodic table.
+Reading Check
+In the periodic table, you have seen a section called rare earth elements. Find this
+term in an encyclopedia, in reference books, or in other resource material. Read
+and analyze the information you find. Write a report on these elements.
+Exercise 2.3
+Give appropriate answers for the following questions:
+1. For the following elements, write their electron configurations and determine
+the group and period number of each element.
+a Na, Ca, Al b Cl, S, Ar
+2. Bromine is a Group VIIA and period-4 element. What is the valence shell
+configuration of bromine?
+3. Deduce the group, period, and block of the elements with atomic numbers:
+a 37 b 24 c 32
+Critical Thinking
+4. Why is hydrogen, a non-metal, usually placed with Group I elements in the
+periodic table, even though it does not show a metallic property like the alkali
+metals?
+2.3 PERIODIC PROPERTIES IN THE PERIODIC TABLE
+Competencies
+By the end of this section, you will be able to:
+• explain the general trends in properties of the elements as they move down a
+group of the periodic table;
+ CHEMISTRY GRADE 9
+48
+Activity 2.4
+• explain the general trends in properties of elements across a period;
+• deduce the properties of an element from its position in the periodic table; and
+• make a chart to show the trends in properties of elements in the periodic table.
+Refer any chemistry book and look up values for atomic size, ionization energy,
+electronegativity and other properties of elements. Enter the values in the periodic table,
+and see if there any obvious trends in the properties as you go across a period or down a
+column of the table. Report your findings to the class.
+In the periodic table the properties of the elements such as atomic size, ionization
+energy, electron affinity, and electronegativity show a regular variation with in a group
+or across a period.
+2.3.1 Periodic Properties within a Group
+Elements in the same group have the same number of valence electrons and also
+exhibit similar chemical properties. For example, group IA elements have 1 valence
+electron; those in Group IIA have 2 valence electrons, and so on. Generally, it is
+possible to conclude that the number of valence electrons determines the group
+number of an element.
+Table 2.6 Electron configuration and number of valence electrons of Group IA elements.
+Element Electron Number of Group Number
+Configuration Valence electron
+Li 2, 1 1
+Na 2, 8, 1 1
+K 2, 8, 8, 1 1 IA
+Rb 2, 8, 18, 8, 1 1
+Cs 2, 8, 18, 18, 8, 1 1
+The periodic properties of the elements can be explained on the basis of nuclear
+charge and effective nuclear charge.
+Nuclear charge (Z): is the total positive charge in the nucleus of an atom.
+Effective Nuclear charge (Zeff): In an atom, the outermost shell electrons (or
+valence electrons) are attracted to the nucleus and simultaneously repelled by the inner
+shell electrons. The attraction of the nucleus for the valence electrons is also reduced
+because inner electrons shield (or screen) the valence electrons. As a result, these
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+49
+inner electrons reduce the attraction of the nuclear charge. The resulting net-positive
+nuclear charge attracting the valence electrons is called effective nuclear charge, Zeff .
+Effective nuclear charge relates the nuclear charge to the number of shells (size) of the
+atom.
+The effective nuclear charge is the difference between the nuclear charge (Z) and the
+inner electrons (S) that shield the valence electrons. The effective nuclear charge is
+always less than the actual nuclear charge.
+Zeff = Z – S
+Let us consider the sodium atom with its 11 electrons: 1s2
+2s2
+2p6
+3s1
+ (2, 8, 1). The 10
+inner electrons of sodium completely cancel the 10 units of nuclear charge on the
+nucleus. In this way, the inner electrons shield the valence electrons from the full
+attractive force of the nucleus and leave an effective nuclear charge of + 1 (Zeff = + 1).
+The fact that the inner electrons shield or screen the outer electrons from the full
+charge of the nucleus is known as shielding or screening effect.
+Form a group and perform the following task:
+Draw Bohr's model for the following elements and indicate the shielding shells, shielding
+electrons and effective nuclear charge:
+a beryllium, magnesium and calcium;
+b lithium, carbon and fluorine.
+Present your findings to the class.
+The following properties of elements vary in a regular periodic manner.
+1. Nuclear Charge
+On moving down a given group of the periodic table, nuclear charge progressively
+increases, but effective nuclear charge remains nearly constant.
+2. Atomic Size/Atomic Radius
+Where in a group do you find atoms with the largest atomic radius? Why?
+It is difficult to measure the size of an atom directly. The electron cloud enveloping the
+nucleus does not have a clear boundary because its electrons do not have fixed
+distances from the nucleus. Therefore, atoms do not have definite outer boundaries.
+The size of an atom is defined in terms of its atomic radius. For metals, atomic radius
+is defined as one-half the distance between the nuclei of the two adjacent atoms. For
+Activity 2.5
+ CHEMISTRY GRADE 9
+50
+Activity 2.6
+elements that exist as diatomic molecules (such as chlorine), atomic radius is equal to
+one-half of the distance between the nuclei of the atoms in the molecule. Figure 2.2
+illustrates the atomic radius of chlorine in a chlorine molecule.
+Chlorine
+nucleus
+Chlorine
+Distance between nucleus
+nuclei
+Atomic
+radius
+99 pm
+198 pm
+Figure 2.2 The representation of atomic radius in a chlorine molecule.
+In moving down a group, atomic radius of the elements mainly depends on the
+number of shells.
+Form a group and perform the following task; present your findings to the class.
+The following values are given for atomic radii (in Å) of group IA elements:
+1.54, 1.34, 2.35, 2.16 and 1.96
+Based on the given information;
+1. fill the following table with the number of shells and the appropriate values for atomic
+radii corresponding to the symbols of the elements.
+2. explain the reason for the observed trend.
+Elements Number of Shells Atomic Radius (Å)
+Li
+Na
+K
+Rb
+Cs
+3. Ionization Energy
+In which region of the periodic table do you find elements with the:
+a lowest tendency to lose electrons, and
+b highest tendency to lose electrons?
+Ionization energy is the minimum energy required to remove the outermost shell
+electron from an isolated gaseous atom or ion.
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+51
+Activity 2.7
+Ionization energy is represented by the following equation (where M denotes any
+metal).
+M (g) + energy ––––→ M+
+ (g) + e–
+The electrons in an atom can be successively removed, one after another. Thus, the
+first ionization energy is the energy needed to remove the first valence electron, the
+second ionization energy is the energy needed to remove the second valence electron,
+and so on.
+M (g) + energy ––––→ M+ (g) + e– ⇒ First ionization energy
+M+ (g) + energy ––––→ M2+ (g) + e– ⇒ Second ionization energy
+For a given element, the second ionization energy is higher than the first one.
+Ionization energy is always a positive value (and therefore is an endothermic process)
+because energy is required to remove an electron from an atom. Ionization energy is
+measured in electron volts (eV) or kiloJoules per mole (kJ/mol).
+Ionization energy is a measure of the tendency of an atom to lose an electron. Metals
+easily lose electrons and thus have low ionization energy. Non-metals have high
+ionization energy because they do not easily lose electrons.
+Form a group and perform the following task. Present your findings to the class.
+Rank each set of the following elements in order of decreasing ionization energy and
+explain the trend in ionization energy of the elements down a group.
+i) Ca, Sr, Mg, Be
+ii) K, Li, Rb, Na
+iii) Cl, F, I, Br
+Generally, ionization energy is affected by the following factors:
+i) Atomic size: As atomic size increases, the valence electrons are less tightly
+held by the nucleus. Thus, less energy is required to remove these electrons.
+For example, the energy needed to remove an electron from a cesium atom is
+lower than from a lithium atom.
+ii) Effective nuclear charge: The smaller the effective nuclear charge of an atom,
+the lower is the energy needed to remove an electron from the atom.
+iii) Types of electrons: The closer an electron is to the nucleus, the more difficult
+it is to remove the electron. In a given energy level, s-electrons are closer to
+ CHEMISTRY GRADE 9
+52
+the nucleus than p-electrons. Similarly, p-electrons are closer than d-electrons,
+and d-electrons are closer than f-electrons. Hence, ionization energy
+decreases in the order of: s > p > d > f.
+iv) Screening effect by the inner electrons: As described earlier, inner shell
+electrons shield the valence electrons from the nuclear charge. The more inner
+electrons there are, the higher the screening effect, and therefore the easier it
+is to remove the valence electrons. Screening decreases ionization energy.
+v) Electron configuration (stability): It is easier to remove electrons from unstable
+sublevels than from stable ones. Half-filled (p3
+, d5
+, f 7
+) and completely-filled
+(d10, p6
+, f 14) sublevels are more stable. For example, more energy is
+required to remove a p3
+ electron than a p4
+ electron. As a result of it, the first
+ionization energy of nitrogen is higher than that of oxygen.
+Generally, with the increasing atomic number, the first ionization energy decreases
+down the same group.
+Activity 2.8
+After studying the given information, identify the elements represented by X, M, and Y;
+discuss the findings in your group, and then share your conclusion with the other groups.
+Element X
+• has a relatively high ionization energy.
+• generally forms an ion with a – 2 charge.
+• has an outermost electron configuration of 3s2
+3p4
+.
+Element M
+• reacts with oxygen to form M2
+O.
+• has a very low ionization energy.
+• is in the fourth period of the periodic table.
+Element Y
+• is a transition element.
+• is used in Ethiopian coinage.
+• has 10 electrons in the 3d orbital
+4. Electron Affinity (EA)
+To which group it is easier to add electrons; alkali metals or halogens?
+Non-metals gain electrons and therefore form negative ions. The tendency of an atom
+to form a negative ion is expressed in terms of electron affinity (EA).
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+53
+Electron affinity is defined as the energy released in kilojoules/mole, when an electron
+is added to an isolated gaseous atom to form a gaseous ion. It is a measure of the
+attraction or ‘affinity’ of the atom for the extra added electron.
+X(g) + e–
+ ––––→ X–
+ (g) + energy
+Since energy is liberated during the process, electron affinity is expressed as a
+negative value. For example, when an electron is added to a fluorine (F) atom, 328
+kJ/mol of energy is released to produce a fluoride ion (F–
+), and EA is – 328 kJ/mol.
+F(g) + e–
+ ––––→ F–
+ (g) + EA = – 328 kJ/mol
+Electron affinity is a measure of the strength of an atom to attract an additional
+electron. The smaller is the atomic size of an element, the stronger is the tendency to
+form negative ions, and consequently the higher the electron affinity. Generally,
+electron affinity depends on atomic size and effective nuclear charge of the elements.
+Activity 2.9
+Form a group and discuss the following concepts.
+1. Why does the electron affinity of Cl is higher than that of F?
+2. Explain why noble gases have extremely low (almost zero) electron affinities?
+3. Explain why halogens have the highest electron affinities?
+Present your findings to the class.
+5. Electronegativity
+Where do you find the most electronegative element in the periodic table?
+Electronegativity is the ability of an atom in a molecule to attract the shared electrons
+in the chemical bond. The American chemist Linus Pauling (1901-1994) developed
+the most widely used scale of electronegativity values based on bond strength. The
+Pauling scale ranges from 0.7 to 4.0. Fluorine, the most electronegative element, is
+assigned a value of 4.0, and the least electronegative element, cesium, has an
+electronegativity value of 0.7. The electronegativity values for all the rest elements lie
+between these extremes.
+The electronegativity of an atom is related to its ionization energy and electron affinity.
+ CHEMISTRY GRADE 9
+54
+Activity 2.11
+Activity 2.10
+An atom with high ionization energy and high electron affinity also tends to have a high
+electronegativity value because of its strong attraction for electrons in a chemical
+bond.
+Form a group, perform the following task and present your findings to the class:
+1. The members of group IVA of the periodic table are: Ge, Sn, C, Pb and Si.
+Classify these elements into metals, non-metals and metalloids.
+2. Explain the differences between silicon and lead in terms of:
+a Atomic size
+b Ionization energy
+c Electron affinity
+d Electronegativity
+Form a group and perform the following task:
+Arrange each set of the given elements in order of decreasing electronegativity and
+explain the observed trend.
+a Ba, Mg, Be, Ca
+b C, Pb, Ge, Si
+c Cl, F, I , Br
+Present your findings to the class.
+6. Metallic Character
+In which region of the periodic table do you find metals and non-metals?
+Metals have the tendency to lose electrons and form positive ions. As a result, metals
+are called electropositive elements.
+In moving down a group, atomic size increases progressively, and it becomes easier
+for elements to lose their valence electrons and form positive ions. Therefore, metallic
+character increases down a group.
+In the periodic table, metals and non-metals are separated by a stair step diagonal
+line, and elements near this border line are called metalloids. Metals are found on the
+left side of the line and nonmetals on its right side.
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+55
+Activity 2.12
+Exercise 2.4
+Part I: Choose the correct answer from the given choices
+1. Which of the following properties of the elements remain unchanged down a
+group?
+a Ionization energy c Electron affinity
+b Nuclear charge d Valence electrons
+2. Which of the following elements has the largest atomic size?
+a Be c Ca
+b Ba d Mg
+3. Which of the following elements has the lowest electronegativty?
+a F b Br c I d Cl
+Part II: Give short answers for the following
+4. What is screening effect? How does it relate to effective nuclear charge?
+5. What is the relationship between first ionization energy and the metallic
+properties of elements?
+2.3.2 Periodic Properties within a Period
+Form a group and draw a rough sketch of the periodic table (no details are required). Based
+on this, perform the following activities and present your findings to the class.
+1. Indicate the regions where metals, non-metals, and metalloids are located in the
+periodic table. (Use different colours).
+2. Where do you find the most active metal and the most active non-metal? .
+As we move from left to right across a period, the number of valence electrons of the
+elements increases. But the number of energy levels or main shells remains the same
+in a given period and electrons are filling the same energy level until stable noble gas
+configuration is achieved. The additional electrons from Li (2, 1) to Ne (2, 8) are
+added to the second shell. In fact, the period number equals the number of energy
+level being filled.
+ CHEMISTRY GRADE 9
+56
+Activity 2.14
+Table 2.7 Electron configuration and number of shells for period-2 elements.
+Elements Li Be B C N O F Ne
+Atomic number 3 4 5 6 7 8 9 10
+Electron configuration 2, 1 2, 2 2, 3 2, 4 2, 5 2, 6 2, 7 2, 8
+Number of shells
+(period number) 2 2 2 2 2 2 22
+Let us now consider periodic properties of elements across a period.
+1. Atomic Size: From left to right in a given period, nuclear charge or atomic
+number progressively increases by one for every succeeding element. However,
+increasing number of valence electrons is being added to the same shell. This
+results in an increase in effective nuclear charge.
+Activity 2.13
+Form a group and perform the following task. Present your findings to the class.
+The following values are given for atomic radii (in Å) of period 2 elements:
+0.77, 1.34, 0.69, 0.75, 0.73, 0.82, 0.90, and 0.71.
+Based on the information given;
+1. fill the table given below with the appropriate values for atomic radii of the
+elements.
+2. explain the reason for the observed trend.
+Element Li Be B C N O F Ne
+Atomic radii (Å)
+2. Ionization Energy: Two factors account for the general trend in ionization
+energy across a given period. These are nuclear charge and atomic size.
+Form a group and perform the following task, and present your findings to the class.
+The following table lists ionization energy values of period 3 elements
+Elements Na Mg Al Si P S Cl Ar
+Ionization energy (kJ/mol) 496 738 578 787 1012 1000 1251 1521
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+57
+1. Explain why there is a general increase in the first ionization energy across
+the period from Na to Ar.
+2. Explain why the first ionization energy of:
+i) aluminium is lower than that of magnesium.
+ii) sulphur is lower than that of phosphorus.
+(Hint: Use sublevel configurations for the elements).
+3. Electron Affinity: The variation in electron affinity of elements in the same
+period is due to changes in nuclear charge and atomic size of the elements.
+A cross a period from left to right, electron affinity increases due to an increase
+in effective nuclear charge. The elements show a greater attraction for an extra
+added electron.
+4. Electronegativity: Across a period, a gradual change in nuclear charge and
+atomic size determine the trends in the electronegativity of the elements.
+Activity 2.15
+Form a group and perform the following task. Present your findings to the class.
+The following values are given for electronegativity of period 3 elements:
+2.1, 0.9, 1.5, 3.0, 1.8, 2.5 and 1.2
+Based on the information given;
+1. Draw a table of period 3 elements and fill with the appropriate electronegativity
+values corresponding to the symbols of the elements.
+2. Explain the reason for the observed trend.
+5. Metallic character: From left to right in a period, metallic character of the
+elements decreases. Elements on the left end of a period have a higher tendency
+to form positive ions. Those at the right end have a greater tendency to form
+negative ions. In any period, elements on the left side are metals and those on
+the right side are nonmetals.
+Consider the following period-3 elements and observe how the elements become
+more non-metallic on moving from left to right in the periodic table:
+Elements Na Mg Al Si P S Cl Ar
+Character Metals Metalloid Non-metals
+ 
+Metallic character decreases
+ CHEMISTRY GRADE 9
+58
+Model of a periodic table
+The following table shows a section of a periodic table. It is incomplete. According to the
+data given in table 2.8,
+a Construct a model of this section of the periodic table using locally available
+materials to show the trends in atomic radii of the elements.
+b Complete the section of the periodic table with the elements in the appropriate
+position.
+Table 2.8 Atomic number and atomic radii of some selected elements.
+Element Atomic Atomic Element Atomic Atomic
+number radii (nm) number radii (nm)
+Li 3 0.123 Al 13 0.125
+Be 4 0.089 Si 14 0.117
+B 5 0.080 P 15 0.110
+C 6 0.077 S 16 0.104
+N 7 0.074 Cl 17 0.099
+O 8 0.074 Ar 18 0.099
+F 9 0.072 K 19 0.203
+Ne 10 - Rb 37 0.216
+Na 11 0.157 Cs 55 0.235
+Mg 12 0.136
+(Hint: Be innovative. Use cheap local material available to you. Your teacher will help you
+whenever necessary.)
+Questions:
+Give reasons for the increase or decrease in atomic radii that you observe in your model:
+i from lithium to fluorine and sodium to chlorine
+ii from lithium to cesium
+Present your findings to your class teacher.
+ Project work
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+59
+Activity 2.16
+Exercise 2.5
+Give appropriate answers for the following questions.
+1. The element with the electron configuration of 1s2 2s2
+2p6 3s2
+3p6
+ is a:
+a metal b non-metal c metalloid d noble gas
+2. Which of the main groups in the periodic table has the elements with the
+most negative value of electron affinity?
+a halogens b noble gases c Alkali metals d none
+3. Which of the following is the correct increasing order of atomic size for the
+elements: Al, Ar, Na, Si?
+a Si, Na, Al, Ar c Ar, Si, Al, Na
+b Na, Al, Si, Ar d Al, Si, Ar, Na
+Critical Thinking
+4. Explain why the first ionization energy of nitrogen is the highest as
+compared to that of carbon and oxygen.
+5. Compare the elements fluorine and chlorine with respect to their
+electronegativity and electron affinity values.
+2.4 ADVANTAGES OF PERIODIC CLASSIFICATION
+Competencies
+By the end of this section, you will be able to:
+• describe the advantages of periodic classification in studying chemistry.
+Form a group and discuss the importance of the periodic table for predicting the atomic
+size and ionization energy of the elements. Share your idea with the class.
+Why do we need the classification of elements?
+The main advantages of using the periodic table are:
+1. The periodic table is useful for predicting the formulas of compounds. The
+elements in a given group form compounds with the same atomic ratio
+ CHEMISTRY GRADE 9
+60
+because of their similar electron configuration. For example, if the chemical
+formula of sodium oxide is Na2
+O, then we can predict the formulas of the
+other oxides of alkali metals. These are Li2
+O, K2
+O, Rb2
+O, and Cs2
+O.
+2. The periodic table is useful for predicting the physical and chemical properties
+of elements. For example, radium is a rare and radioactive element and
+therefore difficult to handle in many experiments. Since its properties can be
+predicted from the general trends of group IIA elements, sometimes we do
+not need to analyze it directly.
+3. The periodic table is also useful for predicting the behaviour of many
+compounds. For example, oxides of the elements become more acidic across
+a period and more basic in character down a group. The trends in the oxides
+of period-3 elements vary from strongly basic oxides to amphoteric and then
+acidic oxides as we move across a period.
+Table 2.9 Oxides of period 3 elements.
+Na2
+O MgO Al2
+O3 SiO2 P4
+O10 SO3 Cl2
+O7
+Basic oxide Amphoteric Acidic oxide
+oxide
+For a given element, the important information indicated below, in i, ii and iii can be
+read, deduced or stated from the periodic table.
+Atomic number
+Atomic mass
+Name
+Symbol
+Read the
+Number of protons s and electron
+Character (behavior) as metal, non metal, or metalloid
+Nature (property) of the oxides to form ... acids, bases
+Electron configuration (
+)
+number of shells and of
+valence electrons Deduce the
+( )i
+( )ii
+Based on the information in i and ii, we can:
+State the
+Period number
+Block type ( , , or ) s p d f
+( ) iii Group number and
+PERIODIC CLASSIFICATION OF THE ELEMENTS
+61
+Diagonal Relationship
+How do you account for the unexpected resemblance of the properties of
+the following sets of elements: Li and Mg, Be and Al, and B and Si?
+In addition to the group and period relationships, the elements of s and p block
+also exhibit diagonal relationship. On moving diagonally across the periodic table, the
+elements show certain similarities. Though clear upon examination, these diagonal
+relationships are far less pronounced than the similarities within a group.
+Diagonal relationship is particularly noticeable in the elements of second and third
+periods of the periodic table. The following illustrations show the diagonal relationship
+between Li and Mg, Be and Al, and B and Si.
+Li 
+Mg Al 
+Be B 
+Si 
+Check List
+Key terms of the unit
+• Actinide series
+• Atomic size
+• Block of elements
+• Dobereiner's traids
+• Effective nuclear charge
+• Electron affinity
+• Electron configuration
+• Electronegativity
+• Groups
+• Inner transition elements
+• Ionization energy
+• Lanthanide series
+• Law of octave
+• Mendeleev's law
+• Metalloids
+• Metals
+• Non-metals
+• Nuclear charge
+• Periodic law
+• Periodic table
+• Periods
+• Representative elements
+• Shielding ( screening) effect
+• Transition elements
+ CHEMISTRY GRADE 9
+62
+Unit Summary
+• Early attempts of classification of the elements were made by Dobereiner and
+Newlands.
+• Mendeleev’s law states that properties of the elements are periodic functions of
+their atomic masses.
+• Mendeleev arranged the elements based on increasing atomic mass.
+• Modern periodic law states that the properties of the elements are periodic
+function of their atomic numbers.
+• Periods are horizontal rows, and groups are vertical columns of the elements in
+the periodic table.
+• Elements in the same group show similar chemical properties.
+• Elements are classified as representative, transition, and rare-earth elements.
+This classification is based on the type of sub-level (s, p, d, or f) being filled.
+• Ionization energy is the energy required to remove the outermost shell electron
+from an isolated gaseous atom.
+• Electron affinity of an element is the energy released when an electron is added
+to an isolated gaseous atom to form a gaseous ion.
+• Metallic character is the tendency to lose electrons and form positively charged
+ions.
+• Electronegativity of an element is its ability to attract electrons.
+• Trends in atomic size determine the trends in ionization energy, electron affinity,
+electronegativity, and metallic character of the elements in the periodic table.
+• Atomic size itself is determined by the number of energy levels, nuclear charge,
+and effective nuclear charge.
+• Periodic properties of elements, such as ionization energy, electron affinity,
+electronegativity, etc. show regular variation within a group or period

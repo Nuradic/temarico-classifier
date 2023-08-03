@@ -1,0 +1,2060 @@
+In the unit on chemical kinetics you have studied about one aspect of a chemical
+reaction, which is the rate of the reaction. You have also studied the time taken for
+half the reaction to be over. However, some questions such as the following still
+remain. Do all reactions reach completion? If not then how much of the reactants
+remain unreacted, that is, what is the extent of the reaction? Why does the reaction
+not reach completion? Why does it attain equilibrium? These questions can be
+answered after studying chemical equilibrium.
+In this unit, you will study about equilibrium, how it is attained, different phases in
+which a system can exist and stability of these phases under different conditions of
+temperature and pressure.
+5.1 CHEMICAL EQUILIBRIUM
+At the end of this section, you should be able to:
+• explain reversible and irreversible reactions;
+• define dynamic chemical equilibrium;
+• state the necessary conditions for the attainment of equilibrium;
+• describe the microscopic events that occur when a chemical system is in
+equilibrium;
+• describe characteristics of chemical equilibrium;
+• state the law of mass action;
+• define equilibrium constant;
+• write the equilibrium constant expression for chemical reactions that involve
+concentration and partial pressure;
+• calculate values for equilibrium constants involving concentration and partial
+pressure;
+• state the relationship of K
+eq to relative amounts of product and reactants in a
+given reaction;
+ CHEMISTRY GRADE 11
+256
+• show the relationship between Kc
+ and K
+p;
+• distinguish between homogeneous and heterogeneous reactions;
+• define reaction quotient;
+• use the equilibrium quotient to predict the direction of a reaction and the
+position of equilibrium;
+• calculate equilibrium concentrations, given initial concentrations;
+• determine whether the reactants or the products are favoured in a chemical
+reaction, given the equilibrium constants;
+• list factors that affect chemical equilibrium;
+• state Le-Chatelier’s principle;
+• use Le-Chatelier’s principle to explain the effect of changes in temperature,
+pressure/volume, concentration and presence of a catalyst on a reaction;
+• describe the effects of changes in concentration, pressure/volume and
+temperature on K
+eq;
+• perform an activity to demonstrate the effects of changes in concentration and
+temperature on the position of equilibrium;
+• perform an activity to determine Kc
+ for esterification of organic acids;
+• define optimum condition; and
+• explain how Le-Chatelier’s principle is applied to the Haber process for
+manufacturing ammonia and to the contact process for manufacturing sulphuric acid.
+5.1.1 Reversible and Irreversible Reactions
+Activity 5.1
+Form a group and perform the following activity:
+In a test tube take crushed ice. Dip a thermometer in it and note the temperature. Heat it
+slowly for a few seconds.
+Now stop heating and place the test tube in a beaker containing large amount of crushed
+ice. Discuss the following questions in your group:
+1. What is the temperature of crushed ice?
+2. What happens when it is heated slightly?
+3. What happens when it is cooled again?
+4. What is the final temperature?
+Share your ideas with the rest of the class.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+257
+A reversible reaction is a chemical reaction that results in an equilibrium mixture of
+reactants and products; for example, formation of ammonia is a reversible reaction.
+N2(g) + 3H2(g) U 2NH3(g)
+Another example of reversible reaction is the formation of hydrogen iodide from
+hydrogen gas and iodine vapours.
+H2(g) + I2(g) U 2HI(g)
+Activity 5.2
+Form a group and perform the following activity:
+1. Take 10 mL of 0.1 M HCl solution in a test tube and dip the corner of blue and red
+litmus papers respectively in it. What happens?
+2. In another test tube take 10 mL of 0.1 M NaOH solution and dip the corner of blue
+and red litmus papers respectively in it. What happens?
+3. Mix the above two solutions and again test with litmus papers.
+4. Dissolve a few crystals of sodium chloride in 10 mL water and test it with blue and
+red litmus papers. Will the resulting solution be acidic or basic? Compare the results
+of 3 and 4.
+Share your findings with rest of the class.
+Chemical reactions which proceed in only one direction are known as irreversible
+reactions. When the equation for irreversible reaction is written, a single arrow (→) is
+used indicating that the reaction can proceed in only one direction.
+While writing reversible reaction, double arrow (U) is used indicating that the
+reaction can go from reactant to product side and also from the product to the
+reactant side. The reaction from the reactant side to the product side is known as
+forward reaction and reaction from product to the reactants is known as reverse or
+backward reaction.
+Exercise 5.1
+Answer the following questions:
+1. Define the terms reversible reaction and irreversible reaction.
+2. Give examples of reversible and irreversible reactions.
+3. Which symbol or sign is used to represent the reversibility and irreversibility of
+the reaction?
+ CHEMISTRY GRADE 11
+258
+5.1.2 Attainment and Characteristics of Chemical
+Equilibrium
+Equilibrium
+Activity 5.3
+Form a group and perform the following activity:
+Take 10 mL of acetone in a test tube. Close the mouth of the test tube immediately.
+Clamp the test tube vertically. Mark the level of acetone with the marker. Allow it to stand
+for half an hour and note the level of acetone at regular intervals.
+Discuss the findings with the class.
+The equilibrium is dynamic in nature which means that although at the macroscopic
+level the properties do not change with time, however, at the molecular level the two
+processes are still taking place. So the equilibrium is attained when the rate of two
+opposing processes become equal.
+Ice and water present together in a thermos flask at 0°C is another example of
+dynamic equilibrium. The equilibrium is attained when the rates of melting and freezing
+become equal.
+The saturated solution is also an example of dynamic equilibrium. Saturated solution is
+a solution in which undissolved solute is in equilibrium with the solute dissolved in the
+solution. The molecules from undissolved solute go into the solution and equal number
+of solute molecules get precipitated from the solution. Therefore, the concentration of
+the solution remains constant.
+Chemical Equilibrium
+An equilibrium involving a chemical reaction is known as chemical equilibrium. When a
+chemical reaction takes place, the reactants are consumed and the products are
+formed. As a result the concentrations of reactants decrease with time and that of
+products increase. If the reaction is reversible in nature and it takes place in a closed
+vessel then the products decompose to give back reactants. After some time the
+concentrations of the reactants and products become constant, that is they do not
+change with time. This state is known as chemical equilibrium.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+259
+Chemical equilibrium is the state of the reaction when the macroscopic
+properties like temperature, pressure, volume and concentration of the reaction
+do not change with time.
+Conditions for Attainment of Chemical Equilibrium
+In a reversible reaction, reactant molecules react to give products and at the same
+time some product molecules give back reactants. The rate of reaction depends upon
+the concentration of reactants. The rate of forward reaction depends upon the
+concentration of reactants while the rate of reverse reaction depends upon the
+concentration of products as shown in Figure 5.1. Initially only the reactants are
+present, therefore, the rate of forward reaction is fast. The reaction in the reverse
+direction does not take place as no product is present. As the reaction progresses,
+due to the decrease in the concentration of reactants, the rate of forward reaction
+decreases. At the same time, due to the increase in the concentration of products, the
+rate of reverse reaction increases. As the reaction further progresses a stage is
+reached when the rate of forward reaction becomes equal to the rate of reverse
+reaction. When this stage is attained, the concentrations of reactants and products do
+not change. The reaction has attained chemical equilibrium.
+Forward reaction
+Time
+Equilibrium
+Rate of reaction
+Backward reaction
+Fig 5.1 Change in the rate of reaction with time for the forward and reverse reactions.
+ CHEMISTRY GRADE 11
+260
+For example, as seen earlier, formation of ammonia from nitrogen and hydrogen is a
+reversible process. At the start of the reaction only nitrogen and hydrogen are present.
+They combine to form ammonia. The rate of formation of ammonia is large. With the
+progress of reaction, the concentrations of nitrogen and hydrogen decrease so the rate
+of formation of ammonia decreases. As more and more ammonia molecules are
+formed, some of the molecules start decomposing to give back nitrogen and
+hydrogen. With the progress of reaction, the number of ammonia molecules increases,
+so the rate of decomposition of ammonia also increases. As the reaction proceeds, the
+rate of formation of ammonia decreases while the rate of decomposition of ammonia
+increases. A stage is reached when the two rates become equal and equilibrium is
+attained.
+N2(g) + 3H2(g) U 2NH3(g)
+The chemical equilibrium is also dynamic in nature since the reaction does not stop at
+equilibrium. The macroscopic properties remain constant because the rate of forward
+reaction becomes equal to the rate of reverse reaction and hence no net reaction
+takes place.
+Another example is the decomposition of dinitrogen tetraoxide to form nitrogen
+dioxide.
+N2O4(g) U 2NO2(g)
+colourless reddish brown
+When colourless N2
+O4 is taken in a closed vessel, after some time its colour changes
+to brown indicating that NO2 has been formed.
+Similarly, if NO2 is taken in a closed vessel, initially the colour is reddish brown but
+the colour starts fading and after some time it becomes brown. This colour change
+takes place because some NO2 molecules dimerize to form N2O4.
+In both the cases, the final colour is same indicating that at equilibrium both N2O4 and
+NO2 are present.
+From these observations it can be concluded that the chemical equilibrium is attained
+whether the reaction is started with reactants or with products. That is, chemical
+equilibrium can be obtained from forward direction as well as reverse direction.
+It should be noted that the concentrations of products and reactants are not
+necessarily equal at equilibrium, only the rate of forward and reverse reactions are
+equal.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+261
+Characteristics of Chemical Equilibrium
+The reaction is reversible in nature.
+• The reaction takes place in a closed vessel, that is, during the reaction;
+reactants and products are neither added nor removed from the reaction vessel.
+• The rate of forward reaction is equal to the rate of reverse reaction.
+• All the reactants and products are present at equilibrium.
+• The macroscopic properties like temperature, pressure, volume and
+concentration do not change with time.
+• The equilibrium is dynamic in nature.
+• The state of equilibrium can be obtained from either side.
+• The concentrations of reactants and products are generally not equal.
+• The free energy change of the reaction is zero at equilibrium.
+Exercise 5.2
+Answers the following questions:
+1. When a mixture of SO2 and O2 is introduced into a reaction vessel at a
+temperature of 700 K, a reaction that produces SO3 occurs as:
+2SO2(g) + O2(g) → 2SO3(g)
+a When do we say that the system has reached chemical equilibrium? Explain
+your answer.
+b Why is the equilibrium state referred to as dynamic?
+c Write the equation that shows the presence of the three species in
+equilibrium.
+2. Label a, b and c for the figure below. Explain trends of the rate of the forward
+reaction and the rate of the reverse reaction. Reaction rate
+Time
+(c)
+(a)
+(b)
+ CHEMISTRY GRADE 11
+262
+3. Label a, b and c for the figure shown below. Explain what happens to the
+concentration of the reactants and the concentration of the products. Concentration
+Time
+(c)
+(a)
+(b)
+4. What are the conditions that remain constant at equilibrium?
+5.1.3 Equilibrium Expression and Equilibrium Constant
+Law of Mass Action
+Two Norwegian scientists C.M. Guldberg and Peter Waage studied reversible
+chemical reactions and gave a law characterizing the dynamic chemical equilibrium.
+This law is known as law of mass action. According to this law:
+• The combining power of two reactants A and B depends upon their nature as
+well as their active concentrations.
+• The rate at which A and B combine is directly proportional to the product of
+their concentration terms each raised to the power of its respective coefficient in
+the balanced chemical reaction.
+The general equation that represents a reversible reaction is:
+aA + bB U mM + nN
+For the forward reaction A and B are reactants and M and N are products.
+It is assumed that the reaction is homogeneous in nature, that is all the reactants and
+the products are present in the same state.
+The rate of forward reaction (rf ) depends upon the concentrations of A and B and is
+given by the expression
+rf ∝ [A]a
+ [B]b or rf
+ = kf
+ [A]a
+ [B]b
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+263
+where [A] and [B] are the concentrations of A and B respectively. The rate of reverse
+reaction is given by the expression
+rb ∝ [M]m [N]n or rb = kb [M]m [N]n
+where [M] and [N] are the concentrations of M and N respectively. kf
+ and kb are
+rate constants for forward and reverse reactions, respectively.
+ At equilibrium, the rate of forward reaction is equal to the rate of reverse reaction.
+Therefore,
+rf = rb
+or kf
+ [A]a
+ [B]b = kb [M]m [N]n
+kf
+ and kb are constant. Therefore, the ratio of kf
+ to kb is also a constant.
+m n
+f
+a b eq
+b
+[M] [N]
+[A] [B] = = k K
+k
+The ratio of kf
+ and kb is represented by K
+eq. Since this constant represents the
+reaction at equilibrium it is known as equilibrium constant. [M], [N], [A] and [B] are
+concentrations at equilibrium.
+When the concentrations are expressed in molarities, the equilibrium constant is
+represented by Kc
+.
+When the reactants and the products are in the gaseous state, their concentrations can
+be expressed in terms of partial pressures. In such cases, the equilibrium constant is
+denoted by K
+p.
+Rules for Writing the Equilibrium Constant Expression for
+Homogeneous Reactions
+Homogeneous reaction is a reaction in which all the reactants and the products are
+present in the same physical state.
+For a homogeneous reaction, rules followed while writing the expression for
+equilibrium constant are:
+• The concentrations of all the substances formed as products are written in the
+numerator.
+• The concentrations of all the reactants are written in the denominator.
+ CHEMISTRY GRADE 11
+264
+• Each concentration term is raised to the power by its respective coefficient as
+written in the balanced chemical reaction.
+For a general reaction at equilibrium
+aA + bB U mM + nN
+the expression for Kc
+ is:
+Kc = 
+m n
+a b
+[M] [N]
+[A] [B]
+When all the reactants and the products are in the gaseous state, their concentrations
+can be written in terms of partial pressures. In such cases the equilibrium constant is
+denoted by K
+p. The expression for K
+p
+ is
+K
+p
+= 
+( )
+( )( )
+m n
+M N
+a b
+A B
+( ) p p
+p p
+For the formation of ammonia,
+N2(g) + 3H2(g) U 2NH3(g)
+the expression of equilibrium constant in terms of molarities is:
+Kc = 
+2
+3
+3
+2 2
+[NH ]
+[N ][H ]
+The expression of K
+p
+ is:
+K
+p
+= 
+( )
+( )( )
+3
+2
+NH
+3
+N H 2 2
+p
+p p
+Exercise 5.3
+Write the equilibrium constant expression for the following reactions:
+1. NH3(g) + CH3COOH(aq) U NH+
+4(aq) + CH3COO–(aq)
+2. HF(aq) U H+(aq) + F–(aq)
+3. 2NO(g) + Br2(g) U 2NOBr(g)
+4. 2HF(g) U H2(g) + F2(g)
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+265
+Units of Kc
+The unit of Kc
+ of a reaction depends upon the number of moles of the reactants and
+products involved in the reaction. Therefore, for a general reaction;
+aA + bB U mM + nN
+the unit of Kc
+ will be:
+m n -1 m -1 n
+c a b - -1 b 1 a
+[M] [N] [mol L ] [mol L ] = = [A] [B] [mol L ] [mol L ]
+K = (mol L–1)(m+n)–(a+b)
+Example 5.1
+1. For the reaction:
+NH3(g) + CH3COOH(aq) U NH+
+4(aq) + CH3COO–(aq)
+[ ][ ]
+( )( )
+( )( )
++ – -1 -1
+4 3
+c -1 -1
+3 3
+NH CH COO mol L mol L
+= =1
+NH CH COOH mol L mol L
+      K =
+2. For the reaction:
+2HF(g) U H2(g) + F2(g)
+[ ]
++ –
+c
+H F = HF
+      K
+( )( )
+( )
+-1 -1
+-1
+-1
+mol L mol L
+= mol L
+mol L =
+Unit of K
+p
+The unit of K
+p is decided by the unit of pressure. If the partial pressure is expressed
+in atm, then the unit of K
+p
+, will be:
+( )( )
+( )( )
+m n m n M N
+ab a b
+A B
+p p (atm) (atm)
+p p (atm) (atm)
+Kp = = = (atm)(m+n)–(a+b)
+If the partial pressure is measured in kPa, then the unit of K
+p will be (kPa)(m+n)–(a+b)
+ CHEMISTRY GRADE 11
+266
+Example 5.2
+K
+p
+ units for the following reactions are shown.
+1. N2(g) + 3H2(g) U 2NH3(g) ( )
+( )( )
+3
+2 2
+2
+2 NH
+3 32
+N H
+atm 1 = = atm atm atm = . p
+P
+K
+P P
+2. H2(g) + I2(g) U 2HI(g) ( )
+( )( )
+( )
+( )( ) 2 2
+2 2
+HI
+p
+H I
+atm
+== 1
+atm atm = P
+K
+P P
+3. N2O4(g) U 2NO2(g) ( )
+( )
+( )
+( )
+2
+2 4
+2 2
+NO
+p
+N O
+atm
+= = atm
+atm =
+P
+K
+P
+Equilibrium Constant for Heterogeneous Reactions
+Activity 5.4
+Form a group and discuss the following questions:
+Consider the reaction
+ Mg(s) + HCl(aq) U MgCl2(aq) + H2(g)
+1. Identify the phases of the reactants and the products. Are the reactants and the
+product in the same or different phases?
+2. What is the name of the equilibrium that involves such reactants and the product?
+Share your ideas with the rest of the class.
+In heterogeneous reactions, the reactants and products are present in more than one
+physical state. For example, thermal decomposition of calcium carbonate is an
+example of heterogeneous reaction.
+CaCO3(s) U CaO (s) + CO2(g)
+Some other examples of heterogeneous reactions are
+NH4
+Cl(s) U NH3(g) + HCl(g)
+CO2(g) + H2O(l) U H+(aq) + HCO3
+– (aq)
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+267
+Rules for Writing the Expression for Equilibrium Constant for
+Heterogeneous Reaction
+• The concentration terms of products are written in the numerator and the
+concentration terms of reactants are written in the denominator raised to the
+power of their respective coefficient in the balanced chemical equation.
+• While writing the expression for Kc
+, the molarities of gaseous reactants and
+products and species present in the solution are written.
+• Concentration terms of solids and pure liquids do not appear in the
+expression, as they are taken to be unity.
+• While writing the expression for K
+p, partial pressures of only the gaseous
+reactants and products are written in the expression for equilibrium constant.
+Example 5.3
+The equilibrium constant expression for some heterogeneous reactions are
+shown below:
+a CaCO3(s) U CaO(s) + CO2(g) K
+p
+ = pCO2
+b NH4Cl(s) U NH3(g) + HCl(g) K
+p = (pNH3
+)(pHCl )
+c CO2(g) + H2O(l) U H+(aq) + HCO3
+–(aq) Kc
+ = [ ]
+–
+3
+2
+H HCO
+CO
++      
+d Fe3+(aq) + 3OH–(aq) U Fe(OH)3(s) Kc
+ = 3 3 –
+1
+Fe OH +      
+Exercise 5.4
+Answer the following questions:
+1. 5.0 mole of ammonia were introduced into a 5.0 L reaction chamber in which
+it is partially decomposed at high temperatures.
+ CHEMISTRY GRADE 11
+268
+2NH3(g) U 3H2(g) + N2(g)
+At equilibrium at a particular temperature, 80.0% of the ammonia had reacted.
+Calculate Kc
+ for the reaction.
+2. 1.25 mol NOCl was placed in a 2.50 L reaction chamber at 427°C. After
+equilibrium was reached, 1.10 moles NOCl remained. Calculate the
+equilibrium constant for the reaction.
+2NOCl(g) U 2NO(g) + Cl2(g)
+3. A sample of nitrosyl bromide was heated to 100°C in a 10.0 L container in
+order to partially decompose it.
+2NOBr(g) U 2NO(g) + Br2(g)
+At equilibrium the container was found to contain 0.0585 mol of NOBr, 0.105
+mol of NO, and 0.0524 mol of Br2. Calculate the value of Kc
+.
+4. The brown gas NO2 and the colourless gas N2O4 exist in equilibrium.
+N2O4(g) U 2NO2(g)
+0.625 mol of N2O4 was introduced into a 5.00 L vessel and was allowed to
+decompose until it reached equilibrium with NO2. The concentration of N2O4
+at equilibrium was 0.0750 M. Calculate K
+p for the reaction.
+Relation between Kc
+ and K
+p
+For the general reaction
+a A(g) + bB(g) U mM(g) + nN(g)
+Kc = 
+m n m n
+M N
+a b a b
+A B
+[M] [N] C C = [A] [B] C C
+K
+p
+= 
+m n M N
+a b
+A B
+( )( )
+( )( )
+p p
+p p
+It is assumed that all the gaseous species behave like an ideal gas. According to
+the ideal gas equation, the partial pressure (p) is given by
+p = nRT / V and n/V = C
+where n = amount of the gaseous species in moles
+R = Gas constant
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+269
+T = Temperature in kelvin
+V = Volume of the reaction mixture
+C = Molarity
+Thus, pA = nA RT / V = CART
+pB = nB RT / V = CBRT
+pM = nM RT / V = CMRT
+pN = nN RT / V = CNRT
+K
+p
+= 
+( )( ) ( ) ( )( )
+∆ =
+m n mn M N MN n
+a b ab
+A B AB
+C RT C RT C C RT
+C RT C RT C C
+ here ∆n = (m + n) – (a + b) for gaseous species
+K
+p
+= Kc
+(RT )∆n
+When the number of gaseous reactants and products are equal then,
+a + b = m + n
+Therefore, ∆n = 0 and hence K
+p
+ = Kc
+Example 5.4
+1. The equilibrium constant for the reaction:
+2SO3(g) U 2SO2 (g) + O2(g)
+is 1.8 × 10–3 kPa at 427°C. Calculate Kc
+ for the reaction at the same
+temperature.
+Solution:
+Given: K
+p = 1.8 × 10–3 kPa = 1.8 Nm–2 T = 427°C = 700 K.
+R = 8.314 N m K–1 mol–1
+We know that
+K
+p
+= Kc
+(RT)∆n
+For the given reaction, ∆n = (2+1) – 2 = 1
+Therefore, Kc
+ = K
+p/(RT)
+ CHEMISTRY GRADE 11
+270
+=
+2
+3
+1 1
+1.8 Nm 3.09 mol m
+700 K 8.314 N m K mol
+− −
+− − = ×
+2. What are the values of K
+p and Kc
+ at 1000°C for the reaction
+CaCO3(s) U CaO(s) + CO2(g)
+if the pressure of CO2 in equilibrium with CaCO3 and CaO is 3.87 atm?
+Enough information is given to find K
+p first. Writing the K
+p expression for
+this heterogeneous reaction:
+K
+p
+= pCO2
+ = 3.87
+Then to get Kc
+, rearrange the equation,
+K
+p
+= Kc
+(RT ) ∆n
+where n, the change in the number of moles of gas in the reaction is +1.
+Calculation:
+Kc = 
+p
+( )∆n
+K
+RT
+Kc = 
+3.87 0.0370
+(0.0821)(1273) =
+3. At 400 °C, Kc = 64 for the reaction
+H2(g) + I2(g) U 2HI(g)
+a What is the value of K
+p
+ for this reaction?
+b If at equilibrium, the partial pressures of H2 and I2 in a container are
+0.20 atm and 0.50 atm, respectively, what is the partial pressure of HI
+in the mixture?
+Solution:
+a The equation relating K
+p
+ to Kc
+ is
+K
+p
+= Kc(RT)∆n
+Here the change in the number of moles of gas ∆n is:
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+271
+∆n = 2 mol HI – 1 mol H2 – 1 mol I2 = 0
+Since, ∆n = 0, K
+p and Kc
+ are the same.
+K
+p
+= Kc
+(RT)
+0 = Kc
+K
+p
+= Kc
+ = 64
+b Writing the equilibrium constant expression
+K
+p
+= 
+2 2
+2
+HI
+H I
+= 64 p
+p p
+and substituting the given pressures
+2
+HI
+(0.20)(0.50)
+p
+= 64
+the partial pressure of HI is
+pHI = (0.20)(0.50)(64)
+pHI = 2.53 atm
+Exercise 5.5
+Answers the following questions:
+1. The following equilibrium constants were determined at 1123 K:
+C(s) + CO2(g) U 2CO(g) Kc
+ = 1.4 × 1012
+CO(g) + Cl2
+(g) U COCl2
+(g) Kc
+ = 5.5 × 10–1
+Write the equilibrium constant expression Kc
+ and calculate the equilibrium
+constant at 1123 K for the following reaction:
+C(s) + CO2(g) + 2Cl2
+(g) U 2COCl2(g)
+2. For the decomposition of ammonium chloride,
+NH4Cl(s) U NH3(g) + HCl(g) at 427°C, K
+p
+ = 4.8.
+ Calculate Kc
+ for this reaction.
+ CHEMISTRY GRADE 11
+272
+3. Write the equilibrium constant expression for the following equations:
+a 2HgO(s) U 2Hg(l) + O2(g)
+b Ni(s) + 4CO(g) U Ni(CO)4(g)
+c 2NO(g) + Br2(g) U 2NOBr(g)
+4. For the reaction:
+H2(g) + Br2(g) U 2HBr(g)
+K
+p = 7.1 × 104 at 700 K. What is the value of K
+p for the following reactions
+at the same temperature?
+a 2HBr(g) U H2(g) + Br2(g)
+b ½ H2(g) + ½ Br2(g) U HBr(g)
+5. The reversible reaction:
+N2O4(g) U 2NO2(g)
+has a value of K
+p = 0.113 at 25°C. Determine the numerical value of Kc
+ at
+25°C for the reaction,
+½N2O4(g) U NO2(g)
+Is it greater than, equal to, or less than 0.113? Explain.
+Applications of Equilibrium Constant
+Activity 5.5
+Form a group and discuss the following:
+The equilibrium constant, Kc
+ for the formation of hydrogen iodide from molecular
+hydrogen and molecular iodine in the gas phase
+H2
+(g) + I2
+(g) U 2HI(g)
+is 54.3 at 430°C. Suppose that in a certain experiment we place 0.243 mole of H2
+, 0.146
+mole of I2
+, and 1.98 moles of HI all in a 1.00 L container at 430°C. Will there be a net
+reaction to form more H2
+ and I2
+ or more HI ?
+Share your ideas with the rest of the class.
+The value of equilibrium constant predicts the extent of reaction at equilibrium. It also
+tells about the relative concentrations of products and reactants present at equilibrium,
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+273
+that is, the position of equilibrium.
+Position of equilibrium: Kc
+ can have three types of values.
+Case 1: When Kc
+ >1
+This indicates that the value of numerator is greater than the denominator. So the
+formation of products is favoured at equilibrium.
+Case 2: When Kc
+ <1
+This indicates that the value of numerator is less than the denominator. So the
+formation of products is not favoured at equilibrium.
+Case 3: When Kc
+ =1
+This indicates that the rate of forward reaction is equal to the rate of backward
+reaction.
+Extent of reaction: Kc
+ value also predicts the extent of the reaction at equilibrium.
+Very large values of Kc
+ indicates that the extent of the reaction is very large at
+equilibrium. So most of the reactants have been consumed at equilibrium. A very small
+value of Kc
+ indicates that the extent of reaction is very small at equilibrium. Most of
+the reactants will be in the unreacted state.
+Activity 5.6
+Form a group and discuss the following questions:
+1. Predict whether the formation of product is favoured for the following reactions:
+a N2
+(g) + 3H2
+(g) U 2NH3
+(g) Kc = 3.6 × 108
+b N2
+O4
+(g) U 2NO2
+(g) Kc = 5 × 10–3
+c CO2
+(g) U 2CO(g) + O2
+(g) Kc = 4.45 × 10–24
+2. Arrange the following reactions in order of their increasing tendency to proceed
+towards completion (least extent to greatest extent).
+a CO + Cl2 U COCl2 Kc
+ = 13.8
+b N2
+O4 U 2NO2 Kc
+ = 2.1×10–4
+c 2NOCl U 2NO + Cl2 Kc
+ = 4.7×10–4
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+274
+Reaction Quotient (Q)
+Reaction quotient is the ratio of concentrations of products to the concentrations of
+reactants raised to the power of their respective coefficients at any stage after the start
+of the reaction. For the general reaction,
+aA + bB U mM + nN
+the expression for the reaction quotient is
+Q = 
+m n
+a b
+[M] [N]
+[A] [B]
+[A], [B], [M] and [N] are concentrations at any stage during the reaction. At the
+initial stages of the reaction, the amount of product formed is low, therefore, the value
+of Q is small. With the progress of the reaction, since the concentration of products
+increases, the value of Q also increases. When the reaction attains equilibrium, Q
+becomes equal to the equilibrium constant.
+Reaction Quotient in Terms of Molarities
+When the concentrations are expressed in molarities, the reaction quotient is Qc
+.
+Qc = 
+m n
+a b
+[M] [N]
+[A] [B]
+At equilibrium,
+Qc = 
+m n
+c a b
+eq
+[M] [N] = [A] [B]
+         
+K
+Reaction Quotient in Terms of Partial Pressure
+When the concentrations are taken in partial pressures, the reaction quotient is Qp
+and is given by the expression
+Qp
+= 
+( )( )
+( )( )
+m n
+M N
+a b
+A B
+p p
+p p
+At equilibrium,
+Qp
+= 
+m n M N
+a b p
+A B eq
+( )( ) = ( )( )
+         
+p p K
+p p
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+275
+Application of Reaction Quotient
+Reaction quotient predicts the direction of the reaction at any stage, that is for the
+given concentration of reactants and products. It also decides whether the reaction
+has attained equilibrium or not.
+When Q is less than K, then the reaction will proceed in the forward direction and
+more products will be formed till the equilibrium is reached.
+When Q is greater than K, then the reaction will proceed in the reverse direction and
+more reactants will be formed till the equilibrium is reached.
+When Q is equal to K, then the reaction has attained equilibrium.
+Example 5.5
+At a certain temperature the reaction:
+CO(g) + Cl2(g) U COCl2(g)
+has an equilibrium constant Kc
+ = 13.8. Is the following mixture an equilibrium
+mixture? If not, in which direction (forward or backward) will the reaction
+proceed to reach equilibrium? [CO]0 = 2.5 mol L–1; [Cl2]0 = 1.2 mol L–1; and
+[COCl2]0 = 5.0 mol L–1.
+Solution:
+Recall that for the system to be at equilibrium Qc
+ = Kc
+. Substitute the given
+concentrations into the reaction quotient for the reaction, and determine Qc
+.
+Qc
+ = ( )( ) ( )
+–1 –1 –1
+–1 –1
+5 mol L 1.6 mol L
+2.5 mol L 1.2 mol L =
+Since Qc
+ < Kc
+ the reaction mixture is not an equilibrium mixture, and a net
+forward reaction will bring the system to equilibrium.
+Calculating the Equilibrium Concentrations
+Not only can we estimate the extent of reaction from the Kc
+ value, but also the
+expected concentrations at equilibrium can be calculated from knowledge of the initial
+concentrations and the Kc value. In these types of problem it will be very helpful to
+use the following approach.
+1. Express the equilibrium concentrations of all the species in terms of the initial
+concentrations and an unknown x, which represents the change in concentration.
+ CHEMISTRY GRADE 11
+276
+2. Substitute the equilibrium concentrations derived in part 1 into the equilibrium
+constant expression, and solve for x. The equilibrium concentration is given by:
+equilibrium concentration = initial concentration ± the change due to the reaction
+where the + sign is used for a product, and the – sign for a reactant.
+3. Use x to calculate the equilibrium concentration of all the species.
+Example 5.6
+Let us consider the reactioin between hydrogen and iodine in which 1 mole of H2
+and 2 moles of I2 were added in 500 mL flask. First we need expressions for the
+equilibrium concentrations of H2, I2, and HI. Tabulating the initial concentrations
+as:
+Concentration H2 + I2 U 2HI
+Initial 1.00 mol/0.50 L 2.00 mol/0.50 L 0
+Change – – –
+Equilibrium – – –
+Since the answer involves three unknowns, we will relate the concentrations to
+each other by introducing the variable x. Recall, that the equilibrium concentration
+= initial concentration ± change in concentration. Let x = the change in
+concentration of H2. That is, let x = the number of moles of H2 reacting per liter.
+From the coefficients of the balanced equation we can tell that if the change in H2
+is –x, then the change in I2 must also be –x, and the change in HI must be +2x.
+The next step is to complete the table in units of molarity:
+Concentration H2 + I2 U 2HI
+Initial (M) 2.0 4.0 0
+Change (M) –x –x
+Equilibrium (M) (2.0 – x) (4.0 – x) +2x
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+277
+Now substitute the equilibrium concentrations from the table into the Kc
+expression,
+Kc
+ = 
+( )
+( )( )
+2
+2
+2.0 – 4.0 –
+x
+x x
+and solve for x.
+Kc
+ = ( )2
+2
+2
+– 6.0 8.0 +
+x
+x x
+ = 64
+ Rearranging, we get:
+4x2 = 64x2 – 384x + 512
+ and grouping yields
+60x2 – 384x + 512 = 0
+We will use the general method of solving a quadratic equation of the form
+ax2 + bx + c = 0
+The root x is given by
+x = 
+2 – –4
+2
+b b ac ±
+a
+In this case, a = 60, b = –384, and c = 512. Therefore,
+x = 
+( ) ( )( )
+( )
+2 – –384 (–384) – 4 60 512
+2 60
+±
+x = 
+4 384 2.5 10
+120
+± ×
+x = 
+384 158
+120
+±
+ = 1.9 and 4.5 mol/L
+ CHEMISTRY GRADE 11
+278
+ Experiment 5.1
+Determination of Equilibrium Constant for an Organic Acid
+Objective: To determine equilibrium constant for the esterification of an acetic
+acid.
+Apparatus: Round bottom flask, pipette, conical flask, burette, burette stand,
+water condenser with inlet and outlet pipes, boiling chips, clamp stand,
+burner, water bath.
+Recall that x = the number of moles of H2 (or I2) reacting per liter. Of the two
+answers (roots), only 1.9 is reasonable, because the value 4.5 M would mean that
+more H2 (or I2) reacted than was present at the start. This would result in a
+negative equilibrium concentration, which is physically meaningless. We therefore
+use the root x = 1.9 M to calculate the equilibrium concentrations:
+[H2] = 2.0 – x = 2.0 M – 1.9 M = 0.1 M
+[I2] = 4.0 – x = 4.0 M – 1.9 M = 2.1 M
+[HI] = 2x = 2(1.9 M) = 3.8 M. The results can be checked
+by inserting these concentrations back into the Kc
+ expression
+to see if Kc
+ = 64.
+Kc
+ = 
+[ ]
+[ ][ ]
+2
+2 2
+HI
+H I
+ = 
+( )
+( )( )
+2
+3.8
+0.1 2.1 = 68
+Thus the concentrations we have calculated are correct. The difference between
+64 and 68 results from rounding off which is to maintain the correct number of
+significant figures. Therefore, our result is correct only to the number of significant
+figures given in the problem.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+279
+Chemicals: 0.5 M acetic acid, 0.5 M propan-1-ol, phenolphthalein, 0.01 M
+NaOH solution, ice.
+Procedure:
+1. In a 100 mL round bottom flask, take 10.0 mL of 0.5 M acetic acid and
+10.0 mL of 0.5 M propan-1-ol.
+2. Add 5 drops of conc. H2SO4
+ to the solution in the round bottom flask.
+3. Add a few pieces of boiling chips to the solution in the round bottom flask.
+4. Attach a water condenser and reflux for 1 hour on a water bath as shown
+in (Figure 5.2(a)).
+5. Cool the flask and its contents in an ice bath.
+6. Pipette out 1.0 mL of the reaction mixture in a conical flask containing 25.0
+mL of ice cold water. (Ice cold water is prepared by taking 25.0 mL of
+water in a conical flask and keeping on ice bath for some time).
+7. Add 2 drops of phenolphthalein indicator to the solution in a conical flask.
+8. Titrate the contents against 0.1 M NaOH solution as shown in (Figure
+5.2(b)).
+9. Repeat steps 6, 7 and 8 three times and take the average volume of NaOH
+consumed in titration.
+Observations and analysis:
+1. What is the purpose of adding small amount of H2SO4 to the reaction
+mixture at one beginning of the experiment?
+2. Why do we add boiling chips to the reaction mixture before refluxing?
+3. Calculate:
+a the concentrations of reactions and products at equilibrium.
+b the equilibrium constant for the esterification of acetic acid.
+ CHEMISTRY GRADE 11
+280
+Hint: The esterification reaction is acid catalysed.
+CH3COOH(aq) + CH3CH2CH2OH(aq) U CH3COOC3H7(aq) + H2O(aq)
+Condenser
+with inlet and
+outlet pipes
+Round
+bottom
+flask
+Burette
+Conical
+flask
+Bunsen
+burner
+a b
+Figure 5.2 Laboratory set-up for the esterification of acetic acid.
+Exercise 5.6
+1. For the equilibrium:
+ N2O4(g) U 2NO2(g) Kc
+ = 0.36 at 100°C
+a sample of 0.25 mol N2O4 is allowed to dissociate and come to equilibrium
+in a 1.5 L flask at 100°C. What are the equilibrium concentrations of NO2
+and N2O4?
+2. The decomposition of NOBr is represented by the equation:
+ 2NOBr(g) U 2NO(g) + Br2(g) Kc
+ = 0.0169
+At equilibrium the concentrations of NO and Br2 are 1.05×10–2 M and
+5.24×10–3 M, respectively. What is the concentration of NOBr?
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+281
+Activity 5.7
+3. The reaction:
+ PCl5(g) U PCl3(g) + Cl2(g)
+has the equilibrium constant value Kc
+ = 0.24 at 300 °C.
+ a Is the following reaction mixture at equilibrium?
+[PCl5] = 5.0 mol/L, [PCl3] = 2.5 mol/L, [Cl2] = 1.9 mol/L
+ b Predict the direction in which the system will react to reach equilibrium
+4. At 400°C, the equilibrium constant for the reaction:
+ H2(g) + I2(g) U 2HI(g)
+is 64. A mixture of 0.250 mol H2 and 0.250 mol I2 was introduced into an
+empty 0.75 L reaction vessel at 400°C, find the equilibrium concentrations of
+all components
+5. At 700 K, the reaction:
+ 2SO2(g) + O2(g) U 2SO3(g)
+ has an equilibrium constant Kc
+ = 4.3 × 106.
+ a Is a mixture with the following concentrations at equilibrium?
+[SO2] = 0.10 M; [SO3] = 10 M; [O2] = 0.10 M.
+b If not at equilibrium, predict the direction in which a net reaction will occur
+to reach a new equilibrium.
+5.1.4 Changing Equilibrium Conditions–Le Chatelier’s
+Principle
+Form a group and discuss the following questions:
+1. Consider the following reaction at 400°C:
+H2
+O(g) + CO(g) U H2
+(g) + CO2
+(g)
+Some amounts of H2
+O, CO(g), H2
+(g), and CO2
+(g) were put into a flask so that the
+composition corresponded to an equilibrium mixture. A laboratory technician added
+ CHEMISTRY GRADE 11
+282
+an iron catalyst to the mixture, but was surprised when no additional H2
+(g) and CO2
+(g)
+were formed even after waiting for many days. Explain why the technician should not
+have been surprised.
+2. Equilibrium is established in the reversible reaction
+4HCl(g) + O2
+(g) U 2H2
+O(g) + 2Cl2
+(g) ∆H = 114.4 kJ
+Describe four changes that could be made to this mixture to increase the amount of
+Cl2
+(g) at equilibrium.
+3. Describe how you might be able to drive a reaction having a small value of Kc
+ to
+completion.
+Share your ideas with the rest of the class.
+Factors Affecting the Equilibrium Constant
+The equilibrium constant depends upon the following factors:
+1. Temperature at which the experiment is performed.
+2. The form of equations which describe the equilibrium.
+For example, for the reaction
+N2(g) + 3H2(g) U 2NH3(g)
+If the reaction is multiplied by 2,
+2N2(g) + 6H2(g) U 4NH3(g)
+the expression for Kc
+ becomes
+Kc
+′ = 
+4
+3
+2 6
+2 2
+[NH ]
+[N ] [H ]
+Kc
+′ = (Kc
+)2
+If the reaction is reversed, 2NH3(g) U N2(g) + 3H2(g)
+the Kc
+ becomes
+Kc
+″ = 
+3
+2 2
+2
+3
+[N ][H ]
+[NH ]
+Kc
+″ = 1/Kc
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+283
+Activity 5.8
+The equilibrium constant does not depend upon the initial concentrations of the
+reactants. Kc
+ and K
+p
+ are independent of pressure.
+Le Chatelier’s Principle
+When the reaction has attained equilibrium then the temperature, pressure, volume and
+concentrations remain constant. These four properties are known as reaction
+parameters. Le Chatelier’s principle describe the changes that will take place when
+any one of the reaction parameters are changed at equilibrium.
+Statement: If any one or more of the reaction parameters is changed at equilibrium
+then the reaction will proceed in that direction so as to undo the change in the
+parameter and the equilibrium is again attained.
+Le Chatelier’s principle describes the effect of the change in parameters on the
+position of equilibrium. That is, it predicts whether the changes in reaction parameters
+will favour the formation of reactants or products.
+Henry Louis Le Chatelier (1850-1936) was a FrenchItalian chemist. He is most famous for the law of
+chemical equilibrium which is known by his name as
+Le Chatelier's principle. This law is used by chemists
+to predict the effect of a change in conditions on a
+chemical equilibrium
+Henry Louis Le Chatelier
+Historical Note
+Effect of Change in Temperature on the Position of Equilibrium
+Form a group and perform the following activity to study the effect of temperature on the
+position of equilibrium:
+Take 0.5 g of cobalt chloride (CoCl2
+.
+6H2
+O) in a test tube and add 10 mL of distilled water
+to prepare the solution. Then add 5 mL of concentrated HCl slowly to the solution. What is
+the colour of the solution? Now put the test tube in a beaker containing crushed ice. Note
+ CHEMISTRY GRADE 11
+284
+the colour of the solution. Take out the test tube from ice bath and keep it at room
+temperature for 5 minutes. Note the colour of the solution.
+Share your findings with the rest of the class.
+According to Le Chatelier’s principle, if the temperature of the reaction at equilibrium
+is increased then the reaction will proceed in that direction where heat is absorbed so
+as to undo the effect of heating. Similarly if the temperature of the reaction at
+equilibrium is lowered then the reaction will proceed in that direction where the heat is
+produced so that the equilibrium is again attained.
+For an exothermic reaction, when the temperature is lowered, the reaction will
+proceed in the forward direction, since the heat produced during forward reaction will
+undo the effect of lowering of temperature. When the temperature is increased, then
+the reaction will proceed in the reverse direction where the heat is absorbed.
+For an endothermic reaction, when the temperature is lowered, the reaction will
+proceed in the reverse direction where heat is produced so as to undo the effect of
+lowering of temperature. When the temperature is increased, the reaction proceeds in
+the forward direction.
+Effect of temperature in terms of amount of reactants and products formed can be
+summarized as:
+When the equilibrium shifts in the forward direction, then the concentration of
+products increases and that of reactants decreases.
+So for exothermic reactions when the temperature is lowered, more products are
+formed. That is, the decrease in temperature favours exothermic reactions.
+For endothermic reactions, when the temperature is increased, more products are
+formed, That is, increase in temperature favours endothermic reactions.
+For example, formation of ammonia is an exothermic process.
+N2(g) + 3H2(g) U 2NH3(g) ∆H = – 92 kJ mol–1
+If the temperature is lowered at equilibrium, the reaction will proceed in the forward
+direction till the new equilibrium is established. So the concentration of ammonia will
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+285
+increase. If the temperature is increased at equilibrium, then the reaction will proceed
+in reverse direction which is endothermic in nature. So the concentration of ammonia
+will decrease.
+Dissociation of dinitrogen tetroxide is endothermic in nature.
+N2O4(g) U 2NO2(g)
+Therefore, according to Le Chatelier’s principle, the formation of NO2
+ is favoured by
+increase in the temperature at equilibrium.
+ Experiment 5.2
+Effect of Change in Temperature on the Equilibrium Position
+Objective: Determination of the effect of changes in temperature on the position
+of equilibrium of iodine and starch.
+Apparatus: Test tubes, water bath, stands, Bunsen burner, thermometer.
+Chemicals: Iodine, starch.
+Procedure:
+1. Add a few drops of tincture of iodine to some starch solution in a test tube.
+Record your observations.
+2. Heat the solution to about 80°C using a water bath. Record your
+observation. What can we deduce from this?
+3. Cool the container by placing it in an ice box. Record your observation.
+Observations and analysis:
+1. Explain the concept of a starch-iodine complex. Is this an example of an
+equilibrium reaction?
+2. Which direction is exothermic and which is endothermic? How do you
+explain your results?
+3. What can you conclude based on your observations?
+ CHEMISTRY GRADE 11
+286
+Stand
+Figure 5.3 Laboratory set-up for the effect of changes in temperature
+on equilibrium of iodine and starch.
+Effect of Change in Pressure on the Position of Equilibrium
+According to Le Chatelier’s principle, if the pressure at equilibrium is increased then
+the reaction will proceed in that direction where the pressure is reduced. Since the
+pressure depends upon the number of moles, on increasing the pressure the reaction
+will proceed in that direction where the number of moles are reduced.
+If the pressure at equilibrium is decreased then the reaction will proceed in that
+direction where the number of moles is more.
+For a general reaction,
+aA + bB U mM + nN
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+287
+the effect of pressure is decided by ∆n.
+∆n = (m + n) – (a + b)
+If ∆n > 0, that means the total moles of products is greater than the total moles of
+reactants. Lowering of pressure will favour the reaction in forward direction. That is,
+more products will be formed at equilibrium if the pressure is lowered.
+If ∆n < 0, that means the total moles of products is less than the total moles of
+reactants. Increasing the pressure will favour the reaction in forward direction. That is,
+more products will be formed at equilibrium if the pressure is increased.
+If ∆n = 0, then the change in pressure has no effect on the position of equilibrium.
+For example, in the formation of ammonia,
+N2(g) + 3H2(g) U 2NH3(g)
+∆n = 2–(1+3) = –2
+Therefore, an increase in pressure at equilibrium will favour the forward reaction.
+For the dissociation of dinitrogen tetroxide, N2O4(g) U 2NO2(g)
+∆n = 2 – 1= 1
+The decrease in pressure at equilibrium, favours the forward reaction.
+Hydrolysis of ester is not affected by the change in pressure. Why is it so?
+Effect of Change in the Concentration on the Position of Equilibrium
+Activity 5.9
+Form a group and consider the following reaction at 400°C:
+H2
+(g) + I2
+(g) U 2HI(g)
+H2
+ and I2
+ were placed into a flask and allowed to react until equilibrium was reached. Then
+a small amount of H131 I was added. 131 I is an isotope of iodine that is radioactive. Discuss
+whether radioactive 131 I will remain in the HI molecule or some, or all, of it will find its
+way into the I2
+ molecule forming 127I131I.
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+288
+ Experiment 5.3
+At equilibrium, on increasing the amount of a substance, the reaction proceeds in that
+direction where the substance is consumed. When the amount of the reactants is
+increased the reaction proceeds in the forward direction and when the amount of
+products is increased, the reaction proceeds in the backward direction.
+The forward reaction is favoured if the products formed are removed from the vessel.
+Effect of Change in Concentration on Equilibrium Position
+Objective: To study the effect of concentration on the position of equilibrium.
+Apparatus: Test tubes (5), test tube stand, 100 mL beakers (2),
+Chemicals: 0.05 M Fe(NO3)3 solution, 0.01M KSCN solution, 0.1M HNO3
+acid.
+Procedure:
+1. Take 5 test tubes and label them as 1, 2, 3, 4 and 5. Keep them on a test
+tube rack.
+2. Take 50 mL of 0.05 M solution of Fe(NO3)3 in a beaker.
+3. In separate beakers take 10 mL of 0.01 M KSCN solution and 20 mL of
+0.1 M HNO3 acid solution.
+4. Mix the solutions according to the given table to prepare 5 different
+solutions.
+Test tube No. Volume in mL of
+0.05 M Fe(NO3)
+3 0.1 M HNO3 0.01 M KSCN
+1 1.0 4.0 1.0
+2 2.0 3.0 1.0
+3 3.0 2.0 1.0
+4 4.0 1.0 1.0
+5 5.0 0.0 1.0
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+289
+5. Note the colour of the solution in each test tube.
+6. Arrange the test tubes in the increasing order of colour intensity.
+Observations and analysis:
+1. Which direction is exothermic and which is endothermic? How do you
+explain your results?
+2. Correlate the colour intensity with the concentration of Fe3+ in the test tube.
+Hint: Fe3+ forms deep red colour complex with SCN– ions.
+Fe3+(aq) + SCN–(aq) U Fe(SCN)2+(aq)
+deep red
+3. By taking different volumes of Fe(NO3
+)
+3 in the test tubes the concentration
+of Fe3+ is varied in the solution. Calculate the concentration of Fe3+ ions in
+each test tube and correlate with the colour intensity.
+4. In the test tube take 1.0 mL of Fe(NO3)3 solution and add 4.0 mL of
+HNO3 solution followed by 1.0 mL of KSCN solution. Mix well and note
+the colour. Add 1.0 mL of Fe(NO3)
+3 solution and again note the colour of
+the solution.
+Test tubes
+Test tube
+rack
+Fe(NO )3 3 0.01 M KSCN 0.1 M HNO3
+Figure 5.4 Laboratory set-up for the effect of changes in concentration on
+equilibrium of Fe3+(aq) and SCN–(aq).
+ CHEMISTRY GRADE 11
+290
+Effect of Catalyst on the Position of Equilibrium
+Catalyst is a substance that alters the rate of a reaction without being consumed
+during the reaction. The catalyst does not effect the position of equilibrium. It alters
+the time in which the equilibrium is attained. This is due to the fact that the catalyst
+changes the rate of the forward reaction and the reverse reaction by the same extent
+so the equilibrium is not effected.
+Effect of Addition of Inert Gases on the Position of Equilibrium
+When a non reactive gas is added to a reaction at equilibrium, the effect depends on
+various factors.
+Case 1. When the non-reactive gas is added at constant volume there is no change
+on the position of equilibrium.
+Case 2. When the non-reactive gas is added and the volume of the system changes
+then the effect of position is decided by the stoichiometry of the reaction.
+For a general reaction,
+aA + bB U mM + nN
+∆n = (m + n) – (a + b)
+If ∆n < 0, then the addition of inert gas favours the formation of the reactants.
+If ∆n > 0, then the addition of inert gas favours the formation of products.
+If ∆n = 0, then the addition of inert gas has no effect on the position of equilibrium.
+Example 5.7
+For the reaction at equilibrium:
+2NaHCO3(s) U Na2CO3(s) + H2O(g) + CO2(g) ∆H°rxn = 128 kJ
+state the effects (increase, decrease, no change) of the following stresses on
+the number of moles of sodium carbonate, Na2
+CO3
+, at equilibrium in a closed
+container. Note that Na2CO3 is a solid (this is a heterogeneous equation); its
+concentration will remain constant, but its amount can change.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+291
+a Removing CO2(g) c Raising the temperature
+b Adding H2O(g) d Adding NaHCO3(s).
+Solution:
+a If the CO2 concentration is lowered, the system will react in such a way as
+to offset the change. That is, a shift to the right will replace some of the
+missing CO2. The number of moles of Na2CO3 increases.
+b Addition of H2O(g) exerts a stress on the equilibrium that is partially offset
+by a shift in the equilibrium to the left (net reverse reaction). This consumes
+Na2CO3 as well as some of the extra H2O. The number of moles of
+Na2CO3 decreases.
+c An increase in temperature will increase the Kc
+ value of an endothermic
+reaction. There is a shift to the right, and more Na2CO3 is formed.
+d The position of a heterogeneous equilibrium does not depend on the
+amount of pure solids or liquids present. The same equilibrium is reached
+whether the system contains 1 g of NaHCO3(s) or 10 g of NaHCO3. No
+shift in the equilibrium occurs. No change in the amount of Na2
+CO3 occurs.
+Optimum Conditions
+The conditions that give maximum yield of the products are known as optimum
+conditions. These conditions are decided by the enthalpy of reaction and its
+stoichiometry applying Le Chatelier’s principle.
+1. For exothermic reactions the yield of products is increased by performing the
+reaction at lower temperatures.
+2. For endothermic reactions the yield of products is increased by performing the
+reaction at higher temperatures.
+3. When ∆n > 0, the decrease in pressure favours the formation of products.
+4. When ∆n < 0, the increase in pressure favours the formation of products.
+ CHEMISTRY GRADE 11
+292
+5. Removing the products from the reaction vessel shifts the equilibrium reaction in
+the forward direction.
+5.1.5 Chemical Equilibrium and Industry
+Industrial processes are designed to give maximum possible yield of the products. The
+conditions for carrying out the reactions are based on Le Chatelier’s principle. The
+following processes illustrate the application of Le Chatelier’s principle in the industry.
+Haber Process for the Manufacture of Ammonia
+In 1909 Fritz Haber established the conditions under which nitrogen, N2(g) and
+hydrogen, H2(g), would combine to give ammonia. This process produces ammonia
+with yield of approximately 10-20%. The Haber synthesis was developed into an
+industrial process by Carl Bosch.
+The reaction between nitrogen gas and hydrogen gas to produce ammonia gas is an
+exothermic equilibrium reaction, releasing 92.4 kJ/mol of energy at 298K (25°C).
+ N2
+(g) + 3H2
+(g) heat, pressure
+catalyst YZZZZZZ ZZZZZZZXZ 2NH3
+(g) ∆H = –92 kJ mol–1 ...(1)
+According to Le Chetalier’s Principle:
+• Increasing the pressure causes the equilibrium to move in the forward
+direction resulting in a higher yield of ammonia since there are more gas
+molecules on the left hand side of the equation (4 in total) than there are on
+the right hand side of the equation (1). Increasing the pressure means the
+system adjusts to reduce the effect of the change, that is, to reduce the
+pressure by having fewer gas molecules.
+• Decreasing the temperature causes the equilibrium to move in the forward
+direction resulting in a higher yield of ammonia since the reaction is
+exothermic (releases heat). Reducing the temperature means the system will
+adjust to minimize the effect of the change, that is, it will produce more heat
+since energy is a product of the reaction, and will therefore produce more
+ammonia gas as well. However, the rate of the reaction at lower temperature
+is extremely slow, so a higher temperature must be used to speed up the
+reaction which results in a lower yield of ammonia.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+293
+The equilibrium expression for this reaction is:
+Kc = 
+2
+3
+3
+2 2
+[NH ]
+[N ][H ]
+As the temperature increases, the equilibrium constant decreases and the yield of
+ammonia decreases.
+Temperature (°C) Keq
+25 6.4 × 102
+200 4.4 × 10–1
+300 4.3 × 10–3
+400 1.6 × 10–4
+500 1.5 × 10–5
+Rate Considerations:
+• The use of catalyst such as an iron, speeds up the reaction by lowering the
+activation energy so that the N2 bonds and H2 bonds can be more readily
+broken.
+• Increased temperature means more reactant molecules have sufficient energy
+to overcome the energy barrier to reacting (activation energy) so the reaction
+is faster at higher temperatures (but the yield of ammonia is lower as
+discussed above). A temperature range of 400 – 500 °C is a compromise
+designed to achieve an acceptable yield of ammonia (10-20 %) within an
+acceptable time period.
+At 200 °C and pressure above 750 atm there is an almost 100 % conversion of
+reactants to the ammonia product. Since there are difficulties associated with
+containing larger amounts of materials at such high pressure, lower pressure of around
+200 atm are used industrially. By using a pressure of around 200 atm and a
+temperature of about 500 °C, the yield of ammonia is 10-20 %, while costs and
+safety concerns during operation of the plant are minimized.
+ CHEMISTRY GRADE 11
+294
+200°C
+300°C
+400°C
+500°C
+600°C
+700°C
+200 400 600 800 1000
+100
+80
+60
+40
+20
+0
+% ammonia
+Pressure (atm)
+Figure 5.5 Effect of pressure on percentage yield of ammonia.
+During industrial production of ammonia, the reaction never reaches equilibrium as the
+gas mixture leaving the reactor is cooled to liquefy and remove the ammonia. The
+remaining mixture of reactant gases is recycled through the reactor. The heat released
+by reaction is removed and used to heat the incoming gas mixture.
+A flow diagram for the Haber process of manufacturing ammonia is shown below:
+Haber Process-manufacture of ammonia
+Hydrogen 3H + N 2NH 22 3
+Nitrogen
+Pressure
+(200 atmospheres)
+and
+heat
+(400°C)
+Unreacted nitrogen and hydrogen recycled
+Reaction vessel
+containing iron
+catalyst
+Separation by
+cooling and
+condensing the
+ammonia
+Ammonia
+Figure 5.6 A flow scheme for Haber Process.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+295
+Contact Process for the Manufacture of Sulphuric acid
+The manufacture of sulphuric acid by contact process involves the catalytic oxidation
+of sulphur dioxide SO2 to sulphur trioxide SO3, which is a reversible reaction.
+2SO2(g) + O2(g) U 2SO3(g) ∆H = – 196 kJ mol–1
+Contact Process for Production of Sulphric Acid
+Contact process involves the following steps:
+(i) Solid sulphur, S(s), is burned in air to form sulphric dioxide gas, SO2;
+S(s) + O2(g) —→ SO2(g)
+(ii) The gases are mixed with more air then cleaned by electrostatic precipitation
+to remove any particulate matter.
+(iii) The mixture of sulphur dioxide and air is heated to 450 °C and subjected to
+a pressure of 101.3 - 202.6 kPa (1-2 atmospheres) in the presence of a
+vanadium catalyst (vanadium (V) oxide) to produce sulphur trioxide, SO3
+(g),
+with a yield of 98 %.
+2SO2(g) + O2(g) —→ 2SO3(g)
+(iv) Any unreacted gases from the above reaction are recylced back into the
+above reaction.
+(v) Sulphur trioxide, SO3(g) is dissolved in 98 % (18 M) sulphuric acid, H2SO4,
+to produce disulphuric acid or pyrosulpuric acid, also known as fuming
+sulphuric acid or oleum, H2S2O7
+.
+ SO3(g) + H2SO4 —→ H2S2O7
+This is done because when water is added directly to sulphur trioxide to
+produce sulphuric acid,
+ SO3(g) + H2O(l) —→ H2SO4(l)
+the reaction is slow and tends to form a mist in which the reaction becomes
+very slow.
+(vi) Water is added to the disulphuric acid, H2S2O7, to produce sulphuric acid,
+H2SO4.
+H2S2O7(l) + H2O(l) —→ 2H2SO4(l)
+The oxidation of sulphur dioxide to sulphur trioxide in step (iii) above is an
+exothermic reaction (energy is released), so according to Le Chatelier’s Principle,
+ CHEMISTRY GRADE 11
+296
+higher temperatures will force the equilibrium position to shift to the left hand side of
+the equation favouring the production of sulphur dioxide. Lower temperatures would
+favour the production of the product sulphur trioxide and result in a higher yield.
+However, the rate of reaching equilibrium at the lower temperatures is extremely low.
+A higher temperature means equilibrium is established more rapidly but the yield of
+sulphur trioxide is lower. The temperature about 450°C is a compromising situation
+whereby a faster reaction rate results in a slightly lower yield.
+Similarly, at higher pressures, the equilibrium position shifts to the equation in which
+there are the least numbers of gaseous molecules.
+2SO2(g) + O2(g) —→ 2SO3
+On the left hand side of the reaction there are 3 moles of gaseous reactants, and the
+right hand side are 2 moles of gaseous products, so higher pressure favours the right
+hand side, by Le Chatelier’s Principle. Higher pressure results in a higher yield of
+sulphur trioxide. A vanadium catalyst (vanadium (V) oxide) is also used in this reaction
+to speed up the rate of the reaction.
+Combustion
+Chamber Converter Absorption Tower Hydration of
+Oleum
+(combustion of sulphur) (formation of sulphur
+dioxide)
+(sulphur trioxide absorbed
+into the sulphuric acid mist)
+(to produce sulphuric acid)
+Figure 5.7 A flow scheme for Contact process.
+Exercise 5.7
+Answers the following questions:
+1. Which compound is manufactured by Haber process?
+2. What are the raw materials used in Haber process?
+3. What is the role of iron in Haber process?
+4. How are the reactions made to run faster in the Haber process?
+5. Draw a flow chart to show what happens in the three stages of Haber process.
+6. What is a mixture of H2SO4 and free SO3?
+7. What are the raw materials for making SO2 in the contact process?
+8. Why is SO3 not directly added to make sulphuric acid?
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+297
+Activity 5.10
+5.2 PHASE EQUILIBRIUM
+At the end of this section, you should be able to:
+• explain the interplay between kinetic and potential energy that underlies the
+properties of the three states of matter and their phase changes;
+• explain the process involved, both within a phase and through a phase change,
+when heat is added or removed from a pure substance;
+• explain the meaning of vapour pressure and explain how phase changes are
+dynamic equilibrium processes;
+• explain the relationship between vapour pressure and boiling point;
+• describe how a phase diagram shows a phase of a substance at different
+conditions of pressure and temperature; and
+• use a phase diagram to determine melting point, boiling point, critical
+temperature, critical pressure and triple point of a substance.
+There are many physical processes that attain equilibrium under certain conditions.
+You have already performed an activity where equilibrium exists between ice and
+water. You also know that there are three states of matter, namely, solid, liquid and
+gas. Each substance can exist in any one state depending upon the temperature and
+pressure. A substance will exist in the gaseous state at high temperatures and low
+pressures. It will exist in solid state at low temperature and high pressure. In between
+the two conditions the substance will exist in the liquid state. These conditions are
+decided by the nature of the substance. At molecular level this can be interpreted in
+terms of forces of attraction and repulsion between the molecules.
+5.2.1 Force of Attractions, Kinetic Energy and States of Matter
+Form a group and perform the following activity:
+In a test tube mix 1 mL of water with 1 mL of ethanol. Label it as A.
+In another test tube take 1 mL of water and 1 mL of chloroform. Label it as B.
+Discuss the following questions:
+1. Find out in how many states the matter is present in test tubes A and B?
+2. What is the difference between the liquids in the test tubes?
+Share your ideas with the rest of the class.
+ CHEMISTRY GRADE 11
+298
+In a substance the molecules are held together by the forces of attraction. At the same
+time each molecule possesses kinetic energy due to its motion. These two are
+opposing forces; forces of attraction bind the molecules together while kinetic energy
+tends to move the molecules apart.
+• At very high temperatures, the molecules possess large kinetic energy, so
+kinetic energy >> forces of attraction
+As a result, molecules are far apart, the substance does not have definite shape or
+volume. This state is known as gaseous state.
+• At very low temperatures, the molecules possess small kinetic energy, so
+kinetic energy << forces of attraction
+As a result, the molecules are held together strongly and the substance has definite
+shape and volume. This state is known as solid state.
+• At intermediate temperatures the kinetic energy and forces of attraction match
+each other, that is,
+kinetic energy ≈ forces of attraction
+As a result, the molecules are held together, but not strongly, so that the substance has
+a definite volume but no definite shape. This state is known as liquid state.
+5.2.2 Common terms: Phase, Component and Degree of
+Freedom
+Phase: It is that part of the system which is physically and chemically homogeneous
+and separated from rest of the system by a discrete boundary. In this part the physical
+and chemical properties are uniform.
+For some simple systems it is physically distinct part of the system that may be
+mechanically separated from other distinct parts.
+The number of phases is represented by P. For example, a mixture of water and
+chloroform has two distinct layers, one of water and the other of chloroform
+(Activity 5.5). Therefore, there are two different phases although both are in the
+liquid state. Similarly, a mixture of two solids constitutes two different phases
+(Activity 5.6).
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+299
+The simple rules for determining the number of phases are.
+• Pure substance present in one state of matter constitutes one phase.
+• Same substance present in different states of matter constitutes different
+phases. For example, ice and water are two different phases of H2O.
+• A mixture of gases constitutes one phase system.
+• A homogeneous solution is a one phase system.
+• For immiscible liquids, the number of layers formed is equal to the number of
+phases.
+• For solids, each chemical species is a different phase. Different allotropic
+forms of the same substance constitute different phases. For example,
+diamond and graphite are different forms of carbon so they are different
+phases.
+Component: It is the chemically distinct quantity present in the system. The number of
+components in a system is represented by C. When no chemical reaction takes place
+in the system, the number of components is equal to the total number of chemical
+species present in all the phases of the system. For example, an aqueous solution of
+sodium chloride has two components, NaCl and water.
+Degree of Freedom: It is the minimum number of variables required to describe each
+component in each phase of the system. It is represented by F. In the case of a pure
+substance present in one phase, the substance can be described completely if its
+temperature and pressure are known. For example, if you have H2O and you also
+know its temperature and pressure, then you can predict all the properties, such as,
+whether it is in the solid, liquid or vapour state, as well as its density, refractive index,
+viscosity and other properties. Since only temperature and pressure are required to
+describe a pure substance, the degree of freedom of pure substance is 2.
+Similarly, H2O can coexist as ice and liquid water under specific conditions of
+temperature and pressures only. If the temperature is known then the pressure is fixed,
+similarly if the pressure is known the temperature is fixed. Since only one variable is
+required to completely describe a pure substance simultaneously present in two
+phases, its degree of freedom is two.
+All the three states of matter of a substance coexist (present together) at a point
+known as triple point. The triple point has a fixed value of temperature and pressure
+and no variable is required to describe the system, so the degree of freedom is zero.
+ CHEMISTRY GRADE 11
+300
+Example 5.8
+1. Describe the number of phases present in the following systems:
+a Solution of sodium chloride in water.
+b A mixture of oil and water.
+c A mixture of hydrogen, oxygen and methane gases.
+d A mixture of powdered sodium chloride and potassium chloride.
+e Ice floating on water.
+Solution:
+a P = 1 since the solution is homogeneous.
+b P = 2 since oil and water are immiscible and they form two layers.
+c P = 1 since a mixture of gases is a homogeneous mixture.
+d P = 2 since NaCl and KCl are two different chemical species present in
+the solid state.
+e P = 2 since pure substance is present in two different states of matter.
+2. Describe the number of components present in the following systems:
+a Solution of sodium chloride in water.
+b A mixture of hydrogen, oxygen and methane gases.
+c Ice floating on water.
+Solution:
+a C = 2 since two chemical species are present.
+b C = 3 since three chemical species, namely, hydrogen, oxygen and methane
+gas are present.
+c C = 1 since only one chemical substance, H2O is present.
+Exercise 5.8
+Determine the number of phases and components that exist in each of the
+following systems:
+a NH4Cl solid is placed in an evacuated chamber. After a while, some ammonia
+and HCl appear in the gas phase above it.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+301
+b COCl2, CO and Cl2 at equilibrium with no excess of CO or Cl2.
+c COCl2, CO and Cl2 at equilibrium with excess of CO added (i.e., the
+concentrations of CO and Cl2 are unequal).
+5.2.3 Phase Rule
+It is an important equation in the study of equilibrium between different phases in a
+system. It relates the number of phases and components to the degree of freedom by
+the following equation:
+F = C – P + 2
+This equation was given by Josiah William Gibbs, hence it is known as Gibbs Phase
+rule equation. This shows that the number of degrees of freedom (F) is equal to the
+number of components (C) minus the number of phases (P) plus the constant 2. The
+factor 2 stands for two parameters, namely, temperature and pressure.
+Let us calculate the degree of freedom for one component system (C = 1). A simple
+example of one component is a pure substance. At a given time the pure substance
+can exist in one phase or more than one phases present together in equilibrium. The
+degree of freedom for various values of phases (1 – 4) can be calculated using the
+Phase rule equation.
+For P = 1,
+F = 1 – 1 + 2 = 2; such a system is known as bivariant system.
+For P = 2,
+F = 1 – 2 + 2 = 1; such a system is known as monovariant system.
+For P = 3,
+ F = 1 – 3 + 2 = 0; such a system is known as invariant system.
+For P = 4,
+F = 1 – 4 + 2 = – 1. This system is not possible as the degree of freedom
+can not be negative.
+From this we can conclude that for one component system, at a given time, maximum
+of three phases can coexist in equilibrium.
+ CHEMISTRY GRADE 11
+302
+Activity 5.11
+5.2.4 Temperature, Pressure and Phase Changes of Pure
+Substance
+In this section, we will study how the phase of a pure substance changes when it is
+heated or cooled. The change in temperature may also be accompanied by the change
+in the pressure of system.
+Changes Involved During Heating of the Pure Substance (one
+Component System)
+When a pure substance is heated it undergoes various physical changes. These
+changes depend upon initial pressure at which the heating starts.
+Josiah Willard Gibbs (1839 – 1903) was an American theoretical
+physicist, chemist and mathematician. He devised much of the
+theoretical foundation for both chemical thermodynamics and
+physical chemistry. He proposed Gibbs' phase rule, in the 1870s.
+Josiah Willard Gibbs
+Historical Note
+Form a group and perform the following activity:
+Take 10 ice cubes in a beaker, dip a thermometer in it and start heating. Note the
+temperature and the physical changes taking place in the system.
+Discuss the following questions in the group and afterwards share your ideas with rest of
+the class.
+1. What happens when ice is heated?
+2. Does the temperature change when the ice is melting?
+3. How does the temperature vary when the ice has melted completely?
+4. What will happen if water formed is further heated?
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+303
+Reason for the Change in Phase on Heating
+When a substance in the solid state is heated, the kinetic energy of its molecules
+increases and they start moving. At a higher temperature, the kinetic energy of the
+molecules becomes equal to the intermolecular forces of attraction, so these
+intermolecular forces start breaking and the liquid is formed. This temperature is
+known as melting point. On further heating the kinetic energy of the molecules goes on
+increasing and ultimately becomes much greater than the forces of attraction between
+the molecules. The molecules are able to overcome the forces of attraction and they
+start moving randomly. This is the stage when the substance gets converted into
+vapours.
+Vapour Pressure and Boiling Point
+When a liquid is taken in an evacuated closed vessel, some molecules at the surface
+of the liquid escape to the vapour phase. This happens when the kinetic energy of the
+surface molecules becomes greater than the intermolecular forces of attraction. This
+process is known as vapourization. As a result, the pressure inside the vessel starts
+increasing. When more and more molecules go from the liquid state to the vapour
+state, some molecules present in the vapour phase near the surface of the liquid go
+back to the liquid state. This process is known as condensation. The rate of
+condensation increases as more and more molecules go into the vapour phase. A
+stage comes when the rate of vapourzation becomes equal to the rate of condensation
+and dynamic equilibrium is attained. (Refer to Activity 5.3). The pressure exerted by
+the vapours at this stage is known as the vapour pressure of the liquid.
+Vapour pressure is defined as the pressure exerted by the vapours in equilibrium with
+the liquid at a specific temperature.
+As the temperature is increased, the kinetic energy of the molecules increases, so
+more molecules go from liquid phase to the vapour phase. As a result the total vapour
+pressure increases with the increase in temperature. When the vapour pressure
+becomes equal to the external pressure the liquid starts boiling. The temperature at
+which the vapour pressure of the liquid becomes equal to its external pressure is
+known as boiling point of the liquid. When the external pressure is equal to 1 atm, the
+boiling point is known as normal boiling point.
+ CHEMISTRY GRADE 11
+304
+Exercise 5.9
+Calculate the degree of freedom, F for each of the following:
+1. An equilibrium gas phase containing N2O4 and NO2.
+2. Phosgene, CO and Cl2 (with CO and Cl2 derived from decomposition
+exclusively).
+3. Phosgene, CO and Cl2, with excess CO added.
+4. NH4Cl, initially in an evacuated chamber, with NH3 and HCl present from
+decomposition.
+5. Water, water vapor and ice in equilibrium.
+5.2.5 Phase diagram
+A Phase diagram is defined as a graphical representation the conditions when two or
+more phases (such as vapor-liquid, liquid-solid) of a system can exist in equilibrium.
+Phase Diagram for one Component System
+As we know one component system has only one chemical species (pure substance)
+and it can be described if the temperature and pressure of the system are known.
+Under specific conditions of temperature and pressure, the system can exist in one
+phase or two or three phases may be present in equilibrium. Phase diagram for a one
+component system is a graph which shows the variation of pressure of the system with
+temperature. It gives complete information about the conditions under which the
+different phases of the system are stable. It also gives the information about the
+temperature and pressure when the system changes from one phase to another phase.
+Temperature
+Solid
+Liquid
+Vapours
+Pressure
+Fig. 5.8 Sketch of phase diagram of one component system.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+305
+Characteristics of a Phase Diagram for Pure Substance
+• Temperature is plotted on x-axis and pressure on y-axis.
+• The different regions of the graph represent different phases in which the
+substance can exist.
+• A substance exists in solid state at low temperatures and high pressures. So the
+high pressure and low temperature region in the graph represents solid.
+• A substance exists in vapour phase at high temperatures and low pressures, so
+this area in the graph represents vapour.
+• The remaining area between the two regions represents liquid phase.
+• The boundary between the phases is represented by a line. This line is obtained
+by joining the transition temperature between the two phases at different
+pressures. For example, the boundary between the solid and liquid phase
+represents points when solid changes to liquid or vice-versa. That is, it is the
+melting point temperatures at different pressures, so it is known as melting point
+curve. A boundary between liquid and vapour phase is known as vapourization
+curve. The solid and vapour phases are separated by sublimation curve.
+• On transition line two phases are at equilibrium. For example, on melting line
+(OB) solid and liquid are in dynamic equilibrium. On boiling line (OC) liquid
+and its vapours are at equilibrium and at sublimation temperature, solid is in
+equilibrium with its vapours.
+• The boundary line between two phases represents the two phase equilibria.
+• The slope of the transition curves depends upon the nature of variation of
+transition temperature with pressure.
+• A triple point represents three phases at equilibrium, i.e., at triple point all three
+phases coexist.
+ CHEMISTRY GRADE 11
+306
+Phase Diagram of Pure Water
+218 atm C
+0.006 atm
+A
+Water Vapour
+0.01°C 374°C
+Temperature (°C)
+Solid water L water iquid
+(ice)
+Pressure (atm)
+Critical
+temperatue
+Triple point
+Critical
+pressure
+Critical
+point
+B
+1 atm
+0°C 100°C
+O
+Fig. 5.9 Phase diagram of pure water.
+The phase diagram for water shows three regions, namely, ice, liquid water and water
+vapour (Figure 5.6). Water is present in the form of ice at low temperatures and high
+pressures. So ice is represented by the region on the left of AOB. Water vapour is
+present at high temperatures and low pressures. So the region below AOC represents
+water vapour. Liquid water is present in the intermediate conditions. Therefore, it is
+represented by the region between BOC.
+Curve AO is the boundary between ice and water vapour. On one side of the curve
+is the region representing ice; on the other side is the region representing water
+vapours. Along this curve, ice and vapours are present together at equilibrium, so it is
+known as sublimation curve. It gives the sublimation temperature of ice at different
+pressures. The slope of the curve is positive indicating that as the pressure increases,
+the sublimation temperature of ice also increases.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+307
+Curve OB represents the boundary between ice and liquid water. Along this curve
+water and ice exist in equilibrium, therefore it is known as fusion or melting curve. It
+represents the variation of melting point of ice at different temperatures. The slope of
+the curve is negative indicating that as the pressure is increasing the melting point of
+ice is decreasing.
+Curve OC represents the boundary between water vapour and liquid water, therefore
+it is known as vapourization curve. It represents the variation of boiling point of water
+at different temperatures. The slope of the curve is positive indicating that as the
+pressure is increasing the boiling point of water is also increasing. This behaviour of
+decrease in melting point with increasing pressure is not common in the case of other
+substances. This special property is known as the anomalous behaviour of water.
+At point O, ice, water and water vapour regions meet, so this point represents the
+triple point of water where all the three phases of water are at equilibrium. The
+temperature and pressure at triple point are 0.01°C and 0.006 atm respectively.
+Point C represents critical point. At this temperature and pressure the meniscus
+between the liquid and the vapours disappears. Critical temperature is the maximum
+temperature at which the substance can exist in liquid state. The minimum pressure
+required to liquefy the vapours at critical temperature is known as critical pressure.
+For water the critical point lies at 374°C and 218 atm.
+Exercise 5.10
+Consider the phase diagram of pure water (Figure 5.9) and answer the following
+questions:
+1. Under a pressure of 1 atmosphere, what is the maximum temperature at which
+the water can exist in liquid phase?
+2. What will happen to ice if it is compressed at 0°C?
+3. What is the point at which ice, liquid water and water vapour can coexist at
+equilibrium? Calculate the degree of freedom at this point.
+4. The triple point of CO2 is 518 kPa at – 56.6°C. Its critical point lies at 7.38
+MPa at 31.1°C. The sublimation curve, fusion curve and vapourization curve
+have positive slope. Sketch the phase diagram of CO2 and label it.
+ CHEMISTRY GRADE 11
+308
+Applications of Phase Diagram
+1. The phase diagram can be used to determine the phase of the system under the
+given conditions of temperature and pressure.
+2. It can be used to determine the melting point, boiling point and sublimation
+temperature at different pressures.
+3. Triple point and critical point can be determined from the phase diagram.
+4. The changes taking place in a substance when it is heated at constant pressure
+can be predicted with the help of phase diagram.
+5. The changes taking place in a substance when it is compressed at constant
+temperature can be predicted by phase diagram.
+Unit Summary
+• A system is said to be at equilibrium when its macroscopic properties like
+temperature, pressure, concentration and energy do not change with time
+without any outside help.
+• The equilibrium is dynamic in nature which means that although the
+macroscopic properties do not change, the processes do not stop at
+molecular level.
+• Chemical equilibrium is the state of the reaction when the macroscopic
+properties like temperature, pressure, volume and concentration of the
+reaction do not change with time.
+• According to the law of mass action the rate at which A and B combine
+is directly proportional to the product of their concentration terms each
+raised to the power of its respected coefficient in the balanced chemical
+reaction.
+• For a general reaction at equilibrium a A + bB U mM + nN the
+expression for Kc
+ is
+m n
+c a b
+[M] [N] = [A] [B]
+K
+• The expression for Kp
+ is
+m n M N
+p a b
+A B
+[ ][ ]
+[ ][ ] = p p K
+p p
+provided that all A, B, M and N are in gaseous state.
+CHEMICAL EQUILIBRIUM AND PHASE EQUILIBRIUM
+309
+• The unit of Kc
+ is (mol L–1)(m+n)–(a+b) and the unit of Kp is (atm)(m+n)–(a+b)
+• K
+p
+ = Kc
+(RT)∆n
+• When Kc
+ > 1 the formation of products is favoured at equilibrium.
+• When Kc < 1, So the formation of products is not favoured at
+equilibrium.
+• When Kc
+ = 1, it indicates that the reactants and the products are present
+in equal amounts.
+• Reaction quotient is the ratio of concentrations of products to the
+concentrations of reactants raised to the power of their respective
+coefficients at any stage after the start of the reaction.
+• For the reaction, a A + bB U mM + nN the expression for the reaction
+quotient is
+•
+m n
+a b
+[M] [N] = [A] [B] Q
+• When Q < K, then the reaction will proceed in the forward direction and
+more products will be formed till the equilibrium is reached.
+• When Q > K, then the reaction will proceed in the reverse direction and
+more reactants will be formed till the equilibrium is reached.
+• When Q = K, then the reaction has attained equilibrium.
+• Le Chatelier’s principle gives the effect of any one or more of the
+reaction parameters namely, temperature, pressure or concentration on
+equilibrium.
+• For exothermic reactions the yield of products is increased by performing
+the reaction at lower temperatures.
+• For endothermic reactions the yield of products is increased by
+performing the reaction at higher temperatures.
+• When ∆n > 0 the decrease in pressure favours the formation of products.
+• When ∆n < 0 the increase in pressure favours the formation of products.
+ CHEMISTRY GRADE 11
+310
+• Removing the products from the reaction vessel shifts the reaction in the
+forward direction.
+• Phase (P) is that part of the system which is physically and chemically
+homogeneous and separated from rest of the system by a discrete
+boundary.
+• Component (C) is the chemically distinct quantity present in the system.
+• Degree of freedom (F) is the minimum number of variables required to
+describe each component in each phase of the system.
+• Gibbs Phase rule equation: F = C – P + 2.
+• Vapour pressure is defined as the pressure exerted by vapours in
+equilibrium with the liquid at a given temperature.
+• The temperature at which the vapour pressure of the liquid becomes
+equal to its external pressure is known as boiling point of the liquid.
+• Phase diagram for a one component system is a graph which shows the
+variation of pressure with temperature. It gives the transition temperature
+between various phases

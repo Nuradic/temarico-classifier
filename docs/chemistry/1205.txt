@@ -1,0 +1,1175 @@
+There are 113 elements known at present. 92 elements occur in nature, while the rest
+are man-made. All the materials on the earth are made of the naturally occurring
+elements. The elements are classified as metals, non-metals and metalloids.
+A solid substance that occurs naturally in the earth's crust is called mineral. All
+minerals are not suitable for the extraction of elements. Minerals from which elements
+can be extracted easily and economically are called ores. Thus, all ores are minerals,
+but all minerals are not ores, because a mineral may not contain sufficient percentage
+of an element for economic extraction. In economic extraction, the cost of obtaining
+the element out of the ore is significantly less than the amount of money to be made
+by selling the element.
+ CHEMISTRY GRADE 12
+222
+5.1.1 Occurrence of Elements
+Try to find out:
+a various gaseous elements around you;
+b different metallic elements in your home and school;
+c physical states in which the elements exist; and
+d different non-metallic elements present in your body.
+Make a list of metallic elements which you come across in your daily life, and discuss their
+importance with your friends.
+Are all elements found free in nature?
+The twelve most abundant elements that constitute 99.7% by mass of the earth's crust
+are, in decreasing order of abundance: oxygen (O), silicon (Si), aluminium (Al), iron
+(Fe), calcium (Ca), magnesium (Mg), sodium (Na), potassium (K), titanium (Ti),
+hydrogen (H), phosphorous (P), and manganese (Mn).
+•
+•
+•
+Oxygen (45.5%)
+Silicon (27.2%)
+•
+•
+Aluminium (8.3%)
+Iron (6.2%)
+Calcium (4.7%)
+• All others (5.3%)
+Figure 5.1 Abundance of elements in the Earth's crust.
+The earth’s atmosphere contains mainly nitrogen (78%), oxygen (21%), argon, carbon
+dioxide, and other trace gases.
+Activity 5.1
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+223
+Very few elements exist in the free or native state. The most unreactive metals, i.e.,
+those that are not affected by air and water, such as silver, gold, platinum, palladium,
+ruthenium and osmium, are generally found in the native state. Most metals, however,
+occur in combined form as compounds such as oxides, carbonates, sulphides,
+sulphates, silicates, chlorides, nitrates and phosphates etc. A variety of physical and
+chemical methods can be applied to separate the pure forms of elements from their
+ores. However, the financial cost of mining, separating and purifying an element is the
+major consideration before a process is chosen for implementation.
+Metals at the top of the reactivity series (K, Na, Ca, Mg, and Al) are so reactive that
+they are never found in nature as free elements. The metals in the middle of the
+reactivity series (Zn, Fe, Sn, and Pb) are moderately reactive and also exist in the
+combined state. Copper and silver are the two metals that occur in free as well as in
+combined states, such as as sulphide, oxide or halide ores.
+Table 5.1 Reactivity series of elements (the most reactive is at the top and
+the least reactive is at the bottom).
+Elements Symbol
+Potassium K
+Sodium Na
+Lithium Li
+Calcium Ca
+Magnesium Mg
+Aluminium Al
+Carbon C
+Zinc Zn
+Iron Fe
+Tin Sn
+Lead Pb
+Hydrogen H
+Copper Cu
+Silver Ag
+Gold Au
+Platinum Pt
+ CHEMISTRY GRADE 12
+224
+Table 5.2 Main type of minerals.
+Type Minerals
+Uncombined metals Ag, Au, Cu, Pd, Pt, Ru, Os
+Carbonates BaCO3 (witherite), CaCO3
+(calcite, limestone), MgCO3
+(magnesite), CaCO3.MgCO3
+(dolomite),
+Halides CaF2 (fluorite), NaCl (halite),
+KCl (sylvine or silvite),
+Na3AlF6 (cryolite)
+Oxides Al2O3.2H2O (bauxite), Al2O3
+(corundum), Fe2O3 (hematite),
+Fe3O4 (magnetite), Cu2O
+(cuprite), SnO2 (Cassiterite),
+TiO2 (rutile), ZnO (zincite).
+Phosphates Ca3(PO4)
+2 (phosphate rock),
+Ca5(PO4)
+3OH (hydroxylapatite)
+Sulphides Ag2S (argentite), CdS
+(greenockite), Cu2S
+(chalcocite), FeS2 (pyrites),
+HgS(cinnaber), PbS (galena),
+ZnS (sphalerite)
+Sulphates BaSO4 (barite), CaSO4
+(anhydrite), PbSO4 (anglesite),
+CaSO4 . 2H2O (gypsum),
+MgSO4 . 7H2O (epsomite)
+Exercise 5.1
+1. Explain why some elements exist free in nature while others exist in the form of
+compounds.
+2. List, in order, the six most abundant elements in the earth’s crust and classify
+them as metals, non-metals and metalloids.
+3. What is the distinction between a mineral and an ore?
+4. Write the names of the minerals containing:
+a PbS e Fe2O3
+b FeS2 d HgS
+c MgSO4.7H2O f CaCO3.MgCO3
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+225
+5.1.2 The Recycling of Elements in Nature
+How do elements recycle in nature?
+Living organisms interact with the environment. The key part of this interaction is the
+cycling of nutrients in the ecosystem.
+An ecosystem consists of all organisms living in a community as well as the abiotic
+(non-living) factors with which they interact.
+Nutrients provide substances to organisms that help them to grow, but nutrients can
+be very limited in the environment. It is through this exchange of necessary elements
+between the living and non-living world that sustains life. The major cycles that you
+will study are the carbon cycle, nitrogen cycle and phosphorus cycle. Note that the
+law of conservation of mass is obeyed in the recycling of substances.
+Form a group, and discuss the following question. After the discussion, share your ideas
+with your classmates.
+ What are the impacts of afforestation, deforestation and the building of large numbers of
+cement factories, on global warming?
+1. The Carbon Cycle
+The Earth’s atmosphere contains 0.035% carbon dioxide (CO2), and the biological
+environment depends upon plants to convert carbon dioxide into sugars, proteins and
+fats.
+As shown in Figure 5.2, green plants convert atmospheric carbon dioxide and water
+into glucose and oxygen in a process called photosynthesis.
+6CO2(g) + 6H2O(l) → C6H12O6 (aq) + 6O2(g); ∆H = +2803 kJ mol–1
+Photosynthesis is an endothermic reaction. Solar energy from the sun provides the
+necessary energy for the above reaction to proceed.
+Animals (including humans) eat plants, or eat other animals that have eaten plants, and
+incorporate the plants’ carbon atoms into their cells.
+Carbon returns to the physical environment in a number of ways. Both plants and
+animals respire, and they release carbon dioxide during respiration.
+C6H12O6(aq) + 6O2(g) → 6CO2(g) + 6H2O(l); ∆H = –2803 kJ mol–1
+Activity 5.2
+ CHEMISTRY GRADE 12
+226
+Respiration is an exothermic reaction, releasing 2803 kJ/mol of energy.
+The process of decomposition of organic matter also releases carbon dioxide back
+into the atmosphere.
+Over a very long period of time, dead organisms under high pressure and in the
+absence of air can be converted into fossil fuels such as coal, oil and gas. Humans
+combust these fossil fuels as energy sources which releases carbon dioxide back into
+the atmosphere. The complete combustion of coal, oil, or natural gas results in the
+formation of carbon dioxide gas:
+C(s) + O2(g) → CO2(g)
+The combustion of fossil fuels is exothermic, and therefore, releases energy in the form
+of heat.
+According to law of conservation of mass, the total number of carbon atoms (in the
+atmosphere) is always constant; but there is a growing concern over the amount of
+carbon that exists as carbon dioxide, because carbon dioxide is a greenhouse gas and
+is a major contributor to global warming.
+Food
+CO (aq) in oceans 2
+carbon in shells
+and limestone
+Atmospheric Carbon Dioxide
+Combustion of
+fossil fuels
+Glucose in
+green plants
+Photosynthesis
+Fossil Fuels
+oil, coal & gas
+High pressure
+Decaying plants
+and animals no air
+Respiration
+Figure 5.2 Carbon cycle.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+227
+Exercise 5.2
+1. a Discuss how green plants and animals incorporate carbon atoms from
+atmospheric carbon dioxide gas.
+b Describe how carbon returns to the atmosphere.
+2. One of the possible consequences of global warming is an increase in the
+temperature of ocean water. The oceans serve as a “sink” for CO2 by
+dissolving a large amount of the substance. How would the solubility of CO2
+in the oceans be affected by an increase in the temperature of water?
+In your group, discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. Why are fertilisers like urea and diammonium monohydrogen phosphate extensively
+used in agriculture?
+2. What role do the nitrogen-fixing bacteria play in legumes in the nitrogen cycle?
+2. The Nitrogen Cycle
+Proteins and nucleic acids contain nitrogen, so nitrogen is a very important atom in
+biological organisms. Nitrogen makes up 78% of the earth’s atmosphere, but most
+organisms cannot use nitrogen (N2). This is because the N≡N triple bond has large
+dissociation energy (945 kJ mol–1), and N2 is quite inert.
+Nitrogen fixation refers to the conversion of nitrogen gas into nitrogen compounds.
+Natural fixation reactions can be initiated by lightning, which breaks nitrogen molecules
+and enables their atoms to combine with oxygen in the air, forming nitrogen oxides.
+These compounds are then washed into the soil by rain.
+Bacteria found in nodules in the roots of leguminous plants, such as beans, lentils, and
+peas, can convert atmospheric nitrogen gas into nitrates (NO3
+– ), which plants use to
+make plant proteins. Generally, soluble nitrogen compounds in the soil can be taken
+up by plants to make plant proteins.
+Animals eat plants and convert plant proteins into animal proteins. Animals excrete
+nitrogenous wastes, partially as urea or uric acid, which is returned to the soil.
+Activity 5.3
+ CHEMISTRY GRADE 12
+228
+Industrial chemical processes involving the fixation of atmospheric nitrogen include the
+Haber’s process for the manufacture of ammonia, and the formation of calcium
+cyanamide, which involves the use of high temperatures and pressures. Bacteria can
+fix atmospheric nitrogen easily at room temperature and atmospheric pressure, yet
+man requires expensive industrial plants with high temperatures and pressures to do
+the same thing.
+Once atmospheric nitrogen is fixed by chemical industries, it can be converted to
+nitrogen-containing fertilisers, which can be used by plants for their metabolism.
+When plants and animals die, specialized decomposing bacteria will start to convert
+them back into ammonia and water-soluble ammonium salts. After the nutrients are
+converted back into ammonia, anaerobic bacteria will convert it back into nitrogen
+gas. This process is known as denitrification.
+Nitrite
+ions
+Remains of dead
+plants and animals
+Nitrifying
+bacteria
+Ammonium
+ions
+Nitrate
+ions
+Leached to
+ground water
+Nitrifying
+bacteria
+Nitrogen fixation
+by vehicles
+NO
+Nitrogen fixation
+bacteria in root nodules
+Plant use nitrates and
+ammonium ions in soil
+to make amino acids
+Animals eat plants
+Nitrogen fixation by
+fertilizer factoty
+Nitrogen fixation
+by lightning
+NO
+NO2
+Atmospheric Nitrogen
+Figure 5.3 Nitrogen cycle.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+229
+Exercise 5.3
+1. For what purpose do plants and animals need nitrogen?
+2. Why is atmospheric nitrogen less reactive?
+3. What is the difference between nitrogen fixation and denitrification? Use examples
+to explain your answer.
+4. How is nitrogen fixed naturally and synthetically?
+3. The Phosphorus Cycle
+The phosphorus cycle differs from the nitrogen and carbon cycles primarily in that
+phosphorus is not found in the atmosphere in the gaseous state.
+Phosphorus is mainly found in water, soil and sediments. It is an essential nutrient for
+plants and animals in the form of PO4
+3– and HPO4
+2 – ions. It is part of DNA (deoxyribo
+nucleic acid) molecules, molecules that store energy-rich ATP (adenosine triphosphate)
+and fats of cell membranes. Phosphorus is a building block of certain parts of the human
+and animal body, such as bones and teeth.
+Phosphate salts are released when phosphate rocks are eroded by rainfall, weathering
+and runoff. The release of phosphate salts into the soil results in a constant phosphorus
+supply for plants. Phosphate salts are absorbed through the roots of plants and are used
+to make organic compounds. Animals absorb phosphates by eating plants or planteating animals. When plants and animals die, they decompose and return phosphorus
+into the soil or water and complete the cycle.
+In comparison to the nitrogen and carbon cycles, the rate at which phosphate salts are
+released is extremely slow. Phosphorus can remain in rocks or sediments for millions of
+years. As a result, the need of phosphate salts for plant growth outweighs the amount
+of phosphate salts being released. To alleviate the phosphate demand, the addition of
+phosphate fertilisers has been devised by humans to maintain and increase crop
+production.
+ CHEMISTRY GRADE 12
+230
+3 Plants 4 Animals
+1 Weathering
+phosphate
+from rocks
+2 Phosphate Phosphate in soil in soil
+5 Phosphorus as
+a waste products
+Phosphorus as
+a waste products
+Figure 5.4 Phosphorus cycle.
+Exercise 5.4
+1. What are the effects of using phosphate fertilisers on the environment?
+2. What makes the phosphorus cycle different from the carbon and nitrogen
+cycles?
+3. What are the major uses of phosphorus in living organism?
+5.2 Some Elements in Industry
+After completing this subunit, you will be able to:
+• define metallurgy;
+• explain the major steps in metallurgical processes;
+• describe the manufacture of sodium by Down’s cells;
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+231
+• explain the chemical properties of sodium;
+• describe the uses of sodium;
+• describe the manufacture of calcium;
+• explain the chemical properties of calcium;
+• describe the uses of calcium;
+• describe the manufacture of tin;
+• explain the chemical properties of tin;
+• describe the uses of tin;
+• describe the manufacture of lead;
+• explain the chemical properties of lead;
+• describe the uses of lead;
+• describe the manufacture of zinc;
+• explain the chemical properties of zinc;
+• describe the uses of zinc;
+• describe the manufacture of chromium;
+• explain the chemical properties of chromium;
+• describe the uses of chromium;
+• describe the production of silicon;
+• explain the chemical properties of silicon;
+• describe the uses of silicon;
+• explain the steps in the Haber process in the industrial production of ammonia
+and describe the uses of ammonia;
+• explain the steps in the Ostwald’s process in the industrial production of nitric
+acid and describe the uses of nitric acid;
+• explain the steps in the Contact process in the industrial production of sulphuric
+acid and describe the uses of sulphuric acid; and
+• explain the steps in the industrial production of diammonium monohydrogen
+phosphate and describe its uses.
+ CHEMISTRY GRADE 12
+232
+Discuss each of the following questions in your group; after the discussion, share your
+ideas with the rest of the class.
+1. How are metals extracted from their ores?
+2. What property determines the application of chemical or electrolytic reduction?
+3. Why are some elements extracted by electrolysis and others by chemical reduction?
+Give examples for each type.
+5.2.1 Metallurgy
+Metallurgy is the science and technology of extracting metals from their natural
+sources and preparing them for practical use.
+The principal steps that are carried out to obtain a metal from its ore are:
+concentrating the ore, pre-treatment, extracting the metal and refining (purifying) the
+crude metal.
+1. Concentrating the Ore
+What physical and chemical methods are employed to concentrate an ore?
+Concentrating an ore increases the fraction of metal-bearing ore by eliminating most of
+the accompanying rock and soil, called gangue. A gangue is undesired material or
+impurity, which is found together with the ore.
+The ore must first be finely divided by crushing and grinding, and then the gangue can
+be removed in a number of ways.
+i) Gravity Separation
+Gravity separation depends on the difference in density between the mineral and the
+gangue. For example, since gold has a very large density (19.3 g/mL), it can be
+separated from its gangue by this method.
+ii) Magnetic Separation
+Magnetic separation can be used for separating ferromagnetic minerals from their
+impurities.
+For example, the mineral magnetite (Fe3
+O4
+) can be separated from gangue by using a
+strong electromagnet.
+Activity 5.4
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+233
+iii) Froth Floatation
+In this process, the ore is finely ground and added to water containing oil and
+detergent. Because of the differences in the surface characteristics of mineral particles
+and the silicate rock particles, the oil wets only the mineral particles. A stream of air
+blown through the mixture causes tiny bubbles to form on the oil-covered pieces,
+which then float to the surface in the form of froth or foam, while the gangue settles to
+the bottom. The froth is skimmed off, allowed to collapse, and then is dried to
+recover the mineral particles. For example, sulphide ores are concentrated by froth
+flotation.
+iv) Amalgamation
+An amalgam is an alloy of mercury with another metal or metals.
+How are metals recovered from an amalgam?
+Mercury forms amalgams with a number of metals and can be used to extract these
+metals from their ores. For example, mercury dissolves silver and gold in an ore to
+form a liquid amalgam, which is easily separated from the remaining ore. The gold or
+silver is recovered by distilling off the mercury.
+v) Leaching
+How does leaching differ from other methods of concentrating ore?
+The methods we have seen so far are physical methods of concentrating ore. In
+contrast, leaching is a chemical process of concentrating ore. In this method, the ore is
+treated with a reagent that dissolves the target substance, leaving the impurities
+undissolved. For example, aluminium oxide, Al2O3, is separated from bauxite
+(Al2O3
+.2H2O) and oxides of iron and silicon impurities. When the crushed ore is
+treated with hot 30% aqueous solution of sodium hydroxide, the amphoteric aluminium
+oxide dissolves.
+Al2O3(s) + 2NaOH (aq 30%) + 3H2O 150 C to 220 C
+ ° ° → 2Na+(aq) + 2Al(OH)4
+–(aq)
+Why is aluminium oxide soluble in excess strong bases like NaOH?
+Iron oxide and other basic oxides are not affected by the base, and the silicate
+impurities are converted to insoluble aluminosilicates. The solution is filtered, cooled,
+and diluted to reduce the OH– concentration. Aluminium hydroxide then precipitates
+and the anhydrous oxide is obtained by heating.
+Al(OH)4
+– (aq) —→ Al(OH)3(s) + OH– (aq)
+2Al(OH)3(s) heat
+→ Al2O3
+(s) + 3H2O(g)
+ CHEMISTRY GRADE 12
+234
+Gold is sometimes found in ores in the elemental state, but it usually occurs in
+relatively small concentrations. A process called cyanidation treats the crushed ore
+with an aqueous cyanide solution in the presence of air. This process dissolves the
+gold by forming the complex ion Au(CN)2
+–
+.
+4Au(s) + 8CN–(aq) + O2(g) + 2H2O(l) —→ 4Au(CN)2
+– (aq) + 4OH–(aq)
+Pure gold is then recovered by reacting the solution of Au(CN)2
+– with zinc powder to
+reduce Au+ in the complex to Au.
+2Au(CN)2
+–(aq) + Zn(s) —→ 2Au(s) + Zn(CN)4
+– (aq)
+Discuss the following in your group; after the discussion, share your ideas with the rest of
+the class.
+1. Which elements can form amalgam with mercury?
+2. Can non-metals form amalgam; if not why?
+3. What are the uses of amalgams in our daily life?
+Exercise 5.5
+1. Define metallurgy.
+2. Describe and give an example of each of the following methods of
+concentrating ores.
+a Gravity separation d Amalgamation
+b Magnetic separation e Leaching
+c Froth flotation
+2. Pre-treatment
+Pre-treatment converts a mineral to a form that is easy to reduce. For example,
+sulfides are converted to reducible oxides by heating them in dry air, a process called
+roasting:
+2PbS(s) + 3O2(g) heat
+→ 2PbO(s) + 2SO2(g)
+Activity 5.5
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+235
+If a metal is to be obtained by electrolytic reduction, its oxide, hydroxide, or
+carbonate is often treated with HCl to convert it to chloride. Chlorides are preferred
+for electrolytic reductions because they usually melt at low temperatures, except for
+aluminium chloride, to form conductive liquids. Molten aluminium chloride is a poor
+conductor of electricity. This pre-treatment method is used in the Dow process for
+obtaining magnesium metal from seawater.
+Seawater contains about 1.3 g of magnesium ions per litre. These ions are first
+precipitated as magnesium hydroxide and then converted to magnesium chloride.
+The chemical equations are:
+CaCO3(s) heat
+→ CaO(s) + CO2(g) Lime
+CaO(s) + H2O(l) —→ Ca(OH)2(aq)
+ Saturated solution
+Mg2+(aq) + Ca(OH)2(aq) —→ Mg(OH)2(s) + Ca2+(aq)
+ Seawater
+The magnesium hydroxide is filtered and converted to magnesium chloride with HCl.
+Mg(OH)2(s) + 2HCl(aq) —→ MgCl2(aq) + 2H2O(l)
+Pure MgCl2, for electrolysis, is recovered by evaporating the water.
+3. Production of Metals
+By what methods are metals extracted from their pre-treated ores?
+Because metals in their combined form always have positive oxidation numbers, the
+production of a free metal usually involves a reduction process. How a particular pure
+metal is obtained by reduction from its combined form depends on the standard
+reduction potential of the metal. The production of metals by reduction may be
+accomplished either chemically or electrolytically.
+a Chemical Reduction
+A more electropositive metal can be used as a reducing agent to separate a less
+electropositive metal from its compound at high temperatures.
+For example:
+V2O5(s) + 5Ca(l) —→ 2V(l) + 5CaO(s)
+TiCl4(s) + 2Mg(l) —→ Ti(s) + 2MgCl2(l)
+ CHEMISTRY GRADE 12
+236
+Cr2O3(s) + 2Al(s) —→ 2Cr(l) + Al2O3(s)
+The less electropositive metals like copper, tin, lead, zinc, manganese, cobalt, nickel
+and iron are obtained by reducing their oxides with coke (carbon) at high
+temperature.
+ZnO(s) + C(s) heat
+→ Zn(l) + CO(g)
+Carbon is used as a reducing agent because it is readily available and is cheap.
+However, it can not be used to reduce all the metal oxides.
+Hydrogen may also be used to reduce metals that are lower than itself in the reactivity
+series. But since hydrogen is more expensive than carbon, it is only used on a large
+scale for the extraction of tungsten because this process avoids the formation of
+tungsten carbide.
+WO3(s) + 3H2(g) —→ W(s) + 3H2O(g)
+b Electrolytic Reduction
+How can we prepare metals by electrolysis?
+Electrolytic reduction is suitable for highly electropositive metals, such as sodium,
+magnesium and aluminium. Aluminium is extracted by the electrolysis of molten
+aluminium oxide (Al2O3) with cryolite (Na3AlF6). Cryolite is added to aluminium
+oxide to enhance electrical conductivity and to lower the melting point. However, the
+many metals are extracted by the electrolysis of anhydrous molten halides. At the
+cathode, metal ions are reduced and at the anode, anions are oxidized.
+4. Refining and Alloying
+Metals prepared by reduction usually need further treatment to remove impurities. The
+extent of purification, of course, depends on how the metal will be used. The three
+common purification procedures are distillation, electrolysis, and zone refining.
+a Distillation
+What kind of metals can be separated by distillation?
+Metals that have low boiling points, such as mercury, magnesium, and zinc, can be
+separated from other metals by fractional distillation.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+237
+b Electrolysis
+Electrolysis is another important purification technique. For example, the copper metal
+obtained by roasting copper sulphide usually contains impurities such as zinc, iron,
+silver, and gold. The more electropositive metals are removed by an electrolysis
+process in which the impure copper acts as anode and pure copper acts as the
+cathode. (Refer to the electrolysis of copper sulphate, using copper electrodes, in
+Unit 4).
+c Zone Refining
+Another method of obtaining pure metals is zone refining. In this process, a metal rod
+containing a few impurities is drawn through an electrical heating coil that melts the
+metal in the metal rod. Most impurities dissolve in the molten metal. As the metal rod
+comes out from the heating coil, it cools and the pure metal crystallizes, leaving the
+impurities in the molten metal portion that is still in the heating coil.
+Purification of the metal occurs because as the crystal reforms, the metal ions are
+likely to fit much better in the crystal lattice than are atoms of impurities. Several
+repetitions of this process give a very pure metal.
+High purity of metals is not always required, because pure metals possess undesirable
+properties for most practical applications. For instance, as you learned in Unit 4, iron
+deteriorates by corrosion. Therefore, iron is generally more useful when it is alloyed or
+coated with other metals.
+To make alloys, metals are melted together to form a molten solution, and the solution
+is cooled to the solid state. The resulting alloy possesses the same general
+characteristics as the parent metals. However, because the alloy is a mixture in the
+form of a solid solutions, it is stronger than its parent metals.
+Form a group. Discuss the following questions in your group. After the discussion,
+share your ideas with the rest of class.
+1. Make a list of various elements present in sea water and river water.
+2. Are carbonates and bicarbonates also present in sea water?
+3. Which elements are economically recovered from sea water by electrolysis?
+Activity 5.6
+ CHEMISTRY GRADE 12
+238
+Exercise 5.6
+1. Discuss the main steps in obtaining a pure metal from its ore.
+2. What is meant by pre-treatment of an ore? Give some examples of pretreatment.
+3. Describe, with examples, the chemical and electrolytic reduction processes
+used in the production of metals.
+4. Describe the process by which a metal is purified by zone refining.
+5. A copper sample containing gold, lead, silver, and zinc as impurities, is refined
+electrolytically using a copper sulphate as electrolyte. Use Table 4.2 and state
+which substances will be found in the anode sludge.
+5.2.2 Extraction, Properties and Uses of Some
+Selected Metals
+1. Sodium
+Form a group. Discuss the following questions in your group. After the discussion,
+share your ideas with the rest of class.
+1. What are the main ores of sodium?
+2. Which of the ores you listed in question (1) are found in Lake Afdera and Lake
+Abiyata?
+3. Which regions in Ethiopia are the potential sources of table salt?
+4. Why is sodium metal kept under kerosene or paraffin oil?
+5. For the electrolysis of molten sodium chloride, write a balanced chemical equation for:
+a anode reaction b cathode reaction c overall reaction
+Extraction of Sodium
+How is sodium metal extracted from sodium chloride?
+Sodium is a very reactive metal and is not found free in nature. It exists in the form of
+compounds. It is a strong reducing agent and cannot be reduced by carbon. Sodium
+is obtained by the electrolysis of a molten mixture of about 40% NaCl and 60%
+CaCl2 in a Downs cell as shown in Figure 5.5. Calcium chloride (CaCl2) is added to
+lower the melting point of NaCl from 800°C to 600°C.
+Activity 5.7
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+239
+The sodium metal formed at the cathode is in liquid state. Because sodium metal is
+less dense than molten NaCl, the sodium floats to the surface and is collected.
+Chlorine gas forms at the anode and is collected at the top of the Downs cell.
+Cl outlet 2
+Inlet for NaCl
+Molten NaCl
+Liquid Na
+metal
+Na
+outlet
+Anode (+)
+Cathode (–)
+Figure 5.5 Downs cell for electrolysis of molten NaCl.
+Chemical Properties of Sodium
+a Reaction with water
+Sodium reacts with water, liberating hydrogen and forming sodium hydroxide solution.
+2Na(s) + 2H2O(l) —→ 2NaOH(aq) + H2(g)
+b Reaction with air
+Sodium tarnishes readily in dry air to form sodium peroxide and sodium oxide.
+6Na(s) + 2O2(g) —→ Na2O2(s) + 2Na2O(s)
+ major product minor product
+c Reaction with hydrogen
+Sodium reacts with hydrogen to form sodium hydride.
+2Na(s) + H2(g) —→ 2NaH(s)
+ CHEMISTRY GRADE 12
+240
+d Reaction with halogens (F2, Cl2, Br2 and I2)
+Sodium reacts with halogens to form sodium halides.
+2Na(s) + F2(g) —→ 2NaF(s)
+Uses of Sodium
+The largest use of sodium is to make a Na/Pb alloy needed to make tetraethyl lead
+(PbEt4) and tetramethyl lead (PbMe4). These compounds are used as anti-knock
+additives to petrol. Another important use is to reduce TiCl4
+ and ZnCl4
+ to the metals.
+Liquid sodium metal is used as a coolant in nuclear reactors. It is also used to make
+Na2
+O2
+ and NaH, and for street lights.
+Exercise 5.7
+1. Write the chemical formulas of the following ore:
+a borax b trona c rock salt
+2. Why is calcium chloride added in the electrolysis of molten sodium chloride?
+3. Assume that a piece of sodium catches a fire in the laboratory. Why shouldn't
+you try to extinguish with water?
+4. Write balanced chemical reactions for the reaction of sodium with:
+a chlorine b bromine c iodine
+5. State the uses of sodium metal.
+2. Calcium
+Occurrence of Calcium
+Calcium is the 5th most abundant element in the earth’s crust. The main ores of
+calcium are: limestone, chalk, and marble (CaCO3), dolomite (CaCO3.MgCO3),
+gypsum (CaSO4.2H2O), fluorite (CaF2), and hydroxylapatite, Ca5(PO4)
+3OH. In
+Ethiopia, gypsum deposits are found in the Danakil depression.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+241
+Extraction of Calcium
+Explain why sodium and calcium cannot be extracted by using carbon as a
+reducing agent?
+Calcium is prepared by the electrolysis of molten calcium chloride (CaCl2).
+Anode (oxidation) : 2Cl–(l) —→ Cl2(g) + 2e–
+Cathode (reduction) : Ca2+(l) + 2e– —→ Ca(l)
+Overall reaction : Ca2+(l) + 2Cl–(l) —→ Ca(l) + Cl2(g)
+Calcium can also be prepared by the reduction of CaO by aluminium in vacuum,
+where the calcium produced distills off.
+Based on the above information, write an equation that shows the reaction
+between calcium oxide and aluminium metal.
+Chemical properties of Calcium
+a Reaction with water
+Calcium reacts with cold water quite readily, liberating hydrogen gas and forming
+calcium hydroxide.
+Ca(s) + 2H2O(l) —→ Ca(OH)2(aq) + H2(g)
+b Reaction with oxygen
+Calcium reacts with oxygen to form calcium oxide.
+2Ca(s) + O2(g) —→ 2CaO(s)
+c Reaction with nitrogen
+Calcium reacts with nitrogen at high temperatures to form calcium nitride.
+3Ca(s) + N2(g) high temperature
+→ Ca3N2(s)
+d Reaction with halogens
+Calcium reacts with F2, Cl2, Br2 and I
+2 to form CaF2, CaCl2, CaBr2 and CaI2
+respectively.
+Ca(s) + F2(g) —→ CaF2(s)
+e Reaction with hydrogen
+Calcium combines with hydrogen to form calcium hydride.
+Ca(s) + H2(g) —→ CaH2(s)
+ CHEMISTRY GRADE 12
+242
+Uses of Calcium
+Calcium is an essential element in living matter. It is the major component of bones
+and teeth. A characteristic function of Ca2+ ions in living systems is in the activation of
+a variety of metabolic processes. For example, calcium plays a vital role in heart
+action, blood clotting, muscle contraction, and nerve-impulse transmission.
+Exercise 5.8
+1. List the common ores of calcium.
+2. When exposed to air, calcium first forms calcium oxide, which is then
+converted to calcium hydroxide, and finally to calcium carbonate. Write a
+balanced chemical equation for each step.
+3. Write a balanced chemical equation to show the reaction between calcium and:
+a chlorine c iodine
+b bromine d nitrogen
+4. Describe the uses of calcium metal.
+3. Tin
+Occurrence
+The only important ore of tin is cassiterite, SnO2
+.
+Extraction of Tin
+Refer to chemistry books available in your school library, or to any other sources, and write
+a report how tin occurs in nature and how it is extracted from cassiterite. After discussing
+it with your teacher, present your report to the class.
+Chemical Properties of Tin
+a Reaction with water
+Tin does not react with cold water, but it reacts with steam to form SnO2 and H2.
+Sn(s) + 2H2O(g) heat
+→ SnO2(s) + 2H2(g)
+Activity 5.8
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+243
+b Reaction with acids
+Tin reacts with dilute and concentrated acids.
+Sn(s) + dil. 2HCl(aq) —→ SnCl2(aq) + H2 (g)
+Sn(s) + conc. 4HNO3(aq) —→ Sn(NO3)
+2(aq) + 2NO2(g) + 2H2O(l)
+c Reaction with halogens
+Tin reacts with Cl2 and Br2
+ in the cold and with F2 and I
+2 on warming, forming the
+corresponding tin tetrahalide.
+Sn(s) + 2Cl2(g) cold
+→ SnCl4(s)
+Sn(s) + 2F2 (g) warm
+→ SnF4(s)
+Uses of Tin
+The main uses of tin are for electroplating steel, to make tin-plate, and alloys. Tinplate is extensively used for making cans for food. Tin is a constituent of many alloys,
+including type metal (Sn, Sb and Pb), bronze (Sn and Cu), and solder (Sn and Pb).
+Exercise 5.9
+1. Write balanced chemical equation to show the extraction of tin from cassiterite.
+2. Write the reactions of tin with steam and dilute HNO3
+.
+3. Write the reactions of tin with chlorine, bromine and iodine.
+4. Describe the uses of tin metal.
+4. Lead
+Occurrence of Lead
+The main ore of lead is galena, PbS. It is black, shiny and very dense.
+Extraction of Lead
+Galena is mined and separated from its impurities by froth flotation. There are two
+methods of extracting the element:
+ CHEMISTRY GRADE 12
+244
+According to first method, the ore is roasted in air to give PbO, which is then
+reduced with coke or carbon monoxide in a furnace.
+2PbS(s) + 3O2(g) → 2PbO(s) + 2SO2(g)
+2PbO(s) + C(s) ∆
+→ 2Pb(l) + CO2(g)
+In second method, PbS is partially oxidized by heating and blowing air through it.
+After some time the air is turned off and heating is continued, and the mixture
+undergoes self–reduction.
+3PbS(s) + O2(g) heated in air
+→PbS(s) + 2PbO(s) heated in absence  of air →3Pb(l) + SO2(g)
+Chemical Properties of Lead
+Lead is not affected by water because the metal is covered by a thin oxide film. It
+dissolves slowly in dilute HCl, forming the sparingly soluble PbCl2 and quite readily in
+dilute HNO3, forming Pb(NO3)2 and oxides of nitrogen. However, it does not
+dissolve in dilute H2SO4 because a surface coating of PbSO4 is formed. Lead is
+slowly attacked by cold alkali, and rapidly by hot alkali, giving the plumbates
+Na2Pb(OH)6. Thus, lead is amphoteric. It also reacts with F2 in the cold, forming
+PbF2
+, and with Cl2
+ on heating, giving PbCl2
+.
+Uses of Lead
+The major use of lead is to make lead-acid storage batteries. It is also used in the
+manufacture of PbEt4
+ as an additive for petrol, in paints and pigments. In addition,
+lead is used for the production of lead sheets, lead pipes and solder.
+Exercise 5.10
+1. Show the extraction of lead from galena, using chemical equations.
+2. Write balanced chemical equations to show the reaction between lead and
+a H2O b HCl c HNO3
+3. Describe the uses of lead metal.
+5. Zinc
+Occurrence of Zinc
+Zinc is the 24th most abundant element in the earth's crust. The most important ore of
+zinc is zinc blende (ZnS).
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+245
+Extraction of Zinc
+How is zinc metal extracted from zinc blende?
+ZnS is concentrated by froth flotation and then roasted in air to give ZnO and SO2.
+The SO2 is used to make H2SO4. Zn is extracted from the oxide by two different
+processes.
+1. ZnO may be reduced by carbon monoxide at 1200°C
+ZnO(s) + CO(g) —→ Zn(g) + CO2(g)
+2. ZnS is heated in air at a lower temperature, yielding ZnO and ZnSO4. These are
+dissolved in H2SO4. Zinc dust is added to precipitate Cd, and then the ZnSO4
+solution is electrolyzed to give pure zinc. This method is more expensive than the first.
+Chemical Properties of Zinc
+Zinc is a silvery solid that tarnishes rapidly in moist air. It dissolves in dilute HCl and
+liberates hydrogen gas.
+Zn(s) + HCl(aq) —→ ZnCl2(aq) + H2(g)
+Zinc also reacts with aqueous solution of sodium hydroxide and forms sodium zincate,
+Na2Zn(OH)4. Hence, zinc shows amphoteric properties.
+On heating, it reacts with oxygen to form zinc oxide.
+2Zn(s) + O2(g) heating
+→ 2ZnO(s)
+Uses of Zinc
+Zinc is used in large amounts for coating iron to prevent it from rusting. A thin coating
+of zinc may be applied electrolytically. This process is called galvanizing. A thicker
+layer may be applied by dipping a metal in molten zinc. Large amounts of Zn are used
+to make alloys. The most common alloy is brass, which is an alloy of copper and
+zinc.
+Can you list the other alloys of zinc?
+Zinc is also used as the negative electrode (anode) in sealed 'dry' batteries such as Le
+clanche’ cells, mercury cells and alkaline manganese cells. Zinc oxide is sometimes
+used as a white pigment in paint. It is particularly bright as it absorbs UV light and reemits it as white light.
+ CHEMISTRY GRADE 12
+246
+Exercise 5.11
+1. Describe the extraction of zinc from zinc blende.
+2. Explain the amphoteric properties of zinc.
+3. State the uses of zinc metal.
+ Experiment 5.1
+Studying Chemical Properties of Some Metals
+Objective: To study some chemical properties of sodium, calcium, lead, tin and
+zinc metals.
+Chemicals: Na, Ca, Sn, Pb, and Zn metals; 2 M HCl, water.
+Apparatus: Test tubes and beakers.
+1. Reaction of cold water with sodium
+Take about 5 mL of water in a test tube and place a small piece of sodium
+metal to the water. Check the basicity of the solution using litmus paper.
+2. Reaction of cold water with calcium
+Take about 50 mL of water in a beaker and add a small piece of calcium
+metal in the water. Check the basicity of the solution by using litmus paper.
+3. Reaction of tin, lead and zinc with 2M HCl
+Place 1 mL of 2M HCl in three test tubes and then add a small piece of tin
+metal in the first test tube, lead metal in the second test tube, and zinc metal in
+the third test tube. What do you observe?
+Results and Discussion:
+1. What is the gas liberated? How do you confirm it?
+2. Write a chemical equation that shows:
+a the burning of hydrogen gas.
+b the reaction between zinc and dilute hydrochloric acid.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+247
+6. Chromium
+Occurrence
+Chromium is the 21st most abundant element, by weight, in the Earth's crust. The
+most important ore of chromium is chromite (FeCr2
+O4
+).
+Extraction
+Chromium is produced in two forms which are ferrochrome and pure chromium metal.
+Ferrochrome is mainly an alloy of chromium and iron. It is prepared by reducing
+chromite with carbon.
+FeCr2O4(s) + 4C(s) electric furnance → Fe + 2Cr + 4CO
+ ferrochrome
+Four basic steps are followed to get pure chromium.
+Step 1: When chromite is fused with NaOH in air, chromium (III) is oxidized to
+chromium (VI).
+4FeCr2O4(s)+16NaOH(s)+7O2(g) 1100 C
+° →8Na2CrO4(s)+2Fe2O3(s)+8H2O(l)
+Step 2: Ferric oxide (Fe2O3) is insoluble, but sodium chromate (Na2CrO4) is
+soluble in water. Thus the sodium chromate is separated from ferric oxide
+by dissolving with water, followed by decantation or filtration. The sodium
+chromate solution is acidified to convert it to a less soluble sodium
+dichromate.
+2Na2CrO4(aq) + 2HCl(aq) —→ Na2Cr2O7(s) + 2NaCl(aq) + H2O(l)
+Step 3: The sodium dichromate is reduced to Cr2
+O3 by heating with carbon.
+Na2Cr2O7(s) + 2C(s) —→ Cr2O3(s) + Na2CO3(s) + CO(g)
+Step 4: Finally, Cr2O3 is reduced to the metal by Al.
+Cr2O3(s) + 2Al(s) —→ 2Cr(s) + Al2O3(s)
+Chemical Properties
+Chromium is an active metal but it is protected from corrosion by a very thin
+transparent oxide film.
+4Cr(s) + 3O2(g) —→ 2Cr2O3(s)
+ CHEMISTRY GRADE 12
+248
+Concentrated nitric acid and other oxidizing agents build up the oxide film to the point
+where chromium becomes passive, that is, it no longer dissolves in the acid solution.
+Chromium dissolves in HCl and dilute H2
+SO4 to form blue chromium (II) ions, which
+are stable only in the absence of air.
+Cr(s) + 2H+(aq) —→ Cr2+(aq) + H2(g)
+The unstable chromium (II) state is readily oxidized to the chromium (III) state.
+It can remove traces of oxygen by bubbling the gas through a solution containing
+chromium (II) ions.
+4Cr2+(aq) + O2(g) + 4H+(aq) —→ 4Cr3+(aq) + 2H2O(l)
+Uses
+Nichrome wire, commonly used in chemistry laboratories for flame tests, is an alloy of
+nickel and chromium. Ferrochrome, iron–chromium alloy, is used in the production of
+stainless steel. Cr2O3 is dissolved in H2SO4 and deposited electrolytically
+(electroplating) on the surface of a metal. This protects the metal from corrosion and
+gives it a shiny appearance.
+Sodium and potassium chromates and dichromates are used as pigments and
+corrosion inhibitors in heating systems and air-conditioning systems.
+Chromium (VI) oxide, CrO3, appears as a bright-red precipitate when saturated
+potassium dichromate is treated with excess of concentrated sulphuric acid.
+2 Cr O (aq) 2H (aq) 2CrO (s) H O(l) 2 3 7 2
+− + + → +
+CrO (s) H O(l) 3 2 + U H2CrO4
+The resulting acid mixture (also known as chromic acid) is a powerful oxidizing agent.
+It can oxidize grease and was used as a cleaning solution for laboratory glassware.
+Exercise 5.12
+1. Write equations for the reduction of chromite ore with carbon, and Cr2
+O3
+ with
+aluminium.
+2. Pure chromium can also be prepared from chromite by the following steps.
+Write the equations for each step.
+Step 1: The ore is fused with sodium carbonate in the presence of air, yielding
+sodium chromate, iron (III) oxide, and carbon dioxide gas.
+Step 2: The sodium chromate is converted to sodium dichromate by the addition
+of acid.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+249
+Step 3: The sodium dichromate is recrystallised, dried and reduced to chromium
+(III) oxide with carbon.
+Step 4: The chromium (III) oxide is reduced to chromium metal with aluminium.
+5.2.3 Silicon
+Occurrence
+Silicon is the second most abundant element, after oxygen, in the Earth's crust. It
+occurs as silica (SiO2
+) and silicate compounds containing the silicate ion, (SiO4
+4– ).
+Quartz is a pure crystalline form of silica, and flint is a hard amorphous form.
+Extraction
+Silicon is prepared by heating silica with coke to approximately 3000°C in an electric
+furnace:
+SiO2(s) + 2C(s) —→ Si(l) + 2CO(g)
+The molten silicon is taken from the bottom of the furnace and allowed to cool
+producing a shiny blue-gray solid.
+Extremely high-purity silicon is needed for the electronics industry. Purifying raw
+silicon requires additional steps. First, the silicon in the impure sample is allowed to
+react with chlorine to convert the silicon to liquid silicon tetrachloride.
+Si(s) + 2Cl2(g) —→ SiCl4(l)
+Silicon tetrachloride (boiling point 57.6°C) is carefully purified by distillation and then
+reduced to silicon, using magnesium:
+SiCl4(g) + 2Mg(s) —→ 2MgCl2(s) + Si(s)
+The magnesium chloride is washed out with water, and the silicon is remelted and cast
+into bars. A final purification is carried out by zone refining.
+Chemical Properties
+Silica is resistant to attack by all acids except HF, with which it reacts to give SiF4
+and H2O. This chemical attack is involved in the etching of glass. It also dissolves
+slowly in hot, molten NaOH or Na2CO3 to give Na4SiO4
+:
+SiO2(s) + 4HF(l) —→ SiF4(g) + 2H2O(l)
+SiO2(s) + 2Na2CO3(l) —→ Na4SiO4(s) + 2CO2(g)
+ CHEMISTRY GRADE 12
+250
+Silicon and methyl chloride (CH3Cl) react at 300°C in the presence of copper
+powder as a catalyst. The main product of this reaction is (CH3)
+2SiCl2
+.
+Si(s) + 2CH3Cl (g) —→ (CH3)
+2SiCl2(l)
+When it reacts with water, initially it produces (CH3)2Si(OH)2, and the reaction
+continues to form a polymer.
+(CH3)2SiCl2(l) + 2H2O(l) —→ (CH3)2Si(OH)2(l) + 2HCl(g)
+n(CH3)
+2Si(OH)2(l) —→ [(CH3)
+2SiO]n(s) + nH2O(l)
+Silicone polymers are non-toxic and have good stability to heat, light, moisture, and
+oxygen.
+Uses
+Silicon is a semiconductor and is used in the construction of transistors and
+microprocessors. Quartz crystals are used to control the frequency of radio and
+television transmissions. Silicone polymers are used in making lubricants, lipstick, car
+polish and other materials.
+Have a look at the Periodic Table of elements and make a list of various metals, which at
+room temperature:
+1. do not react with acids, bases or air;
+2. vigorously react with water;
+Form a group. Discuss the following question. After the discussion, share your ideas with
+the rest of the class.
+Explain why elements like tin, lead, zinc, chromium and silicon can be extracted from
+their ores using carbon as a reducing agent, but sodium and calcium cannot.
+Exercise 5.13
+1. Describe how ultra pure silicon can be produced from silica.
+2. State major uses of silicon and its compounds.
+Activity 5.9
+Activity 5.10
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+251
+3. react with air and water, and hence are stored under kerosene; and
+4. react with chlorine.
+Discuss your findings with your teacher and share them with your classmates.
+5.2.4 Some Important Compounds of Selected Non-metals
+1. Ammonia (NH3 )
+Haber, Fritz (1868-1934), was a German chemist and Nobel laureate. He is best known
+for his development of an economical method of ammonia synthesis. Haber was born in
+Breslau (now Wroclaw, Poland) and educated at the
+Technische Hochschule in Berlin. He was appointed as
+professor of physical chemistry at the University of Berlin
+in 1911. Subsequently, he became director of the Kaiser
+Wilhelm Institute for Physical Chemistry in Berlin. During
+World War I, Haber was chief of the German chemical
+warfare service, and he directed the chlorine gas attack
+at the Second Battle of Ypres. In 1933, because of antiSemitic policies in Germany, Haber resigned and went to
+Switzerland, where he died the following year. Haber's
+greatest achievement was his discovery, in 1913, of a
+process for synthesizing ammonia by the direct
+combination of nitrogen and hydrogen. The method was
+adapted to commercial use in the 1930s by the German
+chemist Karl Bosch. The Haber-Bosch process is used in
+the manufacture of explosives and in the production of
+fertilizers. Haber also made fundamental contributions to the field of electrochemistry.
+He was awarded the 1918 Nobel Prize in chemistry.
+Historical Note
+Haber Fritz
+In your group, discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. Write a balanced chemical equation for the formation of ammonia by Haber process.
+2. What is the purpose of adding finely divided iron in the Haber process?
+3. Why is ammonia highly soluble in water?
+Activity 5.11
+ CHEMISTRY GRADE 12
+252
+4. What conditions are required to get high yield of ammonia using Le Chatelier's
+principle?
+5. What conditions are required to get economically feasible yields of ammonia?
+6. Discuss the uses of ammonia.
+2. Nitric Acid (HNO3 )
+Pure nitric acid is a colourless liquid, but on exposure to light it turns brown because
+of slight decomposition into NO2 (brown) and O2.
+4HNO3(l) —→ 4NO2(g) + O2(g) + 2H2O(l)
+ brown
+Nitric acid is a strong acid and dissociates completely to give H3O+ and NO3
+– in
+dilute aqueous solution.
+Nitric acid forms a large number of salts, called nitrates, which are typically very
+soluble in water.
+Nitric acid is a strong oxidizing agent, particularly when it is hot and concentrated.
+Nitric acid is produced industrially from ammonia by the three-step Ostwald process:
+Step 1: Ammonia is burned in excess oxygen over a platinum catalyst to form nitric
+oxide (NO):
+4NH3(g) + 5O2(g) 850 C, 5 atm
+Pt  ° → 4NO(g) + 6H2O(g)
+Step 2: Additional air is added to cool the mixture and oxidize NO to NO2:
+2NO(g) + O2(g) —→ 2NO2(g)
+Step 3: The NO2 gas is bubbled into warm water where it reacts to give nitric acid
+and nitric oxide:
+3NO2(g) + H2O(l) —→ 2HNO3(aq) + NO(g)
+ recycled
+The nitric oxide (NO) is recycled in Step 2.
+The largest percentage of nitric acid is used to synthesize ammonium nitrate, a water
+soluble fertiliser. Large quantities are also used to make plastics, drugs, and explosives
+such as trinitrotoluene (TNT) and nitroglycerine.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+253
+Exercise 5.14
+1. Describe the properties of nitric acid.
+2. Show the preparation of nitric acid by the Ostwald process.
+3. What are the main uses of nitric acid?
+3. Sulphuric Acid (H2
+SO4 )
+Sulphuric acid is the world’s most important industrial chemical, and the rate of
+consumption of sulphuric acid is a measure of a country’s industrialization. Pure
+H2SO4 melts at 10.5°C and boils at 338°C. Anhydrous H2SO4 and concentrated
+H2SO4 mix with water in all proportions and release large amounts of heat energy
+(880 kJ/mol).
+If water is poured into concentrated acid, the heat evolved leads to boiling of the
+water and causes violent splashing. The safe way to dilute strong acids is to carefully
+pour the acid into the water while stirring. Concentrated H2SO4 has strong oxidizing
+properties.
+Do you know where sulphuric acid is manufactured in Ethiopia?
+Sulphuric acid is prepared industrially by the contact process, using four steps:
+Step 1: Burning sulphur in air:
+S(s) + O2(g) —→ SO2(g)
+Step 2: Converting SO2 to SO3
+2SO2(g) + O2(g) V O catalyst 2 5
+400 C° → 2SO3(g)
+The conversion of SO2 to SO3 is slow, but it is increased by heating the
+reaction mixture to 400oC in the presence of V2
+O5 catalyst. Because the
+SO2 and O2 molecules react on contact with the surface of V2O5, the
+process is called Contact process.
+Step 3: Passing SO3 into concentrated H2SO4:
+SO3(g) + H2SO4(l) —→ H2S2O7(l)
+ Pyrosulphuric acid
+ (oleum or fuming sulphuric acid)
+Step 4: Addition of water to pyrosulphuric acid
+H2S2O7(l) + H2O(l) —→ 2H2SO4(aq)
+ CHEMISTRY GRADE 12
+254
+Uses of sulphuric acid
+Sulphuric acid is used in the production of fertilisers, detergents, plastics and paints. It
+is used in the production of a number of explosives. Sulphuric acid is an oxidizing
+agent and a good dehydrating agent. It is often used to dry neutral and acidic gases
+such as nitrogen, oxygen, and carbon dioxide. It is also used as electrolyte in car
+batteries. It is also used as a catalyst in the manufacture of many chemicals.
+Exercise 5.15
+1. Describe the industrial production of H2
+SO4
+. Write the equations and state the
+conditions of each step.
+2. State the properties and major uses of sulphuric acid.
+Form a group and discuss each of the following questions:
+1. What are some of the indications that the soil in which plants grow, is deficient in:
+a nitrogen? b phosphorus ? c potassium?
+2. Why the large-scale use of synthetic fertilizers can be harmful to the environment?
+After the discussion, share your ideas with the rest of the class.
+4. Diammonium monohydrogen phosphate (DAP), (NH4 )2
+HPO4
+Diammonium monohydrogen phosphate (DAP) is a white crystalline compound that is
+completely soluble in water. How is DAP produced industrially? It can be produced
+when ammonia reacts with phosphoric acid by the following two steps:
+Step 1: Anhydrous ammonia reacts with phosphoric acid to form monoammonium
+dihydrogen phosphate and diammonium monohydrogen phosphate
+3NH3(g) + 2H3PO4(l) —→ NH4H2PO4(s) + (NH4)2HPO4(s)
+Step 2: Recycling monoammonium dihydrogen phosphate for further reaction with
+anhydrous ammonia yields DAP:
+NH4H2PO4(s) + NH3(g) —→ (NH4)2HPO4(s)
+Activity 5.12
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+255
+DAP is used as a fertiliser. When applied as plant food, it temporarily increases soil
+acidity, but over the long term, the soil becomes more acidic than before upon
+nitrification of the ammonium. DAP has the advantage of having both nitrogen and
+phosphorus, which are essential for plant growth.
+DAP can be used as fire retardant. It lowers the combustion temperature of the
+material, decreases weight-loss rates, and causes an increase in the production of
+residue or char.
+DAP is also used as a yeast nutrient in wine making and beer brewing.
+Exercise 5.16
+1. Describe the industrial production of DAP. Write the chemical equations.
+2. State properties and major uses of DAP.
+3. Calculate the percentage composition of phosphorus and nitrogen in
+diammonium monohydrogen phosphate.
+Unit Summary
+• There are 113 elements in the periodic table. Of these, 92 elements occur
+in nature, and the others are man-made.
+• Minerals that are suitable for the extraction of elements are called ores.
+• All ores are minerals, but not all minerals are ores.
+• The twelve most abundant elements in the earth's crust, in decreasing order
+of abundance, are: oxygen, silicon, aluminium, iron, calcium, magnesium,
+sodium, potassium, titanium, hydrogen, phosphorus and manganese.
+• Metals found in the Earth's crust are in the form of oxides, carbonates,
+sulphides, halides, sulphates and phosphates.
+• Nutrients are limited in nature, and they are exchanged between living
+and nonliving things.
+• In the carbon cycle, atmospheric carbon dioxide is converted to glucose
+by green plants. Animals incorporate carbon by eating plants or other
+animals. Carbon returns to the physical environment during respiration,
+the burning of wood or fossil fuels, and the decomposition of plants and
+animals.
+• In the nitrogen cycle, atmospheric nitrogen is converted to nitrogen
+compounds by lightning, through the Haber process or by bacteria on
+ CHEMISTRY GRADE 12
+256
+root nodules of leguminous plants. Plants use these compounds to
+prepare their proteins and nucleic acids. Animals also prepare their
+proteins and nucleic acids through eating plants or other animals.
+Nitrogen returns to the atmosphere during the decomposition of plants
+and animals through the action of denitrifying bacteria.
+• The phosphorus cycle differs from the nitrogen and carbon cycles
+primarily because phosphorus cannot exist in gaseous form in the
+atmosphere. Plants absorb phosphates, using their roots, and make
+DNA, and ATP. Animals get phosphates by eating plants or other
+animals. When plants and animals die, they decompose and return
+phosphates into the soil or water.
+• Metallurgy is the science and technology of extracting metals from their
+natural sources and preparing them for practical use. This process has
+three main steps: concentrating the ore, extracting the metal and
+purifying the crude metal.
+• Sodium is the 7th most abundant element in the Earth's crust and is
+extracted from molten sodium chloride using Downs cell.
+• Calcium is the 5th most abundant element in the Earth's crust and is
+extracted from molten calcium chloride. It is a major component in
+bones and teeth.
+• Tin is mainly extracted from cassiterite (SnO2 ), using coke as reducing
+agent. It is used to make alloys.
+• Lead can be extracted from galena (PbS) by partially oxidizing galena
+and self-reduction. It is used to make lead /acid storage batteries.
+• Zinc is extracted from zinc blende (ZnS) by roasting, followed by
+reduction with carbon monoxide. Large amounts of zinc are used for
+coating iron.
+• Chromium is extracted from chromite ore (FeCr2O4 ): First it is oxidized
+to sodium chromate (Na2CrO4 ). Then sodium chromate is converted to
+sodium dichromate by the addition of acids. Next the sodium dichromate
+is reduced to chromium (III) oxide, using carbon. Finally, Cr2O3 is
+reduced to chromium metal by aluminium. Chromium is used to make
+alloys.
+SOME ELEMENTS IN CHEMISTRY AND INDUSTRY (UNIT 5)
+257
+• Silicon is the 2nd most abundant element in the Earth's crust and is
+extracted from silica, using carbon as reducing agent. Silicon is used in
+the construction of transistors and microprocessors.
+• Ammonia is prepared by the Haber process and is mainly used to make
+fertilisers.
+• Nitric acid is prepared by the Ostwald process, and is used to make
+fertilizers, plastics and explosives.
+• Sulphuric acid is produced by the Contact process, and is mainly used to
+make fertilizers, detergents and paints.
+• Diammonium monohydrogen phosphate (DAP) is prepared by reacting
+anhydrous ammonia with phosphoric acid in two steps. DAP is mainly
+used as a fertilizer.

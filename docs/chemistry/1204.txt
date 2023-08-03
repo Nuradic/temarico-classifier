@@ -1,0 +1,1978 @@
+The term oxidation was originally used to describe reactions in which an element combines
+with oxygen. For example, the reaction between magnesium and oxygen involves the
+oxidation of magnesium: 2Mg(s) + O2(g) → 2MgO(s). However, nowadays it has a
+broader meaning that includes reactions not involving only oxygen. Now, oxidation is the
+loss of electrons and is identified by an increase in oxidation number.
+ELECTROCHEMISTRY (UNIT 4)
+159
+4.1.2 Reduction
+When do we say a substance is reduced? Can oxidation occur without reduction
+and vice versa?
+The term reduction was originally used to describe the production of a metal from an ore.
+The term has been modified through time to include other reactions. Now, reduction is the
+gain of electrons and is identified by a decrease in oxidation number.
+Activity 4.1
+In Grade 10 chemistry, you have learnt oxidation-reduction reactions. Form a group.
+Discuss the following questions and present your answers to the class.
+1. Define each of the following terms.
+a Oxidizing agent c Oxidation Number
+b Reducing agent
+2. What will happen if a zinc rod is immersed in a solution of copper (II) sulphate?
+3. Which of the following reactions are redox reactions? Explain your answer for each
+case.
+a Ca(s) + 2H2O(l) → Ca(OH)2(aq) + H2(g)
+b H2SO4(aq) + 2NaOH(aq) → Na2SO4(aq) + 2H2O(l)
+c Si(s) + 2Cl2(g) → SiCl4(l)
+d AgNO3(aq) + NaCl(aq) → AgCl(s) + NaNO3(aq)
+4. Use the given chemical equation to answer the following questions;
+Mg(s) + Zn2+(aq) → Zn(s) + Mg2+(aq)
+identify the:
+ a oxidized substance. c oxidizing agent.
+b reduced substance. d reducing agent.
+5. Calculate the oxidation number of:
+a C in C2O4
+2 –
+b Cr in K2CrO4
+c N in N2O5
+d S in H2SO4
+e Cl in HClO4
+CHEMISTRY GRADE 12
+160
+4.1.3 Balancing Oxidation-Reduction (Redox) Reactions
+What scientific law is used in balancing chemical equations?
+Because atoms are neither created nor destroyed in an ordinary chemical reaction, chemical
+equation must have an equal number of atoms of each element on the reactant and product
+sides. In addition, the net electrical charges in the reactant side must be equal to the net
+electrical charges in the product side.
+Balancing Redox Reactions Using Change in Oxidation-Number Method
+How do you balance redox reactions, using the change in the oxidation-number
+method?
+In a redox reaction, the total number of electrons gained by the oxidizing agent is equal to
+the total number of electrons lost by the reducing agent. The change in oxidation number
+method for balancing redox reaction is based on this fact.
+This method is used to balance redox reactions that do not occur in aqueous solutions, and
+also reactions that do not involve ions.
+Use the following steps to balance chemical equations, using the change in oxidation state
+method.
+Step 1: Write an unbalanced chemical equation.
+Step 2: Assign oxidation numbers to each atom, and determine which atoms are changing
+their oxidation numbers.
+Step 3: Determine the number of electrons lost by each atom per molecule undergoing
+oxidation and the number of electrons gained by each atom per molecule being
+reduced.
+Step 4: Balance the number of electrons lost in oxidation with those gained in reduction
+by adjusting the coefficients of substances being oxidized and reduced.
+Step 5: Balance the remaining substances by counting atoms.
+Step 6: Check the final equation to be sure that each atom as well as the net charges on
+either side is balanced.
+Example 4.1
+Balance the following chemical equation, using the change in oxidation-number
+method.
+C H SO CO SO H O + → ++ 24 2 2 2
+Solution:
+Step 1: C H SO CO SO H O + → ++ 24 2 2 2
+ELECTROCHEMISTRY (UNIT 4)
+161
+Step 2: C + H SO2 4 CO + SO + H O 2 22
+0 +1 +6 -2 +4 -2 +4 -2 +1 -2
+Changes in oxidation number are observed in carbon and sulphur.
+Step 3: C + H SO2 4 CO + SO + H O 2 22
+0 +6 +4 +4
+4 electrons lost
+2 electrons gained
+Step 4: C + H SO 2 2 4 CO + SO + H O 2 22 2
+1 ×4=4 electrons lost
+2 ×2=4 electrons gained
+Step 5: Balance hydrogen atoms by making the coefficient of water 2.
+C 2H SO CO 2SO 2H O + →+ + 24 2 2 2
+Step 6: Reactants Products
+ C (1) C (1)
+ H (4) H (4)
+ S (2) S (2)
+ O (8) O (8)
+The chemical equation is balanced, because the number of atoms in the reactant side is
+equal to the number of atoms in the product side. It can also be confirmed that the net
+charge is zero on each side.
+Example 4.2
+Balance the following chemical equation by using the change in oxidation-number
+method.
+Cu HNO Cu(NO ) NO H O + → ++ 3 3 2 2
+Solution:
+Step 1: Cu HNO Cu(NO ) NO H O + → ++ 3 3 2 2
+Step 2: Cu + HNO3 Cu(NO + NO + H O 3 2 2 )
+0 +1+5 -2 +2 +5 -2 +2 -2 +1 -2
+CHEMISTRY GRADE 12
+162
+Changes in oxidation number are observed in copper and nitrogen.
+Step 3: Cu + HNO3 Cu(NO + NO + H O 3 2 2 )
+0 +5 +2 +2
+2 electrons lost
+3 electrons gained
+Step 4: 3 2 Cu + HNO3 3 2 Cu(NO + NO + H O 3 2 2 )
+0 +5 +2 +2
+3 × 2 = 6 electrons lost
+2 ×3=6 electrons gained
+In this case, two NO3
+−
+ ions are converted to two NO, but we need six NO3
+−
+ to
+balance the six NO3
+−
+ ions that are present in three Cu(NO3)
+2. Therefore, the
+coefficient of HNO3 becomes 8.
+3 3 2 2 3Cu 8HNO 3Cu(NO ) 2NO H O + → ++
+Step 5: Hydrogen atoms can be balanced by making the coefficient of water as 4.
+3 3 2 2 3Cu 8HNO 3Cu(NO ) 2NO 4H O + → ++
+Step 6: Reactants Products
+Cu (3) Cu (3)
+H (8) H (8)
+N (8) N (8)
+O (24) O (24)
+ Is the chemical equation balanced?
+Exercise 4.1
+Balance each of the following chemical equations, using the change in oxidation number
+method.
+a Na Cr O FeCl HCl CrCl NaCl FeCl H O 2 27 2 + +→ + + + 3 3 2
+b Cu HNO Cu(NO ) NO H O + → ++ 3 3 2 22
+c H S HNO S NO H O 23 2 + →+ +
+d Cu + H2SO4 → CuSO4 + SO2 + H2O
+e P4 + HNO3 → H3PO4 + NO2 + H2O
+ELECTROCHEMISTRY (UNIT 4)
+163
+4.1.4 The Ion-Electron Method for Balancing Redox Reactions
+This method is useful if the net ionic equation is given or no spectator ions are present.
+For example,
+Na+(aq) + S2–(aq) + H+(aq) + Cl–
+(aq) + NO3
+– (aq) → Na+(aq) + Cl–
+(aq) + S(s) + NO (g) + H2
+O(l)
+In this reaction, Na+(aq) and Cl–(aq) ions are spectator ions, because they appear on both
+the reactant and product sides. Therefore, the net ionic equation becomes:
+2 S (aq) H (aq) NO (aq) NO(g) S(s) H O(l) 3 2
+−+ − + + → ++
+Steps for balancing redox reaction using the ion-electron method:
+Step 1: Identify the element undergoing oxidation and reduction; write separate
+equations for oxidation and reduction half-reactions.
+Step 2: Balance the element oxidized or reduced.
+Step 3: Determine the change in oxidation number of the element oxidized or reduced.
+Add the electrons gained or lost to the side on which the redox element has the
+higher oxidation number.
+Step 4: Balance any elements other than hydrogen and oxygen that may be present.
+Step 5: Balance charges by adding H+ ions if the solution is acidic and OH– ions if the
+solution is basic.
+Step 6: Balance hydrogen by adding water molecules.
+Step 7: Multiply each half-reaction by appropriate coefficients so that the number of
+electrons lost in oxidation equals the number of electrons gained in reduction.
+Step 8: Add the two half-reactions together and eliminate anything that appears in
+identical form on both sides of the equation.
+Example 4.3
+Balance the following chemical equation using the ion-electron method.
+Cr2O7
+2 – + H2S → Cr3+ + S (in acidic solution)
+Solution:
+Cr O + H S 2 7 2
+2– Cr + S 3+
++6 -2 0
+Reduction half-reaction
+Oxidation half-reaction
+Reduction half-reaction
+Step 1: 2 3 Cr O Cr 2 7
+− + →
+Step 2: 2 3 Cr O 2Cr 2 7
+− + →
+CHEMISTRY GRADE 12
+164
+Step 3: 2 3 Cr O 6e 2Cr 2 7
+−− + + →
+Step 4: There is no element other than oxygen.
+Step 5: 2 3 Cr O 6e 14H 2Cr 2 7
+−− + + ++ →
+Step 6: 2 3 Cr O 6e 14H 2Cr 7H O 2 7 2
+−− + + ++ → +
+Here, the reduction half-reaction is balanced.
+Oxidation half-reaction
+Step 1: HS S 2 →
+Step 2: Sulphur is already balanced.
+Step 3: H S S 2e 2 → + −
+Step 4: There is no element other than hydrogen.
+Step 5: H S S 2e 2H 2 →+ +− +
+Step 6: Hydrogen is already balanced and the oxidation half-reaction is also
+balanced.
+Step 7: Oxidation half-reaction
+2 (H S S 2e 2H ) 3 →+ + × − +
+3H2S → 3S + 6e– + 6H+
+Reduction half-reaction
+2 3 Cr O 6e 14H 2Cr 2 7
+−− + + ++ →
+Step 8: Add the two half-reactions.
+3H2S → 3S + 6e– + 6H+
+Overall reaction :
+8
+2– – 3
+27 2
+2– 3
+27 2 2
+Cr O 6e 14 H 2Cr 7H O
+Cr O 3H S 8H 3S 2Cr 7H O
++ +
++ +
+++ → +
++ + →+ +
+Exercise 4.2
+Balance the following chemical equations, using the ion-electron method.
+a 2 22 MnO SO Mn SO 43 4
+−− +− +→ + (in acidic solution)
+b Sn2+ + Bi3+ → [Sn (OH)6]
+2– + Bi (in basic solution)
+ELECTROCHEMISTRY (UNIT 4)
+165
+4.2 ELECTROLYSIS OF AQUEOUS SOLUTIONS
+After completing this subunit, you will be able to:
+• recall the concepts metallic conductivity, electrolytic conductivity and electrolysis
+of molten electrolytes;
+• draw and label diagrams of electrolytic cell ;
+• define preferential discharge;
+• explain factors that affect preferential discharge;
+• describe the effects of nature of ions on the electrolysis of aqueous solutions of
+dilute H2SO4 and NaOH;
+• describe the effect of the concentrations of ions on the electrolysis of dilute and
+concentrated solutions of NaCl;
+• describe the effects of types of electrodes on the electrolysis of CuSO4 solution,
+using Ni and Cu electrodes;
+• write the electrode half-reactions and overall reactions for the electrolysis of dilute
+H2
+SO4, dilute NaOH, dilute NaCl, concentrated NaCl and CuSO4
+ solutions; and
+• distinguish between molten electrolytes and aqueous solutions of electrolytes.
+Before we study the electrolysis of aqueous solutions, let us consider some important
+concepts about conductivity. As you learned in Grade 10 Chemistry, electrical conductivity
+is the ability of a substance to transmit electricity. Generally, there are two major types of
+electrical conductors: metallic conductors and electrolytic conductors.
+Activity 4.2
+Form a group. Discuss the following points and present your answers to the class. Your
+teacher might help you to form groups.
+1. How does conduction occur in metals and in electrolytes?
+2. What do substances need in order to conduct electricity?
+3. What are the physical states in which metals and electrolytes conduct electricity?
+4. Can ionic compounds conduct electricity in the solid state? If your answer is "No", why?
+Aqueous solutions can be tested for the presence of mobile ions by using an electric circuit
+like the one in Figure 4.1.
+CHEMISTRY GRADE 12
+166
+Figure 4.1 Electrical Conductivity Apparatus.
+This circuit consists of a current source, a light bulb, and two graphite rods called electrodes
+that dip into the solution. If the solution contains ions, current flows through the circuit and
+the light bulb glows. The brightness of the bulb increases with current strength, which
+increases with the number of ions in the solution.
+The ability of different solutes to provide ions can be compared by comparing the brightness
+of the light bulb at the same concentration.
+Note that metallic conduction is a physical process, but electrolytic conduction causes
+chemical changes to occur on the surface of the electrodes.
+Exercise 4.3
+Which of the following substances are capable of conducting electricity? Give reason
+for your answer.
+a Iron c Solid sodium chloride
+b Sulphur d Molten calcium chloride
+ Experiment 4.1
+Electrical Conductivity Test
+Objective: To classify substances as electrical conductors and insulators.
+Apparatus: Copper wire, light bulb, power supply (DC) or dry cells, scotch tape,
+distilled water, 1M NaCl solution, 1 M H2SO4 solution, 1 M CH3COOH
+solution, 1 M sugar solution, magnesium ribbon and an iron nail.
+ELECTROCHEMISTRY (UNIT 4)
+167
+Bulb
+Beaker
+Battery
+Bulb Copper wire
+Scotch tape
+BATTERY BATTERY BATTERY
+ Figure 4.2 (a) Electrical conductivity apparatus (b) Electrical conductivity apparatus
+ for solid materials. for liquids and solutions.
+Procedure:
+1. Polish the strip of magnesium and connect the two ends of the copper wire as
+shown in Figure 4.2a. Do the same thing for iron nail. Record your observations.
+2. Rinse the 100 mL beaker thoroughly with distilled water and fill to the 50 mark and
+insert the two ends of the copper wire as shown in Figure 4.2b. Record your
+observations.
+3. Clean the two ends of the copper wire in Figure 4.2b with distilled water and insert
+them into a beaker containing 50 mL of 1 M NaCl solution. Repeat the same thing
+for the 1 M H2SO4, 1 M CH3COOH and 1 M sugar solutions. Record your
+observation.
+Results and Discussion:
+1. Why is it important to polish the magnesium ribbon and iron nail before use?
+2. Classify the materials you used as conductors, strong electrolytes, weak electrolytes
+and nonelectrolytes.
+3. Label the two ends of the wire in Figure 4.2b as cathode and anode.
+4.2.1 Electrolytic cells
+Activity 4.3
+Form a group, and discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. Describe the migration of ions during electrolysis?
+2. Observe Figure 4.3 and answer the following questions.
+CHEMISTRY GRADE 12
+168
+Voltage
+source
+e–
+e–
+Cl –
+Na+
+Na+
+Cl –
+Cl –
+Na+
+Graphite Graphite
+Figure 4.3 Electrolytic cell containing molten sodium chloride.
+a Label the anode and the cathode.
+b Indicate the migration of sodium ions and chloride ions.
+c Write the reduction half-reaction, oxidation-half reaction, and the overall reaction.
+d What are the products of electrolysis of molten NaCl?
+4.2.2 Preferential Discharge
+What does preferential discharge mean? What are the factors that affect
+preferential discharge of ions?
+The preferential discharge of ions is affected by the nature of the electrodes, the positions
+of the ions in the electrochemical series and the concentration of the ions in the electrolyte.
+Let us discuss these factors one by one.
+1. Nature of the electrodes
+How do electrodes affect the preferential discharge of ions?
+Inert electrodes, like graphite or platinum, do not affect the product of electrolysis, but
+reactive or active electrodes, like copper, can affect the product of electrolysis.
+For example, in the electrolysis of copper sulphate solutions, using graphite electrodes,
+ELECTROCHEMISTRY (UNIT 4)
+169
+oxygen gas is liberated at the anode and copper metal is deposited at the cathode, as
+shown below.
+CuSO4(aq) —→ Cu2+(aq) + SO4
+2– (aq)
+Anode : 4OH– (aq) —→ O2 (g) + 2H2O (l) + 4e–
+Cathode : Cu2+(aq) + 2e– —→ Cu (s)
+However, if the electrolysis of copper sulphate is performed using copper electrodes,
+the copper electrode at the anode dissolves and copper metal will be deposited at the
+cathode, as indicated below.
+Anode : Cu (s) —→ Cu2+(aq) + 2e–
+Cathode : Cu2+(aq) + 2e–—→ Cu(s)
+2. The position of the ions in the electrochemical series
+The reactivity series or activity series is an empirical series of metals, in order of
+"reactivity" from highest to lowest. It is used to summarize information about the reactions
+of metals with acids and water, single displacement reactions and the extraction of
+metals from their ores. The electrochemical series is built up by arranging various redox
+equilibria in order of their standard electrode potentials (redox potentials). The values
+of standard electrode potentials are given in the Table 4.2 in volts relative to the
+standard hydrogen electrode. You will learn more about standard electrode potentials
+in this unit.
+The reactivity series is sometimes quoted in the reverse order of standard electrode
+potentials:
+Li > K > Sr > Ca > Na > Mg > Al > Zn > Cr > Fe > Cd > Co > Ni > Sn > Pb
+> H > Cu > Ag > Hg > Pt > Au
+The positions of lithium and sodium are changed on such a series; gold and platinum are
+also inverted, although this has little practical significance as both metals are highly
+unreactive.
+Standard electrode potentials offer a quantitative measure of the power of a reducing
+agent, rather than the qualitative considerations of other reactivity series. However, they
+are only valid for standard conditions. In particular, they only apply to reactions in
+aqueous solution. Even with this provision, the electrode potentials of lithium and sodium,
+and hence their positions in the electrochemical series, appear anomalous. The order of
+reactivity, as shown by the vigor of the reaction with water or the speed at which the
+metal surface tarnishing in air, appears to be:
+potassium > sodium > lithium > alkaline earth metals
+CHEMISTRY GRADE 12
+170
+Table 4.1 The ease of discharge of some common cations and anions.
+Cations Anions
+The ease of discharge increase downward
+The ease of discharge increase downward
+F
+–
+SO4
+2–
+NO3
+–
+CO3
+2–
+Cl–
+Br–
+l
+–
+OH–
+S
+2–
+Li+
+K +
+Na+
+Mg2+
+Al3+
+Mn2+
+Zn2+
+Cr3+
+Fe2+
+Cd2+
+Pb2+
+Fe3+
+H+
+Cu2+
+Ag+
+Au3+
+The ions that are lower in the electrochemical series get discharged in preference to
+those above them.
+For example, if a solution has potassium ions and copper ions, the copper ions will
+accept electrons, and get discharged as copper atoms first. The potassium ions will not
+be affected.
+In general, if two or more positive ions migrate to the cathode, the ion lower in the series
+is discharged preferentially. Similarly, if two or more negative ions migrate to the anode,
+the ion lower in the series is discharged preferentially.
+3. Concentration of the ions in the electrolyte
+If an electrolyte contains a higher concentration of ions that are higher in the
+electrochemical series than of those that are lower, then the higher ions get discharged
+in preference to the lower ones.
+For example, a solution of sodium chloride in water contains two types of anions i.e.,
+the chloride (Cl–) ions and the hydroxide (OH–) ions. The hydroxide ions are lower in
+the electrochemical series than the chloride ions. But if the concentration of chloride ions
+is much higher than that of the hydroxide ions, then the chloride ions get discharged first.
+ELECTROCHEMISTRY (UNIT 4)
+171
+Exercise 4.4
+1. Define the following terms:
+a perferential discharge
+b inert electrode
+c reactive or active electrode.
+2. What gases are liberated at the cathode and anode if concentrated hydrochloric
+acid is electrolyzed? Write the reduction half-reaction, oxidation half-reaction
+and the overall reaction.
+4.2.3 Electrolysis of Some Selected Aqueous Solutions
+Activity 4.4
+Form a group, and discuss each of the following:
+1. Prior to electrolysis, why sodium chloride must be in molten state?
+2. Why water must be excluded in the electrolytic preparation of active metals such as
+potassium. What will happen if water gets into the cell?
+3. For the electrolysis of molten KCl, write a balanced equation for the:
+a anode reaction
+b cathode reaction
+c overall reaction
+4. Why are H+ and Cl– ions discharged in preference to Na+ and OH– ions in concentrated
+sodium chloride solution?
+After the discussion, share your ideas with the rest of the class.
+Electrolysis of concentrated sodium chloride solution (brine solution)
+Concentrated solution of sodium chloride (brine solution) contains Na+, Cl–, H+ and
+OH– ions. However, the concentrations of H+ and OH– are very small. Why? When
+a potential difference is established across the two electrodes, Na+ and H+ ions move
+towards the cathode, and Cl– and OH– ions move towards the anode. At the cathode,
+the H+ ions are discharged in preference to the Na+ ions. Similarly, Cl– ions are discharged
+at the anode in preference to the OH–
+ ions because the concentration of Cl–
+ ions is very high.
+CHEMISTRY GRADE 12
+172
+Activity 4.5
+Cathode (reduction) : 2H+(aq) + 2e– → H2
+(g)
+Anode (oxidation) : 2Cl–(aq) → Cl2(g) + 2e–
+Overall reaction : 2H+(aq) + 2Cl–(aq) → H2
+(g) + Cl2
+(g)
+Since the Na+ and OH– ions remain in the solution, the solution yields NaOH, as shown
+in Figure 4.4.
+NaOH
+Hydrogen gas
+Sodium chloride
+solution (brine)
+H2
+H2
+H2
+Cl2
+Cl2
+Cl2
+Sodium hydroxide
+solution formed
+Chlorine gas
+Voltage
+source
+Figure 4.4 Electrolysis of brine solution.
+Electrolysis of Dilute Sodium Chloride Solution
+Form a group, and discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. What is meant by dilute solution?
+2. a List all ions present in dilute sodium chloride solution.
+b Identify ions that migrate towards the anode and the cathode.
+c Which ions listed in (a) will discharge at the cathode and at the anode?
+3. Write the electrode half-reactions and overall reaction for the electrolysis of dilute
+solution of sodium chloride.
+ELECTROCHEMISTRY (UNIT 4)
+173
+ Experiment 4.2
+Investigating electrolysis of sodium chloride solution
+Objective: To electrolyze sodium chloride solution and observe the reaction
+occurring at the electrodes.
+Apparatus and Chemicals: Water, sodium chloride, beakers, measuring cylinder,
+graphite electrodes, batteries and connecting wires.
+Voltage
+source
+9V
+e–
+e–
+Graphite Graphite
+NaCl solution
+Figure 4.5 Electrolysis of sodium chloride solution
+Procedure:
+1. Prepare 0.1 M sodium chloride solution.
+2. Transfer the solution to the beaker.
+3. Immerse the graphite electrodes in the sodium chloride solution.
+4. Arrange the setup as shown in the Figure 4.5.
+Results and Discussion:
+1. What do you observe at the surface of the electrodes?
+2. Identify the cathode and anode in the Figure 4.5.
+3. Name the gases evolved at the cathode and anode.
+4. Write the equations for anode and cathode reactions.
+CHEMISTRY GRADE 12
+174
+Electrolysis of Dilute Sulphuric Acid Solution
+Which ions are discharged at the cathode and anode?
+Dilute sulphuric acid solution contains H+, OH– and SO4
+2– ions. When a potential
+difference is applied across the two electrodes (anode and cathode), only H+ ions
+migrate towards the cathode, and OH– and SO4
+2– ions migrate towards the anode.
+At the cathode, H+ ions are discharged, and at the anode, OH– ions are discharged in
+preference to SO4
+2– ions because the hydroxide ion is below the SO4
+2 – ion in the
+electrochemical series.
+Anode (oxidation) : 4 OH–(aq) → 2H2O(l) + O2(g) + 4e–
+Cathode (reduction) : [2H+(aq) + 2e– → H2(g)] × 2
+Overall reaction : 2H2O(l) → 2H2(g) + O2(g)
+Note that the electrolysis of dilute NaCl and dilute H2SO4 solutions results in the
+decomposition of water to oxygen and hydrogen gases.
+Electrolysis of Copper (II) Sulphate, Using Inert Electrodes
+Which ions are liberated at the cathode and anode if copper sulphate solution
+is electrolysed, using platinum (inert) electrodes?
+Copper sulphate solution contains Cu2+, H+, SO4
+2– and OH– ions. When a potential
+difference is established between the two electrodes, Cu2+ and H+ ions migrate towards
+the cathode, and SO4
+2 – and OH– ions migrate towards the anode.
+At the cathode, the Cu2+ ions are discharged in preference to the H+ ions, because
+copper is below hydrogen in the electrochemical series. Similarly, at the anode, the OH–
+ions are discharged in preference to the SO4
+2 – ions.
+Anode (oxidation) : 4OH–(aq) → 2H2O(l) + O2(g) + 4e–
+Cathode (reduction) : [Cu2+(aq) + 2e– → Cu(s)] × 2
+Overall reaction : 2Cu2+(aq) + 4OH–(aq) → 2Cu(s) + 2H2O(l) + O2(g)
+Since copper ions are deposited at the cathode, and hydroxide ions at the anode, the
+solution becomes acidic due to the formation of H2
+SO4.
+ELECTROCHEMISTRY (UNIT 4)
+175
+Electrolysis of Copper (II) Sulphate Solution, Using Copper Electrodes
+Activity 4.6
+Form a group, and discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. What is the difference between inert electrodes and reactive electrodes?
+2. Are the copper electrodes reactive or inert in the electrolysis of copper (II) sulphate
+solution?
+3. a List all the ions present in copper (II) sulphate solution.
+b Identify the ions that migrate towards the anode and the cathode.
+c Which ions you listed in (a) will discharge at the cathode and at the anode?
+4. Write the reactions ocurring at the anode and at the cathode during the electrolysis
+of copper (II) sulphate solution, using copper electrodes.
+5. What is the net result of the electrolysis of copper (II) sulphate solution, using copper
+electrodes?
+Exercise 4.5
+1. For the electrolysis of dilute NaOH solution,
+a write the balanced chemical equations for the reduction half-reaction and
+oxidation half-reactions.
+b write the balanced overall cell reaction.
+2. What happens to the concentration of the dilute H2SO4
+ solution after electrolysis?
+3. Does the concentration of copper sulphate increase, decrease or remain the
+same after the electrolysis of copper sulphate, using inert electrodes? Explain.
+CHEMISTRY GRADE 12
+176
+Michael Faraday (1791-1867), was a British physicist and
+chemist, best known for his discoveries of electromagnetic
+induction and of the laws of electrolysis.
+Faraday was born on September 22, 1791, in Newington,
+Surrey, England. He was the son of a blacksmith and
+received little formal education. While apprenticed to a
+bookbinder in London, he read books on scientific subjects
+and experimented with electricity. In 1812, he attended a
+series of lectures given by the British chemist Sir Humphry
+Davy and forwarded the notes he took at these lectures to
+Davy, together with a request for employment. Davy
+Faraday, Michael employed Faraday as an assistant in his chemical laboratory
+Biography
+at the Royal Institution, and in 1813 took Faraday with him on an extended tour of
+Europe. Faraday was elected to the Royal Society in 1824, and the following year he was
+appointed director of the laboratory of the Royal Institution. In 1833, he succeeded Davy
+as professor of chemistry at the institution. Two years later he was given a pension of 300
+pounds per year for life. Faraday was the recipient of many scientific honors, including
+the Royal and Rumford medals of the Royal Society; he was also offered the presidency
+of the society but declined the honour. He died on August 25, 1867, near Hampton
+Court, Surrey.
+4.3 QUANTITATIVE ASPECTS OF ELECTROLYSIS
+After completing this subunit, you will be able to:
+• state Faraday’s first law of electrolysis;
+• write the mathematical expressions for the Faraday’s first law of electrolysis;
+• do calculations related to Faraday’s first law of electrolysis;
+• state Faraday's second law of electrolysis;
+• write the mathematical expressions for Faraday’s second law of electrolysis; and
+• do calculations related to Faraday’s second law of electrolysis.
+Is it possible to calculate the amount of product formed at the electrodes?
+The quantitative treatment of electrolysis was developed primarily by Michael Faraday
+in the year 1834. His early research on electrolysis led him to propose a relationship
+between the amount of current passed through a solution and the amount of substance
+decomposed or produced by the current.
+ELECTROCHEMISTRY (UNIT 4)
+177
+4.3.1 Faraday's First Law of Electrolysis
+Faraday's First Law states that “the amount of substance consumed or produced at
+one of the electrodes in an electrolytic cell is directly proportional to the amount of
+electricity that passes through the cell”.
+If m is the mass of a substance librated or deposited at an electrode due to the passage
+of charge Q, then according to Faraday's first law of electrolysis,
+m ∝ Q or m = zQ
+Where z is a constant of proportionality and is called electrochemical equivalent of the
+substance. It has the same charge which passes due to a steady current I flowing for
+time t, then the above equation can be written as:
+m = z × I × t
+ = z × Q
+Show that the general formula of Faraday’s first law is given by : m =
+MIt
+nF . where, m
+is mass of the substance deposited or liberated, I is current in amperes, t is time in
+seconds, F is Faradays constant, n is the number of moles of electrons lost or gained,
+and M is the molar mass of the substance.
+For example, in the electrolysis of molten NaCl, the cathode reaction tells us that one
+Na atom is produced when one Na+ ion accepts an electron from the cathode. To
+reduce 1 mole of Na+ ions, we must supply one mole of electrons (6.02 × 1023 electrons)
+to the cathode.
+Example 4.4
+How many moles of chlorine, magnesium and aluminium are formed when 2, 2
+and 3 moles of charge are passed through three different solution containing
+chloride, magnesium and aluminium ions respectively?
+Solution:
+The stoichiometry of the anode reaction shows that oxidation of two Cl– ions
+yields one chlorine molecule and releases two electrons. Therefore, the formation
+of 1 mole of chlorine results in 2 moles of electrons supplied by the Cl– ions
+to the anode. Similarly, it takes 2 moles of electrons to reduce 1 mole of Mg2+
+ions and 3 moles of electrons to reduce 1 mole of Al3+ ions:
+CHEMISTRY GRADE 12
+178
+2Cl–(l) → Cl2(g) + 2e–
+Mg2+ (aq) + 2e– → Mg(s)
+Al3+(l) + 3e– → Al(s)
+In an electrolysis experiment, we generally measure the current in amperes (A) that pass
+through an electrolytic cell in a given period of time. By definition, 1 coulomb of charge
+is transferred when a 1 ampere current flows for 1 second:
+1 C = 1 A × 1 s
+The charge on 1 mole of electrons is 96,500 C, which is obtained by multiplying 1 mol
+(6.02 × 1023 electrons) with the charge of electron (1.602 × 10–19 C).
+Charge of 1 mol of electrons = 6.02 × 1023 electrons × 1.602 ×10–19 C
+= 96, 485 C ≈ 96,500 C = 1 F (one faraday)
+Therefore, 1F = 96,500 C.mol–1.
+Example 4.5
+Calculate the mass of calcium metal and chlorine gas that can be produced when
+a current of 0.452 A is passed through molten CaCl2 for 1.5 h.
+Solution:
+In solving electrolysis problems of this type, the first step is to determine which
+species will be oxidized at the anode and which species will be reduced at the
+cathode. Here the choice is straightforward because we only have Ca2+ and Cl–
+ions in molten CaCl2. Thus, we write the half and overall reactions as:
+Anode (oxidation) : 2Cl–(l) → Cl2(g) + 2e–
+Cathode (reduction) : Ca2+(l) + 2e– → Ca(l)
+Overall reaction : Ca2+(l) + 2Cl–(l) → Ca(l) + Cl2(g)
+The quantities of calcium metal and chlorine gas formed depend on the number
+of electrons that pass through the electrolytic cell, which in turn depends on
+current × time or charge.
+Charge (Q) = current (I) in A × time (t) in s
+ELECTROCHEMISTRY (UNIT 4)
+179
+Q = I × t = (0.452 A) × (1.5 × 60 × 60 s)
+= 2.44 × 103 A s = 2.44 × 103 C
+1 mol e– = 96,500 C
+x? = 2.44 × 103 C
+⇒ x = 
+3 2.44 10 C 1 mol e 0.0253 mol e
+96,500 C
+− × × − =
+2 moles of electrons are required to produce 1 mole, or 40 g, of calcium metal
+at the cathode. Hence, the mass of calcium formed is
+2 mol e– = 1 mole Ca = 40.08 g Ca
+0.0253 mol e– = x?
+⇒ x = 
+0.0253 mol e 40.08 g Ca 0.507 g Ca 2 mol e
+−
+−
+× =
+The anode reaction indicates that 1 mole, or 71 g, of chlorine is produced by
+giving 2 moles of electrons to the anode. Hence, the mass of chlorine gas
+formed is
+2 mol e– = 71 g Cl2 = 1 mole Cl2
+0.0253 mol e– = x?
+⇒ x = 
+2
+2
+0.0253 mol e 71g Cl 0.898 g Cl 2 mol e
+−
+−
+× =
+Example 4.6
+A current of 1.26 A is passed through an electrolytic cell containing an aqueous
+solution of H2SO4 for 7.44 h. Write the half-cell reactions and calculate the
+volume of the gases generated at STP (Note that at STP, P = 1 atm, and
+T = 0°C or 273 K).
+CHEMISTRY GRADE 12
+180
+Solution:
+Recall that, from the electrolysis of dilute H2
+SO4
+, we have:
+Anode (oxidation) : 4 OH–(aq) → 2H2O (l) + O2(g) + 4e–
+Cathode (reduction) : 4H+(aq) + 4e– → 2H2(g)
+Overall reaction : 2H2O(l) → 2H2(g) + O2(g)
+First let us calculate the total charge.
+Given: I = 1.26 A
+t = 7.44 h = 7.44 × 60 × 60 s = 26,784 s
+ Q = It = (1.26 A) × (26, 784 s) = 3.37 × 104 C
+The above balanced chemical equation shows that for 1 mole of O2 formed at
+the anode, 4 moles of electrons are generated. Now let us calculate the number
+of moles of electrons.
+1 mol e– = 96,500 C
+x? = 3.37 × 104 C
+⇒ x = 
+4 1 mol e 3.37 10 C 0.350 mol e
+96,500 C
+− × × − =
+The number of moles of oxygen becomes:
+4 mol e– = 1 mol O2 (Observe the anode reaction)
+0.350 mol e– = x?
+⇒ x = 
+0.350 mol e 1 mol O2
+4 mol e
+−
+−
+x
+ = 0.0875 mole of O2
+The volume of 0.0875 mol O2 at STP is given by
+V = 
+0.0875 mol
+nRT
+P =
+L. atm
+× 0.0821
+mol ( ) 273 K
+. K
+1 atm
+    ×
+ 
+ELECTROCHEMISTRY (UNIT 4)
+181
+V = 1.96 L or since the volume of 1 mol of a gas at STP is 22.4 L, the volume
+occupied by 0.0875 mol of O2 can be obtained using the following relation.
+1 mol = 22.4 L
+0.0875 mol = x?
+⇒
+0.0875 mol
+x =
+22.4 L
+1 mol
+× =1.96 L
+Similarly, for hydrogen, we write
+4 mol e– = 2 mol H2 (Observe the cathode reaction)
+0.35 mol e– = x?
+ x = 
+0.35 mol e 2 mol H2
+4 mol e
+−
+−
+×
+ x = 0.175 mol H2
+The volume of 0.175 mol of H2 at STP is given by
+V = 
+0.175 mol
+nRT
+P =
+L. atm
+× 0.0821
+mol ( ) 273 K
+. K
+1 atm
+    ×
+ 
+V = 3.92 L
+Note that the volume of H2 is twice that of O2.
+Exercise 4.6
+1. Calculate the volume of H2 and O2 gases at 25°C and 1.00 atm that will be
+collected at the cathode and anode, respectively, when an aqueous solution of
+Na2SO4 is electrolyzed for 2 hours with 10 ampere current.
+2. Calculate the mass of copper and volume of oxygen (at 25°C and 760 mmHg)
+that would be produced by passing a current of 0.5 A through a CuSO4
+solution between Pt electrodes for 3 hours.
+3. What mass of aluminium is deposited electrolytically in 30 minutes by a current
+of 40 A?
+CHEMISTRY GRADE 12
+182
+4.3.2 Faraday's Second Law of Electrolysis
+Faraday's second law of electrolysis states that “when the same quantity of charge (Q)
+is passed through different electrolytes, then the masses of different substances deposited
+(m1, m2, m3,...) at the respective electrodes will be directly proportional to their equivalent
+masses (E1, E2, E3,...).”
+m ∝ E
+or, m1 ∝ E1, m2 ∝ E2, and m3 ∝ E3 etc.
+Replacing the proportionality by a proportionality constant k, the equations become:
+M1/E1 = M2/E2 = M3/E3 = .... = k
+The law can be illustrated by passing the same quantity of electric current through three
+solutions containing H2SO4, CuSO4 and AgNO3, connected in series, as shown in
+Figure 4.6.
+e– e–
+Cathode
+Anode
+e–
+e–
+e– e–
+Cathode
+Anode
+Anode Cathode
+H SO (aq) 2 4 CuSO (aq) 4 AgNO (aq) 3
+Voltage
+source
+Figure 4.6 Solutions connected in series to a battery.
+In the first solution, hydrogen and oxygen are liberated. In the second solution copper
+is deposited and in the third, silver is deposited.
+2
+Mass of hydrogen Mass of copper Mass of silver
+Equivalent mass of H Equivalent mass of copper Equivalent mass of silver = =
+ELECTROCHEMISTRY (UNIT 4)
+183
+Example 4.7
+Calculate the mass of copper deposited by the electrolysis of copper (II) sulphate
+solution placed in series with a silver nitrate solution, when 0.108 g of silver is
+being deposited.
+ Solution:
+The equivalent mass of silver and copper can be obtained from their reduction
+half-reaction:
+Ag
+108 g / mol Ag (aq) 1e Ag(s), 108 g / eq 1
++ − +→ = = E
+2
+Cu
+63.5 g / mol Cu (aq) 2e Cu(s), 31.75 g / eq 2
++ − +→ = = E
+The mass of Ag is 0.108 g, and you are asked to find the mass of copper.
+Ag Cu Cu Ag
+Cu
+Ag Cu Ag
+m E m m
+m
+E E E
+× = ⇒ =
+31.75 g/eq = 0.108 g
+108 g/eq
+× = 0.032 g of Cu is deposited
+Exercise 4.7
+1. Two cells are connected in series. One contains AlCl3, and the other contains
+AgNO3 as the electrolytes. What mass of Ag is deposited when 18 g of Al is
+deposited at cathode?
+2. 0.2 moles of electrons are passed through three electrolytic cells in series that
+contain silver ions, zinc ions and iron (III) ions. How many grams of each metal
+will be deposited at cathode?
+ 4.4 INDUSTRIAL APPLICATION OF ELECTROLYSIS
+After completing this subunit, you will be able to:
+• mention the industrial applications of electrochemistry;
+• explain electroplating and electrorefining;
+CHEMISTRY GRADE 12
+184
+• demonstrate copper refining; and
+• explain how electrolysis is used in the production of some metals, nonmetals and
+compounds.
+4.4.1 Electroplating and Electrorefining of Metals
+Activity 4.7
+Form a group. Discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. Define electroplating and electrorefining.
+2. What are the purposes of electroplating and electrorefining?
+3. Where do we put the plating metal and the metal to be plated, during electroplating?
+4. Does the electrolyte contain dissolved ions of the plating metal or the metal to be
+plated?
+5. What is chrome plating? How is it done?
+6. Describe the electrorefining of copper. Include the appropriate chemical equations.
+4.4.2 Extraction of Metals
+Activity 4.8
+Discuss each of the following questions. After the discussion, share your ideas with your
+classmates.
+1. List active metals that can be extracted from their compounds by electrolysis.
+2. Explain why electrolytic reduction rather than chemical reduction is often used to
+obtain active metals from their compounds.
+3. Why are molten metal chlorides used as electrolytes rather than using other molten
+salts?
+ELECTROCHEMISTRY (UNIT 4)
+185
+4.4.3 Manufacture of Nonmetals and Some Compounds
+Activity 4.9
+Form a group. Discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. List nonmetals and compounds that are prepared by electrolysis.
+2. Write the cathode and anode reactions during the electrolysis of molten mixture of
+potassium fluoride and hydrogen fluoride.
+3. Using chemical equations, write the preparation of:
+ a sodium hydroxide from the electrolysis of brine solution.
+b hydrogen and oxygen from the electrolysis of dilute sodium chloride solution.
+4. Why is a small amount of solute added in the electrolysis of water?
+ 4.5 VOLTAIC (GALVANIC) CELLS
+After completing this subunit, you will be able to:
+• define Voltaic cell and salt bridge;
+• draw and label Zn-Cu Voltaic cell;
+• define electrode potential and cell potential;
+• construct Zn-Cu Voltaic cell;
+• measure the cell potential of Zn-Cu cell using voltmeter;
+• explain how standard electrode potential is measured;
+• describe the reactivity of metal from its position in the activity series or electromotive
+series;
+• calculate cell potential;
+• decide whether a given redox reaction is spontaneous or not;
+• explain the effect of concentration on cell potential;
+• mention the different types of Voltaic cells;
+• give examples of each type of Galvanic cell;
+• describe how a hydrogen-oxygen fuel cell operates;
+CHEMISTRY GRADE 12
+186
+Activity 4.10
+• distinguish between primary and secondary cells;
+• identify the cathode, anode and electrolyte of a given Galvanic cell;
+• compare and contrast electrolytic and Galvanic cells;
+• explain metallic corrosion in terms of redox reactions;
+• explain the negative effects of corrosion; and
+• explain the different methods of the prevention of corrosion.
+What makes a Galvanic cell different from an electrolytic cell?
+A Galvanic cell is a device in which chemical energy is transformed into electrical energy.
+4.5.1 Construction of Zn-Cu Galvanic Cell
+Form a group. Discuss each of the following questions. After the discussion, share your
+ideas with the rest of the class.
+1. Describe the basic features of an electrochemical cell. Why are the two components
+of the cell separated from each other?
+2. Given the following chemical reaction,
+Mg(s) + 2H+(aq) → Mg2+(aq) + H2(g):
+a write equations for the oxidation and reduction half-reactions.
+b which half-reaction occurs in the anode compartment and which occurs in the
+cathode compartment?
+What happens if zinc metal is immersed in copper (II) sulphate solution?
+When zinc metal is immersed in copper sulphate solution, some zinc dissolves and some
+copper metal forms on the surface of the remaining zinc.
+The net reaction,
+Cu2+(aq) + Zn(s) → Cu(s) + Zn2+(aq)
+is an oxidation-reduction reaction (redox reaction) in which electrons are transferred
+from zinc atoms to copper ions.
+ELECTROCHEMISTRY (UNIT 4)
+187
+The half-reaction equations are:
+Oxidation half-reaction : Zn(s) → Zn2+ (aq) + 2e–
+Reduction half-reaction : Cu2+(aq) + 2e– → Cu(s)
+Since the copper sulphate solution is in contact with the zinc metal, the electrons flow
+directly from the zinc metal atoms to the copper ions without doing useful work. If the
+half-reactions could be made to occur in separate compartments, and the electrons
+were transferred through an external wire from one compartment to the other, then we
+would have a Galvanic cell capable of doing electrical work.
+A Galvanic cell was invented by the British Chemist John Daniell in 1836. It is called
+the Daniell cell. A diagram of this cell is as shown in Figure 4.7.
+Salt bridge
+e–
+ZnSO solution 4
+Zinc
+anode
+Cl– K+
+Cotton
+plugs
+SO2–
+4 Zn2+
+CuSO solution 4
+SO2–
+4 Cu2+
+e–
+Voltmeter
+Copper
+cathode
+Figure 4.7 Daniell cell.
+One compartment of the Daniell cell contains a zinc electrode immersed in a solution
+of zinc sulphate (ZnSO4). The other compartment contains a copper electrode in a
+solution of copper sulphate (CuSO4). When the two electrodes are connected by a
+wire, the zinc atoms give up electrons, forming positive ions:
+Zn(s) → Zn2+(aq) + 2e–
+The zinc ions repel each other and enter the solution. The negative electrons also repel
+each other and travel through the external wire to the copper electrode, where they are
+accepted by copper ions from the surrounding solution:
+Cu2+(aq) + 2e– → Cu(s)
+CHEMISTRY GRADE 12
+188
+The resulting copper atoms deposit as the copper metal on the surface of copper
+electrode. The Daniell cell reaction is identical to the reaction that occurs when zinc
+metal is dipped directly into copper sulphate solution (zinc atoms are oxidized and
+copper ions are reduced), but the cell is constructed so that the electrons pass through
+an external circuit where they can do useful work.
+The solutions in the two halves of a Galvanic cell must be connected in order to
+complete the circuit, but they must not mix. The connection can be made through a salt
+bridge (see Figure 4.7).
+A salt bridge is an inverted U-tube filled with an electrolyte, such as NH4NO3 or KCl,
+chosen so that it does not interfere with the operation of the cell. Regardless of how
+the cell is constructed, the solutions in each compartment remain more or less separated.
+Furthermore, because ions can move into and out of the salt bridge, the solutions remain
+electrically neutral.
+How does the salt bridge maintain the electroneutrality of a solution?
+Consider the zinc compartment. The oxidation of zinc atoms tends to build up the
+concentration of positive zinc ions in a solution around the zinc electrode. Some of the
+charge is neutralized by negative ions flowing out of the salt bridge and enter into the
+zinc compartment, and the rest of zinc ions flow out of the compartment into the salt
+bridge.
+Now consider the copper compartment. The reduction of copper ions tends to decrease
+the concentration of positive copper ions around the copper electrode. The resulting
+negative charge is neutralized, partially by positive ions flowing from the salt bridge and
+enter into the copper compartment, and partially by negative sulphate ions flowing out
+of the compartment. If the flow of ions did not occur, a charge difference would build
+up between the compartments, and the reaction would stop. Every Galvanic cell has an
+oxidation half-reaction and a reduction half-reaction. The compartments in which these
+reactions occur (and their associated electrodes) are referred to as half-cells.
+What are the anode and the cathode in a Galvanic cell?
+The electrode where oxidation takes place is called the anode, and the electrode where
+reduction takes place is the cathode. In the Daniell cell, the zinc electrode is the anode
+and the copper electrode is the cathode. The anode sends electrons through the connecting
+wire (it is the electron source or negative terminal of the cell). The cathode receives
+electrons, so it is a positive terminal. When the terminals of a Galvanic cell are connected
+by an external circuit, there will always be a flow of electrons from anode to cathode
+through the external circuit.
+Note that the electrode polarities in Galvanic cells are the reverse of those in an
+electrolytic cell.
+ELECTROCHEMISTRY (UNIT 4)
+189
+Cathode Anode
+Galvanic cell + –
+Electrolytic cell – +
+4.5.2 Cell Notation
+How do you represent Galvanic cells without drawing a diagram?
+A cell notation allows us to describe a Galvanic cell without drawing a diagram. It is
+a shorthand representation of a Galvanic cell. For example, a Daniell cell in which the
+electrolyte concentrations are each 1 molar is represented as
+2 2 Zn(s) Zn (1 M) Cu (1 M) Cu(s) + +
+The anode is written on the left. The cathode on the right and concentrations and other
+data are given in parentheses. The vertical line (|) indicates phase boundaries, and the
+double vertical line (||) indicates a salt bridge or a porous partition.
+The cell notation for the Daniell cell tells us that the zinc anode is dipped into a 1 M
+solution of zinc ions, the copper cathode is dipped into a 1 M solution of copper ions,
+and the two half-cells are separated by a salt bridge or a porous partition. If the two
+half-cells were in direct contact, the double vertical line would be replaced by single line.
+The notation for any Galvanic cell has the following form:
+anode | anode electrolyte (M) || cathode electrolyte (M) | cathode
+Every redox reaction is the sum of an oxidation half-reaction and a reduction halfreaction written in such a way as to cancel out the electrons by suitably multiplying the
+half-reactions by the minimum integers.
+Example 4.8
+Write the cell notation for a Galvanic cell, based on this reaction:
+Fe(s) + Hg2
+2+(aq) → Fe2+(aq) + 2Hg(l)
+Assume that the solution concentrations are 0.10 M.
+Solution:
+Write the oxidation half-reaction and the reduction half-reaction separately.
+Oxidation half-reaction (anode) : Fe(s) → Fe2+ (aq, 0.1 M) + 2e–
+Reduction half-reaction (cathode) : Hg2
+2+ (aq, 0.1 M) + 2e– → 2Hg(l)
+The cell notation is :
+2 2 Fe(s) Fe (0.10 M) Hg (0.10 M) Hg(l) 2
++ +
+CHEMISTRY GRADE 12
+190
+Exercise 4.8
+1. Write the cell notation for a Galvanic cell consisting of an Al electrode placed
+in 1 M Al(NO3
+)
+3
+ solution and a Ag electrode placed in a 1 M AgNO3
+ solution.
+2. Explain the use of a salt bridge.
+3. a Explain the difference between a Galvanic cell and an electrolytic cell.
+b Indicate the electrode polarity of each cell.
+4.5.3 Standard Reduction Potentials
+What is the difference between standard reduction potential and cell
+potential?
+The cell potential is the difference between two electrode potentials, one associated with
+the cathode and the other associated with the anode.
+By convention, the potential associated with each electrode is chosen to be the potential
+for reduction to occur at the electrode. Thus, standard electrode potentials (electrode
+potentials at a concentration of 1 M) are tabulated for reduction reactions and are
+denoted as Eo
+red. The cell potential (Eo
+cell)is Eo
+red (cathode) minus the standard reduction
+potential of the anode reaction, Eo
+red (anode):
+Eo
+cell= Eo
+red (cathode) – Eo
+red (anode)
+Because every Galvanic cell involves two half-cells, it is not possible to directly measure
+the standard reduction potential of a half-reaction. However, if we assign a standard
+reduction potential to a certain reference half-reaction, we can then determine the
+standard reduction potentials of the other half-reactions, relative to that reference. The
+reference half-reaction is the reduction of H+(aq) to H2(g) under standard conditions,
+which is given a standard reduction potential of exactly 0.0 V.
+2H+ (aq, 1M) + 2e– → H2(g, 1 atm); Eo
+red = 0.0 V
+An electrode designed to produce this half-reaction is called a standard hydrogen
+electrode (SHE). As depicted in Figure 4.8, SHE consists of platinum wire connected
+to a piece of platinum foil covered with finely-divided platinum that serves as an inert
+surface for the reaction. The electrode is encased in a glass tube, so that hydrogen gas
+can bubble over the platinum, and the solution contains H+(aq) under standard (1 M)
+conditions.
+ELECTROCHEMISTRY (UNIT 4)
+191
+Can you indicate the cathode and the anode in Figure 4.8?
+e–
+Voltmeter
+Salt bridge
+e–
+Zink electrode Hydrogen electrode
+Zn H gas at 1 atm 2
+Pt electrode
+1 M ZnSO4 1 M HCl
+Cotton
+plugs
+Figure 4.8 Standard Hydrogen Electrode
+The spontaneous reaction in Figure 4.8, is the oxidation of zinc and the reduction of
+H+ :
+Zn(s) + 2H+(aq) → Zn2+(aq) + H2(g)
+In the Figure 4.8, above;
+i) The Zn2+ | Zn electrode is the anode, and the SHE is the cathode.
+ii) The cell voltage is 0.76 V.
+By using the defined standard reduction potential of H+ , we can determine the standard
+reduction potential for Zn2+ | Zn half-reaction:
+Eo
+cell = Eo
+red (cathode) – Eo
+red (anode)
+0.76 V = 0.0 V – Eo
+red (anode)
+⇒ Eo
+red (anode) = –0.76 V
+ Therefore, a standard reduction potential of –0.76 V can be assigned to the reduction
+of Zn2+ to Zn:
+Zn2+ (aq, 1M) + 2e– → Zn(s); Eo
+red = –0.76 V
+Note that we write the reaction as a reduction, even though it occurs in reverse as
+oxidation. Whenever we assign a potential to a half-reaction, we write the reaction as
+a reduction.
+CHEMISTRY GRADE 12
+192
+Increasing strength as reducing agent
+Increasing strength as oxidizing agent
+The standard reduction potentials for other half-reactions are established in the way that
+we did for the Zn2+ | Zn half-reaction. In Table 4.2, the standard reduction potentials
+of some of the half-reactions are given.
+Table 4.2 Standard Reduction Potential in Aqueous Solution at 25°C.
+Half-reaction Volts
+F2(g) + 2e– → 2F–(aq) +2.87
+Co3+(aq) + e– → Co2+(aq) +1.82
+PbO2(s) + 4H+(aq) + SO4
+2– (aq) + 2e– → PbSO4(s) + 2H2O(l) +1.70
+Ce4+(aq) + e– → Ce3+(aq) +1.61
+MnO4
+–(aq) + 8H+(aq) + 5e– → Mn2+(aq) + 4H2O(l) +1.51
+Au3+(aq) + 3e– → Au(s) +1.50
+Cl2(g) + 2e– → 2Cl–(aq) +1.36
+Cr2O7
+2 –(aq) + 14H+(aq) + 6e– → 2Cr3+(aq) + 7H2O(l) +1.33
+MnO2(s) + 4H+(aq) + 2e– → Mn2+(aq) + 2H2O +1.23
+O2(g) + 4H+(aq) + 4e– → 2H2O +1.23
+Br2(l) + 2e– → 2Br–(aq) +1.07
+2Hg2+(aq) + 2e– → Hg2
+2+(aq) +0.92
+Hg2
+2+(aq) + 2e– → 2Hg(l) +0.85
+Ag+(aq) + e– → Ag(s) +0.80
+Fe3+(aq) + e– → Fe2+(aq) +0.77
+O2(g) + 2H+(aq) + 2e– → H2O2(aq) +0.68
+I
+2(s) + 2e– → 2I–(aq) +0.53
+O2(g) + 2H2O + 4e– → 4OH–(aq) +0.40
+Cu2+(aq) + 2e– → Cu(s) +0.34
+AgCl(s) + e– → Ag(s) + Cl–(aq) +0.22
+SO4
+2–(aq) + 4H+(aq) + 2e– → SO2(g) + 2H2O +0.20
+Cu2+ + e– → Cu+(aq) +0.15
+ELECTROCHEMISTRY (UNIT 4)
+193
+Half-reaction Volts
+Sn4+(aq) + 2e– → Sn2+(aq) +0.13
+2H+(aq) + 2e– → H2(g) 0.00
+Pb2+(aq) + 2e– → Pb(s) –0.13
+Sn2+(aq) + 2e– → Sn(s) –0.14
+Ni2+(aq) + 2e– → Ni(s) –0.25
+Co2+(aq) + 2e– → Co(s) –0.28
+PbSO4(s) + 2e– → Pb(s) + SO4
+2 – (aq) –0.31
+Cd2+(aq) + 2e– → Cd(s) –0.41
+Fe2+(aq) + 2e– → Fe(s) –0.44
+Cr3+(aq) + 3e– → Cr(s) –0.74
+Zn2+(aq) + 2e– → Zn(s) –0.76
+2H2O(l) + 2e– → H2(g) + 2OH–(aq) –0.83
+Mn2+(aq) + 2e– → Mn(s) –1.18
+Al3+(aq) + 3e– → Al(s) –1.66
+Mg2+(aq) + 2e– → Mg(s) –2.37
+Na+(aq) + e– → Na(s) –2.71
+Li+(aq) + e– → Li(s) –3.05
+In your calculations, be sure to understand these points about the information in
+Table 4.2:
+1. The Eo
+red values apply to the half-cell reactions as read in the forward (left to
+right) direction.
+2. The more positive Eo
+red is the greater tendency for the substance to be reduced.
+For example, the reaction,
+F2(g, 1 atm) + 2e– → 2F–(1M), Eo
+red = +2.87 V
+Increasing strength as reducing agent
+Inc rea sing stre ng th a s oxidizin g a gent
+CHEMISTRY GRADE 12
+194
+has the highest Eo
+ value for all of the half-cell reactions. Thus, F2 is the strongest
+oxidizing agent because it has the greatest tendency to be reduced. At the other
+extreme is the reaction,
+Li+ (1M) + e– → Li(s), Eo
+red = –3.05 V
+which has the most negative Eo
+red value. Thus, Li+ is the weakest oxidizing agent,
+because it is the most difficult species to be reduced. Alternatively, Li metal is the
+strongest reducing agent since it gets oxidized most readily.
+3. Under standard state conditions, any species on the left of a given cell reaction
+reacts spontaneously with a species that appears on the right of any half-cell
+reaction that is located below it in Table 4.2. This principle is sometimes called
+the diagonal rule. In the case of the Daniell cell,
+Cu2+ (1 M) + 2e– → Cu(s); Eo
+red = +0.34 V
+Zn2+ (1 M) + 2e– → Zn(s); Eo
+red = –0.76 V
+We see that the substance on the left of the first half-cell reaction is Cu2+, and
+on the right in the second half-cell reaction is Zn. Therefore, Zn spontaneously
+reduces Cu2+ to form Zn2+ and Cu.
+4. Changing the stoichometric coefficients of a half-cell reaction does not affect the
+value of Eo
+red, because electrode potentials are intensive properties. This means
+that the value of Eo
+red is unaffected by the size of the electrodes or the amount
+of solutions present but is dependent on the concentration of the solutions and the
+pressure of a gas (if any).
+For example,
+I
+2(s) + 2e– → 2I– (1M); Eo
+red = +0.53 V
+but Eo does not change if we multiply the half-reaction by 2:
+2I2(s) + 4e– → 4I– (1M); Eo
+red = +0.53 V
+ 5. The sign of Eo
+red changes, but its magnitude remains the same when we reverse
+a reaction.
+6. The more positive the reduction potential, the greater the tendency to accept
+electrons. As a result, when two half-cells are coupled, the reaction with higher
+(more positive) reduction potential proceeds as reduction, while the other proceeds
+as oxidation.
+ELECTROCHEMISTRY (UNIT 4)
+195
+Example 4.9
+A Galvanic cell consists of a Mg electrode in 1.0 M Mg(NO3)
+2 solution and a
+Ag electrode in 1.0 M AgNO3 solution. Calculate the standard cell potential
+(emf) of this cell at 25°C.
+Solution:
+Using Table 4.2, it can be noticed that Ag+ will oxidize Mg:
+Anode (oxidation) : Mg(s) → Mg2+ (1 M) + 2e– ; Eo
+red = +2.37 V
+Cathode (reduction) : 2Ag+ (1 M) + 2e– → 2Ag(s); Eo
+red = +0.80 V
+Overall reaction : Mg(s) + 2Ag+ (1 M) → Mg2+ (1 M) + 2Ag(s)
+Eo
+cell = 2.37 V + 0.80 V = +3.17 V
+Note that, in order to balance the overall reaction, we multiplied the cathode
+reaction by 2. We can do so because, Eo
+red is an intensive property, which
+means it is not affected by this procedure. We can also find the Eo
+cell by using
+the principle stated in number 6 above.
+Ag+ (1.0 M) + e–→ Ag+(s), Eo
+red = +0.80 V (Cathode: higher reduction potential)
+Mg2+ (1.0 M) + 2e– → Mg(s), Eo
+red = – 2.37 V (Anode: lower reduction potential)
+Eo
+red = Eo
+red (cathode) – Eo
+red (anode)
+ = Eo
+red (Ag+/Ag) – Eo
+red (Mg2+/Mg)
+ = 0.80 V – (–2.37 V) = +3.17 V
+The positive value of Eo
+cell shows that the forward reaction is favoured.
+ Experiment 4.3
+Determination of Cell Potential of Daniell Cell
+Objective: To determine cell potential of Daniell cell and to identify the cathode
+and anode.
+Apparatus: Voltmeter, copper strip, zinc strip, 1 M ZnSO4, 1 M CuSO4, saturated
+KCl solution, two 100 mL beakers, U-tube, a fine sandpaper or file
+and cotton.
+CHEMISTRY GRADE 12
+196
+Zinc strip
+1 M ZnSO4
+Copper strip
+1 M CuSO4
+1.10 V
+1 M ZnSO4
+Zinc strip
+Voltmeter
+1 M CuSO4
+Copper strip
+Clip Clip
+Copper wire
+Salt bridge
+a Zinc half-cell b Copper half-cell
+c Setup of Galvanic cell
+Figure 4.9 Daniell Cell.
+Procedure:
+1. Fill each U-tube with saturated KCl and plug each end with cotton. Be sure not
+to trap of any air bubbles in the tube. The cotton also helps to prevent the
+leakage of KCl solution.
+2. Clean the metal strips (Zn and Cu) with a fine sandpaper or file, if needed.
+These strips are to be used as electrodes.
+3. Assemble a Zn half-cell as shown in Figure 4.9a. Dip one end of the Zn metal
+strip in a 50 mL of 1 M ZnSO4 in a 100 mL beaker. Then, attach one end of
+the copper wire with the strip of zinc and the other to terminal of a voltmeter.
+Do the same thing to construct the copper half-cell shown in Figure 4.9b.
+Connect the two half-cells using a salt bridge as shown in Figure 4.9c. Read the
+voltage and note the deflection of the voltmeter needle. Record your observations
+and give explanations for those observations.
+ELECTROCHEMISTRY (UNIT 4)
+197
+Results and discussion:
+1. What happens to the needle in the voltmeter when current flows in the external
+circuit? What does the deflection of needle indicate? Label the cathode and
+anode.
+2. Write the half-reactions at each half cells.
+3. Is there any colour change in the intensity of copper sulphate solution?
+4. What are the factors that affect cell potential?
+Exercise 4.9
+1. What is the standard emf (Eo
+cell) of a Galvanic cell which is made of a Cd
+electrode in a 1.0 M Cd(NO3)
+2 solution and a Cr electrode in a 1.0 M
+Cr(NO3)3 solution at 25°C?
+2. Given the following overall reaction,
+Cu2+(1 M) + Mg(s) → Cu(s) + Mg2+(1 M)
+a Sketch the Galvanic cell based on the reaction.
+b Identify the cathode and anode.
+c Show the direction of electron flow through the external circuit.
+4.5.4 Electromotive Force (emf)
+Activity 4.11
+Form a group. Discuss the following question.
+Why does water in a river flow downhill rather than uphill? How do you relate this
+concept to the movement of electrons in a wire? After the discussion, share your ideas
+with the rest of the class.
+When electrons move through a wire, they encounter resistance from localised atoms
+in their paths. The driving force that allows the electrons to overcome this resistance and
+move around the circuit is called electromotive force (emf).
+The electromotive force in a Galvanic cell comes from the redox reaction that pushes
+electrons from the anode to a cathode through the external circuit. Electrons on the
+negative electrode repel each other and have more potential energy than electrons on
+CHEMISTRY GRADE 12
+198
+the positive electrode. This potential difference causes electrons to flow through the
+external circuit from the negative terminal (anode) to the positive terminal (cathode).
+The energy of the moving electrons is used to overcome resistance in the external circuit,
+and it can be used to do various forms of electrical work. Energy that overcomes
+resistance appears as heat or as light emitted by a glowing filament. Electrical work is
+used for starting cars, running watches, radios, and computers etc.
+Electrical work (W) is the product of the emf of the cell and the total charge (in
+coulombs) that passes through the cell:
+W = Q × E
+where Q is the charge and E is electrical potential.
+Electrical energy = coulombs × volts = joules
+The total charge is determined by the number of moles of electrons (n) that pass through
+the circuit.
+By definition,
+Q = nF
+where F, the Faraday constant, is the total electrical charge contained in 1 mole of
+electrons.
+1 F = 96,500 C/mol e–
+Because 1 J = 1 C × 1 V,
+We can also express the unit of Faraday as 1 F = 96, 500 J/V. mol e–.
+The measured emf is the maximum voltage that the cell can achieve. This value is used
+to calculate the maximum amount of electrical energy that can be obtained from the
+chemical reaction. This energy is used to do electrical work (Wele), so
+Wmax = Wele = – nFEcell
+where, Wmax is the maximum amount of work that can be done.
+What does the negative sign indicate?
+The change in free energy (∆G) represents the maximum amount of useful work that
+can be obtained from a reaction.
+∆G = Wmax
+⇒ ∆G = Wmax = – nFEcell
+∆G = – nFEcell
+ELECTROCHEMISTRY (UNIT 4)
+199
+Both n and F are positive quantities, and ∆G is negative for a spontaneous process,
+so Ecell must be positive. Therefore, a positive Ecell value corresponds to a negative ∆G
+value, which is the condition for spontaneity.
+For standard state conditions,
+∆G° = – nFE°
+cell
+Now we can relate E°cell to the equilibrium constant (K) of a redox reaction. The
+standard free energy change, ∆G°, for a reaction is related to its equilibrium constant,
+as follows.
+∆G° = – RT ln K
+If we substitute ∆G° by – nFE°
+cell it becomes + nFE°
+cell = + RT ln K
+⇒ nFE°
+cell = RT ln K
+ E°
+cell = 
+RT
+nF
+ ln K
+When T = 298 K, the equation can be simplified by substituting for R and F.
+E°
+cell = 
+(8.134J/mol K) (298 K) 0.0257 V ln ln
+(96,500J/V mol)
+× K = K
+n n
+The natural logarithm (ln) is related to the common logarithm (log) as follows:
+ln x = 2.303 log x
+0.0257V 0.0592 V 2.303 log log     × =   K K
+n n
+Therefore, E°
+cell = 
+0.0592 V log . K
+n
+Thus, if any one of the three quantities ∆G°, K or E°cell is known, the other two
+quantities can be calculated, using the equations ∆G° = – RT ln K, ∆Go
+ = – nFE°cell
+or E°
+cell = – . ∆ ° G
+nF
+Let us summarize the relationships among ∆G°, K and E°
+cell and characterize the
+spontaneity of a redox reaction.
+CHEMISTRY GRADE 12
+200
+Table 4.3 Relationship among ∆Go, K and E°cell
+∆Go K Eo
+cell Reaction under standard state conditions
+Negative > 1 Positive Favours the formation of products.
+Zero = 1 Zero Reactants and products are equally favoured.
+Positive < 1 Negative Favours the formation of reactants.
+Example 4.10
+Calculate the equilibrium constant for the following reaction at 25°C.
+Sn(s) + 2Cu2+(aq) U Sn2+(aq) + 2Cu+(aq)
+Solution:
+The equilibrium constant (K) can be calculated, using the equation,
+ln K = 
+o
+cell o
+cell 0.0257 V
+0.0257 V
+   
+⇒   =
+nE
+nE K e
+The half-reactions are:
+Anode (oxidation) : Sn(s) → Sn2+ (aq) + 2e–
+Cathode (reduction) : 2Cu2+ (aq) + 2e– → 2Cu+(aq)
+From the above reaction and using Table 4.2, we can calculate the cell potential,
+E°
+cell = E°
+red (cathode) – E°
+red (anode)
+ = E°
+red (Cu2+/Cu+) – E°
+red (Sn2+/Sn)
+ = 0.15 V – (– 0.14 V) = +0.29 V
+E°cell is 0.29 V, and n = 2 (because 2 mol of electrons are consumed in the
+reaction), then,
+ln K = 
+o
+cell 2 0.29 V 22.6
+0.0257 V 0.0257 V
+× = = nE
+⇒ K= e22.6 = (2.72)22.6 = 7 × 109
+The reaction favours the products.
+ELECTROCHEMISTRY (UNIT 4)
+201
+Example 4.11
+Calculate the standard free-energy change for the following reaction at 25°C.
+2Au(s) + 3Ca2+ (1.0 M) → 2Au3+(1.0 M) + 3Ca(s)
+Solution :
+The relationship between the standard free energy change and the standard cell
+potential is given by ∆Go = – nFEo
+cell. First, let us determine Eo
+cell
+The half-reactions are:
+Anode (oxidation) : 2Au(s) → Au3+ (1.0 M) + 6e–
+Cathode (reduction) : 3Ca2+ (1.0 M) + 6e– → 3Ca(s)
+E°
+cell = E°red (cathode) – E°
+red (anode)
+E°
+cell = E°red (Ca2+/Ca) – E°
+red (Au3+/Au)
+= – 2.87 V – 1.50 V = – 4.37 V
+The overall reaction shows that n = 6 (6 moles of electrons are involved). Now
+we can calculate ∆G°, using the following equation:
+∆G° = – nFE°
+cell
+ = – 6 × (96500 J/V mol) × (– 4.37 V)
+ = 2.53 × 106 J/mol = 2.53 × 103 kJ/mol
+Therefore, the large positive value of ∆G° tells us that the reaction favours the
+reactants at equilibrium. The forward reaction is non-spontaneous, that is, gold
+cannot reduce calcium.
+Exercise 4.10
+By referring to Table 4.2, calculate ∆G° for the following reaction at 25°C.
+2Al3+(aq) + 3Mg(s) U 2Al(s) + 3Mg2+(aq)
+CHEMISTRY GRADE 12
+202
+4.5.5 Dependence of emf on Concentration
+What is the effect of changing the concentration of reactants on cell
+potential?
+A change in concentration affects the change of cell potential which is a result of free
+energy change. According to chemical thermodynamics
+∆G = ∆Go + RT ln Q
+Where, Q is the reaction quotient, and Q was used to calculate the effect of concentration
+on ∆G. Since ∆G = – nFEcell and ∆Go = – nFE o
+cell, the equation becomes
+– nFE cell = – nFE o
+cell + RT ln Q
+Dividing each side of the equation by – nF gives
+E = E o
+cell − ln RT Q nF
+This equation gives the relationship between the cell potential and the concentrations of
+the cell components and is called the Nernst equation.
+At 25°C:
+Ecell = o
+cell
+(8.314 J/mol K) (298 K) ln
+( ) (96, 500 J/V mol)
+× E − Q
+n
+Ecell = E o
+cell 
+0.0257 V − ln Q
+n
+or cell
+0.0592 E = − E° log Q
+n
+During the operation of a Galvanic cell, electrons flow from the anode to the cathode,
+resulting in product formation and a decrease in reactant concentration. Thus Q increases,
+which means that Ecell decreases. Eventually, the cell reaction reaches equilibrium. At
+equilibrium, there is no net transfer of electrons, so Ecell = 0 and Q = K, where K is
+the equilibrium constant.
+The above equation enables us to calculate Ecell as a function of reactant and product
+concentrations in a redox reaction. For monovalent ions ten-fold changes in concentration
+of solution will cause a change of 0.0592 volts and bivalent a change of 0.0592/2 volts.
+For example, for the Daniell cell,
+Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s), Eo
+cell = 1.10 V
+ELECTROCHEMISTRY (UNIT 4)
+203
+The equation for this cell at 25°C can be written as:
+Ecell = 
+2
+2
+0.0592 [Zn ] 1.1 V log 2 [Cu ]
++
++ −
+Note that the concentration of liquids and solids is constant and does not appear in
+the equilibrium constant expression. If the ratio [Zn2+]/[Cu2+] is less than 1, then
+log ([Zn2+]/[Cu2+]) is a negative number. Therefore, the second term on the right-hand
+side of the preceding equation is positive. Under this condition, Ecell is greater than
+the standard cell potential. If the ratio is greater than 1, Ecell is smaller than Eo
+cell.
+Example 4.12
+Predict whether the following reaction would proceed spontaneously, as written
+at 298 K, given that [Co2+] = 0.15 M and [Fe2+] = 0.68 M :
+Co(s) + Fe2+(aq) → Co2+(aq) + Fe(s)
+Solution :
+Because the reaction is not run under standard state conditions (concentrations
+are not 1 M), we need the equation to calculate the emf (Ecell) of Galvanic cell.
+The standard emf (E°cell) can be calculated, using the standard reduction potentials
+in Table 4.2.
+The half-cell reactions are
+Anode (oxidation) : Co(s) → Co2+(aq) + 2e–
+Cathode (reduction) : Fe2+(aq) + 2e– → Fe(s)
+Eo
+cell = Eo
+red(cathode) – Eo
+red(anode)
+ = Eo
+red (Fe2+/Fe) – Eo
+red (Co2+/Co)
+ = – 0.44 V – (– 0.28 V) = – 0.16 V
+Using the equation,
+Ecell = o
+cell
+0.0257 V E − ln Q
+n
+ = 
+2
+o
+cell 2
+Co 0.0257 V ln
+Fe
++
++
+    −    
+E
+n
+CHEMISTRY GRADE 12
+204
+Activity 4.12
+ = 
+0.0257 V 0.15 0.16 V ln
+2 0.68
+  − −    
+ = – 0.16 V + 0.019 V = – 0.14 V
+The reaction is not spontaneous in the direction written. Why?
+Exercise 4.11
+1. Will the following reaction occur spontaneously at 25°C, given that [Fe2+] =
+0.60 M and [Cd2+] = 0.010 M? (Hint: Use the Nernst equation)
+Cd(s) + Fe2+ → Cd2+ (aq) + Fe(s)
+2. Complete the following table. State whether the cell-reaction is spontaneous,
+non-spontaneous, or at equilibrium.
+E ∆G Cell reaction
+> 0
+> 0
+= 0
+4.5.6 Batteries
+Form a group. Discuss the following questions, and share your idea with other groups.
+1. What are the advantages of batteries?
+2. When do we say a battery is "dead"?
+3. Collect some used and disposed batteries;
+i classify them as:
+a primary battery or secondary battery.
+b dry cell or alkaline battery etc.
+ii Identify the parts of the batteries, which you have collected.
+iii Describe the type of electrodes as well as physical and chemical nature of the
+electrolyte present in each battery.
+Caution! Wear gloves while collecting the disposed batteries.
+ELECTROCHEMISTRY (UNIT 4)
+205
+A battery is a Galvanic cell, or a series of combined Galvanic cells, that can be used as a
+source of direct current at a constant voltage.
+The principal advantages offered by batteries are convenience and portability, rather
+than efficient use of energy.
+Based on their rechargeability, we can classify batteries as primary and secondary.
+Primary batteries use redox reactions that cannot be returned to their original
+state by recharging, so when the reaction is complete, the batteries become
+“dead” and must be discarded. Secondary batteries are often called storage
+batteries, or rechargeable batteries. The reactions in these batteries can be
+reversed, which means that the batteries can be recharged. They have the advantage
+of being more cost-efficient in the long term although the individual batteries are
+more expensive.
+PROJECT 4.1
+Go to a nearby automobile garage and ask the garage mechanic:
+1. about working of car battery;
+2. how do they come to know whether a car battery needs recharging;
+3. what components serve as electrolyte, anode and cathode in a car battery?
+Write the project report and submit it to your teacher.
+In this section, you will learn the various types of batteries that are widely used.
+The Dry Cell Battery
+Activity 4.13
+In your Grade 10 chemistry, you have learnt about dry cell batteries. Form a group. Discuss
+the following questions, and share your idea with other groups.
+1. What are the components that serve as electrolyte, anode and cathode in a dry cell?
+2. For a dry cell, write the:
+a oxidation half-reaction,
+b reduction half-reaction, and
+c overall reaction.
+CHEMISTRY GRADE 12
+206
++
+–
+Paper spacer
+Layer of MnO2
+Zinc anode
+Graphite cathode
+Moist paste of
+ZnCl and NH Cl 2 4
+Figure 4.10 The interior section of a dry cell battery.
+The voltage produced by a dry cell is about 1.5 V. The LeClanchè cells are widely
+used because of their low cost, but they have several disadvantages. If the current is
+drawn from the battery very rapidly, the gaseous products cannot be consumed
+immediately. As a result, the cell resistance increases and the voltage drop. In addition,
+since an ammonium ion is a weak conjugate acid, the zinc electrode and ammonium ion
+react very slowly. Because of this reaction, these voltaic cells cannot be stored indefinitely.
+You have probably learned from experience that, when the zinc outer cover deteriorates,
+the electrolyte can leak out and damage the flashlight or other appliances in which it
+contained.
+Alkaline Battery
+Alkaline batteries are more expensive than LeClanchè batteries. Why? They can generate
+current up to 50% longer than the same size of dry cell batteries. The chemistry of
+alkaline cells is quite similar to that of LeClanchè cells, except that the material inside
+the cell is basic or alkaline. Alkaline cells use the oxidation of zinc and reduction of
+MnO2
+ to generate a current, but NaOH or KOH is used in the cell instead of the acidic
+salt NH4Cl.
+Anode : Zn(s) + 2OH–(aq) → ZnO(s) + H2O(l) + 2e–
+Cathode : 2MnO2(s) + H2O(l) + 2e– → Mn2O3(s) + 2OH–(aq)
+Write the overall balanced chemical equation.
+The additional advantage of alkaline cells is that the cell potential does not decline under
+high current loads, because no gases are formed.
+ELECTROCHEMISTRY (UNIT 4)
+207
+Mercury cells are alkaline cells that are typically used in calculators, cameras, watches
+and other devices. The anode in a mercury cell is again metallic zinc, but the cathode
+is mercury (II) oxide.
+Anode : Zn(s) + 2OH–(aq) → ZnO(s) + H2O(l) + 2e–
+Cathode : HgO(s) + H2O(l) + 2e– → Hg(s) + 2OH–(aq)
+Write the overall balanced chemical equation.
+The cell produces 1.35 V. These cells are widely used, but their disposal is an
+environmental problem, and there are ongoing efforts to phase them out. Mercury and
+its compounds are poisonous. So, mercury batteries should be reprocessed to recover
+the metal at the end of their useful lives.
+Nickel-Cadmium Battery
+Because dry cells are not rechargeable, they have to be replaced frequently. The nickelcadmium battery is rechargeable and especially is used in battery-operated tools and
+portable computers.
+The cadmium metal serves as the anode, and the NiO2(s), which is reduced to
+Ni(OH)2(s), serves as the cathode. The cell reactions are:
+Anode : Cd(s) + 2OH–(aq) U Cd(OH)2(s) + 2e–
+Cathode : NiO2(s) + 2H2O(l) + 2e– U Ni(OH)2(s) + 2OH–(aq)
+Overall reaction : NiO2(s) + Cd(s) + 2H2O(l) U Ni(OH)2(s) + Cd(OH)2(s)
+The solid reaction products, Ni(OH)2 and Cd(OH)2, adhere to the electrodes. This
+permits the reactions to be readily reversed during charging.
+The Lead Storage Battery
+The lead storage battery commonly used in automobiles consists of six identical cells
+joined together in series. This is an example of a secondary rechargeable cell. The
+reactions within the cell can be reversed. Each cell has a lead anode and a cathode
+made up of lead oxide (PbO2) packed on a metal plate.
+Both the cathode and the anode are immersed in an aqueous solution of sulphuric acid
+which acts as the electrolyte. Figure 4.11 depicted the typical lead storage battery. The
+cell reactions are:
+Anode : Pb(s) + SO4
+2– (aq) U PbSO4(s) + 2e–
+Cathode : PbO2(s) + 4H+ (aq) + SO4
+2– (aq) + 2e– U PbSO4(s) + 2H2O(l)
+Overall reaction : Pb(s) + PbO2
+(s) + 4H+ (aq) + 2SO4
+2– (aq) U 2PbSO4
+(s) + 2H2O(l)
+CHEMISTRY GRADE 12
+208
+Activity 4.14
+Activity 4.15
+Anode
+Cathode
+Removable cap
+H SO electrolyte 2 4
+Negative plates
+(lead grills
+filled with
+spongy lead)
+Positive plates
+(lead grills filled
+with PbO )2
+Figure 4.11 Interior section of a lead storage battery.
+Under normal operating conditions, each cell produces 2 V. Therefore a total of 12 V
+is supplied by the six cells. Lead storage battery is used to power the ignition circuit
+of automobile and other electrical systems. The lead storage battery can deliver large
+amounts of current in short time, such as the time it takes to start up the engine. The
+lead storage battery is rechargeable.
+Form a group. Discuss the chemical reactions occurring at the cathode and anode during
+the charging of the car battery. Do these reactions differ from the reactions occurring
+during discharge of the battery? Share your idea with the class.
+Form a group. Discuss the following:
+The electrolyte in a discharged lead storage battery freezes at higher temperature than a
+fully charged battery. Explain this observation to your class.
+ELECTROCHEMISTRY (UNIT 4)
+209
+Fuel Cells
+What makes a fuel cell different from other types of batteries?
+Fossil fuels are major sources of energy, but the conversion of fossil fuel into electrical
+energy is a highly inefficient process.
+Consider the combustion of methane:
+CH4(g) + 2O2(g) → CO2(g) + 2H2O(l) + Energy
+To generate electricity, heat produced by the reaction is first used to convert water to
+steam, which then drives a turbine that drives a generator. A significant fraction of the
+energy released in the form of heat is lost to the surroundings at each step. Even the
+most efficient power plants convert only about 40% of the original chemical energy into
+electricity. Because combustion reactions are redox reactions, it is more desirable to
+carry them out directly by electrochemical means, thereby greatly increasing the efficiency
+of the power production. This objective can be accomplished by a device known as a
+fuel cell.
+A fuel cell is a Galvanic cell that requires a continuous supply of reactants to keep
+functioning. In its simplest form, a hydrogen-oxygen fuel cell consists of an electrolyte
+solution such as sodium hydroxide solution, and two inert electrodes. The hydrogen
+and oxygen gases are bubbled through the anode and cathode compartments. See
+Figure 4.12.
+e–
+Cathode
+e–
+Porous carbon
+electrode
+containing Ni
+and NiO
+Porous carbon
+electrode
+containing Ni
+H2 O2
+Anode
+Hot KOH solution
+Oxidation Reduction
+2H (g) + 4OH (aq) 4H O(l) + 4e O (g) + 2H O(l) + 4e 4OH (aq) 2 22 2
+–– – –
+Figure 4.12 A Hydrogen-oxygen fuel cell.
+CHEMISTRY GRADE 12
+210
+The reactions are
+Anode : 2H2(g) + 4OH–(aq) → 4H2O(l) + 4e–
+Cathode : O2(g) + 2H2O(l) + 4e– → 4OH–(aq)
+Overall reaction : 2H2(g) + O2(aq) → 2H2O(l)
+The standard cell potential, can be calculated using the data from Table 4.2.
+E°cell = E°red (cathode) – E°red (anode)
+= 0.40 V – (– 0.83 V)
+= +1.23 V
+Thus, the cell reaction is spontaneous under standard state conditions. Note that the reaction
+is the same as the hydrogen combustion reaction, except that the oxidation and reduction
+are carried out separately at the anode and the cathode. Unlike batteries, fuel cells do not
+store chemical energy. Reactants must be continuously supplied, and products must be
+continuously removed from a fuel cell.
+Exercise 4.12
+1. Explain the difference between a dry cell and a lead storage battery.
+2. Write the reactions that occur at the cathode and anode during the charging of a
+lead storage battery.
+3. a What is the electrolyte in a dry cell?
+ b Write the half-reactions for the reducing and oxidizing agents in a dry cell.
+4.5.7 Corrosion of Metals
+What are the causes of corrosion?
+Corrosion is the term usually applied to the deterioration of metals by an electrochemical
+process. It causes enormous damage to buildings, bridges, ships, and cars.
+Can you give more examples of materials that can be damaged by corrosion
+from your environment?
+Corrosion reactions are redox reactions in which a metal is attacked by some substance in
+its environment and is converted to an unwanted compounds. For nearly all metals, oxidation
+in air is a thermodynamically favourable process at room temperature. If the oxidation
+process is not inhibited, it can be very destructive. However, oxidation can also result in
+ELECTROCHEMISTRY (UNIT 4)
+211
+the formation of an insulating protective oxide layer that prevents further reaction of the
+underlying metal. For example, on the basis of the standard reduction potential for Al3+,
+we would expect aluminium metal to be readily oxidized. The exceptional stability of this
+metal in air is due to the formation of a thin protective coat of oxide (a hydrated form of
+Al2O3) on the surface of the metal. The oxide coat is impermeable to the passage of O2 or
+water and so protects the underlying metal from further corrosion. Magnesium metal is
+similarly protected.
+Corrosion of Iron
+The most familiar example of corrosion is the rusting of iron. Oxygen gas and water must
+be present for iron to rust. Although the reactions involved are quite complex and not
+completely understood, the main steps are believed to be as follows:
+A region of the metal's surface serves as the anode, where oxidation occurs.
+Anode : Fe(s) → Fe2+ (aq) + 2e– ;
+The electrons given up by iron reduce atmospheric oxygen to water at the cathode, which
+is another region of the same metal surface.
+Cathode : O2(g) + 4H+(aq) + 4e– → 2H2O(l);
+The overall reaction is
+2Fe(s) + O2(g) + 4H+(aq) → 2Fe2+(aq) + 2H2O(l)
+With data from Table 4.2, we find the standard emf for this process:
+E°cell = E°red (cathode) – E°red (anode)
+ = 1.23 V –(–0.44 V)
+ = +1.67 V
+Note that this reaction occurs in an acidic medium, and the H+ ions are supplied, in part, by
+the reaction of atmospheric carbon dioxide with water to form H2CO3.
+Can you write the dissociation of carbonic acid in water?
+The Fe2+ ions formed at the anode are further oxidized by oxygen:
+4Fe2+(aq) + O2(g) + (4 + 2x) H2O(l) → 2Fe2O3. xH2O(s) + 8H+(aq)
+CHEMISTRY GRADE 12
+212
+Activity 4.16
+This hydrated form of iron (III) oxide is known as rust. The amount of water associated
+with the iron oxide varies, so we represent the formula as Fe2O3.xH2O. Figure 4.13
+shows the mechanism of rust formation.
+Why does rusting of iron occur rapidly in salt water?
+Rust deposit
+(Fe O · H O) 2 3 x 2
+Air
+Water O2
+e–
+Anode Cathode
+Iron
+Fe2+
+Fe3+
+Figure 4.13 Corrosion of iron in contact with oxygen.
+The electrical circuit is completed by the migration of electrons and ions.
+Exercise 4.13
+1. Define corrosion.
+2. Explain the negative effects of corrosion.
+3. Aluminium does not rust as iron does. Why?
+Prevention of Corrosion
+Form a group and discuss each of the following questions. After the discussion, share your
+ideas with the other groups.
+1. List the methods that help to prevent the rusting of iron.
+2. What is common in all methods of preventing the rusting of iron?
+ELECTROCHEMISTRY (UNIT 4)
+213
+Activity 4.17
+Form a group and discuss the following:
+1. What does sacrificial anode mean?
+2. Which of the following metals are suitable for uses as sacrificial anodes to protect
+against corrosion of underground iron pipes? If any are not suitable, explain why.
+Al, Pb, Mn, Mg and Cd.
+3. What is the role of magnisum in the Figure 4.14?
+4. Write chemical reactions occuring during protection of iron pipes, using magnisum as
+anode.
+5. Would you advise to replace a section of damaged iron pipe with copper pipe? Explain?
+6. Explain why galvanized iron, which contains a thin coating of zinc metal, corrodes
+much more slowly than iron.
+After discussion, share your idea with rest of the class.
+Ground level
+Soil
+electrolyte
+Water pipe,
+the cathode
+Insulated
+copper wire
+Soldered
+connection
+30 cm
+Magnesium
+anode
+Figure 4.14 Protection of iron using magnesium.
+Unit Summary
+• Oxidation is loss of electrons, and reduction is gain of electrons.
+• A reduced substance is an oxidizing agent and an oxidized substance is a
+reducing agent.
+CHEMISTRY GRADE 12
+214
+• Redox reactions are balanced, using the oxidation number change method
+or the ion- electron method.
+• Metals can conduct electricity because they have delocalized electrons, and
+electrolytes can also conduct electricity, due to the presence of free ions.
+• In the electrolytic cell, electrical energy is used to bring about a chemical
+change.
+• The cathode is the electrode at which reduction takes place and the anode is
+the electrode at which oxidation takes place.
+• In an electrolytic cell, the anode is positive and the cathode is negative. In
+Galvanic cells, the electrode polarity is reversed.
+• The preferential discharge of ions is affected by the nature of the electrodes,
+the position of the ions in the electrochemical series and the concentration
+of the ions in the electrolyte.
+• In the electrolysis of molten sodium chloride, sodium is discharged at the
+cathode, and chlorine is released at the anode. But, in the electrolysis of
+concentrated brine solution, hydrogen is discharged at the cathode, and
+chlorine is discharged at the anode.
+• In the electrolysis of dilute sodium chloride solution and dilute sulphuric
+acid solution, hydrogen gas discharges at the cathode and oxygen gas
+discharges at the anode.
+• The Faraday's Laws are used to calculate the amount of substance deposited
+or liberated at the cathode or anode during electrolysis.
+• Some of the applications of electrolysis are electroplating, electrorefining
+and extraction of metals and non-metals.
+• A Galvanic cell is a device in which chemical energy is transformed to
+electrical energy.
+• A salt bridge preserves the electroneutrality of a solution.
+• A cell notation allows us to describe a Galvanic cell without drawing a
+diagram. The anode is written on the left and the cathode on the right.
+• Cell potential is the difference between the electrode potentials of the cathode
+and anode

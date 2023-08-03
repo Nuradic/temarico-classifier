@@ -1,0 +1,2033 @@
+Polymers are macro (large) molecules made from smaller repeating units called
+monomers. Hence, monomers are the building blocks of polymers. A polymer might
+be made from identical monomers or different types of monomers. Homopolymers are
+made from only one type of monomer. For example, polyethylene is synthesized by
+the polymerization of one type monomer, ethene (ethylene).
+nCH = CH 2 2 CH – CH 2 2
+n
+— —
+Ethene (ethylene)
+(monomer) Polyethylene
+(homopolymer)
+Catalyst
+Assume that 2000 students are standing in the school play ground and each student is
+treated as a monomer unit of polyethylene. The students are asked to hold the hands of
+each other in a linear fashion. In this way, the students will form a linear chain of
+polyethylene molecule. Calculate the molecular mass of the polyethylene molecule, using
+this analogy.
+Copolymers are prepared by polymerizing more than one kind of monomer unit. For
+instance, ethene (H2C=CH2) and propene (H2C=CH–CH3) can be copolymerized to
+produce a polymer that has two kinds of repeating units:
+nCH =CH + CH =CH–CH 22 2 3 m
+copolymer
+Catalyst
+monomer monomer
+CH –CH 2 2
+n
+— — CH –CH 2
+m
+—
+CH3
+Copolymers are classified as random or regular, based on the way the monomers are
+arranged along the polymer chain (Figure 6.1.).
+Activity 6.1
+ CHEMISTRY GRADE 12
+264
+Random polymers contain repeating units arranged in a random fashion. Regular
+polymers contain a sequence of monomers in regular alternating repeating units.
+—————————— ABBAAABAA Random copolymer
+—————————— ABABABABA Regular copolymer
+where, A and B represent monomer units.
+Figure 6.1 Random and regular copolymers.
+On the basis of their source, polymers are classified as synthetic and natural. Natural
+polymers, as their name indicates, are found in nature. For example, proteins,
+carbohydrates, nucleic acids and natural rubber are natural polymers. You will study
+them in the last section of this unit.
+Synthetic polymers are man–made polymers. Most synthetic polymers are organic
+compounds. Some of the examples are nylon, polyester (Dacron), Teflon, Bakelite,
+polyethylene, and polyvinyl chloride.
+Can you list more examples of synthetic and natural polymers?
+Exercise 6.1
+1. Define each of the following terms:
+ a monomer d copolymer
+b polymer e natural polymer
+c homopolymer f synthetic polymer
+2. List examples of natural and synthetic polymers in daily life.
+3. Classify each of the following polymers as natural or synthetic:
+a wool f polyvinyl chloride
+b dacron g bakelite
+c insulin h glycogen
+d teflon i DNA
+e cellulose
+4. Draw the structure of the copolymer of:
+HO–CH2CH2–OH and HOOC–CH2CH2–COOH.
+POLYMERS (UNIT 6)
+265
+ 6.2 POLYMERIZATION
+After completing this subunit, you will be able to:
+• explain polymerization;
+• mention the two types of polymerization;
+• explain how addition polymerization takes place; and
+• explain how condensation polymerization takes place.
+Polymerization is the process by which monomer units combine together to form
+polymers. Polymerization can be carried out either through addition polymerization or
+condensation polymerization.
+Perform the following activity. Then, share your ideas with the rest of the class.
+a Distinguish between addition and condensation reactions.
+b Prepare list of monomers used in polymerization and have a look at their structures
+and functional groups. Explain their special features that allow them to form large
+molecules.
+6.2.1 Addition Polymerization
+Addition polymerization requires a large number of monomer molecules which can be
+polymerized by addition reactions. This type of polymerization is also known as chaingrowth polymerization.
+For example, the addition polymerization of many ethylene molecules yields
+polyethylene and that of styrene molecules gives polystyrene.
+nCH = CH 2 2 CH — CH 2 2
+n
+— —
+Ethylene Polyethylene
+Catalyst
+HC CH2
+n
+Catalyst
+CH — CH2
+n
+— —
+Styrene Polystyrene
+Activity 6.2
+ CHEMISTRY GRADE 12
+266
+Note that the molecular formula of a polymer is n times that of the monomer and
+upon polymerization, the double bond is converted to a single bond.
+C C —C—C—
+Note also that, if a polymer is given, you can identify the monomer unit that is
+repeated in it.
+Example 6.1
+The addition polymer polyvinyl chloride (PVC) has the structure
+H H
+H Cl
+—C—C—C—C—C—C—
+H H H H
+H H Cl Cl
+a Draw the structure of the monomer from which PVC is made.
+b How many monomer units are in a PVC polymer that has a molar mass of
+1.33 × 105 g/mol?
+ Solution:
+a We need to find the repeating unit from which this polymer chain is
+constructed
+H H
+H Cl
+— C — C —— C — C —— C — C —
+H H H H
+H H Cl Cl
+The repeating unit is 
+H H
+H Cl
+—C—C— , and the monomer has carbon-carbon
+double bond.
+POLYMERS (UNIT 6)
+267
+b To find the number of monomer units, we have to divide the molar mass of
+the polymer (PVC) by the molar mass of monomer.
+The molar mass of the monomer CH2
+CHCl is calculated as follows:
+Number of monomer units = Molar mass of the polymer
+Molar mass of the monomer
+= 
+5 1.33×10 g/mol 2128
+62.5 g/mol =
+C = 12 × 2 = 24
+H = 1 × 3 = 3
+Cl = 35.5 × 1 = 35.5 = 62.5 g/mol
+Which means that 2128 vinyl chloride molecules combine to form the polymer.
+6.2.2 Condensation Polymerization
+Condensation polymerization involves the combination of monomer molecules, with the
+elimination of simple molecules like water. This polymerization is also known as step
+growth polymerization. In order to produce a condensation polymer, the monomers
+involved must have two or more functional groups.
+Can you give examples of condensation polymers?
+Consider what happens when an alcohol with two –OH groups, HO–R –OH, reacts
+with a dicarboxylic acid, HOOC–R¢–COOH. In this case the ester formed still has a
+reactive group at both ends of the molecule.
+HO – R – O H + HO – C – R´– C – OH
+H O2
+O O
+Dihydroxy alcohol Dicarboxylic acid
+HO – R – O – C – R´– C – OH + H O2
+Ester with active
+end groups
+O O
+The COOH group at one end of the ester molecule can react with another alcohol
+molecule. This process can continue, leading eventually to a long-chain polymer
+containing large number of ester groups.
+ CHEMISTRY GRADE 12
+268
+The general structure of the polyester can be represented as
+—C—R´ —C—O—R—O—C—R´ —C—O—R—O—
+O O O O
+Section of the polyester
+Example 6.2
+Polyethylene terephthlate or Dacron is prepared from ethylene glycol
+(HO–CH2–CH2–OH) and terephthalic acid.
+a Write the structural formula of the ester that formed when one molecule of
+ethylene glycol reacts with one molecule of terephthalic acid.
+b Draw a section of polyethylene terephthalate.
+Solution :
+a
+H O2
+O O
+— C — OH
+HO — CH — CH — O — C — 2 2
+O O
+— C — OH + H O2
+b
+— O — CH — CH — O — C — 2 2
+O O O O
+Exercise 6.2
+1. Draw the structures of the monomers that would be used to make the
+following polymers.
+a —C—
+O O
+— C — O — (CH ) — O — 2 2
+POLYMERS (UNIT 6)
+269
+b
+H H
+Cl Cl
+—C—C—C—C—C—C—
+H H H H
+Cl ClCl Cl
+H
+H H
+—N—C—C—N—C—C—
+H
+O H O
+2. Consider a polymer made from tetrachloroethylene.
+a Draw a portion of the polymer chain.
+b What is the molar mass of the polymer if it contains 3.2 × 103
+tetrachloroethylene?
+c Calculate the percentage of C and Cl in the polymer?
+6.3 SYNTHETIC POLYMERS
+After completing this subunit, you will be able to:
+• give examples of addition polymers;
+• tell the monomers of each of the given addition polymers;
+• explain common uses of addition polymers;
+• give examples of condensation polymers;
+• tell the monomers of each of the given condensation polymers;
+• explain the uses of these condensation polymers: nylon, polyester and Bakelite;
+• describe thermoplastics and thermosetting polymers; and
+• give examples of thermoplastics and thermosetting polymers.
+During the 1800s, scientists began to chemically modify natural polymers to produce
+new substances. The first semi-synthetic polymer produced was Bakelite in 1909. You
+will study the preparation and uses of Bakelite in this subunit. In 1911, Bakelite was
+followed by rayon, the first synthetic fiber. Despite these important developments, it
+was not until World War II that significant changes took place in the polymer industry.
+Since then, the polymer industry has continued to evolve as one of the fastest growing
+industries in the world.
+c
+ CHEMISTRY GRADE 12
+270
+6.3.1 Addition Polymers
+Form a group and discuss each of the following questions:
+1. What problems do you think are arising with the rapid development of synthetic
+polymers?
+2. What necessary steps should be taken to protect the environment from synthetic
+polymers?
+After the discussion, share your ideas with the rest of the class.
+Discuss the following question in a group:
+Usually ethene is obtained from petroleum by cracking. An alternative source of ethene is
+to make it from ethanol, which is obtained by fermentation. Why do you think that this
+is a feasible alternative in Ethiopia at the moment? Write an equation to show the
+synthesis of ethene from ethanol.
+After the discussion, share your ideas with the rest of the class.
+Polyethylene
+Have you observed polyethylene materials in your surrounding?
+Polyethylene is a polymer made by the addition polymerization of ethylene.
+n C C
+H H
+H H
+H H
+H H
+——— C C
+n
+Ethylene (Ethene) Polyethylene
+Catalyst
+where, n is a very large number.
+Polyethylene has no taste or odour and is lightweight, nontoxic and relatively cheap.
+Some of its primarily uses are in making squeeze bottles, plastic wrapping, garment
+bags, trash bags and electrical insulation.
+Polyethylene trash bags Squeeze bottle (wash bottle) Polyethylene tube
+Figure 6.2 Some polyethylene materials.
+Activity 6.3
+POLYMERS (UNIT 6)
+271
+Polypropylene
+The monomer of polypropylene is propylene (propene). It is produced by the addition
+polymerization of propylene.
+n C C
+H CH3
+H H
+Propylene (propene)
+H CH3
+H H
+——— C C
+n
+Polypropylene
+Catalyst
+Polypropylene is stronger than polyethylene. It is used for making food containers that
+can safely be washed in a dishwasher. It can also be used for making ropes, fishing
+nets, carpets, and bottles.
+Polypropylene rope Polypropylene carpet Polypropylene bottles
+Figure 6.3 Some polypropylene products.
+Polyvinyl Chloride (PVC)
+Form a group. Discuss the following questions. After the discussion, share your ideas with
+other groups.
+1. Draw the structure of vinyl chloride.
+2. Write a chemical equation that shows the preparation of vinyl chloride from acetylene
+and hydrogen chloride.
+3. Write a chemical equation that indicates the polymerization of vinyl chloride to
+polyvinyl chloride.
+Activity 6.4
+ CHEMISTRY GRADE 12
+272
+Polyvinyl chloride is the third most widely produced plastic, after polyethylene and
+polypropylene. It is commonly used for making pipes, leather-like materials, shoes,
+raincoats, aprons, wallpaper, floor tile, and phonograph records.
+PVC pipes PVC floor tile PVC raincoat
+Figure 6.4 Some polyvinyl chloride products.
+Exercise 6.3
+1. Write the molecular formula and structure of monomers of each of the
+following polymers.
+H H
+H H
+——— C C
+n
+H CH3
+H H
+——— C C
+n
+H Cl
+H H
+——— C C
+n
+a bc
+2. Describe major uses of:
+a polyethylene b polypropylene c polyvinyl chloride
+3. Make a list of materials in your home made of PVC.
+4. What is the basic structural difference between low density polyethylene
+(LDPE) and high density polyethylene (HDPE)?
+Polymethyl methacrylate (Perspex)
+Polymethyl methacrylate, PMMA, is sold under the trade name Lucite or plexiglass. It
+is prepared by the polymerization of methyl methacrylate.
+POLYMERS (UNIT 6)
+273
+n CH2 C — C — O — CH3
+CH3
+O
+Catalyst
+C
+— —— CH C 2
+n
+CH3
+O O — CH3
+Polymethyl methacrylate
+(Lucite or Plexiglass)
+Methyl methacrylate
+Note that acrylic acid is the common name of 2-propenoic acid, CH2
+=CHCOOH
+PMMA is a lightweight glass-like polymer used as a glass substitute for example, in
+airplane windows and streetlights.
+PMMA as airplane window PMMA as reflector in streetlight
+ Figure 6.5 Some polymethyl methacrylate materials.
+Polytetrafluoroethylene, PTFE, Teflon
+Teflon is prepared by the addition polymerization of tetrafluoroethylene.
+F F
+F F
+——— C C
+n
+Polytetrafluoroethylene (Teflon)
+n C C
+FF
+FF
+Tetrafluoroethylene
+Catalyst
+Teflon has good resistance to chemical attack, and it can be used at any temperature
+between –73°C and 260°C with no effect on its properties. It also has a very low
+ CHEMISTRY GRADE 12
+274
+coefficient of friction, which makes it waxy or slippery to touch. As a result, it is
+particularly suited to applications in food preparation. For example, bread dough does
+not stick to a Teflon-coated surface. Teflon is used for coating cooking utensils and
+for making electrical insulation.
+Teflon coated dish Teflon tape
+Figure 6.6 Some Teflon materials.
+Polystyrene
+Make a list of some materials made of polystyrene. Discuss with your classmates, the
+physical and chemical behaviour of polystyrene and PVC.
+Polystyrene is produced by the addition polymerization of styrene. It is one of the
+most widely used polymers. For example, it is used for making packing materials
+especially for impact-absorbent. Its other uses include preparing CD and DVD cases,
+toys, flowerpots and architectural models.
+Polystyrene used for Polystyrene CD case Architectural model of
+packing a cup building, using Styrene
+Figure 6.7 Some Polystyrene Materials.
+Activity 6.5
+POLYMERS (UNIT 6)
+275
+6.3.2 Condensation Polymers
+Nylons
+Nylons are polyamides. They can be produced by the condensation reaction of
+diacids and diamines. One of the most common polyamides is nylon 66. It is a
+copolymer and is prepared by the condensation of 1,6-diaminohexane (hexamethylene
+diamine) and 1,6-hexanedioic acid (adipic acid). The basic amine reacts with the acid
+to form a salt. Heating removes water and forms the amide bonds.
+O O
+n n HO — C — (CH ) — C — OH + H N — (CH ) — NH 2 4 2 2 6 2
+Adipic acid Hexamethylene diamine
+Nylon 66 (the numbers indicate there are six carbon atoms each in hexamethylene
+diamine and adipic acid).
+O
+—— —— — — — CHO (CH ) C NH (CH ) NH H + (2 – 1) H O 2 4 2 6 n 2
+O
+n
+Heat
+ There are hydrogen bondings between the polymer chains.
+Hydrogen bonding
+Hydrogen bonding
+H
+H
+H
+N
+N
+N
+C
+C
+C
+O
+O
+O
+Uses of nylon include making parachutes, ropes, clothes, stockings, hair combs, and
+rugs. They are also used to reinforce automobiles tires.
+ CHEMISTRY GRADE 12
+276
+Nylon cloth Nylon rug Stockings
+Figure 6.8 Some nylon materials.
+Polyester (Polyethylene terephthalate or Dacron)
+Dacron is a copolymer and is formed when equimolar amounts of 1, 4-benzene
+dicarboxylic acid (terephthalic acid) and 1, 2-ethanediol (ethylene glycol) react.
+n HO — C —
+O
+— C — OH + HO — CH CH — OH n 2 2
+O
+Terephthalic acid Ethylene glycol
+Polyethylene terephthalate (PET)
+O
+— —CHO 
+O
+n
+— C — O — CH2CH2 —O—H + (2 – 1) H O + (2 – 1) n H O2
+Heat
+Dacron is a strong and impact resistant. It is colourless and has high transparency. It
+is mainly used for synthetic fibers. Mixing it with various amounts of cotton gives
+fabrics that are durable, easily dyed and crease-resistant. It is also used for making
+bottles and packaging materials.
+Dacron cloth (Polyester) Dacron wrap
+Figure 6.9 Some Dacron materials.
+POLYMERS (UNIT 6)
+277
+ Experiment 6.1
+Synthesis of Nylon
+Objective: To prepare nylon and study its properties.
+Apparatus and Chemicals: 250 ml beakers, dropping funnel, glass rod, forceps
+or copper wire hooks, 0.5 M basic solution of hexamethylenediamine , 0.5 M
+NaOH solution and adipoyl chloride.
+Caution: Wear gloves while doing this experiment.
+Procedure:
+1. Place 5 mL of Solution A in a small beaker.
+Solution A: Prepare a 0.5 M basic solution of hexamethylenediamine (or 2,6
+– diaminohexane, H2N(CH2)
+6(NH2
+) as follows: weigh 6 g of hexamethylene
+diamine in a large beaker and dilute to 100 mL with 0.5 M NaOH solution.
+2. Place 5 mL of Solution B in a second beaker.
+Solution B: Weigh 5 g of adipoyl chloride and dissolve in 100 mL of
+cyclohexane.
+3. Slowly add solution B to solution A using dropping funnel, pouring it down
+the side of the slanted beaker. Do not stirr the mixture of solution A and
+solution B.
+4. Nylon will form at the interface of the two solutions.
+5. Draw a thread out of the interface using a forceps or a copper wire hook,
+and draw the thread out of the beaker using glass rod as a pool and slowly
+windup the thread as you draw it out.
+6. After nylon has been collected, wash it thoroughly with water, dry it
+superficially with towel then let it dry.
+Results and discussion
+1. Why the two solutions are not able to mix?
+2. Why is adipoyl chloride used instead of adipic acid?
+ CHEMISTRY GRADE 12
+278
+Exercise 6.4
+1. Write the structure of the following polymers and also indicate the monomer
+units involved in the formation of these polymers.
+ a Nylon 66 b Dacron
+2. Describe the major uses of nylons and polyethylene terephthalate.
+3. Kevlar is used in bulletproof vests. The structure of Kevlar is:
+Which monomers are used to make Kevlar?
+4. Nomex is used in fire-resistant clothing. It is a copolymer of:
+draw the structure of the Nomex polymer.
+5. How do Kevlar and Nomex differ in their structure?
+Bakelite
+The monomers of Bakelite are phenol and formaldehyde. The reaction between
+phenol and formaldehyde is not a simple reaction. The reaction takes place in the
+presence of an acid or a base as a catalyst.
+The chemical representation of the reaction is:
+OH O
++ H—C—H acid
+or base
+Phenol Formaldehyde
+HO
+OH OH
+Bakelite
+POLYMERS (UNIT 6)
+279
+Bakelite has been used for making rotary-dial telephones, whistles, billard balls,
+dominos, chess, checkers, porcelain etc.
+Bakelite chess pieces Bakelite phone Bakelite purses
+Figure 6.10 Bakelite products.
+Thermoplastics and Thermosetting Polymers
+What is the basic difference between thermoplastics and thermosetting
+polymers?
+Based on their response to heat, polymers can be divided into two groups:
+thermoplastics and thermosetting plastics.
+Thermoplastics soften on heating and can be moulded into different shapes. They
+become hard on cooling. The process of heating and cooling can be repeated many
+times without causing any change in their properties. For example, polyethylene,
+polypropylene, polyvinyl chloride, Teflon, polymethyl methacrylate, nylon and
+polyester (Dacron) are thermoplastics.
+Thermosetting plastics can be moulded into different shapes by heating and they
+become hard when cooled. However, once solidified and set they cannot be softened
+or remoulded by heating. For example, Bakelite is a thermosetting plastic.
+What makes this difference?
+Thermoplastics consist of linear or slightly branched molecules which do not
+chemically bond with each other when heated. Instead, the polymer molecules are
+held together by weak Van der Waals forces. In contrast, thermosetting plastics
+consist of chain molecules that chemically bond, or cross-link, with each other when
+heated.
+ CHEMISTRY GRADE 12
+280
+Which forces are stronger, Van der Waals forces or covalent bonds? Why?
+Thermoplastic materials can be recycled, whereas thermosetting cannot.
+What are the advantages of recycling?
+Table 6.1 Difference between thermoplastics and thermosetting plastics.
+Thermoplastics Thermosetting plastics
+• On heating, they do not soften and • On heating, they soften readily and
+can be reshaped and reused several once shaped cannot be remoulded
+times. again.
+• They are generally long chain linear • They have three dimensional crosspolymers. linked structure
+• They are generally weak, soft and less • Thermosetting plastics are hard, strong,
+. brittle. and brittle
+• They can be recycled. • They cannot be recycled.
+Exercise 6.5
+1. What are the monomers of Bakelite?
+2. Write the major uses of Bakelite.
+3. Explain the difference between thermoplastics and thermosetting polymers,
+using examples.
+4. What makes thermoplastic materials recyclable, whereas thermosetting ones
+are not?
+Impacts of Synthetic Polymers on Environment
+1. Collect some discarded plastic materials and identify the materials of which these
+items are made. Discuss the impact of these materials on the environment. Share your
+ideas with the rest of your classmates.
+2. What should be done to alleviate the problems caused by plastics?
+Activity 6.6
+POLYMERS (UNIT 6)
+281
+It is common to use plastic bags to carry materials that we buy from supermarkets or
+shops.
+If you discarded plastic materials to the environment, what problems would
+they cause to the environment?
+Synthetic polymers or plastics are extensively used throughout the world. Although
+they are very important for humans, there are many environmental concerns about
+their use. Study of fields like environmental science and environmental chemistry
+are mainly concerned with protecting the environment.
+The production of plastic produces substantial amounts of toxic chemicals (e.g.
+ethylene oxide, benzene and xylenes) to air and water. Many of the toxic
+chemicals released in plastic production can cause cancer and birth defects and
+damage the nervous system, blood, kidneys and immune systems. These chemicals
+can also cause serious damage to environment.
+Direct disposal (littering or dumping) and incineration (burning) of these wastes is
+a common practice. Each is harmful to the health of people and the environment.
+For example, dumping plastic wastes in urban drainage systems pollutes water
+courses and causes flooding. When these water bodies are contaminated, they
+carry disease into the household. The burning of plastics encourages airborne
+pollution, the majority of which is extremely toxic and can cause a host of health
+problems (cancer, asthma, etc.). Although landfilling and recycling reduce the
+waste problem, each has considerably negative consequences: landfills leak and
+often contaminate the ground water with toxic liquids and residues. Recycling of
+plastic is associated with skin and respiratory problems, resulting from exposure
+to and inhalation of toxic fumes, especially hydrocarbons and residues released
+during the process.
+One of the features that we value in plastics, their durability, is also a problem for
+us. When plastics are disposed into the environment, they remain there for a very
+long time, degrading very slowly, and continue to pollute our environment.
+ CHEMISTRY GRADE 12
+282
+Figure 6.11 Plastics discarded to the environment.
+Exercise 6.6
+1. What are the major problems caused by plastics?
+2. Is there any relationship between durability of plastics and pollution? Explain
+your answer.
+6.4 NATURAL POLYMERS
+After completing this subunit, you will be able to:
+• give examples of addition polymers;
+• describe natural rubber;
+• tell the monomer of natural rubber;
+• explain vulcanization;
+POLYMERS (UNIT 6)
+283
+• explain the use of natural rubber;
+• give three examples of synthetic rubber;
+• explain the uses of synthetic rubbers;
+• compare and contrast synthetic and natural rubber;
+• define the term carbohydrate;
+• describe monosaccharide;
+• draw the structures of monosaccharides;
+• give examples of monosaccharides and disaccharides;
+• describe disaccharides;
+• draw the structures of disaccharides;
+• describe polysaccharides;
+• draw the structure of starch and cellulose;
+• explain the difference between starch, glycogen and cellulose;
+• define the terms amino acid, peptide and protein;
+• describe the structure of amino acids;
+• explain how proteins are formed; and
+• list types of proteins.
+Natural polymers are found in nature. They are mainly produced by plants and
+animals.
+Prepare a list of natural polymers found in the environment and in human body. Classify
+them as condensation polymer or addition polymer. Then, share your ideas with your
+classmates.
+Note that most synthetic polymers have been made only since 1909. However, natural
+polymers appeared on the earth about a million years ago. In addition, the number of
+Activity 6.7
+ CHEMISTRY GRADE 12
+284
+natural polymers is almost constant, but number of new synthetic polymers is growing
+very fast.
+6.4.1 Natural Rubber
+Natural rubber is obtained from rubber tree. The monomer of natural rubber is
+isoprene or 2-methyl-1,3-butadiene.
+n — — CH C 2
+CH3
+n CH2 C CH — CH2
+CH3
+CH CH — —2
+Isoprene Natural rubber
+Since isoprene has two double bonds, it retains one of the double bonds after
+polymerization reaction. Natural rubber has the cis-configuration of methyl groups.
+C C
+H C3 H
+H C2 CH2
+C C
+H C3 H
+CH2 CH2
+C C
+H C3 H
+CH2 CH2
+Rubber is an example of elastomer type of polymer, in which the polymer can return
+to its original shape after being stretched. Natural rubber is a soft and sticky solid.
+Rubber softens in hot weather and gets hard in cold weather. It is soluble in organic
+solvents such as carbon disulfide, petrol, ether and so on.
+The properties of natural rubber are improved by introducing cross linkages between
+its polymer chains. This can be achieved by heating natural rubber with sulphur. This
+process is known as vulcanization. Vulcanization establishes cross-links between linear
+polymer chains.
+HC—C 2
+CH3
+CH — CH — CH — CH — CH — CH — C 2 2 CH — CH —2
+CH3 CH3
+S
+S
+H2C—C
+CH3
+CH — CH — CH — CH — CH — CH — C 2 2 CH — CH —2
+CH3 CH3
+S
+S
+POLYMERS (UNIT 6)
+285
+Vulcanized rubber has the following properties.
+* It is hard and nonsticky.
+* It has higher elasticity, which occurs over a higher range of temperature.
+* It has high tensile strength.
+* It is insoluble in solvents.
+* It is not oxidized readily .
+6.4.2 Synthetic Rubber
+Synthetic rubber is produced either by the polymerization of conjugated dienes in the
+presence of a catalyst or by copolymerization of conjugated dienes with other olefinic
+compounds.
+Neoprene
+Neoprene is a polymer of 2-chloro-1,3-butadiene and is obtained by addition
+polymerization.
+n
+H C2 — — CH C 2 n C CH — CH2 CH CH — —2
+Cl Cl
+Chloroprene (2-chloro-1,3-butadiene) Neoprene (polychloroprene)
+Neoprene is a linear thermoplastic polymer. Because of its resistance to chemicals, it
+is used for making hoses for chemicals, petrols, and oils.
+Styrene Butadiene Rubber (SBR)
+It is a copolymer of styrene with butadiene.
+n H C2 =CH — CH + H C = CH2 m 2 =
+n
+— — CH2 CH =
+Styrene
+CH CH — CH2 —— — — CH2 CH
+m
+1,3-Butadiene Styrene-butadiene rubber
+It is vulcanized in a similar manner as natural rubber. This rubber is superior to natural
+rubber with regard to mechanical strength. Its primary application is in the manufacture
+of tires and other mechanical goods.
+ CHEMISTRY GRADE 12
+286
+Butyl Rubber
+Butyl rubber is a polymer made by the polymerization of 2-methylpropene
+(isobutylene) with 1-2% of 2-methyl-1,3-butadiene (isoprene).
+CH3
+2-methylpropene Isoprene (2-methyl-1,3-butadiene)
+n m CH + CH 3 2 — C CH2 C — CH CH2
+CH3
+Butyl Rubber
+— C — —— — C CH CH 2 2
+n
+CH3
+CH3
+CH3
+C CH — —2
+m
+Exercise 6.7
+1. What are the monomers of
+a natural rubber? c SBR?
+b neoprene? d butyl rubber?
+2. What is vulcanization of rubber and how does it affect the properties of
+rubber?
+3. What are the major uses of neoprene and SBR ?
+6.4.3 Carbohydrates
+Carbohydrates are compounds that contain carbon, hydrogen and oxygen. Green
+plants produce carbohydrates by photosynthesis. In this process, carbon dioxide from
+air and water from the soil are the reactants and sunlight absorbed by chlorophyll is
+the energy source.
+CO2 + H2O + solar energy chlorophyll plant enzymes → carbohydrate + O2
+Earlier, carbohydrates that were purified and analysed had molecular formulas that
+corresponds to CnH2nOn or Cn(H2O)n. As a result, they were considered to be
+"hydrates of carbon" or carbohydrates. However, examination of the structures of
+POLYMERS (UNIT 6)
+287
+carbohydrates shows that this view is inaccurate. Even though this definition is no
+more used, the name carbohydrate is still used.
+Today, carbohydrates are defined as polyhydroxy aldehydes, polyhydroxy ketones or
+compounds that yield such substance upon hydrolysis. For example, glucose is a
+polyhydroxy aldehyde, and fructose is a polyhydroxy ketones.
+CHO
+H C OH — —
+Aldehyde group
+HO C H — —
+H C OH — —
+H C OH — —
+CH OH 2
+Glucose (Polyhydroxy aldehyde)
+HO C H — —
+H C OH — —
+H C OH — —
+CH OH 2
+Fructose (Polyhydroxy ketone)
+CH OH 2
+C O Ketone group
+Carbohydrates are classified on the basis of their acid-catalyzed hydrolysis products
+as monosaccharide, disaccharides and polysaccharides.
+a Monosaccharides
+Monosaccharides, or simple sugars, are carbohydrates that cannot be hydrolyzed into
+smaller compounds. Monosaccharides with three to seven carbon atoms are found in
+nature. A three-carbon monosaccharides is called a triose, and those that contain four,
+five and six carbon atoms are called tetroses, pentoses, and hexoses, respectively.
+Monosaccharides are classified as aldoses and ketoses based on the carbonyl group
+present.
+Aldoses are monosaccharides that contain an aldehyde functional group. Ketoses are
+monosaccharides that contain a ketone functional group.
+Monosaccharides are often classified by both their number of carbon atoms and their
+functional group.
+A six-carbon monosaccharide with an aldehyde functional group is an aldohexose. A
+five-carbon monosaccharide with a ketone functional group is a ketopentose.
+Monosaccharides are also often called sugars. The word sugar is associated with
+“sweetness” and most monosaccharides have a sweet taste. Both monosaccharides
+and disaccharides are called sugars.
+ CHEMISTRY GRADE 12
+288
+The simplest aldotriose and ketotriose are glyceraldehyde and dihydroxylacetone.
+Glyceraldehyde
+(Aldotriose)
+C—H
+H C OH — —
+CH OH 2
+O
+Dihydroxylacetone
+(Ketotriose)
+CH OH 2
+C O
+CH OH 2
+The most common monosaccharides are glucose, galactose, fructose and ribose.
+Glucose and galactose are aldohexoses, fructose is a ketohexose, and ribose is
+aldopentose. All four of these monosaccharides are water soluble, white and
+crystalline solids.
+O
+— 1
+C H
+HO C H — — 3
+H C OH — — 4
+6
+CH OH 2
+Glucose (Aldohexose)
+H C OH — — 2
+H C OH — — 5
+O
+— 1
+C H
+HO C H — — 3
+6
+CH OH 2
+Galactose (Aldohexose)
+H C OH — — 2
+H C OH — — 5
+HO C H — — 4
+HO C H — — 3
+H C OH — — 4
+6
+CH OH 2
+Fructose (ketohexose)
+2
+C O
+H C OH — — 5
+1
+CH OH 2
+Ribose (Aldopentose)
+O
+— 1
+C H
+H C OH — — 3
+H C OH — — 4
+5
+CH OH 2
+H C OH — — 2
+Note that glucose and galactose differ only in the configuration of the – OH group
+and – H group on carbon-4. Glucose is the most abundant monosaccharide in nature.
+It is called blood sugar because blood contains dissolved glucose. Its concentration in
+the blood ranges from 70-100 mg per 100 ml of blood. Cells use this glucose as a
+primary energy source.
+In the human body, galactose is synthesized from glucose in the mammary glands for
+use in lactose (milk sugar). Fructose is the sweetest-tasting of all sugars and is found
+in many fruits. It is also present in honey, in equal amounts with glucose.
+From the third to the sixth carbon the structure of fructose is identical to that of
+glucose. Differences at carbons 1 and 2 are related to the presence of a ketone
+functional group in fructose and of an aldehyde functional group in glucose.
+POLYMERS (UNIT 6)
+289
+HO C H — — 3
+H C OH — — 4
+6
+CH OH 2
+2
+C O
+H C OH — — 5
+1
+CH OH 2 1
+CHO
+H C OH — — 2
+HO C H — — 3
+H C OH — — 4
+6
+CH OH 2
+H C OH — — 5
+Same structure
+Fructose Glucose
+Ribose is a component of ribonucleic acid (RNA) and adenosine triphosphate (ATP).
+The compound 2-deoxyribose is a component of deoxyribonucleic acid molecules
+(DNA). The prefix deoxy indicates that the oxygen at carbon-2 is removed.
+CHO
+H C OH — —
+H C OH — —
+CH OH 2
+H C OH — —
+Ribose
+CHO
+HCH — —
+H C OH — —
+CH OH 2
+H C OH — —
+2-Deoxyribose
+Oxygen is removed
+Experimental evidence indicates that, for monosaccharides containing five or more
+carbon atoms, their open-chain structures are in equilibrium with two cyclic structures
+and the cyclic structures are the dominant forms at equilibrium. The cyclic forms of
+monsaccharides result from the ability of their carbonyl group to react intramolecularly
+(within the molecule) with the hydroxyl group. The result is a cyclic hemi-acetal or
+cyclic hemi-ketal.
+If a six member ring is formed, it is called pyranose. The pyranose ring is formed by
+the reaction of the –OH group on carbon-5 with the carbonyl group on carbon-1.
+Is there any structural similarity between Pyran and Pyranose?
+ CHEMISTRY GRADE 12
+290
+The name pyranose is derived from pyran, which is the name of the six-member
+heterocyclic ether.
+O
+Pyran
+O
+— 1
+C H
+HO C H — — 3
+H C OH — — 4
+6
+CH OH 2
+H C OH — — 2
+H C OH — — 5
+Appear above
+the ring
+Form cycle
+Appear below
+the ring
++
+-Glucopyranose
+Anomeric
+carbon
+1
+C
+H
+2
+C OH down ( ) 
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+HO C3
+H
+H
+-Glucopyranose
+C1
+OH
+H
+up ( ) 
+Anomeric
+carbon
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+HO C3
+H
+H
+If the –OH attached to anomeric carbon is below the ring or down, we use α and
+when –OH is above the ring, we use β. Galactose, like glucose, forms a six
+membered ring, but both fructose and ribose form a five-member ring sugar called
+furanose. This name derived from furan, which is the name of five-member
+heterocyclic ether.
+Furan
+O
+The furanose ring is formed by the reaction of the –OH group on C–5 with the
+carbonyl group on C–2.
+POLYMERS (UNIT 6)
+291
+HO — C — H 3
+H — C — OH 4
+6
+CH OH 2
+Fructose
+1
+CH OH 2
+2
+C
+O
+5
+C
+C4 3C
+6
+CH OH 2
+H
+OH
+1
+CH OH 2
+H
+OH
+OH
+H
+2
+C
+O
+5
+C
+C4 3C
+H
+OH
+6
+CH OH 2
+H OH
+1
+CH OH 2
+OH
+H
++
+up ( ) 
+-Fructofuranose -Fructofuranose
+down ( ) 
+2
+C O
+H — C — OH 5
+Exercise 6.8
+1. Are carbohydrates “hydrates of carbon”? Explain your answer.
+2. Classify each of the following monosaccharides by its number of carbon atoms
+and its type of carbonyl group.
+HO C H — —
+H C OH — —
+CH OH 2
+CH OH 2
+C O
+CHO
+H CH O— —
+H C OH — —
+CH OH 2
+CHO
+H C OH — —
+CH OH 2 CH OH 2
+CH OH 2
+C O
+a bc d
+3. Write the cyclic forms of galactose and ribose.
+4. Write the molecular formula of ribose, glucose, galactose and fructose.
+5. What are reducing sugars? Which of the following monosaccharides behave as
+reducing sugars?
+a Glucose c Galactose
+b Fructose d Ribose
+ CHEMISTRY GRADE 12
+292
+b Disaccharides
+They are dimers made up of two monosaccharide molecules. The monosaccharides
+may be either the same or different. The monosaccharides are joined by glycosidic
+linkage between anomeric carbon of one monosaccharide and the – OH group of the
+other.
+The most glycosidic linkage is between the 4-hydroxyl group of one monsaccharide
+and the α or β position of the anomeric carbon. This kind of linkage is called α-1,4-
+or β-1,4-glycosidic linkage or bond depending on the configuration at the anomeric
+carbon atom.
+Maltose
+Maltose, often called malt sugar, is produced whenever the polysaccharide starch
+breaks down. This happens when seed germinates in plants and during starch
+digestion in human beings.
+Maltose is made of two glucose units, one of which must be α-glucose and the other
+can be α or β glucose. Note that since the orientation of OH at carbon-1 is either α
+or β, we represent it by ( OH).
++
+-Glucopyranose
+H
+O H 2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+HO C3
+H
+H
+C1 OH
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+1
+C 4
+C H
+H
+OH
+OH C3
+H
+H
+  or -Glucopyranose
+Maltose
+-1,4-Glycosidic linkage
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O OH
+1
+C OH + H O2
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+1
+C 4
+C H
+H
+OH
+C3
+H
+H
+POLYMERS (UNIT 6)
+293
+The glycosidic linkage between the two glucose units is called an α-1, 4- linkage. The
+two –OH groups that form the linkage are attached, respectively, to carbon-1 of the
+first glucose unit (in the α-configuration) and to carbon-4 of the second glucose
+unit.
+Cellobiose
+Like maltose, cellobiose contains two glucose units. It differs from maltose in that the
+glycosidic linkage is β-1,4-linkage.
+-1,4-Glycosidic linkage
+1
+C
+2 H C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+OH C3
+H
+H O 2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+1
+C
+Cellobiose
+H
+OH + H O2
++
+-Glucopyranose   or -Glucopyranose
+H
+O H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+OH C3
+H
+H
+1
+C
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+1
+C 4
+C H
+H
+OH
+OH C3
+H
+H
+OH
+Maltose and cellobiose have different biological behaviors. Maltase, the enzyme that
+breaks the glucose-glucose α-1,4-linkage present in maltose, is found both in the
+human body and yeast. As a result, maltose is digested easily by humans and is
+readily fermented by yeast. Both the human body and yeast lack the enzyme
+cellobiase needed to break the glucose-glucose β-1,4-linkage of cellobiose.
+Therefore, cellobiose cannot be digested by humans or fermented by yeast.
+ CHEMISTRY GRADE 12
+294
+Lactose
+Lactose is made up of a β-galactose unit and an α or a β glucose unit joined by a β1,4-linkage.
+-1,4-Glycosidic linkage
+1
+C
+2 H C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+H C3
+H
+OH O 2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+1
+C
+Lactose
+H
+OH + H O2
++
+-Galactopyranose   or -Glucopyranose
+H
+O H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+OH
+C3
+H
+H
+1
+C
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+1
+C 4
+C H
+H
+OH
+OH C3
+H
+H
+OH
+Lactose is the major sugar found in milk. The souring of milk is caused by conversion
+of lactose to lactic acid by bacteria in the milk.
+Sucrose
+Sucrose, common table sugar, is the most abundant of all the disaccharides. The two
+monosaccharide units in sucrose molecule are α-glucose and β-fructose. The
+glycosidic linkage is α, β-1,2-linkage. The –OH group on carbon-2 of β-fructose
+reacts with the –OH group on carbon-1 of α-glucose.
+POLYMERS (UNIT 6)
+295
+-Fructofuranose
+2
+C
+O 5
+C
+C4 3C
+H
+OH
+6
+CH OH 2
+H
+OH
+1
+CH OH 2
+OH
+H
++ H O2
+O + HO2
+Sucrose
+2
+C
+O
+5
+C
+C4 3C
+H
+OH
+6
+CH OH 2
+H 1
+CH OH 2
+OH
+H
+-Glucopyranose
+1
+C
+H
+2
+C O H
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+OH C3
+H
+H
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+OH C3
+H
+H
+Sucrose is commercially produced from the juice of sugar cane and sugar beets.
+Exercise 6.9
+1. What monosaccharides are produced from the hydrolysis of the following
+disaccharides?
+a sucrose c lactose
+b maltose d cellobiose
+2. What type of glycosidic linkage is present in the following disaccharides?
+a sucrose c lactose
+b maltose d cellobiose
+3. Write the molecular formula of:
+a sucrose c lactose
+b maltose d cellobiose
+4. In making candy, sucrose is boiled in water with little acid, such as lemon
+juice.
+a What is the purpose of adding the lemon juice?
+b Why does the product mixture taste sweater than the starting sucrose
+solution?
+ CHEMISTRY GRADE 12
+296
+c Polysaccharides
+Are polysaccharides condensation polymers or addition polymers?
+Polysaccharides are polymers. They consist of a large number of monosaccharide
+units bonded together by glycosidic bonds. The three important polysaccharides, all
+made up of glucose units, are cellulose, starch and glycogen.
+Are polysaccharides homopolymers or copolymers?
+Cellulose
+Cellulose is the most abundant polysaccharide. It is the structural component of the
+cell walls of plants. Structurally, cellulose is a linear (unbranched) glucose polymer in
+which the glucose units are linked by β-1,4-glycosidic bonds.
+Cellulose
+-1,4-Glycosidic linkage
+1
+C
+2 H C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+O
+H O 2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+1
+C
+H
+O
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+1
+C
+H
+O 2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+1
+C
+H
+O
+-1,4-Glycosidic linkage
+-1,4-Glycosidic linkage
+Cellulose is not a source of nutrition for humans because humans lack the enzyme
+cellulase which can hydrolyze the β-1,4-glycosidic bonds and produce free glucose
+from cellulose.
+However, animals such as horses, cows and sheep contain bacteria in their intestine
+that produce cellulase and produce free glucose from cellulose. Thus, grasses and
+other plant materials are sources of nutrition for these animals. Cotton is composed of
+pure cellulose. The cotton fibre forms around the seeds of the cotton plant as
+indicated in Figure 6.12 and is designed to help carry the seeds long distances on the
+POLYMERS (UNIT 6)
+297
+wind so that the plant can distribute itself. It is the most widely used natural-fibre for
+clothing.
+Figure 6.12 Cotton.
+1. Give examples of synthetic fibres used for clothing that were developed on principles
+learned from carbohydrates.
+2. What is the simplest method to differentiate woollen fibre from a cotton fibre?
+Starch
+Starch is used for energy storage in plants. If excess glucose enters a plant cell, it is
+converted to starch and stored for later use.
+Starch can be separated into two principal polysaccharides, amylose and amylopectin.
+Amylose is a straight-chain glucose polymer and accounts for 20-25% of starch. The
+glucose units in amylose are connected by α-1,4-glycosidic bonds. The number of
+glucose units present in amylose chain depends on the source of the starch.
+Activity 6.8
+ CHEMISTRY GRADE 12
+298
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O
+-1,4-Glycosidic linkage
+O
+Starch (Amylose)
+Amylopectin is a highly branched glucose polymer, which accounts for 75-80% of
+starch. Similar to the case in amylose, all the linkages in amylopectin are α-linkages.
+A branch occurs in amylopectin about once in every 25-30 glucose units. The branch
+points involve α-1,6-linkages. Because of the branching, amylopectin has a large
+average molecular mass than the linear amylose.
+Starch (Amylopectin)
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH2
+4
+C H
+H
+OH
+C3
+H
+H
+O
+-1,4-Glycosidic linkage
+O
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+C3
+H OH
+H
+1
+C
+H
+2
+C
+O 5
+C
+OH
+6
+CH OH 2
+4
+C H
+H
+OH
+C3
+H
+H
+O O -1,6-Glycosidic linkage
+OH
+Note that all of the glycosdic linkages in starch (both amylose and amylopectin) are
+of the α-type. In amylose, they are all α-1,4-linkages and in amylopectin both α-1,4
+and α-1,6-likages are present.
+Glycogen
+It is a glucose storage polysaccharide in humans and animals. It is called animal
+starch. Liver cells and muscle cells are the storage sites for glycogen in humans.
+POLYMERS (UNIT 6)
+299
+Like amylopectin, glycogen units are joined by α-1,4- and α-1,6-glycosdic bonds.
+However, glycogen is about three times more highly branched than amylopectin.
+When excess glucose is present in the blood, the liver and muscle tissues convert the
+excess glucose to glycogen, which is then stored in these tissues. If the glucose blood
+level decreases, some stored glycogen is hydrolyzed back to glucose.
+Exercise 6.10
+1. Describe the structural differences and similarities between the following pairs
+of polysaccharides:
+a glycogen and amylopectin c amylose and cellulose
+b amylose and amylopectin d amylose and glycogen
+2. Match each of the following structural characteristics to the polysaccharides.
+You can use the characteristics in column B more than once.
+Column A Column B
+i Amylopectin A Contains both α-1,4-and α-1,6-glycosidic linkages
+ii Amylose B Composed of glucose monosaccharide units
+iii Glycogen C Composed of unbranched glucose chains
+iv Cellulose D Contains only β-1,4-glycosidic linkage
+3. Humans can digest starch but not cellulose. Why?
+6.4.4 Proteins
+What are proteins?
+The name protein comes from the Greek word “proteios” which means “primary”.
+This indicates the relative importance of these compounds. All proteins contain
+carbon, hydrogen, oxygen and nitrogen. Many proteins also contain sulphur.
+Proteins are made by the polymerization of the twenty naturally occurring amino acids.
+An amino acid is a compound that contains both an amino (–NH2) group and a
+carboxylic acid (–COOH) group.
+The amino acids found in proteins are always α-amino acids (the amino group is
+attached to the carbon atom adjacent to the carboxyl group).
+ CHEMISTRY GRADE 12
+300
+The structural formula for an α-amino acid is:
+R
+NH2 — —C COOH
+H
+side chain
+-carbon
+amino group
+carboxyl group
+The R group present in an α- amino acid is called the amino acid side chain. The
+nature of this side chain distinguishes α- amino acids from each other. Based on the
+side chain polarity, amino acids can be grouped into four categories:
+1. Nonpolar amino acids;
+2. Polar neutral amino acids;
+3. Polar acidic amino acids; and
+4. Polar basic amino acids.
+Nonpolar amino acids
+Nonpolar amino acids contain one amino group, one carboxyl group, and a nonpolar
+side chain. When they are incorporated into a protein, these amino acids are
+hydrophobic or “water-fearing” and are not attracted to water molecules. They are
+generally found on the interior of proteins, where there is limited contact with water.
+There are eight nonpolar amino acids.
+H
+H N2 — —C COOH
+H
+Glycine (Gly, G)
+H N2 — —C COOH
+H
+Alanine (Ala, A)
+CH3
+Valine (Val, V)
+H C3 — CH
+H
+CH3
+H N2 — —C COOH
+Leucine (Leu, L)
+H3C CH —
+CH3
+H N2 — —C COOH
+H
+CH2
+Isoleucine (Ile, l)
+H C3 — CH
+CH3
+H N2 — —C COOH
+H
+CH2
+Methionine (Met, M)
+S
+H N2 — —C COOH
+H
+CH2
+CH2
+CH3
+POLYMERS (UNIT 6)
+301
+H
+H N2 — —C COOH
+CH2
+Phenylalanine (Phe, F)
+C
+N
+H C2
+H
+COOH
+H C2 CH2
+Proline (Pro, P)
+H
+Note that either three letters or one letter can represent each amino acid.
+Polar neutral amino acids
+What will happen if polar neutral amino acids are incorporated into a
+protein?
+Polar neutral amino acids contain one amino group, one carboxyl group, and a side
+chain that is polar but neutral. There are seven polar neutral amino acids.
+Serine (Ser, S)
+CH2
+H
+OH3
+H N C COOH 2 — —
+Crysteine (Cyst, C)
+CH2
+H
+SH
+H N C COOH 2 — —
+Threonine (Thr, T)
+CH — OH
+H
+CH3
+H N C COOH 2 — —
+Tryptophan (Trp, W)
+CH2
+H
+H N C COOH 2 — —
+NH
+C
+H N C COOH 2 — —
+CH2
+Asparagine (Agn, N)
+O NH2
+H
+H N C COOH 2 — —
+CH2
+Glutamine (Gln, Q)
+H
+C
+CH2
+O NH2
+Tyrosine (Tyr, Y)
+CH2
+H
+H N C COOH 2 — —
+OH
+Polar acidic amino acids
+Polar acidic amino acids contain one amino group and two carboxyl groups. The
+second carboxyl group is part of the side chain. There are two polar acidic amino
+acids.
+ CHEMISTRY GRADE 12
+302
+C
+H N2 — —C COOH
+CH2
+Aspartic acid (Asp, D)
+O OH
+H
+H N2 — —C COOH
+CH2
+Glutamic acid (Glu, E)
+H
+C
+CH2
+O OH
+Polar basic amino acids
+Polar basic amino acids contain two amino groups and one carboxyl group. The
+second amino group is part of the side chain. There are three polar basic amino acids.
+Histidine (His, H)
+CH2
+H
+H N2 — —C COOH
+HN
+N
+H N2 — —C COOH
+Arginine (Arg, R)
+C NH
+H
+NH
+CH2
+NH2
+CH2
+CH2
+H N2 — —C COOH
+Lysinee (Lys, K)
+H
+CH2
+NH2
+CH2
+CH2
+CH2
+Exercise 6.11
+1. Which of the following structures represents a-amino acids?
+H
+H N2 — —C COOH
+CH3
+H N2 — —C C — COOH
+H
+HH
+H
+H N CH 2 2 — —C
+CH3
+COOH H
+H N2 — —C COOH
+CH2
+CH3
+a
+c
+b
+d
+H
+POLYMERS (UNIT 6)
+303
+2. Give two examples for each of the following amino acids, together with their
+structures.
+a Nonpolar amino acids c Polar acidic amino acids
+b Polar neutural amino acids d Polar basic amino acids
+Physical Properties of Amino Acids
+Amino acids have the following properties.
+i) They have high melting points.
+ii) They are colourless crystalline substances.
+iii) They are soluble in water but insoluble in nonpolar solvents.
+Thus, they resemble ionic compounds. This occurs due to the fact that amino acids
+contain both an acid (–COOH) and a base (–NH2) functional groups. These acids
+and basic groups react with each other to form a dipolar ion or internal salt. The
+dipolar ion of an amino acid is called zwitterion.
+A zwitterion has no net charge.
+R
+H N C C — OH 2 — —
+H
+O R
+HN C C—O 3
++ — — –
+H
+O
+Zwitterion form
+A zwitterion structure changes when the pH of a solution containing an amino acid is
+changed from neutral either to acidic (low pH), by adding an acid such as HCl, or to
+basic (high pH), by adding a base such as NaOH. In acidic solution, the zwitterion
+accepts a proton (H+) to form a positively charged ion.
+R
+H N3 3 — — + HO + – + — —C COO
+H
+R
+H N C COOH 3
++ — —
+H
+Zwitterion (no net charge) Positively charged ion
+ + H2O
+In a basic solution, the – NH3
++ of zwitterion loses a proton, and a negatively charged
+species is formed.
+ CHEMISTRY GRADE 12
+304
+R
+H N3 — — + OH + – –
+— —C COO
+H
+Zwitterion (no net charge)
+R
+H N C COO 2 — — –
+H
+Negatively charged ion
++ H2O
+Thus, in a solution, three different amino acid forms can exist (zwitterion, negative
+ion, and positive ion).
+The three species are in equilibrium with each other and the equilibrium shift with pH
+change.
+R
+H N3
++ — —C COOH
+H
+Acidic solution (low, ) pH
+R
+H N C COO 2 — — –
+H
+Basic solution (high ) pH
+OH
+H O
+–
++
+3
+R
+H N3
++ — — –
+— —C COO
+H
+Neutral solution ( = 7) pH
+OH
+H O
+–
++
+3
+In acidic solution, the positively charged species on the left predominates. Nearly
+neutral solutions have the middle species (the zwitterion) as the dominant species. In
+basic solution, the negatively charged species on the right predominates.
+Peptide Bond Formation
+Form a group and discuss each of the following questions.
+1. Why amino acids form zwitterions?
+2. How many different tripeptides can be obtained by various combinations of three
+amino acid residues?
+3. How do amino acids join together to form proteins?
+4. What type of polymerization is it?
+5. What are the differences between different proteins?
+After the discussion, share your ideas with the rest of the class
+A peptide (amide) is a bond formed between the carboxyl group of one amino acid
+and the amino group of another amino acid.
+If two amino acids are allowed to react, the carboxyl group of one amino acid reacts
+with the amino group of the other amino acid. The products are a molecule containing
+the two amino acids linked by an amide bond or a peptide bond and water.
+Activity 6.9
+POLYMERS (UNIT 6)
+305
+R1
+H N C C OH + H N C COOH 2 ——— ———
+H
+O
+H H
+R2
+Amide or peptide bond
+H N — C — C — N — C — COO HN—C—C N—C— 2 2 — COOH + H O H + H O
+H
+OR1
+H H
+R2
+A compound containing two amino acids joined by a peptide bond is called a
+dipeptide. Either end of the dipeptide can undergo a condensation reaction with
+another amino acid to form a tripeptide, tetrapeptide and so on.
+Recall that, in the preparation of nylon 66, adipic acid contains two acid functional
+groups and hexamethylene diamine contains two amine functional groups.
+A polypeptide is a sequence of amino acids, containing up to 50 amino acid units, in
+which the amino acids are joined together through amide (peptide) bonds. Proteins
+are polypeptides that contain more than 50 amino acid units.
+Are proteins condensation polymers or addition polymers? Which small
+molecule is mostly expelled in the synthesis of protein?
+Proteins have many functions, as shown in Table 6.2.
+Table 6.2 Some Functions of Proteins.
+Type of protein Example Function
+Enzymes amylase Promotes the breakdown of starch
+to the simple sugar glucose.
+Structural proteins keratin, collagen Promotes the formation of hair, wool,
+nails, horns, tendons and cartilage.
+Contractile proteins actin, myosin Contracting fibers in muscle.
+Hormones insulin, glucagon Regulates use of blood sugar.
+Storage proteins ferritin Stores iron in spleen.
+Transport proteins hemoglobin Carries oxygen in blood.
+serum albumin Carries fatty acids in blood.
+Immunological proteins antibodies Defends the body from foreign
+invaders.
+By convention the sequence of amino acids in a peptide is written with the N-terminal
+amino acid at the left and the C-terminal amino acid at the right. The individual amino
+acids within a peptide chain are called amino acid residues.
+ CHEMISTRY GRADE 12
+306
+H O
+R1
+HN —C—C—N—C—C—N—C—C—O 3
++ –
+H H H
+R2
+R3
+O H O
+N-terminal (left) C-terminal (right)
+Exercise 6.12
+1. Draw the appropriate structural form for the amino acid alanine that
+predominates in a solution at each of the following pH values.
+a pH = 1 b pH = 7
+c pH = 11
+2. What two functional groups are involved in the formation of a peptide bond?
+3. How do amino acids, peptides, and protein differ?
+4. Write a chemical equation that indicates the formation of a dipeptide from
+glycine and alanine.
+Unit Summary
+• Monomers are the building blocks of polymers.
+• Homopolymers are made from identical monomers, and copolymers are
+synthesized from more than one kind of monomer.
+• Based on their sources, polymers can be classified as synthetic or natural.
+Synthetic polymers are man-made, while natural polymers exist naturally.
+• Polymerization is the process of combining monomer units to form large
+molecules called polymers.
+• Polymerization can be effected through either addition polymerization or
+condensation polymerization.
+• Each of the following polymers are made by addition polymerization.
+ Polyethylene
+ Polypropylene
+POLYMERS (UNIT 6)
+307
+ Polyvinyl chloride (PVC)
+ Polymethyl methacrylate (PMMA)
+ Teflon
+ Polystyrene
+ Natural rubber
+ Neoprene
+ Styrene-butadiene rubber and
+ Butyl rubber
+• Polymers that are synthesized by condensation polymerization are.
+ Nylons
+ Polyesters
+ Bakelite
+ Carbohydrates, and
+ Proteins.
+• Thermoplastics soften on heating and can be molded into different
+shapes, and the process of heating and cooling can be repeated several
+times, but once thermosetting plastics are solidified they cannot be
+softened or remolded on heating.
+• Synthetic polymers pollute the environment during their preparations, use
+and disposal.
+• Monosaccharides are the building blocks of carbohydrates.
+• Proteins are made from the twenty naturally occurring amino acids

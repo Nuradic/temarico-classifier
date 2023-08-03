@@ -1,0 +1,2144 @@
+Most of the materials around us are mixtures. In this unit, we shall be concerned with
+properties and types of mixtures, and with the relationships of their properties to those of
+the individual components.
+A homogeneous mixture, also known as solution, is a mixture that is uniform in its
+properties throughout a given sample. When sodium chloride is dissolved in water, you
+obtain a homogeneous mixture, or solution. Air is a gaseous solution, principally of two
+elementary substances, nitrogen and oxygen, which are physically mixed but not chemically
+combined.
+There are various practical reasons for preparing solutions. For instance, most chemical
+reactions are run in solution. Solutions have specific useful properties. For example, when
+gold is used for making jewellery, it is mixed, or alloyed with a small amount of silver.
+Gold-silver alloys are not only harder than pure gold, but they also melt at lower temperatures
+and are therefore easier to cast.
+In this unit, you will study the dependence of solubility (the amount of substance that
+dissolves in another) on temperature and (in some cases) on pressure; the ways of
+expressing the concentration of a solution. You will also study about the colligative properties
+of solutions.
+1.1 HOMOGENEOUS AND HETEROGENEOUS MIXTURES
+At the end of this section, you should be able to:
+• define the terms mixture, homogeneous and heterogeneous mixture, solute, solvent,
+solution;
+SOLUTIONS (UNIT 1)
+3
+• distinguish between homogeneous and heterogeneous mixtures;
+• describe suspensions and colloids.
+1.1.1 Some Basic Definitions
+How do you distinguish homogeneous and heterogeneous mixtures?
+Mixtures are combinations of two or more substances in which each substance retains its
+own chemical identity and hence its own properties. A sample of clean air, for example,
+consists of many elements and compounds physically mixed together, including oxygen
+(O2), nitrogen (N2), carbon dioxide (CO2), noble gases, and water vapour (H2O). Can
+you give more examples of mixtures? There are two broad classes of mixtures,
+homogeneous and heterogeneous mixtures.
+A homogeneous mixture is a mixture in which the composition of the mixture is the same
+throughout. i.e., it has no visible boundaries because the components are mixed as individual
+atoms, ions and molecules. For example, when a spoonful of sugar dissolves in water you
+obtain a homogeneous mixture.
+A heterogeneous mixture has one or more visible boundaries between the components.
+Thus, its composition is not uniform. In this type of mixture, each component’s particles
+can be detected by the naked eye or with a magnifying glass. If sand is mixed with iron
+filings, the sand grains and the iron filings remain separate. This is an example of a
+heterogeneous mixture.
+A typical solution consists of at least two substances; a substance in smaller amount called
+the solute, dissolved in a larger amount of another substance, known as the solvent. The
+solvent is often but not always present in excess. For example, the physical state of a
+solution containing 40 g of table sugar and 30 g of water is liquid. In this case, though water
+is present in small amount, it is present as solvent.
+ Experiment 1.1
+Distinction between homogeneous and heterogeneous mixtures
+Objective: To distinguish between homogeneous and heterogeneous mixtures.
+Apparatus:Beakers, test tubes, watch glass, stirrer.
+Chemicals:Table salt, water, iron filings, sulphur powder, oil, alcohol.
+Procedure:
+Prepare mixtures of the following pairs in suitable apparatus.
+a Table salt and water
+CHEMISTRY GRADE 12
+4
+b Iron filings and sulphur powder
+c Oil and water
+d Water and alcohol
+Use either naked eye or hand lens to observe each mixture. Classify the mixtures you
+prepared as homogeneous and heterogeneous. Give reason for your classification.
+1.1.2 Suspension and Colloids
+ Experiment 1.2
+Investigating properties of some mixtures
+Objective:To see the difference between suspensions, solutions and colloids.
+Apparatus:Three 100 mL beakers.
+Chemicals: Sand, gentian violet and bile.
+Procedure:
+1. Label the beakers as A, B, and C; add sand to beaker A, gentian violet to beaker
+B, and bile to beaker C.
+2. Add about 50 mL water to each beaker and stir the contents.
+3. Leave the beakers undisturbed for about 30 minutes and see if they become clear
+on standing.
+4. Pass a beam of light through each beaker.
+Observations and analysis:
+a In which beaker the contents separate in two layers on standing?
+b Which beaker scatters light without separating the contents on standing?
+c Which beaker contains a solution and which beaker contains a colloid?
+d What do you conclude from this experiment?
+Exercise 1.1
+Define each of the following terms and give examples for each.
+a homogeneous mixture c solute e colloid
+b heterogeneous mixture d solvent f suspension
+SOLUTIONS (UNIT 1)
+5
+What is the difference between suspensions and solutions?
+We are all familiar with suspensions such as a mixture of mud and water or flour and water.
+Sometimes we prepare and use a suspension of paint in water. These suspensions are
+heterogeneous mixtures composed of particles that are visible to the naked eye or that
+can be seen with a magnifying glass. The suspended particles appear cloudy, and settle
+down in due course of time. When Mg(OH)2
+ (called milk of magnesia) is shaken with
+water, it forms a suspension. In contrast, when we make a solution, we prepare a
+homogeneous mixture in which the dissolved species are molecules or ions. A solution may
+be coloured, but it is transparent; the dissolved molecules or ions are invisible, and they do
+not settle out on standing. Figure 1.1a and Figure 1.1b show a solution and a suspension,
+respectively.
+Figure 1.1 a) Solution b) Suspension
+There is another group, called colloids that exhibit properties intermediate between those
+of suspensions and solutions. The particles in a colloid are larger than most simple molecules.
+However, colloidal particles are small enough and do not settle down. Although colloid
+particles may be so small that the dispersion appears uniform, even under a microscope,
+they are large enough to scatter light very effectively (see Figure 1.2). Consequently, most
+colloids appear cloudy or opaque unless they are very dilute. Like solutions, colloids can
+be gaseous, liquid or solid. Clouds are colloidal mixtures composed of air and water
+droplets that are small enough that they do not settle out.
+CHEMISTRY GRADE 12
+6
+Figure 1.2 The light beam is not visible as it passes through a true solution (left), but it
+is clearly visible as it passes through colloidal mixture (right).
+1.2 TYPES OF SOLUTIONS
+At the end of this section, you should be able to:
+• explain different types of solutions;
+• give examples for each type of solution;
+• after a visit to nearby gold smith, present a report to class on how jewellery gold is
+made.
+Solutions may exist in any of the three states of matter.
+Activity 1.1
+Form groups and discuss the following points. Report the result of your discussion in
+tabular form.
+1. Mention the types of solutions.
+2. What are the possible physical states of solutes and solvents in each type of solution?
+3. Give at least one example to each type of solution.
+4. Explain briefly how solid solutions are formed?
+5. Copy the given table in your note book and write your answers in it:
+SOLUTIONS (UNIT 1)
+7
+State of solute State of solvent State of solution Type of solution Examples
+PROJECT
+Do you know how jewellery gold is made?
+Your teacher will arrange a visit to the nearby goldsmith. Ask the following questions
+during your visit to the goldsmith:
+How is jewellery made from gold? What are the possible components, other than
+gold present in the jewellery? Which component is present in large quantity? What
+is the advantage of mixing gold with other materials? Can you separate the
+components present in the jewellery? How is purity of gold assessed and what is
+the unit of measuring the purity? Write a report about what you have observed
+during your visit and present it to the class.
+Exercise 1.2
+1. Give two examples of
+a gas-gas solution d solid-liquid solution
+b gas-liquid solution e solid-solid solution
+c liquid-liquid solution
+2. What are the possible physical states of solutes and solvents in
+a gaseous solutions? c solid solutions?
+b liquid solutions?
+1.3 THE SOLUTION PROCESS
+At the end of this section, you should be able to:
+• explain how the “like dissolves like” rule depends on inter-particle forces of
+interactions and predict relative solubility;
+• define rate of dissolution;
+CHEMISTRY GRADE 12
+8
+• define heat of solution, solvation energy and hydration energy;
+• apply the concept of heat of solution to a solution of ammonium nitrate and sodium
+hydroxide crystals;
+• explain how heat of solution is influenced by the inter-particle interaction forces.
+Activity 1.2
+Try to mix the following substances with water.
+a oil b benzene c ethanol
+What did you observe? Which of the substances is completely miscible with water and
+which of them is immiscible? Discuss your observations with your classmates, and report
+your possible reasons to the class.
+1.3.1 Liquid Solutions and Interparticle Forces of
+Attractions
+What are the major factors that affect the solubility of substances in liquid solvents?
+When a solute dissolves in a solvent, particles of the solute disperse throughout the solvent.
+The solute particles occupy positions that are normally taken by solvent molecules i.e.,
+particles of the solute mix with particles of the solvent. The tendency to mix is affected by
+the relative strengths of three types of interaction. These are
+* Solvent-solvent interaction
+* Solute-solute interaction
+* Solvent-solute interaction
+Strong forces of attraction between solute particles (solute-solute interactions) or between
+solvent particles (solvent-solvent interactions) tend to keep like particles close together
+and reduce the solubility of solute in the solvent. On the other hand, strong attraction
+forces between solute and solvent particles (solute-solvent interactions) makes dissolving
+easier and helps to keep particles in solution. For simplicity, we can imagine the solution
+process taking place in three distinct steps (Figure 1.3).
+SOLUTIONS (UNIT 1)
+9
+Solution
+Expanded solute
+Solute
+Step 2
+Step 3
+Solvent
+Expanded solvent
+Step 1
+Step 3
+Figure 1.3 A molecular view of the solution process, portrayed as taking place
+in three steps.
+Step 1 – is the separation of solvent molecules from each other to “make room” for the
+incoming solute particles and step 2 – is the separation of solute molecules. These two
+steps require energy input to break attractive intermolecular forces. Therefore, they are
+endothermic. In step 3 – the solvent and solute molecules mix. This process can be
+exothermic or endothermic.
+Solution of liquids in liquids
+Ethanol mixes with water but oil does not. Why? Solubility is a measure of how much
+solute will dissolve in a solvent at a specific temperature. Do you know the principle “like
+dissolves like”? The “like dissolves like” principle is helpful in predicting the solubility of a
+substance in a given solvent. What this expression means is that two substances with
+intermolecular forces of similar type and magnitude are likely to be soluble in each other.
+For example, in a solution formed between benzene (C6H6) and carbon tetrachloride
+(CCl4), both species are non-polar and experience only relatively weak London forces.
+When these two liquids are mixed, they readily dissolve in each other because the attraction
+between CCl4 and C6H6 molecules is comparable in magnitude to the forces between
+CCl4 molecules and between C6H6 molecules. Two liquids are said to be miscible if they
+are completely soluble in each other in all proportions. What can you say about the
+solubility of C6H6 and CCl4?
+Water is the most prominent solvent because it is so common and dissolves so many ionic
+and polar substances. Water molecules are strongly associated with each other through
+hydrogen bonding. Compounds that form hydrogen bonding tend to be soluble in water.
+For example, alcohols such as methanol, ethanol and 1, 2-ethylene glycol are miscible in
+water because they can form hydrogen bonding with water molecules.
+CHEMISTRY GRADE 12
+10
+H —C O—H O —C —
+H H
+H H
+
+– 
++ H
+
++
+
+–
+H
+
++
+Hydrogen bonding between
+ethanol and water
+H C O—H O — —
+H
+H
+
+– 
++ H
+
++
+
+–
+H
+
++
+Hydrogen bonding between
+methanol and water
+Figure 1.4 Solubility of ethanol and methanol in water through hydrogen bonding.
+What happens if octane, a typical hydrocarbon, is added to water? Water molecules
+are held in contact by hydrogen bonding, while octane molecules are held in contact by
+London or dispersion forces. When the two liquids are mixed, the attraction between the
+octane molecules and the water molecules is not strong enough to overcome the hydrogen
+bonding between the water molecules. The relatively strong hydrogen bonding keep the
+water molecules clustered together, and no mixing occurs.
+Solutions of Solids in Liquids
+Activity 1.3
+Take two containers and add water to both. Put table salt in the first container and table
+sugar in the second container and stir. What did you observe? Did both solids dissolve in
+water? Repeat the same procedure using oil instead of water.
+What did you observe? Did both solids dissolve in oil? Discuss your observations with your
+classmates. Can you make generalization from your observation?
+Solids composed of polar molecules or ions, are insoluble in non-polar solvents. The
+weak solute-solvent interaction, compared with the strong attractions within the crystal, is
+not sufficient to tear apart the lattice. This is why sugar, which consists of molecules lightly
+bound to each other by hydrogen bonding, is insoluble in solvents like oil. However, sugar
+is soluble in water, because this solvent attracts sugar molecules in the same way that sugar
+molecules attract each other.
+Solids whose crystals are held together by London forces are able to dissolve to
+appreciable extents in non-polar solvents. However, they are not soluble to any great
+SOLUTIONS (UNIT 1)
+11
+degree in polar solvents, for the same reason that non-polar liquids are insoluble in polar
+solvents.
+Can you give an example of a solid non-polar compound that dissolves in benzene
+but not in water? Water and other polar molecules are attracted to ions. The electrostatic
+attraction between an ion and a molecule with a dipole is called an ion-dipole attraction.
+These attractions play an important role in the dissolution of ionic compounds in water
+(Figure 1.5).
++
+O
+H
+H
+–
+O H
+H +
++
+Figure 1.5 Ion-dipole force in dissolving an ionic crystal.
+What happens when ionic compounds dissolve in water?
+When ionic compounds, such as KCl, dissolve in water, (Figure 1.6), the ions in the solid
+separate because water molecules surround and solvate the ions. When potassium chloride
+is added to water, the ion-dipole forces attract the positive (hydrogen) end of the polar
+water molecules to the negative chloride ion at the surface of the solid, and they attract the
+negative (oxygen) end to the positive potassium ions. The water molecules penetrate
+between individual K+ and Cl– ions and surround them, reducing the strong inter-ionic
+CHEMISTRY GRADE 12
+12
+forces that bind the ions together. This reduction allows them to move off into solution as
+hydrated ions. In general, when a solute particle becomes surrounded by solvent molecules,
+we say that it is solvated. When the solvent is water the process is called hydration.
+K+
+O
+H H
+O
+H
+H O
+H
+H
+O
+H H
+O
+H
+O H
+H
+H
+Cl–
+H
+O
+H
+H
+O
+H
+H
+O
+H
+H
+O
+H
+H
+O
+H
+H H
+O H H
+O
+Figure 1.6 K+ and Cl–
+ surrounded by H2
+O molecules.
+In Grade 11 Chemistry, you learned about the cleansing action of soap, which work on the
+principle of “like dissolves like”. Non-polar tails of soap dissolve in oil and grease globules.
+The polar heads keep the particle suspended in water in which they can be washed away.
+1.3.2 The Rate of Dissolution
+What are the major factors that affect the rate of dissolution?
+The rate of dissolution is the speed with which a solute goes into solution. This largely
+depends upon the inter-particle forces and, to a lesser extent, on conditions such as the
+surface area of the solid solute, and the temperature and the pressure of the system.
+Inter-particle force is the extent to which solvent molecules interact with particles of the
+solute. When the solvent-solute interactions are stronger than those between solute-solute
+and solvent-solvent particles, the dissolution process becomes easier.
+Increasing surface area will increase the rate of dissolution because it increases the number
+of solute particles in contact with the solvent.
+SOLUTIONS (UNIT 1)
+13
+ Experiment 1.3
+1.3.3 Energy Changes in the Solution Process
+Heat of Solution
+Investigation of Heat of Solution
+Objective: To investigate the heat of solution of sodium hydroxide and ammonium nitrate.
+Apparatus: Erlenmeyer flask, thermometer, cork.
+Chemicals: Sodium hydroxide, ammonium nitrate and water.
+Procedure:
+1. Pour 50 ml of water into Erlenmeyer flask and place a thermometer as shown in
+Figure 1.7.
+Figure 1.7 Apparatus to measure the heat of solution of sodium hydroxide.
+2. Record the initial temperature of the water.
+3. Remove the cork, along with the thermometer, and add 4 g of sodium hydroxide
+pellets.
+4. Replace the cork gently, stir the contents, and note the highest temperature reading.
+5. Determine the heat of the solution of sodium hydroxide.
+CHEMISTRY GRADE 12
+14
+6. Repeat the experiment, using 4 g of ammonium nitrate.
+7. Copy and complete the following table.
+Chemical Initial temperature Maximum temperature Heat of
+of the solvent of the solution solution
+NaOH
+NH4NO3
+8. Write down your conclusion.
+9. Present your findings.
+What are the three major interactions that are observed in the solution process?
+You have learned that the solution process has three steps. The amount of energy that is
+absorbed or released when one mole of a substance enters solution is called the heat of
+solution and is given the symbol DH°Sol, which is the sum of the enthalpies associated with
+the three steps in the solution process (Figure 1.3).
+* The separation of solute particles is endothermic because energy is required to
+overcome the forces holding the solute particles together. For gases, this step is
+ignored because their molecules are already widely separated.
+* The separation of solvent particles is also endothermic because energy is required
+to overcome the forces holding the solvent molecules together.
+* Each solute particle is surrounded by a layer or “cage” of solvent molecules that is
+attracted to it by intermolecular forces. This step can be endothermic or exothermic,
+and is referred to as solvation.
+The heat of solution DHo
+Sol
+DHo
+Sol = DH1
+° + DH2
+° + DH3
+° = DH°
+Hydration + DH°Latice energy
+where DH1
+° and DH2
+° are enthalpies required to separate solute particles and solvent
+molecules, respectively, and DH3
+°is the enthalpy of solvation. If the solute-solvent attraction
+is stronger than both the solvent-solvent attraction and the solute-solute attraction, the
+solution process is favourable, or exothermic (DHo
+Sol < 0). If the solute-solvent interaction
+SOLUTIONS (UNIT 1)
+15
+is weaker than the solvent-solvent and solute-solute interactions, then the solution process
+is endothermic (DHo
+Sol > 0).
+Hydration of Ionic Solids in Water
+What is lattice energy? How can it affect the solubility of ionic solids?
+Hydration of ions favours the dissolution of an ionic solid in water. The ions in an ionic
+crystal are very strongly attracted to one another. Therefore, the solubility of an ionic solid
+depends not only on the energy of the hydration of ions, but also on lattice energy, which
+are the energy holding ions together in the crystal lattice. Lattice energy works against the
+solution process, so an ionic solid with relatively large lattice energy is usually insoluble.
+Lattice energies depend on the charge on the ions and also the distance between the
+centres of the neighbouring positive and negative ions. As the magnitude of the charge on
+the ions increases the lattice energy also increases. For this reason, you can expect
+substances with single charged ions to be more comparatively soluble, and those with
+multiple charged ions to be less soluble in water.
+Activity 1.4
+Take 1 g of KNO3
+, NH4
+Cl, and Na2
+CO3
+ each and dissolve them in water in different test
+tubes. What did you observe? Which of these chemicals dissolves faster? Is there any
+change in temperature before and after mixing? Which solution becomes hot and which
+becomes cold, when solute and solvents are mixed? Discuss your observations with your
+classmates.
+Activity 1.5
+Discuss the following questions and write a report. Present your report to the class.
+1. How do you compare the hydration of the ions of Group I metals with that of Group II
+metals? Give reasons.
+2. Compare the solubility of Mg(OH)2
+ with Ba(OH)2
+, MgSO4
+ with BaSO4
+. Justify your
+answers in terms of lattice energy and hydration energy.
+CHEMISTRY GRADE 12
+16
+Exercise 1.3
+1. Define each of the following.
+a rate of dissolution d hydration energy
+b heat of solution e lattice energy
+c solvation f ideal solution
+2. Indicate the type of solute-solvent interaction that should be most important in
+each of the following solutions:
+a KBr in water c NaOH in water
+b Toluene, C7H8, in cyclohexane, C6H12
+3. Sodium carbonate is soluble in water, while calcium carbonate is insoluble. Why?
+1.4 SOLUBILITY AS AN EQUILIBRIUM PROCESS
+At the end of this section, you should be able to:
+• describe the distinctions among unsaturated, saturated and supersaturated solutions;
+• prepare a supersaturated solution of sodium phosphate;
+• explain the equilibrium nature of a saturated solutions;
+• define solubility and describe the factors that affect the solubility of substances;
+• investigate the effect of temperature on the solubility of sodium sulphate in water;
+• conduct an experiment to determine the solubility of table salt and sugar in water;
+• state Henry’s law;
+• use Henry’s law to calculate the concentration of gaseous solute in a solution.
+Activity 1.6
+Form a group and perform the following activity.
+1. Pour 50 mL water in a beaker.
+2. Add some crystal of Na2
+SO4
+ into the water using spatula and stir until it dissolves.
+a What do you call this type of solution?
+3. Continue adding more and more Na2
+SO4
+ stirring to dissolve.
+b What do you observe after addition of large amount of solute?
+4. Filter the undissolved solute. Collect the filtrate or the solution.
+c Why does the solute remains undissolved?
+d What is the name of such a solution?
+5. Add some more solute to the filtrate and stir.
+e Does the additional solute dissolve?
+Discuss your findings with rest of the class.
+SOLUTIONS (UNIT 1)
+17
+ Experiment 1.4
+Investigating the solubility of NaCl
+Objective: To determine the solubility of sodium chloride in water.
+Apparatus: Beaker, evaporating dish, measuring cylinder, glass rod, filter paper,
+analytical balance, and Bunsen burner.
+Chemicals: Sodium chloride and water.
+ Figure 1.8 Experimental set-up for the determination of the solubility.
+Procedure:
+1. Take an evaporating dish and weigh it.
+2. Take 100 mL of water in a beaker and add sodium chloride to it. Stirr the solution
+vigorously with a glass rod, until undissolved sodium chloride is left in the beaker.
+3. Take 50 mL of the supernatant saturated solution (assume that 50 mL of solution is
+equal to 50 mL of the solvent) and transfer it to an evaporating dish.
+4. Heat the solution in the evaporating dish as shown in the Figure 1.8, till all the
+water has evaporated and dry sodium chloride is left in the evaporating dish.
+5. Cool the evaporating dish containing dry sodium chloride to room temperature
+and weigh it again.
+Observations and analysis:
+1. Volume of the NaCl solution ……………………..
+2. Weight of the empty evaporating dish ……………………..
+3. Weight of the evaporating dish + NaCl collected after evaporating the solvent ....
+4. Calculate the solubility of NaCl in water and express the results in grams of NaCl/
+100 g of water.
+CHEMISTRY GRADE 12
+18
+When an ionic solid dissolves, ions leave the solid and become dispersed in the solvent.
+Occasionally some dissolved ions collide with the undissolved solute and crystallize. As
+long as the rate of dissolution is greater than the rate of crystallization, the concentration of
+ions in the solution rises. Eventually, ions from the solid are dissolved at the same rate as
+the ions in the solution are crystallized. At this point, even though dissolution and crystallization
+continue, there is no further change in the concentration over time. The system has reached
+equilibrium. That is, excess undissolved solute is in equilibrium with the dissolved solute.
+Solid (solute) 
+Dissolution
+Crystallization
+← →Dissolved ions
+After equilibrium is established, no more solid dissolves. Why? Such a solution is said to
+be saturated. A saturated solution is a solution in which the dissolved and undissolved
+solutes are in dynamic equilibrium see Figure 1.9.
+Figure 1.9 Formation of a saturated solution.
+a A coloured solid solute is added to water.
+b After a few minutes, the solution is coloured, due to the dissolved solute, and there
+is less undissolved solute than in (a).
+c After more time passes, the solution’s colour has intensified and there is less
+undissolved solute. Therefore, the solution in (b) must have been unsaturated.
+d Still later, the solution colour and the quantity of undissolved solute appear to be the
+same as that in (c). Dynamic equilibrium must have been attained in (c) and persists
+in (d). The solution is saturated.
+Before equilibrium is reached, the solution is said to be unsaturated. An unsaturated solution
+is a solution that can dissolve more solute at a given temperature.
+SOLUTIONS (UNIT 1)
+19
+Activity 1.7
+Prepare a saturated solution of sodium thiosulphate (Na2
+S2
+O3
+) in beaker containing 50 mL
+water. Heat the solution so that extra amount of solute dissolves.
+Filter and divide the solution into two parts in two different beakers. Keep both the
+solutions to cool slowly undisturbed. After cooling stir one of the solutions and observe
+what happens.
+Drop a small grain of crystal in the second one and observe the result.
+a What is the name of such a solution that is made by cooling concentrated solution?
+b What happens when the solution was stirred?
+c What about the solution to which a crystal grain is dropped? Why?
+d What did you understand from the activity?
+The solubility of many ionic solids in water increases as temperature increases. They form
+supersaturated solutions, which actually contain larger amounts of solute than in saturated
+solutions. Supersaturated solutions can sometimes be prepared by saturating a solution at
+a high temperature. Honey is an example of naturally occurring supersaturated solution. It
+contains glucose, as a solute, and water, as a solvent. If honey is left to stand, the glucose
+eventually crystallizes.
+Supersaturated solutions are unstable, and addition of a “seed” crystal of solute will generally
+cause all of the excess solute to suddenly crystallize see Figure 1.10.
+ABC
+A Hot supersaturated solution before seeding.
+B Cold and undisturbed supersaturated solution without seeding.
+C Cold supersaturated solution after seeding.
+Figure 1.10 Seeding a supersaturated solution.
+CHEMISTRY GRADE 12
+20
+1.4.1 Effect of Temperature on Solubility of Solute
+Activity 1.8
+1. Prepare a saturated solution of Na2
+SO4
+ at room temperature.
+2. Heat the solution on a tripod with wire gauze and add some crystal of Na2
+SO4
+.
+3. What happens to the solute?
+4. If the solute dissolves add more and continue heating.
+5. What is the effect of temperature on solubility of this solute?
+6. After all the additional solute dissolves remove the beaker from the tripod and add
+cold water on the side of the beaker.
+7. What do you observe?
+8. What is the effect of cooling the solution?
+9. Why do we always mention temperature when we report solubility of substances?
+Temperature affects the solubility of most substances. When a solid dissolves in a liquid, the
+solute particles must separate, so energy must be added. Thus, for a solid, DH°
+Solute > 0.
+In contrast, gas particles are already separated, so DH°
+Solute ª 0. Because the hydration
+step is exothermic (DH°
+Hydra < 0), the sum of these two terms must be negative. Thus, for
+all gases in water, DH°
+Sol < 0.
+Solute(g) + Water(l) Æ Saturated solution(aq) + Heat
+This equation means that solubility of gases in water decreases with rising temperature. In
+most (but certainly not all) cases, the solubility of a solid substance increases with increase
+in temperature. The magnitude of the increase in solubility varies from one substance to
+another. The solubility of sodium chloride in water increases by only about 10% from 35.7
+g/100 g to 39.8 g/100 g, when the temperature is raised from 0 °C to 100 °C. The solubility
+of silver nitrate, however, increases by over 700% from 122 g /100 g to 951 g/100 g, over
+the same temperature range.
+A few solids such as sodium sulphate have unusual solubility characteristics in water. The
+solubility of sodium sulphate rises between 0 °C to 32.4 °C, where it reaches a maximum
+of 49.7 g Na2SO4 per 100 g water. Further, the solubility of sodium sulphate, decreases
+by about 19.23%, changing from 49.7 g/100 g at 32.4 °C, to 42 g/100 g at 100 °C. Thus
+some ionic compounds show mixed solubility behaviour. Figure 1.11 shows the solubility
+of some ionic compounds in water, as a function of temperature.
+SOLUTIONS (UNIT 1)
+21
+NaNO3
+CaCl2
+Pb(NO )3 2
+NaCl
+KNO3 KCl
+K Cr O 2 27
+KClO3
+Ce (SO ) 2 43
+0 10 20 30 40 50 60 70 80 90 100
+Temperature (°C)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+Solubility (g of solute/100 g water)
+Na SO 2 4
+Figure 1.11 Approximate variation of solubility with temperature for some ionic
+salts in water.
+1.4.2 The Effect of Pressure on Solubility
+Why pressure significantly affect only the solubility of gases? Since liquids and solids
+are almost incompressible, pressure has little effect on their solubility, but it has a major
+effect on gas solubility. The solubility of gases always increases with increasing pressure.
+The effect of increased pressure on solubility has long been used in the beverage industry,
+where carbonated beverages such as champagne, beer and many soft drinks are bottled
+under CO2 pressure, up to 4 Pa.
+The solubility of a gas in a liquid is directly proportional to the partial pressure of the gas
+over the solution.
+The quantitative relationship between gas solubility and pressure is given by Henry’s law,
+which states that
+“at a given temperature the solubility of a gas in a liquid is directly proportional to the
+partial pressure of the gas over the solution”.
+Cg 
+= kH P
+g
+where C
+g is the molar concentration (mol/L) of the dissolved gas, P
+g
+ is the pressure (in
+atm) of the gas over the solution and kH is Henry’s law constant, which is expressed in
+mol/L atm.
+Consider the piston-cylinder assembly in Figure 1.12, in which gas is above a saturated
+aqueous solution of the same gas. At a given pressure, P1, the same number of gas molecules
+enters and leave the solution per unit time. i.e., the system is at equilibrium.
+Gas + Solvent Æ Saturated solution
+CHEMISTRY GRADE 12
+22
+If you push down the piston (increasing pressure to P2), the gas volume decreases and
+gas particles collide with the liquid surface more often. Thus, more gas particles enter the
+solution per unit time. Higher gas pressure disturbs the balance of equilibrium, so more gas
+dissolves to reduce this disturbance until the equilibrium is established in the system.
+ a) A saturated solution of a gas is in equilibrium at pressure P1
+b) If the pressure is increased to P2
+, the volume of the gas decreases. As a result,
+the collisions with the surface increases, and more gas molecules enter the
+solution when equilibrium is re–established.
+Figure 1.12 The effect of pressure on gas solubility:
+Table 1.1 Henry’s Law constants for some gases in water at 20°C.
+Gas kH (mol/L. atm)
+Air 7.9 × 10–4
+Argon 1.5 × 10–3
+Carbon dioxide 3.3 × 10–2
+Helium 3.7 × 10–4
+Neon 5.0 × 10–4
+Hydrogen 8.5 × 10–4
+Nitrogen 7.0 × 10–4
+Oxygen 1.23 × 10–3
+SOLUTIONS (UNIT 1)
+23
+Example 1.1
+The partial pressure of carbon dioxide gas inside a bottle of mineral water is 4 atm
+at 25°C. What is the solubility of CO2?
+Solution:
+Given: Required:
+PCO2
+ = 4 atm CCO2
+ = ?
+kH = 3.3 × 10–2 mol/L atm
+ CCO2
+= kH · PCO2
+= 3.3 × 10–2 mol/L. atm × 4 atm
+= 0.1 mol/L
+ CCO2
+= 0.1 mol/L
+Exercise 1.4
+1. If air contains 78% N2 by volume, what is the solubility of nitrogen in water at
+25°C?
+2. Calculate the concentration of CO2 in a soft drink after the bottle is opened at
+25 °C under a CO2 partial pressure of 3.0 × 10–4 atm.
+1.5 WAYS OF EXPRESSING CONCENTRATIONS OF
+SOLUTION
+At the end of this section, you should be able to:
+• define terms like solution, concentration, mass percentages, ppm and ppb of a solute
+in a solution;
+• calculate the mass percentage, ppm and ppb of a solute in a solution from given set
+of information;
+• define mole fraction, molarity, equivalent mass, number of equivalents, normality
+and molality;
+• calculate mole fraction, molarity, normality and molality of a solution from given set
+of information; and
+• interconvert various concentration expressions.
+CHEMISTRY GRADE 12
+24
+What does concentration mean? How do you determine it?
+The concentration of a solution is the amount of solute present in a given quantity of solvent
+or solution. The concentration of a solution can be expressed either qualitatively or
+quantitatively. The terms dilute and concentrated are used to describe a solution qualitatively.
+A solution with a relatively small amount of solute is said to be dilute. One with a large
+amount of the solutes is said to be concentrated.
+The knowledge of concentration can be very useful in everyday life. For example, human
+beings estimate the quantity of solutes such as sugar and salt, in beverages and other food
+solutions by tasting. However, sometimes tasting a substance is not safe and, in general,
+this is not an accurate method of estimating the concentration of solute in a solution. Why?
+Several quantitative expressions of concentration are used in chemistry. Here you are
+going to learn mass percentage, ppm and ppb, mole fraction, molarity, normality and molality
+of a solution.
+1.5.1 Mass Percentage, ppm and ppb of Solute
+What does mass percent mean? How do you convert it to ppm and ppb?
+Percent by mass: The percent by mass, also called percent by weight or weight percent,
+is the ratio of the mass of a solute to the mass of the solution, multiplied by 100.
+Percent by mass of solute = 
+Mass of solute
+Mass of solute + Mass of solvent × 100
+or
+Percent by mass of solute = 
+Mass of solute
+Mass of solution × 100
+The percent by mass has no unit because it is the ratio of two similar quantities.
+Example 1.2
+A solution is made by dissolving 13.5 g of glucose, C6H12O6, in 0.100 kg of
+water. What is the mass percentage of solute in this solution?
+Solution:
+Given: Required:
+Mass of solute = 13.5 g % by mass of solute?
+Mass of solvent = 0.100 kg = 100 g
+ % by mass of glucose = Mass of glucose
+Mass of solution × 100
+= 
+13.5 g
+13.5 g +100 g × 100 = 11.9%
+SOLUTIONS (UNIT 1)
+25
+Parts per million (ppm): When the mass of solute in the solution is very small, a widely
+used expression is parts per million (ppm).
+ppm of component = 
+Mass of solute
+Massof solution × 106
+or
+ppm = Mass percentage of solute × 104
+Example 1.3
+A 2.5 g sample of ground water was found to contain 5.4 µg of Zn2+. What is the
+concentration of Zn2+, in parts per million?
+Solution:
+Because 1 µg is 1 × 10–6 g, 5.4 µg = 5.4 ×10–6 g
+Thus, ppm = Mass of solute
+Mass of solution
+ × 106 = 
+–6 5.4 10 g
+2.5 g
+×
+ × 106 = 2.16 ppm
+Example 1.4
+Express 5% (m/m) solution of NaCl in ppm.
+Solution:
+ppm = Mass percentage × 104
+ = 5 × 104
+For solutions that are even more dilute, parts per billion (ppb) is used. A concentration of
+1 ppb represents 1 g of solute per billion (109) grams of solution.
+ppb = 
+Mass of solute
+Mass of solution × 109
+Exercise 1.5
+1. A sample of 0.892 g of potassium chloride, KCl, is dissolved in 54.6 g of water.
+What is the percent, by mass, of KCl in the solution?
+2. a If 150 g of orange juice contains 120 mg of ascorbic acid (Vitamin C), what
+is the concentration of ascorbic acid, expressed in ppm?
+b Express the concentration of ascorbic acid given in (a)in ppb.
+CHEMISTRY GRADE 12
+26
+1.5.2 Mole Fraction (X)
+What is the difference between mole fraction of non-electrolytes and mole-fraction
+of electrolytes?
+The mole fraction (X) of a solute is the ratio of the number of moles of solute divided by the
+total number of moles of a solution (moles of solute + moles of solvent).
+Mole fraction for a non-electrolyte (X) =
+Number of moles of solute
+Number of moles of solute + Number of moles of solvent
+or XSolute = 
+Solute
+Solute Solvent
+n
+n n + ; XSolvent = 
+Solvent
+Solvent Solute
+n
+n n +
+A useful relation between Xsolute and Xsolvent is:
+XSolvent + XSolute = 
+Solvent
+Solvent Solute
+n
+n n +
+ + Solute
+Solute Solvent
+n
+n n +
+ = 1
+For an electrolyte solution, the mole fraction is calculated by treating the cations and anions
+as individual particles; hence,
+XCations = 
+Cations
+Cations Anions Solvent
+n
+n + n + n
+A similar expression can be written for XAnions.
+Example 1.5
+What is the mole fraction of I2
+ in a solution containing 30 g of I2
+ in 400 g of CCl4
+?
+Solution:
+First find the number of moles of I2 and the number of moles of CCl4
+Number of moles of I2 = 
+2
+2
+Mass of I 30 g
+Molar massof I 254 g / mol = = 0.12 mol I2
+Number of moles of CCl4
+ = 
+4
+4
+Mass of CCl 400 g
+Molar mass of CCl 254 g / mol = = 2.6 mol CCl4
+XI
+2 
+= 2
+2 4
+I
+I CCI
+0.12 mol
+0.12mol 2.6mol
+n
+n n = + +
+ = 0.044
+SOLUTIONS (UNIT 1)
+27
+Exercise 1.6
+1. 1 mole of alcohol is mixed with 3 moles of water. Calculate the mole fraction of
+alcohol and water.
+2. Determine the mole fraction of the substances in a solution containing 36 g of water
+and 46 g of glycerine, C3H5(OH)3.
+3. 0.1 mole of NaCl is dissolved in 10 moles of water. Calculate the mole fraction of
+Na+ ions and Cl– ions.
+1.5.3 Molarity (M)
+Molarity or molar concentration is the number of moles of solute in 1 L of solution. Molarity
+is determined by the equation
+Molarity (M) = 
+Number of moles of solute
+Volume(L) of solution
+But, Number of moles of solute = 
+Mass of solute
+Molar mass of solute
+Therefore,
+Molarity = 
+Mass of solute
+Molar mass of solute Volume(L) of solution ×
+Example 1.6
+What is the molar concentration of a solution containing 16.0 g of CH3OH in 200
+mL of solution?
+Solution:
+Given: Required:
+Mass of solute (CH3OH) = 16 g Molarity = ?
+Volume of solution = 200 mL = 0.20 L
+Molar mass of CH3OH = 32 g/mol
+Molarity = 3
+3
+Mass of CH OH
+Molar mass of CH OH Volume(L)of Solution ×
+ = 
+16 g
+32 g / mol 0.20 L ×
+ = 2.50 mol/L = 2.50 M
+CHEMISTRY GRADE 12
+28
+ Example 1.7
+How many grams of potassium dichromate (K2Cr2O7) are required to prepare
+250 mL of solution whose concentration is 2.16 M?
+Solution:
+Given: Required:
+Volume of solution = 250 mL = 0.250 L Mass of K2Cr2O7 = ?
+Molarity (M) of solution = 2.16 M
+Molar mass of K2Cr2O7 = 294 g/mol
+Molarity = 2 27
+2 27
+Mass of K Cr O
+Molar mass of K Cr O Volume(L)of Solution ×
+Mass of K2Cr2O7 = Molarity × Molar mass of K2Cr2
+O7
+ × Volume (L) of solution
+= 2.16 mol/L × 294 g/mol × 0.250 L
+= 159 g K2Cr2O7
+Exercise 1.7
+1. 5.85 g of sodium chloride (NaCl) is dissolved in 250 mL of solution. Calculate
+a the molarity of the solution.
+b the mass percentage of the solute.
+2. How would 250 ml of 0.15 M KNO3 solution be prepared?
+1.5.4 Normality (N)
+What are number of equivalents and equivalent mass? How are they used in
+calculating the normality of a solution?
+The normality of a solution (N) is the number of equivalents of the solute contained in one
+litre of solution.
+Normality (N) = Number of equivalents of solute
+Volume(L) of solution
+The number of equivalents can be determined from the equivalent mass.
+SOLUTIONS (UNIT 1)
+29
+* The equivalent mass of an acid is obtained by dividing its molar mass by the number
+of H+ ions furnished by one formula unit of the acid, or by the number of hydroxide
+ions with which one formula unit of the acid reacts.
+The equivalent mass of HCl, for example, is the same as its molar mass, since it
+contains one acidic hydrogen per molecule. The equivalent mass of sulphuric acid,
+H2SO4, is usually half its molar mass, since both hydrogen are replaceable in most
+reactions of dilute sulphuric acid. An equivalent of phosphoric acid may be 1 mol,
+1/2 mol or 1/3 mol, depending on whether one, two or three hydrogen atoms per
+molecule are replaced, respectively, in a particular reaction.
+* The equivalent mass of a base is obtained by dividing its molar mass by the number
+of OH– ions furnished by one formula unit of a base or the number of H+ ions with
+which one formula unit of the base reacts. The equivalent mass of NaOH, for
+example, is equal to its molar mass, since one mole furnishes only one mole of
+OH– ion.
+* The equivalent mass of an oxidizing agent or a reducing agent for a particular reaction
+is equal to its molar mass divided by the total number of moles of electrons gained
+or lost when the redox reaction occurs. For example, the equivalent mass of KMnO4
+in the reaction
+KMnO4 + KI + H2SO4 Æ K2SO4 + MnSO4 + I2 + H2O
+is determined as follows.
+The oxidation number of Mn ion is (+7) in KMnO4, and is changed to (+2) in MnSO4.
+This shows that it is a 5-electron transfer reaction.
+Equivalent mass of KMnO4 = 
+Molar mass of KMnO4
+Number of Electrons gained
+ = 
+158 g / mol
+5eq / mol = 31.6 g/eq
+* The equivalent mass of a salt is equal to its molar mass divided by number of
+total positive charges (total positive valency).
+Normality (N) = Number ofequivalentsof solute
+Volume(L)of solution
+CHEMISTRY GRADE 12
+30
+or Normality (N) = 
+Mass of solute
+Equivalent massof solute Volume(L)of Solution ×
+Notice that normality is molarity times n. It is always equal to or greater than molarity.
+N = M × n
+Where n is
+* number of ionisable hydrogen ions and hydroxide ions per molecule for acids and
+bases, respectively.
+* total number of positive charges for salts.
+* total number of electrons lost or gained in redox reactions.
+Example 1.8
+Calculate the number of equivalents present in 0.50 mol H3PO4 if the acid is
+a completely neutralized to give PO3–
+4
+b converted to H2PO–
+4
+c converted to HPO2–
+4
+Solution:
+a Since it is completely neutralized, a balanced equation is written as
+H3PO4 Æ 3H+ + PO3–
+4
+From the reaction, one mole of H3PO4 produces three moles of H+ ions.
+Therefore,
+Number of equivalents = Moles of H3PO4 × 3
+= 0.5 × 3 = 1.5 equivalents
+b The reaction for the formation of H2PO–
+4 is
+H3PO4 Æ H+ + H2PO–
+4
+One mole of H3PO4 produces one mole of H+. Therefore,
+Number of equivalents = moles of H3PO4 ×1
+= 0.5 × 1 = 0.5 equivalents
+c H3PO4 Æ 2H+ + HPO4
+2–
+One mole of H3PO4
+ produces two moles H+. Therefore,
+Number of equivalents = moles of H3PO4 × 2
+= 0.5 × 2 = 1 equivalent
+SOLUTIONS (UNIT 1)
+31
+Example 1.9
+Calculate the:
+a normality b molarity
+of 49 g of H2
+SO4
+ in 500 mL of solution?
+Solution:
+Given:
+V = 500 mL = 0.5 L
+Mass of H2SO4 = 49 g
+a Normality = Number ofequivalents
+Volume (L)of solution
+Number of equivalents = 
+Given mass
+Equivalent mass
+Equivalent mass = 
+Molar mass
+n
+Since H2SO4 furnishes 2 moles of H+ ions, n equals 2.
+fi Equivalent mass = 
+Molar mass of H SO2 4
+n
+= 98g / mol
+2 eq / mol = 49 g/eq
+Number of equivalents = Given mass 49 g
+Equivalent mass 49 g / eq = = 1 eq
+Normality = Number ofequivalents 1 eq
+Volume(L)of solution 0.5 L = = 2 N
+b To find molarity, use the relation
+N = n × M , where n = 2 for H2SO4
+M = 
+2
+2
+N
+n = = 1 M
+Example 1.10
+Given the unbalanced equation
+KMnO4 + KI + H2SO4 Æ K2SO4 + MnSO4 + I2 + H2O
+a How many grams of KMnO4
+ are needed to make 500 mL of 0.250 N solution?
+CHEMISTRY GRADE 12
+32
+b How many grams of KI are needed to make 25 mL of 0.36 N solution?
+Solution:
+a In the example given in the note above, we have seen that the equivalent mass
+of KMnO4 is
+Equivalent mass of KMnO4 = 
+Molar mass
+Number of electron gained per mole
+= 
+158 g / mol
+5 eq / mol = 31.6
+Normality (N) = 4
+4
+Mass of KMnO
+Equivalent mass of KMnO Volume(L)of solution ×
+Mass of KMnO4
+ = Normality (N) × Equivalent mass of KMnO4 × Volume (L) solution
+= 0.250 eq/L × 31.6 g/eq × 0.50 L = 3.95 g KMnO4
+b In the given reaction, the oxidation state of iodine is changed from –1 in KI to
+0 in I2.
+Hence, equivalent mass of KI = 
+Molar mass of KI
+Number of electrons lost per mole
+= 
+166 g / mol
+1 eq / mol
+Mass of KI = Normality (N)× Equivalent mass of KI × Volume (L) of solution
+= 0.36 eq/L × 166 g/eq × 0.025 L
+= 1.49 g KI
+Example 1.11
+What is the normality of a solution that contains 2.94 g of K2Cr2O7 in 100 mL of
+solution? What is its molarity? K2Cr2O7 is used as a salt.
+Solution:
+Given: Required:
+Mass of K2Cr2O7 = 2.94 g Normality (N) = ?
+SOLUTIONS (UNIT 1)
+33
+Volume of solution = 100 mL = 0.10 L
+Equivalent mass of K2Cr2O7 = 
+Mass of K Cr O 2 27
+Total positive valance per mole
+= 
+294g / mol
+2 g / eq = 147 g/eq
+Normality (N) = 2 27
+2 27
+Mass of K Cr O
+Equivalent mass of K Cr O Volume(L) of solution ×
+= 
+2.94 g
+147g / eq 0.10 L ×
+= 0.2 N
+ Molarity = Normality
+n = 0.2N
+2 = 0.1 M
+Exercise 1.8
+1. How many equivalents of solute are contained in
+a 1 L of 2 N solution?
+b 1 L of 0.5 N solution?
+c 0.5 L of 0.2 N solution?
+2. Calculate the mass of Al2(SO4)3 in 250 mL of solution if the concentration
+is 0.48 N.
+3. Calculate the molarity and normality of a solution that contains 16.2 g of the salt
+Fe2(SO4)
+3 in 200 mL of solution.
+1.5.5 Molality (m)
+What is the difference between molarity and molality?
+The molality of a solution is the number of moles of solute per kilogram of solvent contained
+in a solution.
+Note that molal solutions are prepared by measuring masses of solute and solvent, not
+volumes of solvent or solution.
+Molality (m) = 
+Number of moles of solute
+Mass (kg)of solvent , or
+CHEMISTRY GRADE 12
+34
+Molality (m) = Mass of solute
+Molar mass of solute Mass (kg) of solvent ×
+Example 1.12
+Calculate the molality of a solution prepared by dissolving 32.0 g of CaCl2
+ in 271 g
+of water.
+Solution:
+Given: Required:
+Mass of CaCl2 = 32.0 g Molality (m) =?
+Mass of H2O = 271 g = 0.271 kg
+Molality (m) = 2
+2 2
+Mass of CaCl
+Molar mass of CaCl Mass (kg)of H O ×
+= 
+32.0 g
+111 g / mol 0.271 kg ×
+ = 1.06 m CaCl2
+Exercise 1.9
+A solution of hydrochloric acid contains 36 percent HCl, by mass
+a Calculate the mole fraction of HCl in the solution.
+b Calculate the molality of HCl in the solution.
+c What additional information would you need to calculate the molarity of the solution?
+1.5.6 Conversion of Concentration Units
+All the terms we just discussed represent different ways of expressing concentration. How
+can you convert one concentration unit to another? Observe the following guidelines
+when you convert one concentration unit to another.
+* If the density and mass of a solution are given, you can determine the volume of the
+solution. Similarly, if the density and volume of a solution are given, you can calculate
+the mass of the solution.
+* Molality involves quantity of solvent, whereas the other concentration units involve
+quantity of solution.
+SOLUTIONS (UNIT 1)
+35
+Example 1.13
+Hydrogen peroxide is a powerful oxidizing agent used in concentrated solution in
+rocket fuels and, in dilute solution, in hair bleach. An aqueous solution of H2O2 is
+30% by mass and has a density of 1.11 g/mL. Calculate the:
+a molality of the solution
+b mole fraction of H2O2
+c molarity of the solution
+Solution:
+a For molality, we need the number of moles of solute and the mass (kg) of
+solvent. If we assume 100 g of H2O2 solution, we can express the mass
+percentage directly as mass of substance. We subtract the mass of H2O2 to
+obtain the mass of solvent. To find molality, we convert mass of H2
+O2 to moles
+and divide by mass of solvent.
+Mass of solvent (H2O) = Mass of solution – Mass of solute
+= 100.0 g – 30.0 g = 70.0 g
+Moles of H2O2 = 
+30.0g
+34g / mol = 0.882 mol H2O2
+Molality (m) = moles of H O 0.882 mol 2 2
+Mass (kg)of solvent 0.070 kg =
+ = 12.6 m H2O2 solution
+b To find the mole fraction, you use the number of moles of H2O2
+ from part a and
+convert the mass of H2
+O to moles.
+Number of moles of H2O2 = 0.882 mol H2O2
+Number of moles of H2O = 70.0 g
+18 g / mol = 3.88 mol of H2O
+2 2
+2 2
+22 2
+moles of H O 0.882
+moles of H O moles of H O 0.822 3.88
+X H O = = + + = 0.185
+c To find molarity, we assume 100.0 g of solution and use the given solution
+density to find the volume.
+CHEMISTRY GRADE 12
+36
+Density = 
+Mass
+Volume
+ Volume of solution = 
+Mass of solution
+Density of solution
+= 
+100.0 g
+1.11 g / mL
+= 90.1 mL
+ Molarity (M) = 
+Number of moles of solute
+Volume(L) of solution
+= 
+0.882 mol
+0.090L = 9.79 M H2O2 solution
+Exercise 1.10
+1. A sample of commercial concentrated hydrochloric acid is 11.8 M HCl and has a
+density of 1.190 g/mL. Calculate
+a the mass % of HCl
+b the molality of HCl
+c the mole fraction of HCl
+2. The mole fraction of ethanol in water is 0.3. Calculate
+a the molality of the solution
+b the mass percent of ethanol
+1.6 PREPARATION OF SOLUTIONS
+At the end of this section, you will be able to:
+• Prepare molar solutions, normal solutions and molal solutions of different substances;
+• Explain dilution process and calculate the volume or concentration changes during
+the dilution of solutions; and
+• Prepare a dilute solution from a concentrated solution.
+SOLUTIONS (UNIT 1)
+37
+ Experiment 1.5
+Preparation of Solutions of Known Concentrations
+Objective:To prepare a 1 molar NaCl solution and a 1 molar table-sugar solution.
+Apparatus and Chemicals: 200 mL volumetric flasks, stirrers, beakers, measuring
+cylinders, balance, sodium chloride, sugar, and water.
+Procedure 1:
+1. Weigh 11.7 g of sodium chloride, using a balance, and add to a beaker.
+2. Add about 50 mL of water to the beaker containing the sodium chloride and
+dissolve it by stirring.
+3. Using a funnel, transfer the solution to the volumetric flask.
+4. Slowly add more water to the volumetric flask until the solution reaches the volume
+mark.
+Observations and analysis:
+a How many moles of sodium chloride did you use to prepare the solution?
+b What are the molarity and normality of the solution?
+Procedure 2:
+1. Weigh a beaker and record its mass. Then add 50 g of water. Perform the
+measurement and calculations:
+Mass of beaker _______________
+Mass of beaker + mass of water _______________
+Mass of water _______________
+2. Weigh 17.1 g of table sugar. _______________
+3. Dissolve the 17.1 g of table sugar in the beaker containing 50 g of water, by
+stirring.
+Observations and analysis:
+Calculate:
+a mass percent of the solution.
+b mole fraction of the solution.
+c molality of the solution.
+How do you prepare a solution of known concentration?
+A common task in school, medical, industrial and other chemical laboratories is the preparation
+of solutions of known concentrations. For aqueous solutions, distilled, de-mineralized or
+de-ionized water is used. Other solvents can also be used, depending on the solution
+CHEMISTRY GRADE 12
+38
+Activity 1.9
+specified. Solutions are usually prepared from solutes of liquids or solids. Occasionally
+they are prepared from gases. First, the solute is accurately weighed and transferred to a
+volumetric flask, then water is added through a funnel (Figure 1.13 a). Next, the solid is
+slowly dissolved by gently swirling the flask (Figure 1.13 b). After all the solid has dissolved,
+more water is slowly added to bring the level of solution exactly to the volume mark
+(Figure 1.13 c). Knowing the volume of the solution in the flask and the quantity of compound
+(the number of moles), you can calculate the molarity of the solution using the formula of
+molarity.
+a bc
+Figure 1.13 Preparation of a solution of known molarity.
+A one-molar solution of NaCl can be prepared by dissolving 58.5 g of NaCl in water until
+the solution becomes one litre.
+Dissolve 1g each of NaCl, CuSO4
+, and KMnO4
+ in different 50 mL measuring flasks. Note the
+colour intensity of the solutions.
+Take 25 mL of solution from each flask and further dilute each solution to 50 mL.
+Note the colour intensity again.
+What did you observe? Can you correlate the colour intensity with the concentration of
+the solution? Does this analogy works for colourless solution also? Discuss your
+observations with your classmates.
+SOLUTIONS (UNIT 1)
+39
+Diluting Solutions
+Concentrated solutions are often stored in the laboratory as “stock” solutions for use as
+needed. Frequently we dilute this stock solution before working with them.
+Dilution is the procedure for preparing a less-concentrated solution from a moreconcentrated one.
+In carrying out a dilution process, it is useful to remember that adding more solvent to a
+given amount of the stock solution changes (decreases) the concentration of the solution
+without changing the number of moles of solute present in the solution. In other words,
+ Number of moles of solute before dilution = Number of moles of solute after dilution
+Since number of moles of solute = molarity × volume of solution,
+= M × V
+Number of of moles of solute before dilution = Mi
+Vi
+Number of moles of solute after dilution = Mf
+Vf
+Therefore, dilution can be expressed as
+Mi
+Vi
+ = Mf
+Vf
+or, more generally,
+Ci
+Vi
+ = Cf
+Vf
+Where Ci
+ is initial concentration, Cf
+ is final concentration, Vi
+ is initial volume and Vf
+ is
+final volume.
+Example 1.14
+Describe how you would prepare 5.00 × 102 mL of a 1.75 M H2SO4 solution,
+starting with an 8.61 M stock solution of H2SO4.
+Solution:
+Because the concentration of the final solution is less than that of the original one,
+this is a dilution process.
+Given: Required:
+Mi
+ = 8.61 M Vi
+ = ?
+Mf
+ = 1.75 M
+CHEMISTRY GRADE 12
+40
+ Experiment 1.6
+Vf
+ = 5.00 × 102 mL
+Mi
+Vi
+ = Mf
+Vf
+Vi
+ = 
+2 1.75 × 5.0 × 10 
+ = 
+8.61 
+f f
+i
+M ×V M mL
+M M
+ = 102 mL
+Thus, we must dilute 102 mL of 8.61 M H2
+SO4
+ solution with sufficient water to
+give a final volume of 5.0 × 102 mL.
+Preparation of Solution of Lower Concentration from Standard
+Stock Solution
+Objective:To prepare diluted solution of H2SO4
+Apparatus: burette, beaker, stirrer, funnel, stand with clamp
+Chemicals: 18 M H2SO4, distilled water.
+Procedure:
+1. Carefully add the concentrated acid into the burette.
+2. Slowly add with stirring 10.0 mL of the acid into a beaker containing 50 mL of
+distilled water.
+3. Transfer the new solution into a volumetric flask (1 L) and add water up to the mark.
+Observations and analysis:
+From Procedure 1 and 2:
+a Why are acid added to the water not the water to the acid?
+b Explain whether volume, mass or number of moles of the solute is changed or not
+in the process.
+c What is the new concentration of the H2SO4?
+From Procedure 3:
+d Calculate concentration of the new solution.
+SOLUTIONS (UNIT 1)
+41
+Activity 1.10
+Exercise 1.11
+a How do you prepare 60.0 mL of 0.2 M HNO3 from a stock solution of 4 M
+HNO3?
+b You have 100 mL of a 0.5 M HCl solution, and you want to dilute it to exactly
+0.1 M. How much water should you add?
+1.7 SOLUTION STOICHIOMETRY
+At the end of this section, you should be able to:
+• Use stoichiometerically equivalent molar ratios to calculate the amounts of reactants
+and products in a reaction of pure and dissolved substances.
+In Grade 9 Chemistry, you learned the stoichiometry of pure substances. What does
+stoichiometry mean? How can you apply it to solutions? Form a group and discuss these
+questions.
+Since many environmental reactions and almost all biochemical reactions occur in solution,
+an understanding of reactions in solution is extremely important in chemistry and related
+sciences.
+Solution stoichiometry differs from pure-substances stoichiometry in that the amount of a
+pure substance can be obtained by converting its mass into moles. For substances in
+solution, we must know the concentration to find the volume that contains a given number
+of moles. Thus, the concept of molarity is very important in solution stoichiometry.
+You can think of molarity as a conversion factor. We use it to convert the volume of a
+solution to the number of moles of a solute. From the result, we can find the mass or the
+number of particles of a solute.
+Mole-Mass Problems
+The relationship between the mass of a substance and the corresponding number of moles
+is governed by the molar mass of the substance. But, for problems involving substances in
+solution, we need to know the concentration of the solution before we can find the number
+of moles.
+Mole of a substance = Concentration × Volume
+CHEMISTRY GRADE 12
+42
+Example 1.15
+What volume of 1.40 M H2
+SO4
+ solution is needed to react exactly with 100 g of
+Al? The balanced molecular equation for the reaction is
+2Al + 2H SO Al SO + 2H 24 2 4 → ( )2 2
+Solution:
+We use the mole-mass method:
+Number of moles of Al = 100 g = 3.70 mol
+27.0 g mol
+From the balanced equation, 2 moles of Al reacts with 2 moles of H2SO4. To find
+the number of moles of H2SO4 that reacts with 3.70 moles of Al, we proceed as
+follows: 2 moles of Al needs 2 moles of H2SO4
+3.7 moles Al needs X moles of H2SO4, therefore
+X = 
+3.7 mol Al×2 mol H SO 2 4
+2 mol Al
+X = 3.7 mol H2SO4
+Volume of 1.40 M H2SO4 containing 3.70 mol
+2 4
+–1
+umber of moles of H SO 3.70 mol = molarity 1.40 mol L
+N
+ = 2.64 L
+Exercise 1.12
+1. What volume of 1M HCl solution is required to react with 6 g of magnesium?
+Reaction: Mg (s) + 2HCl (aq) Æ MgCl2 (aq) + H2 (g)
+2. What volume of 0.25 M NaOH solution is needed to react with 50 mL of 0.125 M
+H2SO4?
+Reaction: 2NaOH (aq) + H2SO4 (aq) Æ Na2SO4 (aq) + H2O (l)
+3. Calcium hydroxide is sometimes used in water treatment plants to purify water for
+residential use. Calculate the volume of 0.0250 M calcium hydroxide solution that
+can react completely with 25.0 mL of 0.125 mol L–1 aluminium sulphate solution.
+Reaction: Al2(SO4)3(aq) + 3Ca(OH)2(aq) Æ 2Al(OH)3(aq) + 3CaSO4(s)
+SOLUTIONS (UNIT 1)
+43
+Mole-Volume Problems
+In this type of problem, the concentration of the solution is given, and you are asked to
+determine the volume of the solution that contains a required number of moles or vice
+versa.
+Example 1.16
+Ammonium sulphate is manufactured by reacting sulphuric acid with ammonia.
+What concentration of sulphuric acid is needed to react with 24.4 mL of a 2.20
+mol L–1 ammonia solution, if 50.0 mL of sulphuric acid is used?
+ H2
+SO4 (aq) + 2NH3 (aq) Æ (NH4
+)2
+SO4 (aq)
+Solution:
+First, we calculate the number of moles of H2SO4
+ that react with the given amount
+of ammonia. To do this, we need to know the number of moles of NH3.
+Number of moles of NH3 = Molarity of NH3 × Volume (L) of solution
+= 2.20 mol L–1× 0.0244 L
+= 0.0537 mol
+From the balanced equation above, 2 mol NH3
+ reacts with 1 mol H2
+SO4
+. Therefore,
+the number of moles of H2SO4 that reacts with 0.0537 moles of NH3 is
+3
+3
+2 4 0.0537 mol NH × 1 mol H SO
+2 mol NH = 0.0268 mol H2SO4
+Concentration (molarity of H2SO4) = 
+0.0268 mol
+0.05 L
+ = 0.536 M
+Mole-Number of Particles Problems
+How do you relate number of moles and number of particles?
+CHEMISTRY GRADE 12
+44
+Example 1.17
+What volume of 0.5 M glucose (C6H12O6) contains 3.01 × 1022 molecules of
+glucose?
+Solution:
+We first change 3.01 × 1022 molecules of glucose to moles of glucose.
+1 mole of glucose contains 6.02 × 1023 molecules.
+Therefore, 3.01 × 1022 molecules of glucose will be
+22
+23
+1 mol × 3.01 × 10 molecule
+6.02 × 10 molecule
+ = 0.05 mol
+Since,
+Number of moles = Concentration × Volume
+Volume = 
+Number of moles 0.05 mol
+Concentration = 0.500 mol 1 L– = 0.1 L = 100 mL
+1.8 DESCRIBING REACTIONS IN SOLUTION
+At the end of this section, you should able to:
+• explain the relationship between reacting ions, spectator ions, precipitation and
+solubility;
+• write net ionic equations.
+What is the difference between molecular equations and ionic equations? What
+are spectator ions?
+We use chemical equations to help us describe reactions. Reaction involving ions can be
+presented with different types of chemical equations. The one we use depends on the kind
+of information we want to convey. We can represent such a reaction by a molecular equation
+or an ionic equation.
+1.8.1 Molecular Equation
+A molecular equation is a chemical equation in which the reactants and the products are
+written as if they were molecular substances, even though they may actually exist in solution
+as ions. Molecular equations are useful because they are explicit about what the reactants
+are and what products you obtain.
+SOLUTIONS (UNIT 1)
+45
+Consider the reaction between calcium chloride, CaCl2
+, and sodium carbonate, Na2
+CO3
+,
+in aqueous solution to give solid calcium carbonate and aqueous sodium chloride. The
+equation for this reaction may be written as:
+CaCl2 (aq) + Na2
+CO3 (aq) → CaCO3 (s) + 2NaCl (aq)
+The molecular equation closely describes what is actually done in the laboratory or in an
+industrial process.
+1.8.2 Ionic Equation
+Although a molecular equation is useful in describing the actual reactants and products, it
+does not give any information about what is happening at the level of ions. Since this kind
+of information is very useful, you often need to write the molecular equation as an ionic
+equation.
+Consider the reaction of calcium chloride and sodium carbonate. Both are soluble ionic
+substances and are strong electrolytes. When they dissolve in water, they go into solution
+as ions. Each formula unit of CaCl2
+ forms one Ca2+ ion and two Cl–
+ ions in solution. So,
+instead of CaCl2
+(aq), it would be better to write Ca2+(aq) + 2Cl–
+(aq). Similarly, each
+formula unit of Na2
+CO3
+ forms two Na+
+ ions and one CO2–
+3 ion in solution, and this can be
+written as 2Na+
+(aq) + CO2–
+3 (aq) instead of Na2
+CO3
+(aq). The reactant side of the reaction
+becomes
+Ca2+(aq) + 2Cl–
+(aq) + 2Na+(aq) + CO2–
+3 (aq)
+On the product side of the equation, CaCO3
+(s) is an ionic compound, but the ions are held
+together in particular sites in the crystalline solid. We leave the formula as CaCO3
+(s) to
+convey this information in the equation. On the other hand, NaCl is a soluble ionic compound
+and is a strong electrolyte. Also it dissolves in aqueous solution to give freely moving ions.
+Therefore, we can write it as Na+
+(aq) + Cl–
+(aq).
+The complete equation is
+Ca2+(aq) + 2Cl–
+(aq) + 2Na+(aq) + CO2–
+3 (aq) → CaCO3
+(s) + 2Na+(aq) + 2Cl–
+(aq)
+The ions appearing on both sides of the equation (Na+
+ and Cl–
+) are called spectator ions,
+as they do not take part in the reaction and they can be cancelled on both sides to express
+the essential reaction that occurs.
+CHEMISTRY GRADE 12
+46
+Ca2+(aq) + 2Cl–
+(aq) + 2Na+(aq) + CO2–
+3 (aq) → CaCO3
+(s) + 2Na+(aq) + 2Cl–
+(aq)
+The resulting equation is:
+Ca2+(aq) + CO2–
+3 (aq) → CaCO3
+(s)
+This net ionic equation, is without spectator ions and the reaction that actually occurs at an
+ionic level is between calcium ions and carbonate ions which form solid calcium carbonate.
+Activity 1.11
+Form a group and discuss the following:
+1. How are sodium carbonate and calcium hydroxide found in water solution? Write
+dissociation reaction for each of them.
+2. Write the ionic equation for the reaction between sodium carbonate and calcium
+hydroxide. Are the products formed soluble in water?
+3. Write the soluble product in ionic form. Are there the same ions in the reactant and
+product side?
+4. Write the net ionic equation.
+Exercise 1.13
+For each of the following molecular equations, write ionic equation, write a net ionic
+equation, and identify the spectator ions:
+a 3 24 24 3 2AgNO (aq) + Na CrO (aq) Ag CrO (s) + 2NaNO (aq) →
+b 42 4 2 2 2HClO (aq) + Ca(OH) (aq) Ca(ClO ) (aq) + 2H O (l) →
+c 3 22 3 2 2HNO (aq) + Mg(OH) (s) 2H O(l) + Mg(NO ) (aq) →
+d 3 2 2 4 4 3 Pb(NO ) (aq) + Na SO (aq) PbSO (s) + 2NaNO (aq) →
+1.9 COLLIGATIVE PROPERTIES OF SOLUTION
+At the end of this section, you should be able to:
+• define colligative properties:
+• list the important properties of solvents that are affected by the formation of a solution;
+• state Raoult’s law;
+SOLUTIONS (UNIT 1)
+47
+• explain the change in the colligative properties of solvent when a certain solute is
+added;
+• describe the Van’t Hoff’s factor;
+• calculate the vapour pressure, boiling point, and freezing point of a solvent after a
+given amount of solute is dissolved in it;
+• define osmosis and osmotic pressure of a solution;
+• calculate the osmotic pressure of a solution; and
+• compare and contrast change in colligative properties of electrolytic and non
+electrolytic solution.
+What is meant by colligative? Why does the addition of ethylene glycol lower the
+freezing point and raise the boiling point of water? Discuss this question with
+your classmates.
+Certain physical properties of solutions differ in important ways from those of pure solvents.
+For example, pure water at 1 atm pressure freezes at 0°C, while an aqueous solutions at 1
+atm pressure freezes at a lower temperature. Ethylene glycol is added to water in radiators of
+cars as antifreeze to lower the freezing point of the solution. This also raises the boiling point
+of the solution above that of pure water, permitting operation of engines at higher temperatures.
+The lowering of the freezing point and the raising of the boiling point are examples of the
+physical properties of solutions that depend on the quantity (concentration) of the solute but
+not on the kind of solute particle. Properties that depend on the number of particles or
+concentration of the solute in the given amount of solvent and not on their nature are called
+colligative properties. (Colligative is a Latin word that means “depending on the collection”.)
+There are four important properties of a solution that are affected by the addition of a nonvolatile solute to a solvent. These are:
+1. Vapour pressure lowering
+2. Boiling point elevation
+3. Freezing point depression
+4. Osmotic pressure
+1.9.1 Vapour Pressure Lowering
+How do non-volatile solutes affect the vapour pressure of the solvent?
+If a solute is non-volatile i.e., it does not have a measurable vapour pressure, the vapour
+pressure of its solution is always less than that of the pure solvent. Vapour pressure lowering
+CHEMISTRY GRADE 12
+48
+is the lowering of the vapour pressure of the solvents that results when a non-volatile solute
+is added to form a solution. The solute prevents (blanket) the tendency of the solvent to
+escape and it also lowers the vapour pressure of the solvent (Figure 1.14). Thus, the
+relationship between solution vapour pressure and solvent vapour pressure depends on
+the concentration of the solute in the solution.
+Solute particles
+Solvent Solution
+Figure 1.14 shows the lowering of the rate of vaporization of a solvent when a nonvolatile solute is added.
+The relationship between solution vapour pressure and solvent vapour pressure is expressed
+by Raoult’s law. This law states that “the partial pressure of a solvent over a solution,
+P1, is given by the vapour pressure of the pure solvent, times the mole fraction of the
+solvent in the solution, x1 , at constant temperature”.
+P1 = x1P°
+1
+DP = P°
+1 – P1
+where DP = Change in vapour pressure (vapour pressure lowering)
+P° = Vapour pressure of pure solvent
+P1 = Vapour pressure of solvent in solution
+Note that the vapour pressure of a solvent is not a colligative property. Only the change in
+vapour pressure, ∆P, which occurs when a solute is added to the solvent, is a colligative
+property. It can be defined as the difference between the vapour pressure of the pure
+solvent and the vapour pressure of solvent in the solution.
+In a solution containing only one solute, x1 = 1 – x2, where x2 is the mole fraction of the
+solute. Inserting this into the Raoult’s-law equation gives:
+P1 = (1 – x2) P°
+1
+P1 = P°
+1 – P°
+1 x2
+SOLUTIONS (UNIT 1)
+49
+P°
+1 – P1= P°
+1 x2
+∆P = P°
+1 x2
+Example 1.18
+Calculate the vapour pressure of water at 90 °C in a solution containing 5.0 g of
+glucose (C6H12O6) in 100 g of water. The vapour pressure of pure water at
+90 °C is 525.8 Pa.
+Solution:
+Given:
+Mass of C6H12O6 = 5.0 g
+Mass of water = 100 g
+Vapour pressure of pure water at 90oC = 525.8 Pa
+Required:
+Vapour pressure of water in a solution P1 = ?
+First, we find mole fractions of both solute and solvent. To do this, we must find
+the number of moles of glucose and water.
+Number of moles of C6H12O6 = 6 12 6
+6 12 6 CH O
+Mass of CH O 5.0 g
+ = 
+Molar mass of 180 g mol
+ = 0.028 mol
+Number of moles of H2O = 100 g
+18 g mol = 5.56 mol
+CH O 6 12 6
+0.028 mol
+ 0.005
+0.028 mol + 5.56 mol
+x = = 
+H O2
+5.56 mol
+ = 0.995
+5.56 mol + 0.028 mol
+x = 
+ 1 HO 1 2 P = x P°
+ = 0.995 × 525.8 Pa = 523.17 Pa
+ DP = P° – P
+ = 525.8 Pa – 523.17 Pa = 2.63 Pa
+CHEMISTRY GRADE 12
+50
+Example 1.19
+Calculate the vapour pressure of a solution made by dissolving 218 g of glucose in
+460 mL of water at 30 °C. What is the vapour pressure lowering? (Assume that
+the density of water is 1.00 g/mL). Vapour pressure of water at 30 °C is
+31.82 torr.
+Solution:
+Given: Required:
+Mass of solute (C6H12O6) = 218 g P1 (vapour pressure of solution) = ?
+Volume of water = 460 mL = 0.46 L DP (lowering in vapour pressure) = ?
+From Raoult’s law
+P1 = x1 P°
+1
+To determine the number of moles of H2O, its density is used.
+460 mL 1 mL 1 g → × 1 g
+1 mL = 460 g
+460 mL Æ?
+Number of moles of H2O = 460 g 25.56 mol
+18 g mol
+ = 
+Number of mole of C6H12O6 = 
+218 g
+180 g mol
+ = 1.21 mol
+H O2
+25.56 mol = = 0.955
+25.56 mol + 1.21 mol
+x
+CH O 6 12 6
+1.2 mol = = 0.045
+1.21 mol + 25.56 mol
+x
+P1 = x1 P°
+1
+P°
+1 is the vapour pressure of water at 30°C, which is equal to 31.82 torr.
+P1 = 0.955 × 31.82 torr
+ = 30.4 torr
+DP = P° – P
+= 31.82 torr – 30.4 torr
+= 1.42 torr
+SOLUTIONS (UNIT 1)
+51
+Exercise 1.14
+1. Why is the vapour pressure of a solution less than that of the pure solvent?
+2. The vapour pressure of pure water at 110°C is 1070 torr. A solution of ethylene
+glycol in water has a vapour pressure of 1.00 atm at 110°C. Assuming that Raoult’s
+law is obeyed, what is the mole fraction of ethylene glycol in water?
+3. Calculate the vapour pressure lowering, DP, when 10.0 mL of glycerol (C3H8
+O3)
+is added to 500.0 mL of water at 50°C. At this temperature, the vapour pressure
+of pure water is 92.5 torr and its density is 0.988 g/mol. The density of glycerol is
+1.26 g/mL.
+Solutions that obey Raoult’s law are said to be ideal solutions. If both components of a
+solution are volatile, i.e., have measurable vapour pressure, the vapour pressure of the
+solution is the sum of the individual partial vapour pressures. Thus, for two volatile
+components, A and B, the vapour pressure of each component above the solution is
+proportional to its mole fraction in the solution.
+PA = xA P°
+A
+PB = xB P°
+B
+According to Dalton’s law of partial pressure, at constant temperature, the pressure of a
+mixture of gases is equal to the sum of the partial pressures of all of the constituent gases.
+The total pressure, is:
+=+= +° ° PT A B AA B B P P xP x P
+This can be shown graphically as in Figure 1.15, assuming that A is more volatile than B.
+Figure 1.15 Vapour pressure versus mole fraction for an ideal solution.
+CHEMISTRY GRADE 12
+52
+Ideal solutions are characterized by the following properties:
+i) The volume of an ideal solution is the sum of the volumes of its pure components.
+i.e., there is no expansion or contraction on mixing.
+ii) The heat of a solution is zero. i.e., mixing is neither exothermic nor endothermic.
+Intermolecular forces between solute-solute and solute-solvent molecules are equal,
+as are those between solvent-solvent molecules and solute-solvent molecules.
+iii) The vapour pressure above the solution is equal to the sum of the individual partial
+vapour pressures.
+iv) The components have similarity in their chemical structures.
+v) The solutions obey Raoult’s law.
+Can you give examples of an ideal solution?
+Many solutions do not behave ideally. They deviate from Raoult’s law and are said to be
+non-ideal. Here, we can consider the following two cases.
+Case 1: If the intermolecular forces between A and B molecules are weaker than those
+between A and A molecules and those between B and B molecules, then there is
+a greater tendency for A-B molecules to leave the solution, compared to the case
+of an ideal solution. Consequently, the vapour pressure of the solution is greater
+than the sum of the vapour pressures that would be predicted by Raoult’s law for
+the same concentration.
+This behaviour exemplifies the positive deviation from Raoult’s law (Figure
+1.16 a). In this case, the heat of mixing is an endothermic process.
+Case 2: If A molecules attract B molecules more strongly than they do their own kind,
+then the escaping tendency decreases and the vapour pressure of the solution is
+less than the sum of the vapour pressures as predicted by Raoult’s law.
+Here, we have a negative deviation from Raoult’s law, and mixing is an exothermic
+process (Figure 1.16 b).
+SOLUTIONS (UNIT 1)
+53
+ 
+T = constant
+Non-ideal solution
+Vapour Pressure
+Ideal solution
+PT
+PT
+PA
+PA
+PB
+PB
+T = constant
+Non-ideal solution
+Ideal solution
+Vapour Pressure
+PT
+PT
+PA
+PA
+PB
+PB
+a) Positive deviation b) Negative deviation
+XA = 0 XA = 1 XA = 0 XA = 1
+XB = 1 XB = 0 XB = 1 XB = 0
+(Dotted lines show the expected values and the solid lines show the observed values).
+Figure 1.16 Vapour pressure versus mole fraction for real solutions.
+1.9.2 Boiling Point Elevation
+Which do you think has a higher boiling point, a pure solvent or a solution
+containing a non-volatile solute? Why?
+The boiling point of a liquid is the temperature at which its vapour pressure equals the
+atmospheric pressure. If a non-volatile solute is added to a solvent, the solution’s boiling
+point will be increased. This is due to the fact that the vapour pressure of a solvent at a
+given temperature is lowered by the presence of a non-volatile solute in it, because less
+number of solvent molecules are available on the surface exposed to atmosphere in presence
+of solute molecules, as shown in Figure 1.14. Therefore, such a solution must be heated to
+a higher temperature than the pure solvent in order for its vapour pressure to be equal to
+the atmospheric pressure.
+The boiling-point elevation (DTb
+) is defined as the boiling point of the solution (Tb
+) minus
+the boiling point of the pure solvent (Tb
+°).
+DTb = Tb – Tb
+°
+The elevation in boiling point (DTb) is directly proportional to the molality of the solution.
+That is:
+DTb a m
+DTb = Kbm
+CHEMISTRY GRADE 12
+54
+where m is the molality of the solution, and Kb
+ is the molal boiling point elevation constant
+for the solvent.
+Table 1.2 Boiling points, molal boiling point elevation constants, freezing points and
+molal freezing point depression constants of some solvents at 1 atm pressure.
+Solvent Boiling Kb (°C/m) Freezing Kf (°C/m)
+point (°C) point (°C)
+Acetic acid (C2H4O2) 118.10 3.07 16.60 3.90
+Benzene (C6H6) 80.10 2.53 5.50 5.12
+Camphor (C10H16O) 208.00 5.95 179.00 39.70
+Carbon disulfide (CS2) 46.30 2.34 – 111.50 3.83
+Chloroform (CHCl3) 61.26 3.63 – 63.50 4.70
+Cyclohexane (C6H12) 80.70 2.79 6.60 20.00
+Nitrobenzene (C6H5NO2) 210.88 5.24 5.70 7.00
+Phenol (C6H5OH) 182.00 3.56 43.00 7.40
+Water (H2O) 100.00 0.51 0.00 1.86
+Example 1.20
+Calculate the boiling point of a 0.33 m solution of a solute in benzene.
+(Kb = 2.53°C /m).
+Solution:
+Given: Required:
+Molality = 0.33 m Boiling point of the solution?
+Kb = 2.53°C /m
+DTb = Kbm,
+DTb = 2.53°C /m × 0.33 m = 0.83°C
+Therefore, the boiling point of the solution is determined from the boiling point of
+the pure solvent benzene (Table 1.2) and the change, in boiling point, DTb
+.
+Boiling point of the solution = 80.1°C + 0.83°C
+ = 80.93°C
+ Example 1.21
+Calculate the boiling point of a solution that contains 200 g of sucrose, C12H22O11,
+in 500 g of water.
+SOLUTIONS (UNIT 1)
+55
+Solution:
+From the given masses of solute and solvent, we can find the molality of the solution.
+ Molality (m) = 
+2
+Mass of sucrose
+Molar mass of sucrose × Mass of H O in kg
+= 
+200g
+342g / mol 0.5 kg × = 1.17 m
+DTb = Kbm, from Table 1.2, Kb for H2O is 0.512°C /m
+Therefore, DTb = 0.512°C/m × 1.17 m = 0.6°C
+Since the normal boiling point of water is 100°C, the boiling point of the solution
+will be equal to 100°C + 0.6°C = 100.6°C.
+Exercise 1.15
+1. What is the boiling point of 1.93 m solution of a non-volatile solute in nitrobenzene?
+2. Automotive antifreeze consists of ethylene glycol, C2H6O2, a non-volatile
+non-electrolyte solute. Calculate the boiling point of a 25.0 mass percent solution
+of ethylene glycol in water.
+1.9.3 Freezing Point Depression
+Activity 1.12
+Discuss in group and account for the following processes. Report your idea to the class.
+1. In countries with extremely cold conditions, anti-freezing substances like ethylene
+glycol (C2
+H6
+O2
+) are used in the cooling system of the automobiles.
+2. Salts such as NaCl or CaCl2
+ can be used to prepare ice cream or to de-ice the roads.
+When a solution begins to freeze, the component that crystalize out first is almost pure.
+Pure ice, for example, crystallizes out of a solution of salt and water. Solute particles,
+because of their different size and shape, do not fit into the crystal lattice of the frozen
+solvent. They tend to concentrate in the remaining liquid, and they interfere with the freezing
+process by getting in the way of solvent molecules looking for lattice sites. This interference
+causes the solution to freeze at lower temperature than the pure solvent. The greater the
+concentration of the solution, the greater the interference and therefore, the lower the
+freezing point of the solution.
+CHEMISTRY GRADE 12
+56
+The freezing point depression (DTf
+) is defined as the freezing point of the pure solvent (T)
+minus the freezing point of the solution (Tf
+).
+DTf = T – Tf
+The freezing point depression (DTf
+) of solutions of nonelectrolytes has been found to be
+equal to the molality of the solution times a proportionality constant. This constant is the
+molal freezing point depression constant, Kf ,of the solvent.
+DTf = Kfm
+Example 1.22
+The freezing point of pure camphor (C10H16O), T°
+f
+, is 179.0°C, and its Kf
+ is
+39.70°C kg/mol. Find the freezing point of a solution containing 1.50 g of a
+compound of molecular mass 125, dissolved in 35 g camphor (solvent).
+Solution:
+First we find number of moles of the compound
+Number of moles = 1.5 g 0.012 mol
+125 g mol
+ = 
+Molality = 0.012 mol 0.343 mol kg 0.035 kg
+Number of moles of solute
+ = = 
+Weight (kg) of solvent
+DTf
+ = Kfm = 39.7°C kg/mol × 0.343 mol/kg
+ = 13.6°C
+The normal freezing point of camphor is lowered by 13.6°C. Therefore, the freezing
+point of the solution, Tf
+, will be:
+DTf
+ = T– Tf
+ = 179.0°C – 13.6°C = 165.4°C
+Exercise 1.16
+1. Calculate the freezing point of a solution that contains 60.0 g of urea, N2H4
+CO, in
+500.0 g of water.
+2. Calculate the molecular mass of sulphur if 35.5 g of sulphur dissolves in 100.0 g of
+CS2 to produce a solution that has a boiling point of 49.48°C.
+SOLUTIONS (UNIT 1)
+57
+1.9.3 Osmosis and Osmotic Pressure
+How do you calculate osmotic pressure?
+Osmosis is the selective passage of solvent molecules through a porous (semi- permeable)
+membrane from a dilute to a more concentrated solution or from the solvent side into the
+solution side.
+Figure 1.17 shows two solutions on equal level, separated by a semi-permeable membrane.
+Solvent molecules move through the membrane from left to right. As a result, the liquid
+levels in the two arms become uneven. Eventually, the pressure difference resulting from
+the unequal heights of the liquid in the two arms becomes so large that the net flow of
+solvent ceases. Alternatively, we may apply pressure to the right arm of the apparatus, as
+shown in Figure 1.17 b, to stop the net flow of solvent either way.
+The pressure required to prevent osmosis is known as the osmotic pressure, p, of the
+solution.
+Figure 1.17 Apparatus for measuring osmotic pressure.
+Jacobus Henricus Van’t Hoff found that the osmotic pressure obeys a law similar to the
+ideal gas law, PV = nRT,
+where V is the volume of the solution, n is the number of moles of solute, R is the ideal gas
+constant, and T is the temperature on the Kelvin scale. From the equation, we can write:
+p = = = M      
+n P RT RT
+V
+where M is the molarity of the solution.
+Like other colligative properties, osmotic pressure can be used to determine the molar
+mass of solute. Especially osmotic pressure is used in biological laboratories to determine
+molecular masses of huge molecules like proteins and nucleic acids.
+CHEMISTRY GRADE 12
+58
+Example 1.23
+What is the osmotic pressure at 17°C of 150 mL aqueous solution containing
+1.75 g of sucrose (C12H22O11) per 150 mL of solution?
+Solution:
+First we calculate the molarity (M) of the solution
+Molarity (M) = 
+Number of moles of solute
+Volume (L) of solution
+= 
+1.75 g ( ) 342 g mol
+ = 0.034 mol L
+0.150 L
+ p = MRT
+= 0.0851mol Latm /L 0.0821
+mol (290K)=0.812 atm
+K
+   
+ 
+Example 1.24
+In an experiment to measure the molar mass of polyethylene, 2.20 g of polyethylene
+plastic was dissolved in enough toluene to produce a 100 mL solution. Its osmotic
+pressure at 25°C was measured as 1.10 × 10–2 atm. Calculate the molar mass of
+polyethylene.
+Solution:
+From the equation, π = MRT ⇒ M = 
+π
+RT
+M = 
+( )
+–2 1.10 × 10 –4 4.5 × 10 mol L
+L.atm 0.0821 298 K
+mol.K
+ atm
+ =      
+That is, 1 L solution contains 4.5 × 10–4 mole of polyethylene. The amount of
+polyethylene in 100 mL of the solution is therefore
+ 1 L Æ 4.5 × 10–4 mol
+ 0.10 L Æ ?
+SOLUTIONS (UNIT 1)
+59
+Amount of polyethylene (mol) =
+–4 0.10 L × 4.5 × 10 mol
+1 L
+ = 4.5 × 10–5 mol
+Molar mass of polyethylene ( ) –5
+2.20 g
+4.5 × 10 g mol = mol
+ = 4.89 × 104 g / mol
+Activity 1.13
+Take 5%,10% and 20% solutions of sucrose in water.
+Take 3 potatoes of almost equal size and make one cubic hole in each potato of equal
+dimensions.
+Fill the holes with water and keep these potatoes in different solutions of sucrose.
+Observe the change in the water level at different time intervals.
+Discuss your observations with your teacher as well as classmates.
+Exercise 1.17
+1. A sample of 2.05 g of polystyrene plastic was dissolved in enough toluene to form
+100 mL of solution. The osmotic pressure of this solution was found to be 1.21
+kPa at 25°C. Calculate the molar mass of polystyrene.
+2. What is the osmotic pressure, in atm, of a 0.30 M solution of glucose in water that
+is used for intravenous infusion at body temperature, 37°C?
+1.9.4 Colligative Properties of Electrolytic Solutions
+Activity 1.14
+Form groups and discuss the following. Present the result of your discussion to the class as
+a report.
+1. What is the difference between electrolytes and non-electrolytes?
+2. How do the effects of the presence of electrolyte solute on the properties of pure
+solvent differ from the effect of the presence of non-electrolyte solvent? Justify your
+answer by giving example.
+CHEMISTRY GRADE 12
+60
+The effective number of moles of ions produced by one mole of a solute is expressed in
+terms of the Van’t Hoff factor (i).
+i = 
+Measured value for electrolyte solution
+Expected value for nonelectrolyte solution
+Thus, i is 1 for all solutions of nonelectrolytes, but is greater than 1 for solutions of electrolytes.
+Therefore, the colligative-property relationship should be modified to account for dissociation
+of electrolyte solutes. Consequently,
+DP = i x2P°
+1
+DTb = i Kbm
+DTf
+ = i Kf
+m
+p = i MRT
+ Table 1.3 Experimental values of the Van’t Hoff factor for some substances.
+Compound 0.100 m 0.001 m
+HCl 1.9 2.0
+NaCl 1.87 1.97
+MgSO4 1.21 1.82
+K2SO4 2.32 2.84
+KBr 1.88 1.97
+As can be seen in Table 1.3 the experimental Van’t Hoff factors are less than the theoretical
+prediction. This is mainly due to the cation-anion interaction in the solution of the electrolytes
+that prevents complete dissociation.
+Example 1.25
+If a 0.10 m MgSO4
+ solution causes an elevation of 0.062°C in the boiling point of
+water, what is:
+a the Van’t Hoff Factor (i)?
+b the boiling point of this solution?
+Solution:
+a First, we find i by applying the modified colligative-property relationship for
+DTb
+.
+DTb = i Kbm
+SOLUTIONS (UNIT 1)
+61
+Given:
+DTb = 0.062°C
+2 Kb, H O = 0.512°C/m
+m = 0.1 m
+0.062°C = i × 0.512°C /m × 0.1 m
+i = 1.21. What does this indicate?
+b Recall that DTb = Tb – T°
+b
+0.062°C = Tb – 100°C
+Tb = 100°C + 0.062°C = 100.062°C
+Exercise 1.18
+A 0.0622 m solution of iron (III) chloride, FeCl3, in water freezes at –0.412°C.
+Determine the Van’t Hoff’s factor of FeCl3
+ in this solution.
+Unit Summary
+• Solutions are homogeneous mixtures of two or more substances.
+• Solubility depends on the relative magnitude of solute-solute, solute-solvent,
+and solvent-solvent attractive forces.
+• The relative amounts of solute and solvent in a solution can be described
+quantitatively in terms of mass percentage, parts per million, parts per billion,
+mole fraction, molarity, molality and normality.
+• Increasing the temperature usually increases the solubility of solids in water
+and liquids in water while it decreases the solubility of gases in water.
+• Raoult’s law states that the partial vapour pressure of substance A over a
+solution is equal to the mole fraction of A, XA, times the vapour pressure of
+pure solvent. An ideal solution obeys Raoult’s law over the entire range of
+concentration. Non ideal solutions show positive or negative deviation from
+Raoult’s law.
+• Some physical properties of solutions are colligative, that is, they depend on
+the concentration of the solute particles that are present in a given amount
+CHEMISTRY GRADE 12
+62
+of solvent and not on their chemical identity. These are vapour pressure
+lowering, boiling point elevation, freezing point depression, and osmotic
+pressure.
+• The Van’t Hoff factor provides a measure of the extent of dissociation of
+electrolyte in solution

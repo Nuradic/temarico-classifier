@@ -1,0 +1,2863 @@
+In the previous unit, you have learned about map reading and interpretation. 
+There, issues related to relief representation on contour maps, representation of 
+drainage on maps, human-made features on maps and the geographic information 
+system were discussed. 
+In this unit, you are going to learn about Africa. The unit will give you an overview 
+of the location, size and shape of the continent and its regional divisions, its 
+geological history and relief structure, and the continent’s climate and related 
+issues. In addition, the drainage of Africa and its wildlife resources will be 
+discussed. Also, the soil resources of the continent will be emphasized.
+3.1 POSITION, SIZE AND SHAPE OF AFRICA
+At the end of this section, you will be able to:
+Þ demonstrate the relative and absolute location of Africa using world map;
+Þ compare the size of Africa with other continents;
+Þ discuss the impacts of the coastal and continental shape of Africa on its 
+development;
+Þ describe the regional division of Africa;
+Þ show the geographical location of each region;
+Þ relate the sub regions in terms of size, access to the sea and major relief 
+structure; and
+Þ analyze the socio-economic and geo-political similarities of each region.
+Key Terms
+³ Absolute location
+³ Relative location 
+³ Latitude 
+³ Longitude
+³ Area size 
+³ Shape 
+³ Region 
+³ Epeirogenesis
+Grade 11 Geography 102
+3.1 Position, Size And Shape Of Africa
+3.1.1 Position of Africa
+Brainstorming
+1 What is location? How is it described? 
+2 Where is Africa located? 
+3 Can you state the relative and absolute locations of Africa?
+Africa’s location can be expressed in two ways, namely, absolutely and relatively.
+As you can see from Figure 3.1, Africa lies between 37o
+21'N and 34o
+52'S latitudes 
+and between 17o
+33'W and 51o
+28'E longitudes. This means that the continent 
+extends for about 37o
+ to the north of the equator and 35o
+ south of it. Similarly, 
+Africa extends for about 17o
+ west and 51o
+ east of the Greenwich Meridian. From 
+this absolute location, we can understand that the continent stretches in all the 
+four hemispheres. 
+Cape Verde 
+(Senegal) 
+17o33’W
+Cape Bon (Tunisia) 
+37o21’N
+Cape Guardafui 
+(Somalia) 
+51o28’E
+Cape Agulhas (RSA) 
+34o52’S
+Figure 3.1: Africa's Astronomical Location
+Unit 3: An Overview of Physical geography of Africa 103
+3.1 Position, Size And Shape Of Africa 3.1 Position, Size And Shape Of Africa
+The four extreme points of the continent, which mark the extreme points of Africa 
+are the following.
+F Extreme North - Cape Bon (Tunisia) -37o
+21'N
+F Extreme South - Cape Agulhas (Republic of South Africa (RSA)) - 
+34o
+52'S
+F Extreme East - Cape Guardafui (Somalia) - 51o
+28'E
+F Extreme West - Cape Verde (Senegal) - 17o
+33'W
+Activity 3.1
+In a small group, study Figure 3.1 and answer the following questions.
+1 What unique features do you observe about Africa’s absolute location?
+2 What impacts has Africa’s absolute location on its climate, natural vegetation, 
+fauna, agriculture, and human settlements?
+From the map that shows the absolute location of Africa, we can learn that:
+F when we measure Africa’s greatest north-south and east-west extents, 
+we find that they are almost equal:
+K north-south – approximately 8000 kilometers 
+K east-west – approximately 7,600 kilometers
+F the equator crosses Africa almost at its north-south center. The northsouth extents above and below it are almost equal, although the 
+northern area is greater than the southern one. The land area north of 
+the equator is about twice that of the south. 
+F Africa is the only continent crossed by all of the following: the Tropic of 
+Cancer and Tropic of Capricorn, the Equator and the Prime Meridian. 
+F almost ¾ of the continent's total area is found within the tropics, and 
+therefore much of the continent experiences tropical climates.
+When Africa’s position is expressed in relation to the major landmasses and water 
+bodies that are close to it, it can be described as follows. Africa is found to the:
+F South of Europe
+F Southwest of Asia
+F South of the Mediterranean Sea
+F West of the Indian Ocean 
+F East of the Atlantic Ocean 
+F North of the Southern Ocean
+Grade 11 Geography 104
+3.1 Position, Size And Shape Of Africa
+Activity 3.2
+1 By referring to Figure 3.2, describe the relative location of Africa in relation to 
+the features mentioned above.
+2 Where is Africa closest to:
+a Europe? b Asia?
+As the map shows, Africa gets closest to Europe across the Strait of Gibraltar, 
+which is about 22 kms wide between Morocco and Spain. With relation to Asia, 
+the continent comes closest across the Strait of Bab-el Mandab, which is about 
+40 kms wide. A narrow stretch of land called the Isthmus of Suez, which is cut 
+into two by an artificial canal called the Suez Canal, connects Africa with Asia.
+Activity 3.3
+Refer to the above Figure 3.2 and using an atlas perform the following activities.
+1 Locate the Strait of Gibraltar, the Strait of Bab-el Mandab and the Isthmus of Suez.
+2 Find the four extreme points of Africa.
+The relative position that Africa has, in relation to the rest of the world, gives the 
+continent many advantages. The following are the most important ones.
+Figure 3.2: Africa's Relative Position in the world
+Unit 3: An Overview of Physical geography of Africa 105
+3.1 Position, Size And Shape Of Africa 3.1 Position, Size And Shape Of Africa
+F The continent occupies a central location in the world. This makes 
+the continent close to the rest of the world, providing it geographical 
+accessibility. 
+F The geographical proximity that the continent has with Europe and 
+Asia has resulted in socio-cultural contacts. This has encouraged 
+socio-economic and cultural exchange and integration among the three 
+continents.
+3.1.2 Size of Africa 
+Brainstorming
+1 How large is Africa’s land area? 
+2 What percentage of the world’s landmass is Africa’s?
+Africa is the second largest continent in the world, following Asia. The continent’s 
+total area is about 30,335,000 km2
+. This constitutes 20.2% of the earth’s total 
+land surface. With this area, the continent is about two-thirds of the size of Asia 
+and 3.36 times larger than Europe. Table 3.1 indicates the sizes of the world’s 
+continents. 
+Table 3.1: Area of the Continents
+Continent Area (000’ km2
+) % of World Area
+Africa 30,335 20.2
+Asia 45,000 30.0
+Europe 10,000 6.67
+Australia and Oceania 8,700 5.8
+N. America 24,200 16.14
+South America 17,000 11.34
+Antarctica 14,000 9.3
+World total 149,900 100
+Grade 11 Geography 106
+3.1 Position, Size And Shape Of Africa
+Africa’s large area gives the continent several advantages, including the following:
+F A large area of land that can be used for settlements, agriculture, and 
+other economic activities.
+F Huge resource potentials in terms of resources like soil, water, minerals, 
+flora and fauna and the like, which are vital for its development. 
+However, Africa’s large size also has disadvantages. For example, it makes 
+geographical connectivity difficult among the people of the region and of the 
+world. As a result, there are problems related to integration among peoples 
+of the continent and others outside, making both integrated development and 
+international trade a challenge. 
+3.1.3 Shape of Africa
+What is shape? What is its significance? 
+How do you describe Africa’s shape? 
+Shape is defined as the geographical form of an area. In other words, it is the 
+external geographical appearance of a place. It has great impact on the socioeconomic integration and flow of goods and services within each region. 
+The shapes of places can be described in different ways for example, as moderately 
+compact, elongated, fragmented, perforated, and the like. A moderately compact 
+shape is close to that of a circle. An elongated shape is a shape with one side 
+longer than the other. A place with a fragmented shape is made up of multiple 
+disconnected areas. For example, some countries are composed of islands.
+Africa has a relatively compact shape. This means that the continent’s longest 
+east-west and north-south distances are almost the same. The following evidence 
+supports the above statement.
+F The east-west and north-south extensions are almost equal, with a 
+minor difference.
+F Africa has a fairly unbroken coastline. The continent’s coastline does 
+not have many indentations, inlets, bays or gulfs. This condition creates 
+a relatively smooth coastline, compared to those of other continents, 
+and therefore a relatively short one. For example, if we compare Africa 
+and Europe, the coastline of the latter is, by far, longer than the former.
+Unit 3: An Overview of Physical geography of Africa 107
+3.1 Position, Size And Shape Of Africa 3.1 Position, Size And Shape Of Africa
+F The unbroken coastline of Africa makes the continent poor in natural 
+harbors.
+F Many places in Africa are not very far from the coast. Almost all places 
+are at most located 1500 km from the coast. Therefore, many countries 
+of the continent are not very far from the sea.
+F The unbroken coast line discourages external communication. 
+3.1.4 Regional Division of Africa
+The mainland of Africa has five major regions. They are defined in terms of 
+socio-economic and cultural similarities. Each region consists of a number of 
+countries with their own regional variations. The regions are
+F Eastern Africa
+F Central Africa
+F Northern Africa
+F Southern Africa
+F Western Africa 
+The geographical location of these regions and their political units are given in 
+the following figures. A brief description of the socio-economic conditions of 
+each region is also made below the figures.
+Study them carefully and try to identify each region’s relative location as well as 
+the countries that constitute the region.
+Northern
+Western
+Central
+Eastern
+Southern Figure 3.3: Regional division of 
+Africa
+Grade 11 Geography 108
+3.1 Position, Size And Shape Of Africa
+Table 3.2: The regions of Africa
+Name of 
+region 
+Area
+(km²)
+Population
+(2009) 
+Population Density
+(per km²)
+Number of 
+Countries
+Eastern Africa 6,384,904 316,053,651 49.5 18
+Central Africa 6,613,253 121,585,754 18.4 9
+Northern Africa 8,533,021 211,087,622 24.7 11
+Southern Africa 2,693,418 56,406,762 20.9 5
+Western Africa 6,144,013 296,186,492 48.2 17
+Africa Total 30,368,609 1,001,320,281 33.0 61
+N.B: The total number of countries and the total area given in the above table 
+include the insular/island states of Africa and their area.
+As shown in Table 3.2, Northern Africa is the largest in terms of its territorial 
+size followed by Central and Eastern Africa. In terms of population size, Eastern 
+Africa is the most populous followed by Western and Northern Africa. Likewise, 
+SOUTH AFRICA
+LESOTHO
+SWAZILAND
+MOZAMBIQUE ZIMBABWE
+BOTSWANA
+NAMIBIA
+ANGOLA
+MADAGASCAR
+COMOROS
+MALAWI
+TANZANIA
+BURUNDI
+CONGO
+CAMEROON
+NIGERIA BENIN
+BURKINA 
+FASO
+NIGER
+MALI
+GHANA
+COTE’ 
+D’IVOIRE
+LIBERIA
+GUINEA
+SIERRA LEONE
+GUINEA 
+BISSAU
+GAMBIA
+SENEGAL
+MAURITANIA
+WESTERN 
+SAHARA
+MOROCCO
+ALGERIA
+TUNISIA
+MALTA
+LIBYA
+ARABIA
+JAMAHIRIYA EGYPT
+CHAD SUDAN ERITREA
+SAUDI ARABIA
+ETHIOPIA
+DJIBOUTI
+YEMEN
+TOGO
+CENTRAL 
+AFRICAN 
+REPUBLIC
+UGANDA KENYA
+SOMALIA
+GABON
+EQUATORIAL GUINEA
+ASCENSION U.K.
+DEMOCRATIC RWANDA REPUBLIC OF THE CONGO
+ZAMBIA
+Figure 3.4: Political Map of Africa
+Unit 3: An Overview of Physical geography of Africa 109
+3.1 Position, Size And Shape Of Africa 3.1 Position, Size And Shape Of Africa
+there are significant differences in the population densities of the various regions. 
+Eastern Africa has the largest population density 49.5 people per km2
+ followed 
+by Western Africa. Central Africa has the continent’s lowest population density, 
+18.4 people per km2
+.
+The following discussion provides you with a brief description of the Socioeconomic conditions of the regions of Africa.
+Eastern Africa
+Eastern Africa is the region that is located between 18o
+N – 27o
+S latitudes and 
+22o
+E – 51o
+28'E longitudes. The region is the third largest in terms of its area 
+accounting for about 21% of the continent’s total area . A total of 18 countries, of 
+which seven are landlocked, constitute the region. The physiographic of eastern 
+Africa is characterized by diverse relief. Very high volcanic mountains, extensive 
+plateaus, great rift valleys and low depressions dominate the region’s topography. 
+Such diversity in surface configuration has resulted in the presence of diverse 
+climate that ranges from desert and semi-desert type to high altitude alpine 
+climate. This, in turn, has helped the development of varied vegetation zones 
+of tropical grasslands, forests, alpine vegetations and desert and semi-desert 
+vegetations making the region rich in flora and fauna resources. Eastern Africa 
+is drained by the Nile, Wabishebelle and Genale river basins. It is also the region 
+where most of Africa’s highland and rift valley lakes are found.
+In terms of population, Eastern Africa is the most populous of all the regions 
+accounting for about 31.3% of Africa’s total population in 2009. Nearly 22% of 
+the region’s population is urban. Life expectancy averages 51 years. Agriculture 
+is the most dominant economic activity in the region. Commercial cash crops 
+such as coffee, tea, sisal, and sugar cane, are the most important agricultural 
+products. Livestock resources are also important sources of income. The mining 
+and industrial sectors are little developed in the region.
+Northern Africa
+Northern Africa is the largest region in terms of area. It covers nearly 1/3rd of 
+the continent’s total area. There are seven countries in the region, two of which 
+namely Sudan and Algeria are among the largest states in Africa. All the states 
+of this region have direct access to the sea. Northern Africa is characterized by 
+desert climate. In addition, the Mediterranean type of climate also dominates the 
+Maghreb region. The region’s topography is dominated by mountains and plains. 
+Grade 11 Geography 110
+3.1 Position, Size And Shape Of Africa
+The Atlas Mountains and the Sahara Basin and uplands are the most common 
+features. Much of Northern Africa is covered by desert vegetation. However, 
+Mediterranean vegetation is also found in areas where Mediterranean climate 
+dominates. 
+In 2009, the population of northern Africa accounted for about 20.5% of 
+Africa’s total population. Nearly 50% of the region’s population is urban and life 
+expectancy averages 69 years. The Economy of northern Africa is dominated by 
+agriculture, industry and mining.
+Western Africa
+The region of Western Africa is stretched between 4o
+N – 25o
+N latitudes and 
+17o
+33'W – 16o
+E longitudes. Accounting for about 20% of Africa’s total area, 
+a total of 17 countries constitute the region. Highlands and lowlands make up 
+a good part of the relief of Western Africa. The Guinea highlands, the Fouta 
+Djalon and Jos plateau form higher parts of the region. The Niger, Benue, Volta, 
+Gambia and Senegal rivers drain the region. The climate of the region shows 
+great variation, while the western coasts experience tropical humid climates with 
+very high rainfall and temperature, the interior lowlands are characterized by 
+low rainfall and high temperature. These climatic conditions have resulted in the 
+presence of diverse vegetation that includes tropical forests, tropical woodlands 
+and grasslands. 
+Western Africa is the second most populous region in the continent. In 2009 the 
+region accounted for about 29.7% of the total population of Africa. Africa’s most 
+populous country, Nigeria, is found in this region. About 42% of the region’s 
+population lives in urban areas and life expectancy averages 51 years.
+The economy of Western Africa is dominated by agriculture. Coffee, Cacao, 
+Palm oil, rubber and ground nuts are among the most important agricultural cash 
+crops produced in the region. Industrial development is limited to coastal areas. 
+In some countries like Nigeria, Ghana and Guinea, mining is the most important 
+economic activity.
+Central Africa
+Central Africa is located between 23o
+30'N – 15o
+30'S and 8o
+E – 32o
+E. Covering 
+about 22% of Africa’s total area and possessing 9 countries, Central Africa is the 
+Unit 3: An Overview of Physical geography of Africa 111
+3.1 Position, Size And Shape Of Africa 3.1 Position, Size And Shape Of Africa
+second largest region in Africa. A good part of Central Africa, nearly 2/3rd of the 
+region, is a vast depression that is drained by the Congo basin. Highland areas in 
+the region include the Cameroon mountains and Ruwenzori Range. 
+Central Africa experiences almost all types of climates of the content, except the 
+Mediterranean type. Equatorial, tropical savanna, mountain (highland) and desert 
+climates are among the most dominant ones. The diverse climatic conditions of the 
+region make Central Africa rich in bio-diversity. Equatorial rainforests, Savanna 
+woodland, Gallery(Riverine) vegetation, Desert and semi-desert vegetation are 
+among the most common vegetation covers of the region.
+Central Africa accounts for about 12.5% of the total population of Africa. The 
+region is characterized by low population density due to its climatic conditions. 
+41% of the region’s population is urban. The average life expectancy in Central 
+Africa is about 51 years.
+Agriculture, forestry, mining and manufacturing constituted a good part of 
+Central Africa’s economy. However, the dominant economic sector that supports 
+the lives of the majority of the population in the region is subsistence agriculture. 
+Central Africa has huge potential for commercial crop production. The region 
+owns about 30% of Africa’s tropical woods. The region also has large reserves 
+of different types of minerals such as copper, zinc, aluminum, diamond, gold, 
+and oil. A number of oil refineries and timber processing plants are found in 
+the region. Angola, Gabon and Cameroon are the richest countries in petroleum 
+resources in the region.
+Southern Africa
+The absolute location of Southern Africa is between 18o
+S – 34o
+52'S and 7o
+E – 
+32o
+E. The region is divided into five sovereign states. Accounting for about 8.9% 
+of Africa’s total area, Southern Africa is the smallest region in the continent. 
+The topography of Southern Africa is dominated by high plateaus of over 
+300 m high. Among the highest areas in the region are the Drakensberg mountains. 
+The region is drained by major river basins that include the Limpopo, Orange, 
+and Vaal. There are also major inland basins in the region including the NgamiKalhari, Makarikari and Okovango basins. 
+The climate of Southern Africa is highly diverse. There are tropical, desert, alpine 
+and Mediterranean climates. The Mozambique and Benguela currents produce 
+Grade 11 Geography 112
+3.2 Geological History And Relief Structure Of Africa
+greater impact on the climate of the east and west coast of the region, respectively. 
+As a result of the diverse climate, the region is endowed with different species of 
+flora and fauna. 
+Accounting for about 5.8% of Africa’s total population, Southern Africa is the 
+least populous in the continent. Nearly 56% of the regions population resides in 
+urban areas and the region’s life expectancy averages 52 years. 
+Southern Africa has the most diverse economy in the continent. Agriculture, 
+mining, manufacturing and tourism form the major occupation of the region’s 
+population. Agriculture in the region is highly mechanized and comercialized. 
+The region is also rich in terms of mineral resources. Gold, diamond, and coal 
+are among the most important ones. The region has most of the major mining and 
+manufacturing industries in the continent. 
+Content Check
+Fill in the blank spaces.
+1 The exact location of a place that is expressed by using latitudes and 
+longitudes is know as ________.
+2 The two water bodies that are connected by the straight of Bab-el-Mandeb 
+are ________ and ________.
+3 Africa’s shape can be described as ________.
+4 The most populous region of Africa is ________
+5 The Northern and Southern extreme points of Africa are ________ and 
+________, respectively.
+3.2 GEOLOGICAL HISTORY AND RELIEF 
+STRUCTURE OF AFRICA
+At the end of this section, you will be able to:
+Þ reconstruct the geological history of Africa;
+Þ identify major relief structures of Africa on a map; 
+Þ appreciate the unique relief features of Africa; and
+Þ compare the relief of Africa with other continents.
+Unit 3: An Overview of Physical geography of Africa 113
+3.2 Geological History And Relief Structure Of Africa 3.2 Geological History And Relief Structure Of Africa
+Key Terms
+³ Geological history
+³ Geological time scale
+³ Orogenesis 
+³ Denudation 
+³ Peneplanation
+³ Basement complex
+³ Fluvial rains 
+³ Relief 
+³ Rift valley
+3.2.1 Geological History of Africa
+Brainstorming
+1 What is geology? 
+2 What does geological history mean? 
+3 How do geologists study the earth’s past? 
+4 Do you know the major geologic events that took place in Africa? 
+5 How did they affect the present surface structure of the continent?
+The present relief structure of Africa is the result of long, complex and continuous 
+processes that have taken place for several millennia. 
+In this lesson, we will consider the geological history of Africa. Throughout 
+the 4.5 billion year history of the planet, several geologic processes acted on 
+the planet and formed its relief. In this process, Africa underwent several major 
+geological events and changes.
+The continent of Africa was part of the old continent that we call Pangea. In the 
+Jurassic period of the Mesozoic era, some 200 million years ago Pangea broke into 
+two, forming Laurasia and Gondwanaland. Laurasia was the northern continent, 
+and Gondwanaland was the southern. Africa was part of Gondwanaland. As time 
+passed, each of these continents was further broken down, forming the seven 
+present-day continents. 
+In this process of change, the planet experienced several geologic events that 
+resulted in the formation of the world’s present surface structure. In Africa, major 
+geologic events and processes acted on the continent’s surface and left their scars, 
+forming the continent’s diverse relief. 
+Now let us see the major events that took place in the African continent in each era. 
+Grade 11 Geography 114
+3.2 Geological History And Relief Structure Of Africa
+Activity 3.4
+In a small group, discuss to answer the following questions.
+1 What were the major geologic events that took place in the Pre-Cambrian era 
+in Africa?
+2 What were the major geologic events that took place in the Paleozoic era in 
+Africa?
+3 Identify the major geologic processes that took place in the Mesozoic and 
+Cenozoic eras in Africa.
+Precambrian Era (4.5 billion - 600 million years before the 
+present)
+This era is the oldest and largest division of the geological time scale. It covers 
+almost 5/6th of the geological history of the planet. Due to its remoteness in time 
+and lack of fossil evidences, not much is known about this era. However, two 
+processes are believed to have been dominant. These are orogenesis (a series of 
+mountain-forming processes) and metamorphism. 
+For Africa, the following events are assumed to have been dominant in this era. 
+F Formation of the Basement Complex Rocks: the oldest rocks of 
+the continent, which are called Precambrian or crystalline basement 
+complex rocks, were formed during this era. These rocks cover nearly 
+two-thirds of the continent. Precambrian rocks are rich in metallic 
+mineral deposits, such as gold and copper. 
+F Orogenesis: is a mountain-forming process. In this era, many mountains 
+that make the face of the continent very rough and undulating, were formed. 
+Focus 
+Orogenesis (mountain building): changes in the level of the earth’s 
+crust in which rocks are thrown up into folds or blocks to form ranges of 
+mountains. In course of time, the mountains may be considerably denuded 
+and may there after be depressed or elevated by Epeirogenesis. 
+Paleozoic Era (600 - 250 million years before the present)
+This is the second-longest and second-oldest era in geological history. This era 
+witnessed no major rock formation processes. As a result, it is a gap, relative to 
+Unit 3: An Overview of Physical geography of Africa 115
+3.2 Geological History And Relief Structure Of Africa 3.2 Geological History And Relief Structure Of Africa
+rock formation in Africa. However, several other important events took place 
+during this era. The following are the most important ones.
+F Series of denudation and peneplanation: during this era, internal and 
+external forces acted on the face of Africa, resulting in denudation and 
+peneplanation of its surface. Denudation is the lowering of the earth’s 
+surface, while sinking of land and its resultant peneplanation refers to 
+the formation of almost level surfaces as a result of lowering in altitude. 
+F Heavy erosion: the denudation and peneplanation processes were 
+facilitated by the heavy erosion that affected many places in Africa. 
+The eroded materials accumulated in the Maghreb region, the western 
+Sahara, and the Southern Cape. From Eastern Africa, sediments were 
+taken to Southern Africa and the Middle East. These sediments finally 
+formed sandstones, shale and limestone. Also during this era, fold 
+mountains that run parallel to the Great Karroo, the interior plateau, 
+formed. 
+F Formation of coal during the Carboniferous period.
+Focus 
+Carboniferous period: The coal Age: is that part of the Paleozoic Era 
+when coal was extensively formed. Thick layers of partially decayed 
+swamp vegetation, covering coastal lowlands were buried under marine 
+deposits when the coastal lands sank. More swamps were formed when 
+the water grew shallower and the process was repeated. As the deposits 
+became compressed and hardened, the vegetation matter formed coal. 
+Mesozoic Era (250-70 million years before the present)
+The Mesozoic era is the third-largest and third-oldest era in the geological history 
+of the earth. For Africa, the era was a time of alternate sinking and rising of the 
+land. The era is divided into three periods. These are the Triassic, Jurassic and 
+Cretaceous. During the first period, the Triassic, there was sinking of the land 
+in the eastern part of the continent. The land remained under the sea during the 
+Jurassic period. Rising (uplifting) of the land began in the Cretaceous. 
+The following are the most important events that took place during the Mesozoic 
+era in Africa. 
+F Sinking of the Horn of Africa resulted in the gradual transgression of 
+the sea during the early years of the Triassic period;
+Grade 11 Geography 116
+3.2 Geological History And Relief Structure Of Africa
+F Formation of sedimentary rocks like those in eastern Africa, which were 
+the results of the alternate sinking and rising of the land;
+F Uplifting of the land in the Horn of Africa, resulted in the regression of 
+the sea during the Cretaceous period;
+F The flooding of the Sahara region, by water that advanced from Tathys (a 
+sea that separated Laurasia from Gondwanaland), and the subsequent 
+accumulation of sediments.
+Cenozoic Era (70 million - present)
+This era is the most recent and the shortest era in the geological history of the 
+earth. It covers the time from 70 million years ago to the present. As a result, the 
+era is sometimes called the living era. There are two periods in this era. These are 
+the Tertiary and Quaternary periods. A number of geologic events that changed 
+the face of the continent took place in this era. The major geologic events of this 
+era are the following.
+F Formation of the Mediterranean Sea, the Great East African Rift Valley, 
+the Red Sea and the Gulf of Aden.
+F Formation of many of the volcanic mountains, plateaus and young fold 
+mountains (Atlas Folds) of Africa. The volcanic mountains that shape 
+the landscape in eastern Africa were formed during this era. 
+F Climatic change that resulted in the cooling and later warming of 
+the earth’s climate. The cooling of the climate resulted in the Pluvial 
+(Fluvial) rains in tropical Africa, which caused heavy erosion in many 
+parts of the continent. Later, warming of the climate resulted in heavy 
+evaporation and drying up of many water surfaces. In some instances, 
+such a change resulted in the formation of extensive salt plains like the 
+one in northeastern Ethiopia (Afar).
+NOTE 
+The Cenozoic Era is responsible for the formation of the 
+present surface configuration of the African continent. 
+The present shape, position and relief of Africa was formed 
+during this era. The very high volcanic mountains, the 
+extensive plateaus, the plains and drainage basins of Africa 
+were all formed as a result of the series of geologic events 
+of this era. 
+Unit 3: An Overview of Physical geography of Africa 117
+3.2 Geological History And Relief Structure Of Africa 3.2 Geological History And Relief Structure Of Africa
+The various geological events and processes that took place in the four major 
+eras of the geological time scale have affected the African landmass. The diverse 
+landscapes that we see today in Africa are the results of these processes. Table 3.3 
+gives a summary of the major geologic events that took place in Africa during the 
+four eras and during their periods and epochs.
+Table 3.3: Summary of the Geological History of Africa
+Era Period Epoch Geologic Events in Africa Cenozoic 
+Quaternary 
+Recent 
+Pleistocene 
+River terraces and raised beaches formed glaciations 
+in Eastern African mountains; down- warping of the 
+Chad basin; heavy deposition in basins such as the 
+Kalahari basin. 
+Tertiary 
+Pliocene Mountain building (for example, the Atlas 
+Mountains); intense volcanic eruption in East Africa. 
+Miocene 
+Oligocene East African Rift Valley developed; extensive lava 
+flows in Ethiopia Eocene 
+Mesozoic 
+Cretaceous Marine sediments deposited in many areas, e.g., 
+southern Nigeria. 
+Jurassic Mountain ranges uplifted, e.g., Cape Mountains.
+Triassic 
+Paleozoic 
+Permian Central and Southern Africa in grip of ice age .
+Carboniferous 
+Devonian 
+Silurian 
+Ordovician 
+Cambrian Ice age in parts of Northern Africa. 
+Pre- Cambrian 
+Mountain building; oldest rocks (4 billion years) in 
+Southern Africa. 
+Grade 11 Geography 118
+3.2 Geological History And Relief Structure Of Africa
+3.2.2 The Relief Structure of Africa
+What is relief? How do you describe the relief of Africa? 
+Africa's relief is made up of huge mountains, extensive plateaus, deep valleys and 
+gorges, plains, and the like. However, much of Africa is plateau. The continent's 
+relief consists of 71% plateaus, 25% plains and 4% mountains. Africa is the only 
+continent that is predominantly covered by plateau lands, and that has only a 
+small proportion of plains. 
+The relief of Africa ranges from 5,895 m above sea level (at Mt. Kilimanjaro in 
+Tanzania) to 132 m below sea level (at the Qattara Depression in Egypt). This 
+makes the maximum relief of Africa to be 6027 m. The plateau nature of Africa 
+can be seen in the Table 3.4. 
+Table 3.4: Percentage distribution of major landforms of the earth, by continent
+Continent Landform Types (%)
+Mountains and Hills Plateaus Plains
+Africa 4 71 25
+Asia 44 24 32
+Europe 25 8 67
+North America 24 24 52
+South America 20 24 56
+Oceania 28 24 48
+As the Table 3.4 indicates, much of Africa is composed of plateau landscape. In 
+contrast to the rest of the continents of the world, Africa has the greatest part of 
+Low plateaus
+Atlas Ranges
+Drakensberg Mts
+East African 
+Rift vallwy East African Highlands
+High plateaus
+N.B: Yellow color represents 
+lower altitude while the 
+gray color shows extremely 
+higher altitude and the 
+green color shows areas of 
+high altitude. 
+Figure 3.5: The Topography of Africa
+Unit 3: An Overview of Physical geography of Africa 119
+3.2 Geological History And Relief Structure Of Africa 3.2 Geological History And Relief Structure Of Africa
+its relief as plateau. However, other features also dominate the continent. These 
+are mountains, plains and the Rift Valley. Now, we shall discuss each of these 
+relief features.
+Focus
+Maximum relief is the difference in altitude between the highest and 
+lowest points of a place.
+Plateaus
+What is Plateau? 
+In most parts of Africa, areas above 300 m above sea level altitude are considered 
+to be plateaus. Their altitude reaches its maximum in Eastern Africa, and the 
+Ethiopian plateaus reach over 2000 m above sea level. 
+Africa's average altitude, 700 m, is a dividing line for plateau types. The continent’s 
+landmass can broadly be divided into two types of plateaus high plateau and low 
+plateau. 
+High plateaus: are extensive plateaus that lie above 700 m, and their general 
+elevation is above 2000 m. They are found in southern and eastern Africa. The 
+East African plateau, the Bihe (Bie') plateau, the Southwest African highlands 
+and the Malagacy highlands are included in this group. The Kalahari in the west 
+and the Great Karoo in the south are the two major basins in this plateau. 
+Low Plateaus: lie between 300 and 700 m above sea level. The northern and 
+western parts of Africa are predominantly areas of low plateau. As they are 
+surrounded by high plateaus, they form inland basins, such as the Chad, Libyan 
+and Sudd basins. The surrounding uplands of the low plateaus include the Fouta 
+Djalon Mountains, the Jos plateau (Bouchi plateau), the Adamawa uplands, the 
+Ahagar Mountains, the Tibesti and Red Sea hills. 
+Mountains
+What is a Mountain? Where are most of the Mountains of Africa found? 
+A mountain is a high land with steep slopes and a peak. Africa’s landform is 
+dominated by two major types of mountains. These are volcanic and fold 
+mountains. 
+Grade 11 Geography 120
+3.2 Geological History And Relief Structure Of Africa
+Volcanic mountains: were formed as a result of the great volcanic activities that 
+took place in the Tertiary period of the Cenozoic era. They constitute the highest 
+points (peaks) of the continent, with many of them being above 4,000 m above 
+sea level. Many of the volcanic mountains of the continent are concentrated in 
+Eastern Africa. Table 3.5 shows you the major volcanic mountains of the continent 
+with their heights and locations. 
+Table 3.5: Volcanic Mountains of Africa
+Mountain Elevation (m) Location
+Killimanjaro 5895 Tanzania
+Kenya 5200 Kenya
+Ras Dejene/Dashen 4620 Ethiopia
+Meru 4567 Tanzania
+Elgon 4321 Uganda and Kenya border
+Cameroon 4070 Cameroon
+N.B. Mount Ruwenzori (5119 m) is among the highest mountains in Africa the formation of which 
+was associated with tectonic movement.
+Fold Mountains: are found in the northern and southern extremes of Africa. 
+They are of two types: young and old. The young fold mountains are located 
+in northwestern Africa, particularly in the Maghreb region, a region that covers 
+areas in Morocco, Algeria and Tunisia. They are called the Atlas Mountains. 
+These mountains are contemporary to the Alps of Europe and the Himalayas of 
+Asia, and they were formed during the Alpine orogenesis during the Cenozoic 
+era. Their general elevation declines from west to east. The old fold mountains
+are found in South Africa. They were formed during the Hercynian orogeny in 
+the Mesozoic era. They are contemporary to the Australian Alps. They are called 
+the Cape Ranges. 
+Focus
+Fold mountains are formed as a result of compressional forces. When the 
+earth’s crust is compressed due to horizontally moving surface, the land 
+between two places will be forced to bend up wards and forming fold 
+mountains as a result.
+Unit 3: An Overview of Physical geography of Africa 121
+3.2 Geological History And Relief Structure Of Africa 3.2 Geological History And Relief Structure Of Africa
+Plains
+Plains are areas of low relief with more or less flat surface configurations. In 
+Africa, places that lie below 300 m above sea level are generally considered plains. 
+Plains are confined to the coastal areas of eastern, northeastern, southeastern and 
+western Africa. They are very narrow structures that account for about 25% of 
+Africa's relief. They are very small in size, hot dry, poorly vegetated and sparsely 
+inhabited. In addition, their shores, are smooth and regular, and therefore without 
+large bays or gulfs. As a result, the continent lacks good natural harbors.
+Cape Ranges
+Atlas Fold Mountains
+Mount Kenya
+Mount Elgon
+Mount Maru
+Mount Killimanjaro
+Mount Ras Dashen
+Air Tibesti
+Mount Cameroon
+Figure 3.6: The Location of Mountains 
+in Africa
+Figure 3.7: Cross-section of Africa
+Grade 11 Geography 122
+3.2 Geological History And Relief Structure Of Africa
+The Great East African Rift Valley
+What is a rift valley? How do you describe the Great East African Rift Valley?
+The East African Rift Valley is part of the world’s Great Rift Valley 
+system, which stretches from Syria, in the Middle East, to Mozambique, 
+in Southeastern Africa, over a distance of about 7,200 km. It was formed 
+in the Tertiary period as a result of faulting processes that acted on the crust 
+of the earth in the region. This rift system extends a distance of about 
+5600 km in Africa, touching 15 countries in the continent. The Rift Valley has 
+four trenches (branches). These are:
+F Ethio-Eritrea-Djibouti-Northern Somalia Branch
+F Western Branch
+F Eastern (Gregory) Branch
+F Malawi Rift Valley
+Ethio-Eritrea-Djibouti-Northern Somalia Branch 
+As the name itself implies, this branch runs through the four countries of the 
+Horn of Africa. It is the northern most part of the African Rift Valley, extending 
+north from Lake Turkana in Kenya. It branches out into three trenches at the Afar 
+Triangle, forming the Red Sea and the Gulf of Aden. It has many lakes, including 
+Ethiopian Rift Valley lakes like Lakes Hawassa, Langano, Shalla, Abijata, and 
+Ziway. 
+NOTE 
+The topography of Africa features a series of relatively 
+flat plateaus and saucer-shaped basins, broken by 
+highlands, mountain ranges, and valleys. Northern 
+and western Africa, widely known as Low Africa, has 
+much lower mean elevations than the south and east, 
+that is often called High Africa. As a result, while the 
+northern and western plateaus area are called low 
+plateau, the eastern and southern parts are called 
+high plateau. 
+Unit 3: An Overview of Physical geography of Africa 123
+3.2 Geological History And Relief Structure Of Africa 3.2 Geological History And Relief Structure Of Africa
+Western Branch 
+This part of the Rift Valley runs from Uganda in the north, southwards through 
+the Democratic Republic of the Congo, Rwanda and Burundi to Tanzania. This 
+part of the Rift Valley hosts the continent's highest block (horst) mountain, Mount 
+Ruwenzori, and also lakes such as Lake Edward, Kivu and Tanganyika. 
+Eastern (Gregory) Branch 
+It runs from Lake Turkana in northern Kenya, crossing Tanzania to the east of 
+Lake Victoria. Lakes such as Turkana, Naivasha, Norton, Manyari and Eyasi are 
+located in it. 
+Malawi Rift Valley 
+This part of the Rift Valley exists where 
+the Western and Eastern Branches 
+converge. It runs through Tanzania and 
+Mozambique, and ends at port Biera of 
+Mozambique. Lakes Malawi, Rukuwa 
+and Chilwa are among the major lakes 
+in this part of the system. 
+Focus
+The Great Rift Valley is a geologic depression that extends from Syria 
+in southwestern Asia to Mozambique in southeastern Africa. It takes the 
+form of a series of valleys and bodies of water that are bounded by parallel 
+fault lines. The Great Rift Valley is widening ,slowly but surely, and in the 
+process is causing many volcanic eruptions and earthquakes in the area.
+Afar Triangle
+Figure 3.8: The East African Rift Valley
+Grade 11 Geography 124
+3.3 Climate Of Africa
+Africa's largest lake, Lake Victoria (83,000 km2
+) is found trapped between the 
+western and eastern trenches of the Rift Valley. 
+The following are the major characteristics of the East African Rift Valley: 
+F It is bounded by steep escarpments (edges);
+F It has numerous active and dormant volcanoes; 
+F It is often affected by earth tremors like earthquakes, volcanism and 
+landslides, making the Rift Valley very unstable; 
+F Has a hot and dry climate in its many parts, making the place difficult 
+for human habitation;
+F Many structural basins (lakes) occupy the floor of the Rift Valley.
+Activity 3.5
+In a small group, discuss the major characteristics that distinguish the East African Rift 
+Valley region from the rest of Africa.
+Content Check
+Give short and precise answers for the following questions
+1 What is the geologic time scale?
+2 Write five geologic events that took place in the Cenozoic era in Africa.
+3 Where do we have the high plateaus of Africa?
+4 Which areas of Africa are dominated by fold mountains?
+5 Describe the great East African Rift Valley.
+3.3 CLIMATE OF AFRICA
+At the end of this section, you will be able to:
+Þ review the elements of weather and climate;
+Þ identify the major climatic controls of Africa;
+Þ describe the seasonal temperature conditions of Africa;
+Þ explain the seasonal distribution of rainfall in Africa;
+Þ locate the climatic regions of Africa;
+Unit 3: An Overview of Physical geography of Africa 125
+3.3 Climate Of Africa 3.3 Climate Of Africa
+Þ compare and contrast the different climatic regions of Africa;
+Þ relate climatic data with the different climatic regions of Africa;
+Þ explain the causes and consequences of drought in Africa; and
+Þ locate drought-prone areas of Africa.
+Key Terms
+³ Weather
+³ Climate
+³ Climatic region
+³ Controls of climate
+³ Elements of climate
+³ Drought 
+³ Famine 
+³ Sahel 
+Activity 3.6
+Discuss the following questions.
+1 What do we mean by climate?
+2 What constitutes the climate of a certain place?
+3 Why do different places have different climates?
+4 How do you describe the climate of Africa?
+3.3.1 Controls of Weather and Climate in 
+Africa
+Brainstorming
+1 Do all places in Africa have the same climatic conditions? Why or why not? 
+2 What are the factors that affect the nature of the atmosphere in a certain place? 
+3 Which of these factors, do you think, are the most important ones in Africa? 
+Why?
+Africa has varied climatic conditions. Why are there varied climates in Africa? 
+The answer is that the variation in the climatic conditions of the different places 
+in Africa is due to the intervention of weather and climate controls. The most 
+Grade 11 Geography 126
+3.3 Climate Of Africa
+important factors that are responsible for this variation include latitude, altitude, 
+distance from the sea, mountain barriers, ocean currents and major planetary 
+winds and pressure belts. These factors are called climate controls because they 
+regulate the conditions of the elements to produce different weather and climatic 
+conditions. They are discussed below in detail. 
+Latitude 
+What is latitude? How does it affect the climate of Africa?
+Latitudes indicate the distance places have from the equator. A place’s latitudinal 
+location affects the amount of incoming solar radiation the place receives, and 
+thereby its temperature. As we discussed earlier, much of Africa (nearly 2/3rd) 
+lies within the tropical latitudes. Hence, the continent receives high sun angles 
+throughout the year. Due to its latitudes, Africa is the hottest of all the continents. 
+Altitude
+What is altitude? How does it affect the conditions of temperature and rainfall 
+in Africa?
+Much of Africa is plateau. There are also high mountains in many parts of the 
+continent, especially in Eastern Africa. These plateaus and mountains have great 
+impacts on the continent’s climate. 
+The plateaus and high mountains reduce maritime influence. This condition 
+reduces temperature. For instance, Eastern Africa, despite its closeness to the 
+equator, experiences highland climates. Similarly, the Atlas Mountains of North 
+Africa and the Cape Ranges of South Africa experience the coldest temperatures 
+in the continent. There are several reasons for this. One of the reasons that 
+temperature is low in higher altitudes is that the air is very thin. This reduces the 
+temperature-retention capacity of the air. The other reason is that, when air rises, 
+it cools. 
+The third factor is the fact that the atmosphere is heated from below (by the 
+earth) directly, not by the sun. These are some of the factors why we feel colder 
+at mountain tops than in valley bottoms. 
+Unit 3: An Overview of Physical geography of Africa 127
+3.3 Climate Of Africa 3.3 Climate Of Africa
+Focus
+In Africa, the impact of altitude on climate is highly pronounced in the 
+areas of the Atlas mountains, the Cape Range-Fold Mountains, and the 
+extensive East African Highlands.
+Distance from the Sea
+How do you describe the impacts of the Sea on the climate of Africa?
+Water bodies that are adjacent to land masses have great impacts on the temperature 
+and rainfall conditions of those places. Africa in its northern part is very wide. 
+This makes much of the area far from the sea. In addition, the extensive plateaus 
+of Africa, which almost reach the coast with steep edges, form barriers greatly 
+reducing the influence of the sea. Furthermore, the continent’s relatively straight 
+and smooth coastline also reduces the impact of the sea in the interior areas. 
+As a result, many parts of interior Africa experience continental climates with 
+insignificance maritime influence.
+Ocean Currents
+What is Ocean Current? Which ocean currents affect the climate of Africa?
+Oceanic water moves in two dimensions, vertically and horizontally. The 
+horizontal movement of oceanic water is called ocean current. Based on their 
+origin, ocean currents are of two types. These are warm and cold. Warm ocean 
+currents have high temperatures and high moisture content, and therefore they 
+have warming effect. They also tend to bring moisture to the coastal areas. 
+In contrast, cold ocean currents have cool temperatures and low moisture content. 
+Therefore, they have cooling effects on the areas that they blow over. They also 
+bring no rain to adjacent areas, making places over which they blow very dry and 
+desert. 
+Three major ocean currents affect the African continent. These are the Canary 
+Cold Current, the Benguela Cold Current and the Mozambique Warm 
+Current. The first two make the northwestern and southwestern parts of Africa 
+both cool and dry. On the other hand, the Mozambique warm ocean current makes 
+Southeastern Africa warm and wet.
+Grade 11 Geography 128
+3.3 Climate Of Africa
+Major Planetary Winds and Atmospheric Pressure
+What is wind? What about atmospheric pressure?
+What are the major winds and pressure systems that affect Africa?
+Most of Africa lies within the tropics. Hence, much of it lies within the tradewind belts. The southeast trades and northeast trades dominate the climate of 
+tropical Africa. The westerly winds from the subpolar high-pressure belts of the 
+world reach the southern and northern tips of the continent. The Guinea monsoon 
+winds (equatorial westerlies) also have significant impacts on the climate of 
+equatorial Africa.
+Of the global pressure belts, the subtropical highs (around 30o
+N and S) and 
+equatorial lows (doldrums) (between 5o
+N and 5o
+S latitudes) are the main pressure 
+belts that affect the climate of the continent. In addition, the Inter Tropical 
+Convergence Zone (ITCZ), which is the zone of convergence between the trade 
+winds, regulates the winds that blow into Africa at different seasons. The ITCZ 
+moves between the tropics of Cancer and Capricorn, following the overhead sun, 
+pulling winds towards it. Hence, it controls the distribution of rainfall in Africa.
+Canary Cold 
+Current
+Benguela Cold 
+Current
+Mozambique 
+Warm Current
+Figure 3.9: The major ocean currents affecting the 
+climate of Africa
+Unit 3: An Overview of Physical geography of Africa 129
+3.3 Climate Of Africa 3.3 Climate Of Africa
+Activity 3.7
+1 In a small group, discuss the following questions.
+a How do the ocean currents that blow over the coastal areas of Africa 
+affect its climate?
+b Identify the global winds that blow over Africa and explain how they 
+influence the continent’s climate.
+c What is the ITCZ? How does it influence the climate of Africa.
+d How does altitude control the temperature and rainfall conditions of 
+Africa in general, and of Eastern Africa in particular.
+2 Answer the following questions.
+a How does altitude affect the climate of Africa?
+b What are the major ocean currents that affect the climate of Africa?
+c What are the major planetary winds that affect the distribution of rainfall 
+in Africa?
+d Account for the impact of distance from the sea on the climate of Africa.
+Figure 3.10: Major winds that affect the climate of Africa
+Grade 11 Geography 130
+3.3 Climate Of Africa
+3.3.2 Temperature Conditions in Africa
+Brainstorming
+1 How is the spatial and seasonal distribution of temperature in Africa? 
+2 Which areas in Africa are the hottest? What about the coldest ones? 
+3 Why does such a variation in temperature occur?
+Spatially, lowlands (coastal areas) and the desert and semi desert areas of Africa 
+experience the highest temperatures in the continent. The Sahara, the largest 
+desert in the world, has the highest temperature. The Kalahari Desert in the 
+south has relatively cooler temperatures as a result of the cold Benguela ocean 
+current. The Ethiopian and East African highlands, on the other hand, have lower 
+temperature condition as a result of their high altitude. The Atlas of Morocco 
+and Cape Ranges of south Africa have the lowest temperature in the continent as 
+a result of their high altitudinal and latitudinal location.
+The distribution of temperature in Africa also has seasonal variation. Such 
+variation is the result of the apparent movement of the overhead sun between 
+the two tropics. The months of December, January and February constitute the 
+summer season in the southern hemisphere. During this time, the sun is overhead, 
+south of the equator. As a result, areas of high temperature are found in Southern 
+Africa. The Northern and northeastern parts of the continent remain relatively 
+cool and dry at this time. 
+Similarly, the summer season in the northern hemisphere corresponds with the 
+months of June, July and August. This season is a season of high sun angle in 
+Africa north of the equator. Hence, the Sahara and other parts of Northern Africa 
+experience high temperature conditions. In contrast, the areas south of the equator 
+are characterized by lower temperatures at this time.
+Unit 3: An Overview of Physical geography of Africa 131
+3.3 Climate Of Africa 3.3 Climate Of Africa
+ 
+ 
+A F R I C A
+A F R I C A
+Average Temperature
+o Celsius
+-53.5 to -27.6
+-27.5 to -1.3
+-1.2 to -0.6
+-0.5 to 9.2
+9.3 to 16.5
+16.6 to 22.8
+22.9 to 25.9
+26.0 to 32.5
+January
+July
+Average Temperature
+o Cesius
+-68.8 to -21.8
+-21.7 to 2.0
+2.1 to 8.9
+9 to 14.1
+14.2 to 18.9
+19.0 to 23.8
+23.9 to 26.7
+26.8 to 40.4
+Figure 3.11: The Seasonal Distribution of Temperature in Africa (the 
+red color Indicates Areas of High Temperature)
+Grade 11 Geography 132
+3.3 Climate Of Africa
+3.3.3 Rainfall Distribution in Africa
+The distribution of precipitation (rainfall) in Africa is controlled by the Inter 
+Tropical Convergence Zone (ITCZ). The position of ITCZ is, in turn, determined 
+by the position of the overhead sun. For instance, in July the overhead sun is 
+located near the Tropic of Cancer. Hence, winds that carry moisture from the 
+Atlantic and Indian Oceans, the Guinea monsoon (equatorial westerly) and the 
+southeast trade winds, invade parts of Africa north of the equator, causing the 
+region to receive high rainfall. In this season, West African coastal areas, the 
+Ethiopian highlands, and eastern Madagascar get their heavy rainfall. 
+In January, the sun is overhead near the Tropic of Capricorn, pulling the northeast 
+trade winds southward over Africa. These winds are continental in origin, carrying 
+limited or no moisture. In this season, therefore, Northern Africa remains dry, 
+except for the Maghreb region, where the Mediterranean type of climate dominates. 
+Southern Africa, however, gets its maximum rainfall from the southeast trades 
+of the Indian Ocean. The Congo Basin gets rainfall from the moist winds of 
+the Atlantic Ocean. To better understand the points so far discussed, study the 
+following points.
+F The Guinea monsoon(equatorial westerly) winds from the Atlantic 
+Ocean bring rainfall to the north of Africa up to the southern fringes of 
+the Sahara in July;
+F Moist winds from the Atlantic Ocean and the southeast monsoon winds 
+from the Indian Ocean bring rainfall to Southern Africa in January;
+F The westerly winds bring rainfall to the Maghreb region of North 
+Africa and the Cape Province of South Africa in their respective winter 
+seasons. Summer is not the wettest season in these places;
+F Summer is a season of heavy rainfall in all parts of Africa, except in the 
+Sahara desert and the Mediterranean-climate regions;
+F Winter is dry in all parts of Africa, except for the equatorial and 
+Mediterranean climate regions.
+Unit 3: An Overview of Physical geography of Africa 133
+3.3 Climate Of Africa 3.3 Climate Of Africa
+ 
+A F R I C A
+Centimeters
+0 to 0.3
+0.4 to 1.1
+1.2 to 2.7
+2.8 to 5.3
+5.4 to 8.4
+8.5 to 10.6
+10.7 to 16.6
+16.7 to 104.3
+Average Monthly
+Precipitation
+January
+A F R I C A
+Centimeters
+0 to 0.09
+0.1 to 0.9
+1 to 1.9
+2 to 3.3
+3.4 to 5
+5.1 to 7.7
+7.8 to 13.2
+13.3 to 131.7
+Average Monthly
+Precipitation
+Figure 3.12: Seasonal distribution of rainfall in Africa
+July
+Grade 11 Geography 134
+3.3 Climate Of Africa
+Activity 3.8
+By studying the preceding precipitation maps of Africa, answer the following questions.
+a Which areas of Africa get maximum rainfall in the months of January, and 
+which in July?
+b Relate the annual precipitation map of Africa with the political map of 
+the continent, and identify the countries that receive the highest annual 
+rainfall in Africa.
+c Describe the distribution of temperature in the month of July in Africa.
+d Account for the spatial distribution of temperature in the African 
+continent.
+e What are the dominant rainfall types in Africa?
+f Discuss the distribution of rainfall in the month of December in Africa.
+g What are the major winds that bring summer rainfall to most African 
+countries? 
+A F R I C A
+Centimeters
+0 to 12.4
+12.5 to 27.2
+27.3 to 46.3
+46.4 to 66.8
+66.9 to 90.4
+90.5 to 106.2
+106.3 to 153.0
+153.1
+Average Annual
+Precipitation
+Figure 3.13: Annual precipitation
+Unit 3: An Overview of Physical geography of Africa 135
+3.3 Climate Of Africa 3.3 Climate Of Africa
+3.3.4 Climatic Regions of Africa
+Brainstorming
+1 Do you think that all places in Africa have similar climatic conditions? Why or 
+why not? 
+2 What are the different climatic regions of Africa? 
+3 Which of these climates is/are dominant in your area? Ethiopia? 
+4 Can you list the major characteristics that distinguish each climatic region?
+The distribution of temperature and rainfall show great spatial and seasonal 
+variations in Africa. As a result, many different climatic regions are established 
+by these variations. A climatic region is a geographical area with more or less 
+similar climatic characteristics mainly of temperature and rainfall. Multiple areas 
+can be characterized by a single climatic region, 
+There are seven main climatic regions in Africa. These are:
+Â Equatorial 
+Â Tropical continental (savanna) 
+Â Tropical desert and semi-desert 
+Â Tropical maritime (monsoon) 
+Â Warm temperate continental 
+Â Highland (mountain) 
+Â Mediterranean 
+The following map shows the locations of the major climatic regions of Africa. 
+Study it carefully and try to identify the geographical locations of each region. 
+Grade 11 Geography 136
+3.3 Climate Of Africa
+Figure 3.14 shows the geographical locations of the various climatic regions in 
+Africa. Now let us discuss the major characteristics and distinguishing features 
+of each climatic region.
+The Equatorial Climate
+Which part of Africa has equatorial type of climate? What climatic characteristics 
+does this type of climate have?
+The parts of Africa that are found around the equator have this type of climate. 
+The region surrounds the equator extending between 6o
+ or 7o
+N and S latitudes. 
+This climatic region is dominant in Western and Central Africa. The region has 
+a high mean annual and mean monthly temperature due to the high angle of the 
+sun. Temperatures remain high throughout the year, averaging more than 27°C 
+annually, and rarely falling below 21°C. Most of the time, the annual range of 
+temperature of this region is between 1o
+Cto 3o
+C. 
+This climatic region is particularly known for its wetness. Rainfall is high, 
+normally exceeding 1,500 mm per year, and it reaches 3,200 mm in some 
+places. The region receives extremely high amount of total annual precipitation 
+throughout the year. In this region, the convectional type of rainfall is dominant.
+Canaries current
+Benguela current
+Mozambique current
+0 0
+Equatorial
+Tropiacal (savanna)
+Tropical Desert
+Tropical maritime
+Warm temperate
+continental
+Highland(mountain)
+Mediterranean
+Key: Climates in africa
+0
+23 1
+2 N
+0
+23 1
+2 S
+Figure 3.14: Climate Regions in Africa
+Unit 3: An Overview of Physical geography of Africa 137
+3.3 Climate Of Africa 3.3 Climate Of Africa
+The region is characterized by:
+F High sun angle throughout the year;
+F High mean monthly and mean annual temperatures;
+F High daily and low annual range of temperature; and
+F High total annual rainfall, with rain falling throughout the year.
+Tropical Continental (Savanna) Climate
+Where in Africa do we have the savanna climate? What climatic features 
+characterize this type of climate?
+This climatic region is found between 5o
+ and 15o north and south latitudes. It 
+occurs north and south of the tropical wet zone, in many parts of Western Africa 
+and Southern Africa and in most of Madagascar. The region is situated between 
+the wettest and driest climate zones of the continent. As a result, it is said to be 
+the zone of transition between the equatorial and the desert climatic regions of 
+Africa. In this region, summer is very hot, with an average temperature of 25o
+C, 
+and winter is cool, with an average temperature of slightly above 15o
+C. 
+The region is characterized by:
+F a well-defined dry season of three to eight months, with annual rainfall 
+ranging between 500 and 1,500 mm; 
+F a progressive decline in total annual rainfall,north and south wards; 
+F that part of the savanna which borders the equatorial rainfall region 
+receives high rainfall, with that amount decreasing as distance from the 
+equator increases.
+F slightly higher ranges of temperature than the equatorial climatic zone, 
+with the range increasing with distance from the equator; and
+F high daily temperatures averaging more than 30°C in its northern 
+section throughout the year, with relatively lower temperatures in its 
+Southern and eastern sections, due to higher altitudes.
+The Tropical Desert and Semi-desert Climate
+What characterizes the desert and semi-desert climatic regions? Where in 
+Africa are these types of climate found? 
+This type of climate is found bordering the tropical savanna climatic region, 
+especially in north central and Southern Africa. There are two types of deserts in 
+Africa. These are the coastal and continental deserts. The coastal type includes 
+deserts that are found along the western coast of the continent, like the Namib 
+and western Sahara. 
+Grade 11 Geography 138
+3.3 Climate Of Africa
+In contrast, the Sahara, which constitutes Africa’s continental type of desert, is 
+located north of the equator. 
+The following characteristics distinguish the tropical-desert and semi-desert 
+climatic region from the others.
+F A short rainy season of up to three months. There are about 250 to 500 
+mm of rain per year in the semi-desert areas and less than 250 mm in 
+the desert regions;
+F Variable, unreliable and insufficient precipitation, which hinders plant 
+growth;
+F High daily average temperature, which ranges between 25°C and 36°C;
+F Significant annual temperature variations and also extreme fluctuations 
+in temperature over the course of a day. For instance, in the Sahara 
+desert, daytime summer temperatures exceed 50°C, but winter night 
+temperatures drop below freezing.
+Tropical Maritime (Monsoon) Climate
+Where is the location of monsoon climates in Africa? What features characterize it?
+The tropical monsoon climatic region is found only in the southern hemisphere, 
+dominating areas that are located on the southeast coast of Africa. The region 
+extends roughly between Durban in South Africa and Dar-es-Salaam in Tanzania. 
+The region’s characteristics are similar to those of the tropical climates, with 
+heavy rainfall almost throughout the year. This characteristic is the result of the 
+warm Mozambique Ocean Current, which brings warm and moisture. Summer 
+is the wettest season of the region. Temperature is high throughout the year, with 
+summer being the hottest season, and winter being warm. Temperature ranges 
+are greater than in the equatorial areas, though they are not as high as in the 
+tropical continental climates. 
+The region is characterized by the following conditions.
+F The impact of the warm Mozambique ocean current on temperature and 
+rainfall conditions;
+F High total annual rainfall throughout most of the year, due to the wetting 
+effect of the warm Mozambique current;
+F High temperature throughout the year, due to the warming effect of the 
+warm Mozambique current; and
+Unit 3: An Overview of Physical geography of Africa 139
+3.3 Climate Of Africa 3.3 Climate Of Africa
+F Low annual range of temperature, which is similar to, but relatively 
+higher than, that of the equatorial climatic regions.
+Warm Temperate Continental Climate
+Which parts of Africa are having this type of climate? What climatic 
+characteristics does it have?
+This climatic region is confined to the southern part of Africa, especially to the 
+high veld (temperate grasslands) of the Republic of South Africa. The region is 
+the smallest of all the climatic zones in the continent. Higher rainfall and cooler 
+temperature conditions characterize it. The region’s climate is influenced by the 
+high altitude of the area. Rainfall is controlled mainly by the onshore winds that 
+blow from the Indian Ocean.
+This climatic region has the following distinguishing features.
+F Great influence of the high altitude of the region on its temperature and 
+rainfall conditions; and
+F Great influence of onshore winds that originate from the Indian Ocean.
+Highland (Mountain) Climate
+Which parts of Africa have mountain climate? What makes this climatic region 
+different from others?
+The highland climate type is predominantly found in areas where altitude is 
+relatively high. It is dominant in the equatorial and tropical highlands and plateau 
+regions of the continent. For example, the Ethiopian and East African highlands 
+and the higher parts of South Africa (The Drakensberg mountain region) and the 
+Atlas mountains region of northern Africa have this type of climate. 
+The climate is similar to the temperate climate of the world. The tropical nature of 
+the regions’ climate is modified by high altitude. Temperature is cool, with small 
+annual ranges. Some areas are covered by permanent snow, as on Kilimanjaro 
+and Kenya mountains. The region also experiences high rainfall, mainly of 
+orographic origin. The rainfall increases with the rise in altitude.
+Mediterranean Climate
+Which parts of Africa are known for their Mediterranean climate? What 
+unique features does this type of climate have?
+The Mediterranean climatic region is found in the northern and southern tips 
+of Africa. The Maghreb region in the north, from Morocco to northern Libya 
+Grade 11 Geography 140
+3.3 Climate Of Africa
+and the Cape Province of South Africa are the main areas that have this type of 
+climate. In this region, summer is not the rainy season. Most of the rain falls in 
+winter, with a total annual rainfall that ranges from 250 mm to 1000 mm. This 
+makes the region unique in its climatic characteristics. As a result, the region is 
+one of the most attractive climatic zones in the continent. Many tourists visit the 
+region every year.
+The following conditions characterize the Mediterranean climatic region of 
+Africa.
+F A hot, sunny, bright, dry summer season; and 
+F A mild wet winter season.
+3.3.5 Drought in Africa
+Brainstorming
+1 What is drought? 
+2 What do you think are some of the causes of drought? 
+3 Which areas in Africa are drought-prone?
+Drought is a condition of unusually dry weather within a geographic region. 
+Expected rainfall does not occur during drought. Therefore drought conditions 
+differ greatly from conditions in an area that is normally, or at least seasonally,dry. 
+The term is usually applied to a period in which an unusual shortage of rain causes 
+a serious hydrological imbalance a situation whereby water-supply reservoirs 
+empty, wells dry up, and crop damage follows. The severity of a drought is 
+measured in terms of the degree of moisture deficiency, its duration, and the size 
+of the area affected. 
+Droughts tend to be more severe in some areas than in others. Disastrous droughts 
+occur mostly at latitudes of about 15°-20°, in areas bordering the permanently 
+arid regions of the world. As most parts of Africa lie within these latitudes, the 
+continent is one of the most drought-affected areas in the world. Repeated drought 
+is common in many areas. 
+Major causes of drought in Africa include unwise use of natural resources, 
+Unit 3: An Overview of Physical geography of Africa 141
+3.3 Climate Of Africa 3.3 Climate Of Africa
+including deforestation, overgrazing and over cropping, expansion of farm lands 
+and settlements, and the resultant environmental degradation. 
+The repeated drought that occurs in many areas of the continent causes 
+environmental degradation, habitat destruction, shortage of water and famine 
+(shortage of food). This, in turn, results in the displacement/migration and 
+death of people and animals. The huge displacement of people and the high 
+rural-urban migration that occurs in many countries of Africa is associated with 
+this phenomenon. Drought also affects the biodiversity of a place. As drought 
+prevails, plants and animals may fail to survive. As a result, some species of 
+plants and animals may become extinct or be exposed to danger of extinction. 
+This is happening in the drought-affected areas of the continent.
+The Sahel region of Africa is one of the extremely drought-affected areas in the 
+continent. The region is a transitional zone between the Sahara on the north and 
+the wetter tropical areas to the south. Desertification of the Sahel was aggravated 
+by extended drought between the late 1960s and early 1980s, the worst in 150 
+years. The stress of increasing human and livestock populations is another major 
+contributor. 
+Desertification is the process whereby soil loses its ability to retain moisture , 
+and then desert encroaches on arable land. Desertification is shrinking the size of 
+the Sahel and causing famine in many parts of the region. This climatic condition 
+covers many countries that are found to the south of the Sahara desert. As a result, 
+they are among the areas repeatedly affected by drought.
+The following figure shows 
+you the drought-prone areas of 
+Africa. Study it carefully and 
+try to identify the countries 
+that are found in the zone. To 
+do so, cross-reference between 
+the figure and the political map 
+of Africa Figure 3.15.
+The Sahel
+Figure 3.15: The Sahel, drought-prone 
+areas in Africa
+Grade 11 Geography 142
+3.3 Climate Of Africa
+Content Check
+I Define the following.
+a Climate
+b Weather
+c Drought
+d Elements and controls of climate
+II Give short answers for the following questions.
+1 What are the major factors that affect the climate of Africa?
+2 Write at least four characteristics of Equatorial climates.
+Figure 3.16: Sahel drought devastation
+NOTE 
+The drought in the Sahel region of West Africa, which 
+began in the late 1960s and lasted until the early 
+1980s, was the worst drought of the 20th century. The 
+agriculture and livestock of much of Mauritania, Mali, 
+Burkina Faso, Niger, and Chad were devastated, and 
+the countries’ economies suffered.
+Unit 3: An Overview of Physical geography of Africa 143
+3.3 Climate Of Africa 3.4 Drainage Systems Of Africa
+3.4 DRAINAGE SYSTEMS OF AFRICA
+At the end of this section, you will be able to:
+Þ demonstrate the major rivers and drainage systems of Africa;
+Þ discuss the characteristics of the major African rivers;
+Þ identify the location of lakes and swamps in Africa;
+Þ realize the economic significance of African rivers and lakes; and
+Þ analyze the hydro-politics of the Nile River.
+Key Terms
+³ Drainage system 
+³ Discharge
+³ Catchment area
+³ Seasonal fluctuation 
+³ Swamp 
+³ Lake 
+³ Drainage Density
+Africa is rich in terms of water resources. Thousands of rivers that originate in 
+African highlands drain the extensive landmass of the continent. Furthermore, 
+large numbers of lakes are found in the continent. Swamps are also dominant 
+drainage features in Africa. These resources have tremendous potential. However, 
+the people of the continent are far behind the developed world in terms of their 
+socio-economic status, and therefore also in the technology and other resources 
+needed to develop this potential. 
+3.4.1 The Major Rivers and Drainage Systems 
+of Africa
+Brainstorming
+1 What is meant by drainage basin, drainage system and discharge? 
+2 What factors affect the drainage systems of Africa? 
+3 Which are the major river basins and drainage systems of Africa? 
+4 Why does the Congo basin experience low annual fluctuation in its discharge/
+volume?
+Grade 11 Geography 144
+3.4 Drainage Systems Of Africa
+The entire area that a river drains is called its catchment area or drainage basin. 
+A group of drainage basins, which are supplied by multiple rivers, with common 
+characteristics, such as a common destination, form a drainage system. 
+Nine major rivers drain the African continent. These are the Nile, Congo, 
+Zambezi, Limpopo, Orange, Niger, Volta, Gambia and Senegal rivers. These 
+basins are categorized into four major types of drainage systems, based on their 
+flow direction. These major drainage systems are 
+F Atlantic Ocean drainage system;
+F Indian Ocean drainage system;
+F Mediterranean Sea drainage system; and
+F Closed (Inland) drainage system.
+The following discussion provides you with some facts about each drainage 
+system. Figure 3.17 shows you the locations of these systems.
+CABINDA
+CONGO
+GABON
+CAMEROON
+NIGERIA CENTRAL
+AFRICAN
+REPUBLIC
+CHAD
+SUDAN
+ETHIOPIA
+KENYA
+UGANDA
+ZAIRE
+RWANDA
+BURUNDI
+TANZANIA
+MALAWI
+ZIMBABWE
+ZAMBIA
+NAMIBIA
+ANGOLA
+BOTSWANA
+SWAZILAND
+LESOTHO
+SOUTH
+AFRICA
+MOZAMBIQUE
+MADAGASCAR
+SOMALIA
+ERITREA
+LIBYA
+TUNISIA
+EGYPT
+NIGER
+MALI
+MAURITANIA
+GUINEA
+IVORY
+COAST
+TOGO
+BENIN
+GHANA
+BURKINA
+FASO
+LIBERIA
+ALGERIA
+MOROCOO
+WESTERN
+SAHARA
+SAOTOME
+AND PRINCIPE
+EQUATORIAL
+GUINEA
+DJIBOUTI
+SIETTA
+LEONE
+GUINEA
+BISSAU
+SENEGAL
+THE
+GAMBIA
+Key
+= international borders
+= major rivers
+= major lakes
+= major lake names
+= major river names
+LESOTHO = country names
+= major seasonal 
+ watercourses
+R.Niger
+R.Orange
+R.Limpepo
+R.Oubango R.Zambezi
+R.Kadai
+R.Congo
+ Zaire
+R.Oubangi/
+ Uele R.Shaballe
+R.Nile
+R.Nile
+R.Benue
+R.Niger
+R.Volta
+R.Niger
+R.Senegal
+L.Volta
+L. Kariba
+L. Kabora
+L. Malawi
+L. Bangwedu
+L. Mwery L. Rukwa
+L. Tanganyika
+L. Kivo L. MaiNdombe
+L. Edward
+L. Albert
+L. Victoria
+L. Kyoga
+L. Turkana
+L. Tana L. Chad
+L. Volta
+Figure 3.17: Major Rivers in Africa
+Unit 3: An Overview of Physical geography of Africa 145
+3.4 Drainage Systems Of Africa 3.4 Drainage Systems Of Africa
+A The Atlantic Ocean Drainage System
+What are the major rivers that constitute this system?
+This system is made up of all major rivers that drain westward and southward and 
+empty into the Atlantic Ocean. The system is the largest in terms of catchment 
+area, annual discharge and drainage density. It accounts for about 90 percent 
+of the content’s surface flow. The major river basins that constitute this system 
+are the Congo, Niger, Volta, Gambia, Orange and Senegal basins. Several other, 
+small rivers are also found in this system. Table 3.6 shows you the major river 
+basins and their tributaries.
+Table 3.6: Major rivers in the Atlantic Drainage system 
+River Basin Length (Km) Remark
+Congo 4,380 Largest river in Africa in terms of total annual discharge, 2nd longest river in 
+Africa and 2nd largest in the world.
+Gambia 1,130 One of the smallest major river basins of Africa
+Senegal 1600 Has two major dams. the Manantali Dam in Mali, and the Maka-Diama dam
+on the Mauritania-Senegal border.
+Niger 4000 Drains Guinea, Mali, Niger, Benin and Nigeria. 3rd longest in Africa.
+Volta 1500 Has Africa’s largest artificial lake, Lake Volta; has three major parts. Black 
+Volta, White Volta and Red Volta.
+B The Mediterranean Sea Drainage System
+Which river is the most important in this system? Why?
+This drainage system includes all the major rivers that flow northwards into the 
+Mediterranean Sea. However, the system has only one major river basin, which 
+is the Nile. The Nile is the longest river in the world. 
+Two major tributaries, namely the White Nile and Blue Nile, form the Nile 
+proper when they converge in the Sudan, at Khartoum. The White Nile originates 
+from Lake Victoria in Uganda, while the Blue Nile emerges from Lake Tana in 
+Ethiopia, near Bahir Dar. 
+The Nile flows generally northwards through the Sudan and Egypt and empties 
+into the Mediterranean forming an extensive delta in north Egypt. 
+C The Indian Ocean Drainage System
+Which rivers of Africa form the Indian Ocean Drainage System?
+The Indian Ocean Drainage System includes all the major rivers that flow 
+eastwards into the Indian Ocean. This system is the second largest system, in 
+Grade 11 Geography 146
+3.4 Drainage Systems Of Africa
+Africa in terms of drainage density, catchment area and annual discharge. The 
+Zambezi, Wabishebelle and Juba river basins are the major basins in this system.
+Table 3.7: Major River Basin of the Indian Ocean drainage system
+River Basin Length (Km) Remark
+Zambezi 2750
+Has Africa’s largest waterfall, Victoria Falls; has two major 
+dams: Kariba (Zambia and Zimbabwe) and Cabora Bassa 
+(Mozambique)
+Wabishebelle 2000
+Has High seasonal variation, and therfore usually fails to reach 
+the Indian Ocean in winter. However, it manages to reach the 
+ocean during the summer season.
+Jubba 1600 Forms one of Somalis most fertile agricultural region 
+in its lower valley.
+D The Closed (Inland) Drainage System
+What are the rivers that form the Inland drainages system of Africa?
+The rivers of Africa that do not have direct access to the sea form this drainage 
+system. Most of the rivers in this system have multiple flow directions. This 
+makes the system different from the rest of the drainage systems in Africa. This 
+drainage system covers nearly 32% of the total area of the continent. It receives 
+nearly 4% of the continent’s total annual runoff.
+The Awash and Ghibe/Omo rivers in Ethiopia, the Okovango Swamp in Botswana, 
+the Sudd Basin in the Sudan, the Danakil Basin in Ethiopia and Eriterea and Lake 
+Chad Basins are among the major inland drainage basins of the continent. The 
+Chad Basin is the largest inland basin in Africa. 
+Table 3.8: Catchment Areas and Lengths of Some of the major Rivers of Africa 
+River Length
+(km)
+Catchment Area 
+(‘000’ km2
+) Main Tributaries
+Nile 6650 2862 Blue Nile, White Nile, 
+Sobat, Atbara
+Zaire/Congo 4380 3700 Kassai, Ubangi
+Niger 4000 1112 Benue
+Zambezi 2700 1300 Cubango, Cuando
+Ghenale/Juba 1600 168 Dawa, Weyb, Mena, 
+Welmel
+Wabeshebelle 2000 205 Erer, Fafen, Ramis
+Unit 3: An Overview of Physical geography of Africa 147
+3.4 Drainage Systems Of Africa 3.4 Drainage Systems Of Africa
+3.4.2 General Characteristics of African Rivers
+Brainstorming
+What factors affect the economic utilization of African rivers? 
+What major features characterize African rivers?
+Most African rivers share some common characteristics: 
+a Steep long profile: Most of the rivers in Africa have steep courses, as 
+a result of the continent's relief. Furthermore, most of the rivers empty 
+into the major water bodies by falling from the edges of interior plateaus 
+of the continent. This affects the navigability of many of the rivers of the 
+continent.
+b Waterfalls and Rapids: Many African rivers are interrupted by 
+waterfalls and rapids, which impede navigation. The waterfalls and 
+rapids are due to Africa’s number of plateau lands, with their steep 
+sides, and strong erosion-resistant rock, which the rivers encounter 
+in their courses. Some examples of rivers with these features are the 
+Congo, Nile, Niger, Zambezi, Orange and Cunnen Rivers. 
+Study the following table, which presents Africa’s major waterfalls.
+Table 3.9: Major Waterfalls in Africa
+Name and Location Height of Falls (m)
+Tugela, South Africa 614
+Chirombo, Zambia 268
+Kalambo, Tanzania, Zambia 221
+Maletsungane, Lesotho 192
+Victoria, Zimbabwe, Zambia 108
+Tis Isat, Ehtiopia 45
+c Seasonal Fluctuation: Many of the rivers of Africa have their origins in 
+areas of seasonal rainfall distribution. As a result, there are variations in 
+their volumes between the wet and dry seasons. The Nile and Niger Rivers 
+are good examples of this phenomenon. Both originate in wet highlands 
+with seasonal rainfall. In contrast to the other African rivers, the Congo 
+River does not show significant volume variation. It is the only African 
+Grade 11 Geography 148
+3.4 Drainage Systems Of Africa
+river with a steady volume throughout the year. This characteristic is due 
+to the fact that it has tributaries running from both with in and south of the 
+equator.
+d Deltaic Mouths and Mangrove Swamps: Many of the African rivers 
+have low pressure force along their lower courses. This allows the rivers 
+to branch out into distributaries, and results in the formation of deltas and 
+mangrove swamps at the mouths of the rivers. For instance, the Nile, Niger 
+and Zambezi rivers have extensive deltas and are swampy at their mouths. 
+Such conditions affect the penetrability of the rivers from the coast.
+e Exotic Nature of the Rivers: Many of the rivers of Africa, like the 
+Nile, Senegal and Orange, travel across different physiographic regions 
+that range from cool to extremely hot climatic conditions. As a result, 
+they lose much of their water through evaporation and seepage before they 
+reach their final destinations. The Nile River faces the greatest impact in 
+this case. It loses nearly 64% of its total run off through evaporation and 
+seepage. The Senegal River loses 54%, and the Orange River has a total 
+loss of 44% in its runoff.
+ 
+Activity 3.9
+Discuss the following questions. 
+1 Identify the major rivers that constitute the Indian Ocean drainage system.
+2 Why do African rivers show high seasonal variations?
+3 What are the major factors that affect the navigability of African rivers?
+4 Define drainage basin and drainage system.
+5 Compare the major drainage systems of Africa in terms of their catchment 
+areas and annual discharge.
+NOTE 
+Deltaic mouths, mangrove swamps, the fluctuation 
+regime of the rivers, and waterfalls and rapids across 
+the major rivers of Africa hinder the navigability of 
+their courses. However, these rivers have high HEP 
+potential. The water falls of Africa, if regulated, could 
+produce enormous amounts of hydro-electric energy.
+Unit 3: An Overview of Physical geography of Africa 149
+3.4 Drainage Systems Of Africa 3.4 Drainage Systems Of Africa
+3.4.3 Lakes and Swamps of Africa
+What is a lake? What about swamps?
+Where are most of the lakes of Africa found?
+Africa has many lakes and swamps. Some of them are natural, and others are 
+human-made (artificial). The lakes differ in their size and depth. For instance, 
+lakes Tanganyika and Malawi are deep and large, while Victoria and Tana are 
+wide and shallow, respectively. 
+Lakes of Africa
+The lakes are divided into two types-natural and artificial (anthropogenic). 
+Natural lakes are formed by tectonic, volcanic and/or denudation processes. 
+Anthropogenic lakes are formed when water is accumulated at the backs of dams 
+that are constructed across rivers for various purposes, including hydro-electric 
+production and irrigation.
+Natural Lakes
+What is a natural lake? How are lakes formed naturally?
+These are lakes that are formed under natural conditions. Based on location, 
+natural African lakes are divided into two groups: Rift valley and Non-Rift Valley 
+lakes. The first group includes all the lakes that occupy the floor of the Great 
+East African Rift Valley. Lakes, like Turkana, Tanganyika, Kivu, Albert, Malawi, 
+Edward and the numerous Rift Valley lakes in Ethiopia belong to this group. 
+The major non-Rift Valley natural lakes include Victoria, Chad and Tana. 
+Table 3.10 Presents the major natural lakes of Africa and some of their 
+characteristics. 
+Grade 11 Geography 150
+3.4 Drainage Systems Of Africa
+Table 3.10: Natural Lakes of Africa
+Lake Area (km2
+) Maximum 
+depth (m) Type Remark
+Victoria 83,000 92 Non Rift valley
+Largest in Africa, largest 
+tropical lake in the world, 2nd
+largest freshwater lake in the 
+world and 3rd longest in the 
+world
+Tanganyika 32,890 1435 Rift valley
+World’s longest fresh water 
+lake, Africa's deepest lake 
+and second in the world, 
+Africa’s second largest lake
+Malawi 30,800 706 Rift Valley 
+The most southern lake in 
+the Great African Rift Valley 
+system
+Chad 18,000 12 Non-Rift valley -
+Turkana
+8,660 72 Rift valley -
+Albert 5,500 17 Rift valley
+The northernmost of the 
+chain of lakes in the Great Rift 
+Valley
+Meru 4,920 NA Rift valley -
+Tana 3,600 9 Non-Rift valley Shallowest in Africa
+Edward 3,550 NA Rift valley -
+Kivu 2,650 475 Rift valley -
+Focus
+Most of the African lakes that are found along the Rift Valley are long and 
+narrow. Many of them that mark the western branch of the Rift Valley have 
+outlets to the ocean through rivers. For example, Lakes Edward and Albert 
+empty through the Nile River, and Lake Tanganyika empties through the 
+Congo. In contrast, most of the lakes that mark the eastern branch of the 
+Rift Valley participate in the Inland Drainage System. Lake Malawi, which 
+is also a member of the eastern-branch lakes, is an exception, as it drains 
+into the Indian Ocean through the Shire river. 
+Unit 3: An Overview of Physical geography of Africa 151
+3.4 Drainage Systems Of Africa 3.4 Drainage Systems Of Africa
+Artificial (Anthropogenic) Lakes
+What are artificial lakes? How and why are artificial lakes formed?
+Africa has large numbers of rivers that have enormous hydro-electric 
+power and irrigation potential. To utilize the rivers for these and many other 
+purposes, large dams have been constructed across their courses. The major 
+anthropogenic lakes in Africa are Nasser, Koka, Volta, Kaindji and Kariba. 
+Table 3.11 presents the major artificial lakes in Africa.
+Table 3.11: Artificial lakes of Africa
+Lake Dam River Country
+Nasser Aswan High Dam Nile Egypt
+Koka Koka Awash Ethiopia
+Volta Akosombo Volta Ghana
+Kaindji Kaindji Niger Nigeria
+Kariba Kariba Zambezi Zambia and 
+Zimbabwe
+Activity 3.10
+In a small group discuss the following questions.
+1 Why do people construct dams across rivers?
+2 What are the impacts of dam construction on local populations and the 
+environment?
+Swamps of Africa
+What is swamp? How are they formed?
+There are many seasonal and permanent swamps (marshes) in Africa. They 
+develop mostly in depressions and areas of seasonal flooding along the courses 
+of the major rivers. The major swamps of Africa include
+F Sudd swamps, along the Nile river basin;
+F Kamulando swamps, in the Congo Basin;
+F Batorse and Kafue swamps, in the Zambezi Basin;
+Grade 11 Geography 152
+3.4 Drainage Systems Of Africa
+F Okovango swamps, in Botswana;
+F Swamps adjacent to lake Chad;
+F Mangrove (coastal) swamps along the deltaic mouths of the major 
+rivers;
+F Timbukto swamps, in Mali along the Niger river.
+3.4.4 The Uses of African Rivers and Lakes
+Brainstorming
+1 What are some important socio-economic features of Africa’s rivers and lakes? 
+2 How far are these resources exploited in Africa? 
+3 Why are the rivers and lakes of Africa underutilized?
+The rivers and lakes of Africa have great potential for development. They can 
+contribute to the socio-economic development of the continent if they are properly 
+developed and utilized. Some of their uses are discussed below.
+Hydro-Electric Power (HEP) 
+Africa has about 40% of the world's HEP potential. The steep profile of the rivers 
+and the waterfalls and rapids that develop along their actual and potential courses 
+make the continent rich in this respect. Although, very little (about 5%) of this 
+potential is actually being utilized, large dams have been constructed for this 
+purpose. For example, see Table 3.12.
+Table 3.12: Major Dams of Africa
+Dams River Location
+Aswan High Dam Nile Egypt
+Owen Falls White Nile Uganda
+Koka Awash Ethiopia
+Akosombo Volta Ghana
+Kaindji Niger Nigeria
+Kariba Zambezi Zambia and Zimbabwe
+Inga I and II Congo Congo, DR
+Cabora Bassa Zambezi Mozambique
+Ghibe I and II Gilgel Ghibe Ethiopia
+Tekeze Tekeze Ethiopia
+Unit 3: An Overview of Physical geography of Africa 153
+3.4 Drainage Systems Of Africa 3.4 Drainage Systems Of Africa
+Irrigation
+The rivers and lakes in Africa have great potential for irrigation. However, what 
+has been utilized so far is insignificant compared to this huge potential. Lack of 
+technology, capital and skilled human power, as well as conflicts and political 
+unrest, are among the factors that result in low development of irrigation in 
+Africa. Among the major irrigation schemes, some are the Gezira and Kenana 
+irrigation in Sudan, Nile Delta and lower Nile irrigation in Egypt; Fish river, 
+Orange and Pongola irrigation in RSA. 
+Fishing
+What is fishing?
+Africa's rivers and lakes are rich in fish resources. There are about 2,000 different 
+species of fish in the continent. 
+The most widespread human use of lakes in Africa is for fishing, but this economic 
+sector is poorly developed. Most fish production in the continent is for home 
+consumption. As a result, very little is taken into the market. This situation is 
+primarily due to insufficient technical skills in the continent.
+Navigation (Inland Waterways)
+Most of the rivers in Africa are characterized by waterfalls, rapids, steep profiles, 
+deltaic mouths and seasonal volume fluctuation. These conditions hinder their 
+navigability. However, the Nile, Niger, Senegal and Gambia Rivers are navigable 
+along parts of their courses, especially in summer. The Congo River is navigable 
+for a good part of its course throughout most of the year. Lakes like Chad, 
+Victoria, Tana and Malawi also provide transport services for a good number of 
+people.
+Tourism and Recreation
+In many countries in Africa, rivers and lakes are good tourist destinations and 
+centers of recreation. The waterfalls along the rivers and the birds of the lakes 
+are attractive. The Nile in Egypt, Victoria Falls on the Zambezi River, and Lake 
+Grade 11 Geography 154
+3.4 Drainage Systems Of Africa
+Nakuru in Kenya and Lake Malawi in Malawi and Tis Abay on the Abbay River, 
+and Awash Falls in Ethopia are good examples.
+Fresh-Water Supply
+The rivers and lakes in Africa constitute most of the continent’s fresh-water 
+resources. The piped water supplies for urban Africa and the water supply for the 
+rural population, are all dependent on the rivers and lakes of the continent.
+Source of Minerals and Construction Materials
+Rivers and lakes carry various rocks and their fragments that are good sources of 
+minerals and construction materials. For instance, the alluvial deposits along the 
+major rivers of Africa contain gold and diamonds, as well as other minerals, for 
+example, tin in Ghana and Namibia. Salt and potash as well as sand and gravel 
+can be obtained from rivers and lakes. 
+The Hydro Politics of the Nile River
+The Nile River is one of the most politically significant rivers in Africa. In its 
+basin countries have significant interest over its water. The countries that are 
+found in the Nile basin are Ethiopia, Egypt, Kenya, Sudan, Uganda, Rwanda, 
+Burundi, Democratic Republic of Congo, Eritrea and Tanzania. Based on the 
+general alignment of the river these countries are categorized into two as upper 
+course and lower course countries. The upper course countries are those that 
+contribute the water for the river and are generally found at higher altitude where 
+the major tributaries of the Nile originate. On the other hand, the lower course 
+countries, namely Sudan and Egypt, are those that are found at lower elevation 
+where the water of the river flows gently over vast plains. 
+Unit 3: An Overview of Physical geography of Africa 155
+3.4 Drainage Systems Of Africa 3.4 Drainage Systems Of Africa
+Figure 3.18: The Nile basin
+Grade 11 Geography 156
+3.4 Drainage Systems Of Africa
+Blue Nile is the largest contributor of water to the Nile proper. Together with 
+Baro-Akobo and Tekeze rivers, Ethiopia accounts for about 84% of the water of 
+the Nile.
+The Hydro-politics of the Nile is, therefore, related with the degree to which the 
+Nile river is utilized in its upper and lower courses. Of the total estimated 110 bn m3
+of annual water resource, nearly 65% (72 bn m3
+) occurs in the Ethiopian portion 
+of the Nile basin. Of this, about 52.6 bn m3
+ is accounted by the Abay river alone. 
+Historically, the two countries, Egypt and Sudan have been the most benefited of 
+all the countries in the Nile basin. This is especially true for egypt where the Nile 
+River’s water and alluvial soil along its flood plain have become the source of 
+life in the desert affected Egypt. The Aswan high dam that is constructed along 
+the Nile River in Egypt has been the most important source of water, energy, fish 
+and recreation for the Egyptians. In Sudan, too, the river has been developed to 
+a greater extent. Contrary to this, the upper course countries have been the least 
+benefited. This unbalanced and unfair utilization of the river between the upper 
+and lower course countries has been a great area of interest.
+Focus 
+The Aswan high dam
+F Was started in 1960 and completed in 1967.
+F Its purpose was to create an artificial lake of high capacity.
+F Its lake is 10 km wide and 500 km long of which 350 km is in 
+Egypt and the rest 150 km in Sudan.
+F Has a total capacity of storing about 160 bn m3
+ water 
+F Has the following functions.
+K Protection against floods 
+K Generating HEP of about 10 bn kwh/day 
+K Irrigation
+K Reduces salt intrusion in the agriculture field. 
+Unit 3: An Overview of Physical geography of Africa 157
+3.4 Drainage Systems Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+However, the countries of the basin are now in a situation where by they are 
+working together to bring about equitable utilization of the river. The Nile basin 
+initiative is a good example in this case. Through the initiative, the countries are 
+working together to maintain balanced utilization of the river in the upper course 
+and lower course countries. 
+Content Check
+Answer the following questions.
+1 Name three major rivers of the Atlantic ocean drainage system in Africa.
+2 Discuss the major characteristics of African rivers.
+3 Write the major rivers across which major dams are constructed.
+3.5 NATURAL VEGETATION AND WILD 
+ANIMALS OF AFRICA
+At the end of this section, you will be able to:
+Þ relate natural vegetation and wild animals with climatic regions;
+Þ appreciate the types and economic uses of wild animals in Africa; and
+Þ show interest in implementing natural-vegetation and wild-animals 
+conservation measures.
+Key Terms
+³ Natural vegetation
+³ Alpine vegetation
+³ Wild animal
+³ Endemic
+³ Xerophite
+³ Poaching
+³ Reforestation
+³ Afforestation 
+³ Conservation 
+There are different types of climates in Africa. As a result, varied types of natural 
+vegetation develop over the landmass of the continent. There are also various 
+species of wild animals that inhabit the various physiographic regions of the 
+continent. 
+Grade 11 Geography 158
+3.5 Natural Vegetation And Wild Animals Of Africa
+3.5.1 Major Vegetation Zones of Africa 
+What is Natural Vegetation? What are the major vegetation types that develop in 
+Africa? What causes a variation in vegetation type and distribution in Africa?
+The type of natural vegetation that develops in a certain environment is a reflection 
+of the climatic characteristics of that place. Africa has a number of different 
+climatic regions with their own distinguishing climatic features. As a result, we 
+have various types of natural vegetation covering the different geographic regions 
+of the continent. In general, five different vegetation zones can be identified in 
+Africa. These vegetation types are discussed below. 
+F Tropical rainforests
+F Tropical grassland (savanna)
+F Desert and semi-desert vegetation
+F Afro-montane (Afro-alpine) vegetation
+F Mediterranean vegetation
+Brainstorming
+1 To what type of natural vegetation, is each climate type conducive?
+2 What are the dominant types of natural vegetation that could develop in each 
+climatic region? 
+3 Is there any correspondence between climatic regions and vegetation zones in 
+Africa? 
+Tropical Rainforests
+What is a rainforest? Where in Africa do we have rainforests?
+What unique features do rainforests have?
+Tropical rainforests develop in areas with equatorial climates. In Africa, they 
+are confined to Central and Western Africa, and eastern Madagascar. In these 
+places, the climate is typically tropical, with high rainfall and high temperatures 
+throughout the year. Tropical rain forests are also known as equatorial broad leaf 
+evergreen forests. Africa’s most extensive rainforest is found in the Congo Basin. 
+Unit 3: An Overview of Physical geography of Africa 159
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+The following points give you some ideas about the nature of these forests.
+F Rain forests are complex, with these three distinct layers: 
+K Top layer – made up of tall trees (30 - 50 m) with buttress roots; 
+K Middle layer – made up of tree ferns, lianas (creepers), epiphytes, 
+and trees with heights of 19 - 34 m; and
+K Bottom layer – consists of ferns, herbaceous plants, saprophyte 
+(plants which live on dead plants) and trees with heights of up to 
+17 m. 
+F They contain broad-leaved evergreen trees (green throughout the year);
+F Different plants exhibit different stages of growth at the same time, due 
+to the absence of climatic seasons. Some are in flower, some in fruit, 
+and others in the leaf-fall stage;
+F They have little undergrowth, as the canopies of the tall trees prevent 
+light penetration;
+F Most of the trees are hardwood, like mahogany, ebony, ironwood, 
+rosewood and green heart; 
+F They have high species diversity and thick growth.
+Study sketch given below to learn what the vegetation in tropical areas looks like.
+Upper Canopy:
+30 to 50 m
+Densest Layer:
+Lianas and Epiphytes
+Thinnest Layer:
+Forest Floor
+Figure 3.19: A Sketch of the Tropical Rainforest
+Grade 11 Geography 160
+3.5 Natural Vegetation And Wild Animals Of Africa
+Tropical Grassland (Savanna)
+What is a Savanna? Which parts of Africa have savanna vegetation?
+This kind of vegetation develops in areas of seasonal rainfall. Tropical grassland 
+vegetations are extensively developed in areas that have wet summers and dry 
+winters. 
+Tropical grasslands exist in Northern and Southern Africa, and they encircle the 
+equatorial rainforests. Rainfall in savanna areas varies, decreasing over the range 
+from the forest margins to the edges of the desert. Savanna areas that are close to 
+the equatorial rainforests receive more rainfall, compared to the areas at the edge 
+of the desert. This results in the development of three Savanna zones in Africa. 
+These are:
+i Park (Wetter) Savanna: it is found close to the rain forests and made 
+up of many trees and grasses. Geographically, it is found in Western 
+Africa, northern Congo, southern Sudan and central Malawi. 
+ii High (True) Savanna: this type of grassland is developed between 
+the wetter and drier savannas. It is made up of more grasses than 
+park-savanna areas, and contains scattered trees only. It is found in 
+Zimbabwe, Malawi, southern Kenya, eastern Tanzania and Western 
+Africa. 
+iii Thorn Scrub (Drier) Savanna: this savanna zone is developed 
+along the desert margins and is made up of short grasses with widely 
+scattered thorny trees, thorn bushes and low scrub. It is common in 
+the semi-arid areas of the Sahel region that extends from Senegal to 
+Ethiopia, Northern Kenya, Angola and Botswana. 
+The main features of savanna vegetation include the following. 
+F They have tall grasses that are often as tall as 2 m; 
+F Trees are more common than grasses in areas bordering the forest, and 
+grasses are more common than trees in areas bordering the desert;
+F Most of the grasses wither and turn brown in the dry season and regain 
+in the wet season;
+F The trees survive the dry season by shading their leaves, storing water, 
+having long roots, thorny leaves, and only a small number of leaves.
+Unit 3: An Overview of Physical geography of Africa 161
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+Desert and Semi Desert Vegetation
+What is a desert? What about a semi-desert climate? What type of vegetation 
+develops in such climatic regions? In which parts of Africa do we have desert 
+and semi-desert vegetation? Why?
+Desert and semi-desert vegetation is developed in areas where rainfall is scant. 
+This climatic condition is found in the driest areas of the continent. The Sahara, 
+the largest desert in the world, the Namib deserts and the Sahel region of Africa 
+have such vegetation. 
+You may think that deserts are devoid of natural vegetation. The reality, however, 
+is that it is different in Africa. The continent's drier areas have high species 
+diversity. For instance, more than 3,000 species of plants (about 20% endemic) are 
+found in the desert and semi-desert zones of Northern Africa. Even the southern 
+deserts support plants. Cactus, thorn bushes and coarse grasses are among the 
+most common plants in this vegetation zone. 
+Baobab
+Acacia
+Figure 3.20: Tree types in the savanna lands
+Grade 11 Geography 162
+3.5 Natural Vegetation And Wild Animals Of Africa
+The desert and semi-desert climatic regions are characterized by very low rainfall, 
+extremely high evaporation and low humidity. The plants that develop in such 
+regions are xerophytes with high drought resistance. To withstand such problems 
+and survive in deserts, desert plants have different mechanisms of adaptation. For 
+example, 
+F They have long roots that can penetrate to great depths to reach the 
+underground water table; 
+F They store water in their spongy leaves, stems, roots, fruits, and the like 
+(example, cactus); 
+F They have waxy or needle-shaped leaves to reduce water loss through 
+transpiration; 
+F They produce seeds that lie dormant for several years during extreme 
+dry seasons until rain falls;
+F Their leaves are small in size and few in number, reducing water loss 
+through transpiration; and
+F They have thorny leaves to protect them from being eaten by herbivores, 
+etc. 
+Afro-Montane (Afro-Alpine) Vegetation
+What type of vegetation is Afro-Alpine vegetation? In which parts of Africa do 
+we have this type of vegetation?
+This type of vegetation develops over the tropical highlands of Africa, mainly 
+over the Ethiopian and Eastern African highlands. In these areas, the climate is 
+highly modified by altitude, with temperature decreasing as altitude increases. 
+As a result, the vegetation that would have existed in the tropical climate at 
+lower temperatures is replaced by vegetation typical of temperate regions. The 
+vegetation consists of highland (temperate) forests and temperate grasslands. As 
+altitude decreases, vegetation varies. For example, alpine (cold-resistant) plants 
+like Asta and Gibera (in Ethiopia) grow in areas with altitudes above 3000 m. 
+Afro-montane forests grow in altitudes up to 3000 m. Bamboo forests are found 
+at 2000 – 2500 m. Then we find temperate evergreen (coniferous) forests of trees 
+such as Tid, mountain grassland, and heath. 
+Unit 3: An Overview of Physical geography of Africa 163
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+Mediterranean Vegetation
+Which parts of Africa have this type of vegetation? What are the common trees 
+of the Mediterranean vegetation in Africa?
+As the name indicates, this type of vegetation develops in the northwestern 
+and southwestern extremes of the continent, where Mediterranean climate is 
+dominant. The region is rich in plant species. Evergreen and deciduous trees 
+constitute a good part of the vegetation of this zone. Cork oak, maquis, and wild 
+olive, are among the most common plant types in the region. 
+Mediterranean climatic regions have hot dry summer seasons. Thus, plants 
+develop certain adaptation mechanisms to withstand the summer drought. Among 
+others, the following adaptation mechanisms are common. 
+F Storing water in their leaves and bark and using it during the dry 
+season;
+F Having waxy thick leaves to reduce water loss through transpiration;
+F Having spiny small leaves to reduce water loss through transpiration; and
+F Having long roots to tap underground water. 
+Factors Affecting The Natural Vegetation Of Africa
+Despite the richness of the continent in terms of natural vegetation, the resource is 
+far from being properly utilized. Deforestation, overgrazing, burning (wildfire), 
+and the expansion of settlements and farmlands are among the major problems 
+affecting natural vegetation in the continent.
+NOTE 
+In addition to the five major vegetation zones of 
+Africa, there are also other vegetation areas. Most 
+important of these is the Mangrove vegetation zone. 
+Such vegetation grows in the swampy areas of Africa, 
+especially along lake shores, deltaic mouths and flood 
+plains of the Congo and Niger rivers , tropical coasts 
+and the Okavango swamps. The vegetation includes 
+both trees and grasses.
+Grade 11 Geography 164
+3.5 Natural Vegetation And Wild Animals Of Africa
+Activity 3.11
+Answer the following questions.
+1 What is deforestation, overgrazing and wildfire?
+2 Why do people encroach into naturally vegetated areas? 
+3 What are the impacts of human encroachment on vegetation areas, humans 
+and the environment?
+4 What should be done to minimize human impact on the natural vegetation of 
+Africa?
+Of all the challenges of natural vegetation in Africa the most serious one is 
+deforestation. Deforestation is indiscriminate cutting or over-harvesting of trees. 
+The deforestation rate in the continent is both very high and escalating. In the late 
+1970's, for instance, the annual rate of deforestation in the continent was about 
+3.6 million hectars per year. Slightly less than a decade and a half later, this rate 
+(according to 1993 FAO estimations) had reached 4.3 million hectars/year. At the 
+present time, the figures are even greater than what we have seen above.
+Clearance of tropical forests for various reasons is a common practice in many 
+African countries where rainforests develop. People clear the forest for many 
+reasons. The major ones, however, are the following. 
+F They clear the land for shifting cultivation, especially in the equatorial 
+areas where soil leaching is a common problem;
+F The need for land for permanent agriculture; 
+F The increased need for fuel wood - nearly 90% of African energy 
+demands are satisfied by using fuel wood that is collected from forests; 
+F Extractive forest uses, such as selective forestry, to get logs for industries. 
+Deforestation has multifarious impacts. Forests regulate the climatic conditions 
+of the earth and reduce soil erosion. Thus, deforestation can cause climatic 
+change, resulting in problems like desertification and soil loss through erosion. 
+In addition, where the forest habitats are destroyed, the animals that live in the 
+forests are affected. As a result of habitat destruction, animals may migrate and 
+Unit 3: An Overview of Physical geography of Africa 165
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+even die. Deforestation results in the extinction of some of the wild animals and 
+plants of the continent. There are also many endangered plants and animals in the 
+continent due to deforestation and related impacts. 
+Possible Conservation Measures
+The problem of deforestation can be reduced through the application of different 
+forest-conservation measures. These measures include reforestation, afforestation, 
+agro-forestry and social forestry. 
+Reforestation: is planting trees in areas where the original forest cover has been 
+removed. It is done to replace the trees that have been cut by humans for different 
+purposes. 
+Afforestation: is planting trees in areas where there was no original forest cover. 
+For example, afforestation is appropriate for areas where the land is left empty 
+and therefore is exposed to erosion. 
+Agroforestry: is forestry combined with farming. It is a practice of integrating 
+the planting of trees into farming to provide fuel, fruit, forage, shelter for animals 
+or crops, and other benefits. In short, it refers to associating crop production with 
+forest development.
+Social forestry: refers to planting trees in urban areas in association with human 
+settlements.
+NOTE 
+The problem of deforestation is very serious in Africa. In 
+addition to the above-mentioned measures, raising the 
+people’s awareness of the importance of forests is crucial. 
+In addition, changing the way people make their living at 
+the present time is also important, as poverty is one of the 
+factors that escalate deforestation.
+Grade 11 Geography 166
+3.5 Natural Vegetation And Wild Animals Of Africa
+3.5.2 Wild Animals of Africa
+What are wild animals? Do you think that Africa is rich in terms of wild animal 
+resources? Why?
+Brainstorming 
+1 What is meant by wild animal? 
+2 What are some of the major types of wild animals found in Africa? 
+3 Is there any relationship between the distribution of climate, natural vegetation 
+and wild animals in Africa? How do you describe that relationship?
+It is a well known fact that natural
+vegetation serves as habitats for wild 
+animals. Thus, the different vegetation 
+zones of Africa, together with the 
+varied climate and topography of the 
+continent, create an ideal situation for 
+wild-animal diversity. 
+For example, the equatorial rainforests 
+of Africa are habitats for different 
+species of wild animals. The region 
+hosts different kinds of tree climbing 
+(arboreal) animals like monkeys, apes, 
+baboons, and gorillas, as well as birds. 
+The aquatic environment of this zone 
+hosts large animals like hippopotamus 
+and crocodiles. 
+The region has the highest species 
+diversity in Africa. Most of the time 
+wild animals that live in the equatorial 
+rainforest have small body sizes. This 
+is because the thick and dense forest 
+of the region limits movement in the 
+forests. 
+Gorilla
+Baboons
+Unit 3: An Overview of Physical geography of Africa 167
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+There are also large numbers of herbivorous and carnivorous animals in the 
+Savanna lands of the continent. The herbivore animals include numerous 
+species of antelope, zebra, giraffe, buffalo, African elephant, and rhinoceros. 
+The carnivore wild animals include the lion, leopard, cheetah, hyena, jackal and 
+mongoose. 
+African elephants live in grassy 
+regions south of the Sahara Desert. 
+The savanna elephant is the largest 
+of the three species of elephants. 
+They live in grasslands and drier 
+woodlands throughout Kenya, 
+Tanzania, Botswana, Zimbabwe, 
+Namibia, and South Africa.
+Savanna Elephant
+The black rhinoceros (Diceros bicornis) 
+once ranged from Southern Africa to 
+Western and north-eastern Africa. 
+Today, only fragmented populations 
+remain in Southern, Eastern, and 
+Central Africa. The black rhino has two 
+horns, the front one usually larger than 
+the rear one.
+Black Rhinoceros
+Black Rhinoceros and Calf
+Grade 11 Geography 168
+3.5 Natural Vegetation And Wild Animals Of Africa
+NOTE 
+Rhinoceroses are among the most seriously affected wild 
+animals in Africa. People hunt rhinos for their horns. A 
+single rhino horn can bring thousands of dollars on the 
+black market. Consequently, the black rhinoceros and its 
+close relative, the white rhinoceros, have been hunted 
+nearly to extinction. Black rhinos once ranged throughout 
+Africa south of the Sahara but are now restricted to parks 
+scattered throughout that range. To prevent inbreeding 
+and to ensure the survival of the species, park personnel 
+truck rhinos between isolated reserves for mating.
+This group of lions lives in the savanna 
+region in Masai Mara, Kenya, in Africa. 
+The grasslands are ideally suited to the 
+needs of these carnivores.
+Pride of Lions
+Oryx, Mago National Park, Ethiopia
+Unit 3: An Overview of Physical geography of Africa 169
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+Zebras drink and graze near a river in 
+Tanzania’s Serengeti National Park. 
+Millions of animals spend the rainy 
+season in this grassland reserve. When 
+the rivers dry up at the end of the 
+rainy season, the animals migrate to 
+Kenya’s Masai Mara Game Park, where 
+more abundant water conditions 
+enable them to survive the dry season. 
+Established in 1941, the Serengeti is 
+one of Africa’s largest nature reserves.
+Zebras in Serengeti National Park
+One of the ten largest national parks in 
+the world, Kruger National Park in RSA 
+covers 19,485 sq km.
+Some animals of Kruger National Park
+Grade 11 Geography 170
+3.5 Natural Vegetation And Wild Animals Of Africa
+There are also various species 
+of wild animals in the desert 
+and semi-desert areas of the 
+continent. The desert fox, 
+hares, gazelles, jerboa, the 
+wild ass and different reptiles 
+like snakes, lizards and 
+tortoises are among the most 
+common species. 
+Spotted Hyena, found 
+in many areas of Africa
+Wild Ass in the Afar area
+The marabou stork of Africa is the 
+largest member of the stork family. 
+Marabous soar for long distances 
+searching for carrion, often feeding on 
+carcasses with vultures and hyenas.
+Marabou Stork
+Unit 3: An Overview of Physical geography of Africa 171
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+A mamba is a poisonous member 
+of the cobra family. Mambas live 
+in tropical areas of Africa and are 
+one of the world’s fastest-moving 
+snakes.
+Green Mamba
+Jerboas are jumping rodents 
+capable of covering a distance of 
+3 m with one leap. Jerboas live 
+primarily in the arid regions of 
+Africa and Central Asia and feed 
+on plants, seeds, and insects.
+Jerboa
+The desert dwelling fennec has 
+the largest ears of any fox, in 
+proportion to body size. It uses its 
+ears to cool itself and to detect the 
+sounds of predators and prey.
+Desert Dwelling Fennec Fox
+Grade 11 Geography 172
+3.5 Natural Vegetation And Wild Animals Of Africa
+Similarly, the rivers, lakes and 
+swamps of the continent are 
+inhabited by different species 
+of aquatic animals. There are 
+crocodiles like the Nile crocodiles, 
+hippopotamuses, fish (about 2,000 
+different species), and different 
+species of birds like the guinea 
+fowl (the leading game bird in 
+Africa), pelicans, goliath herons, 
+flamingos, storks, egrets, and the 
+ostrich, mainly in Eastern and 
+Southern Africa. 
+A black-backed jackal in Hwange 
+National Park, Zimbabwe, flees 
+with a piece of scavenged meat.
+Black-Backed Jackal Scavenging
+One of the largest reptiles on the earth today, 
+the crocodile is also one of the most ferocious. 
+The crocodile of the Nile, Crocodilus niloticus, 
+pictured here, is one of the best known of the 12 
+species of crocodile.
+Nile Crocodile
+Native to Africa, the ostrich is 
+the largest living species of bird, 
+growing to a height of 2.4 m and 
+a weight of 150 kg. Although 
+flightless, the ostrich can run at 
+speeds as high as 65 km/hr .
+Ostriches 
+Unit 3: An Overview of Physical geography of Africa 173
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+In addition to the above wild animals, the continent also has a variety of destructive 
+insects, notably mosquitoes, driver ants, termites, locusts, and tsetse flies.
+This wild-animal resource of Africa is of great importance for the people of the 
+continent. They serve a wide range of purposes, including the following. They: 
+F are used as sources of animal protein in many countries of Africa;
+F help to maintain the balance of nature by feeding on each other and 
+plants;
+They are found in shallow alkaline soda 
+or salt lagoons and lakes in parts of 
+Africa. Flamingos feed on microscopic 
+algae, diatoms, and invertebrates that 
+they strain from the water and mud 
+with their sieve-like bills.
+Flamingos
+The South African tsetse fly, 
+common to Central Africa, is 
+responsible for transmitting the 
+parasitic protozoan that causes 
+sleeping sickness, a disease that 
+can be fatal to humans and 
+domestic cattle.
+South African Tsetse Fly 
+There are approximately 2,000 species of mosquitoes 
+ranging from the tropics to the Arctic Circle and 
+from sea level to mountaintops. Female mosquitoes 
+have hypodermic mouthparts which enable them to 
+pierce the skin and suck the blood of mammals, birds, 
+reptiles, and other arthropods. Female mosquitoes of 
+the genus Anopheles are responsible for transmitting 
+the malaria parasite from person to person.
+Female Mosquito Sucking Blood
+Grade 11 Geography 174
+3.5 Natural Vegetation And Wild Animals Of Africa
+F serve as source of income through tourism, legal hunting and legal sale 
+of live wild animals;
+F provide scientific and educational opportunities to researches, students 
+and the like;
+F provide inputs (industrial raw materials such as skins and excreta) for 
+various industries;
+F add aesthetic value to the environment, hence serving as source of 
+recreation for people;
+Factors Affecting Wild Animals
+Despite all these and many other advantages that wild animals provide to 
+the people of Africa, the attention paid by the people to animal conservation 
+is inadequate. Many animals face serious problems that emanate from human 
+interference-for example, with their habitats. Such interventions threaten many 
+species. As a result, some animals and birds are extinct and still others, like 
+the Mountain Nyala and Walia Ibex in Ethiopia, and the Ostrich in Algeria, are 
+endangered or threatened. 
+Activity 3.12
+In a small group, discuss the following issues.
+1 What are the problems of wild animals in your area? What about in Africa in general?
+2 What, do you think, should be done to conserve the wild animal resources of Africa? 
+3 Are there any measures being taken by the local government or population in 
+your area to conserve wild animals? If yes, mention some of the measures.
+Wild animals in Africa are facing different challenges. The following are the 
+most serious ones. 
+F Illegal hunting (poaching): In many parts of Africa, poaching, or 
+illegal hunting, is a common practice. People hunt wild animals for 
+many reasons. While some are economic, others are socio-cultural. For 
+instance, elephants are hunted for their tusks, rhinos for their horns, 
+lions, and cheetah, for their skins etc. This activity threatens some 
+species like the African elephant and black rhinoceros. Some animals in 
+Africa are also brutally exterminated for several reasons. For example, 
+Unit 3: An Overview of Physical geography of Africa 175
+3.5 Natural Vegetation And Wild Animals Of Africa 3.5 Natural Vegetation And Wild Animals Of Africa
+animals are killed because they are considered to be pests. They are 
+also killed for food. People also kill animals to be honored by society, 
+as there are cultural group that attach bravery/heroism to killing large 
+dangerous wild animals. This practice exists particularly in the very 
+traditional parts of the continent.
+F Human Encroachment: in many areas of Africa, people encroach 
+into the natural habitat of wild animals. For instance, many people 
+in Ethiopia enter into the habitats of wild life in the Bale Mountains, 
+Semien Mountains and Awash National Parks and disturb the habitat. 
+The encroachment is the result of the increased need of human 
+populations for farm and grazing land, settlement areas, fuel wood and 
+the like. Such increased needs result in:
+K Deforestation – people in Africa clear forests for shifting and 
+permanent cultivation, fuel wood, charcoal, settlement and the like. 
+This disturbs the habitats of wild animals and causes the migration 
+and death of wildanimals. 
+K Burning of vegetation cover in order to obtain land for shifting or 
+permanent agriculture, people set fire to vegetated areas.
+K Overgrazing – When land is grazed beyond its carrying capacity, 
+overgrazing occurs. This, in turn, leads to environmental 
+degradation. 
+K Desertification – it is the expansion of desert-like climatic 
+conditions, which occurs as a result of changes in the characteristics 
+of the local climate.
+K Drought – is extreme shortage of rainfall. It occurs when expected 
+rains fail to fall in an area.
+Elephant populations are on 
+the brink of extinction due to 
+poachers who kill elephants for 
+their ivory tusks
+African Elephant Killed by Poachers
+Grade 11 Geography 176
+3.5 Natural Vegetation And Wild Animals Of Africa
+Possible Conservation Measures
+These and many more challenges are affecting Africa’s wildlife resources. 
+Animals migrate, and even die due to the disturbance of their environment as 
+humans encroach. To curb the situation the following measures can be taken. 
+F Conserving natural vegetation: the conservation of one type of 
+natural resource means the conservation of others. Conserving natural 
+vegetation that serves as habitats and sources of food for wild animals 
+can ultimately help with their conservation. 
+F Establishing national parks, game reserves and sanctuaries: these 
+areas provide protection and conservation for wild animals. They 
+are established to conserve wild animals and their habitats so that 
+they have a secure environment that is safe for their survival. In this 
+regard, Kenya, Tanzania, the Republic of South Africa and Uganda 
+are significant. In Ethiopia, too, nine national parks and many other 
+sanctuaries and game reserves have been established to promote the 
+conservation of the wildlife resources of the country.
+F Controlling illegal hunting: it can be done by developing strict 
+legislation whereby illegal hunters are punished or penalized for their 
+illegal acts. For instance, an international ban on ivory trade, instituted 
+in 1989 by the Convention on International Trade in Endangered 
+Species of Wild Fauna and Flora (CITES) and supported by over 120 
+countries, has diminished the illicit ivory trade and reduced the related 
+wild-animal killing. 
+F Raising the people’s awareness: this can be done by educating the 
+people about the uses of wild animals so that their attitudes and activities 
+change. This is the most important conservation measure, and it needs 
+the closest attention, because nothing can be done without getting the 
+support of local communities.
+F Changing the economic condition of the people through good and 
+applicable policies and programs. 
+Unit 3: An Overview of Physical geography of Africa 177
+3.5 Natural Vegetation And Wild Animals Of Africa 3.6 Soils Of Africa
+Content Check
+Answer the following questions.
+1 Describe the equatorial rain forest of Africa.
+2 Discuss the major problems of natural vegetation in Africa.
+3 What are the major problems that Africa’s wild animals face?
+4 Discuss possible measures of conservation for the wildlife resources of 
+Africa.
+3.6 SOILS OF AFRICA
+At the end of this section, you will be able to:
+Þ state the major soils of Africa with their specific characteristics;
+Þ relate the soils of Africa with their respective climatic regions; and
+Þ analyze soil problems and measures of conservation in Africa.
+Key Terms
+³ Soil 
+³ Weathering 
+³ Erosion
+³ Soil degradation
+³ Terracing 
+³ Contour ploughing
+Soil is defined simply as a loose and unconsolidated material that overlies the 
+crust of the earth. Soil is Africa’s most important resource. This is because the 
+majority of the people in the continent, and almost the entire economy of the 
+continent, depend on activities that are directly or indirectly linked with this 
+resource. 
+Grade 11 Geography 178
+3.6 Soils Of Africa
+Brainstorming
+1 What is soil? How is it formed? 
+2 What are the major soil types in Africa? What are the major soil types that are 
+dominant in your locality?
+3 Can you identify some of the problems of soil resources in Africa? 
+4 What measures, do you think, should be taken to conserve soil resources in 
+Africa?
+3.6.1 Major Soil Types of Africa
+Why is Africa endowed with varied typed of soils? What are the most common 
+soil types of Africa?
+The diverse climatic conditions, natural vegetation and the geology of Africa result 
+in the presence of different soil types. The Food and Agricultural Organization of 
+the UN (FAO) has classified the soils of Africa into several groups, of which the 
+following are the most important: 
+F Pedalfers (the largest group in Africa)
+F Pedocals
+F Hydromorphic soils
+F Azonal soils
+Based on their geographical distribution, the soils of Africa are classified 
+into the following types. These are Ferrasols, Nitosols, Acrisols, Lixisols, 
+Plinthosols, Luvisols, Planosols, Vertisols, Calcisols, Solonchaks, Gleysols, 
+Fluvisols, Arenosols, Regosols and Leptosols. The geographical locations and 
+characteristics of each of these soils is discussed in brief in the next sections.
+A Pedalfers
+Pedalfers are soils with aluminum deposits. They are soils without a layer of 
+accumulated calcium carbonate. such soils have high content of iron and 
+aluminum. Soils of this group include the following.
+Ferrasols: are found in the central parts of Africa around the equatorial forests 
+and savanna lands. They are red and yellow in color. Since they are found in areas 
+Unit 3: An Overview of Physical geography of Africa 179
+3.6 Soils Of Africa 3.6 Soils Of Africa
+of heavy rainfall, they are affected by leaching. As a result, they are characterized 
+by high concentrations of iron, clay and aluminum.
+Nitosols: These soils mainly develop in humid climatic regions. Their parent 
+materials are usually volcanic rocks. Such soils have a deep profile and are rich 
+in humus content. Therefore, they are the most productive soils in Africa. As a 
+result, they are ideal for crop production.
+Acrisols: These are soils that develop in hilly areas with wet tropical and monsoon 
+climates. These soils are weathered, acidic and shallow. As a result, they are 
+unproductive. This soil type is found in Western Africa and the Lake Region of 
+East Africa.
+Lixisols: Lixisols are found in the savanna and semi-arid areas. These soils are 
+reddish and sometimes yellowish in color. Geographically, they are abundant in 
+the plains of Western Africa, Eastern Africa and east-Central Africa. Lixisols are 
+more fertile than ferrasols and acrisols.
+Plinthosols: these soils exist on plains and gently-sloped areas. They are soft 
+and laterite. Such soils also develop in rainforest areas and the savanna regions, 
+where marked dry and wet seasons characterize the climate.
+Luvisols: these soils are developed in the Mediterranean climatic regions of the 
+continent. They have high mineral reserves and are fertile. 
+Planosols: these soils dominate the High Veld of South Africa, particularly the 
+waterlogged plains of the country. They are used mostly for grazing.
+Fluvisols: fluvisols develop in seasonally flooded plains, valleys and tidal 
+marshes. They are found in the Nile and Zambezi River Deltas, and the coasts of 
+Western Africa and Lake Chad. They have a brown color. Most of these soils are 
+young and fertile. As a result, they are suitable for large-scale irrigation. 
+B Pedocals
+Vertisols: These are black basaltic soils with clay character. Due to their clay, 
+they become sticky during the rainy season and crack during the dry season. As 
+a result, working such soils is very laborious. They are found in the Sahel region 
+at the southern border of the Sahara. In some parts of Africa, these soils are 
+Grade 11 Geography 180
+3.6 Soils Of Africa
+cultivated with the help of irrigation and rainfed agriculture. However, generally 
+they are used for grazing.
+Calcisols: They are found in the Sahara and Namib deserts of Africa. Though 
+they are potentially fertile in terms of mineral content, they are poor in humus. 
+These soils are used mostly for grazing. 
+Solonchaks: these soils are found in inland river basins, bottoms of ancient lakes, 
+depressions and coastal areas. They are saline and not very productive.
+C Hydromorphic Soil
+Gleysols: Like solonchaks, they are found in depressions and low-lying areas 
+of shallow ground water. They are extensively found in the Niger Delta, the 
+Congo Basin and interior parts of Angola. In Africa, these soils are used for the 
+production of rice, sugar cane, yam and vegetables. 
+D Azonal Soil
+Arenosols: They are found in the humid tropical parts of Africa, the semi-arid 
+zones of the southern Sahara, southwest Africa and Africa’s coastal plains. They 
+are used mainly for grazing and dry farming.
+Regosols: They are found in arid areas extending from West Africa to Ethiopia 
+and Somalia. They are used for pastoralist grazing. 
+Leptosols: These are young, shallow and stony soils that are highly susceptible to 
+erosion and drought. They are found in the strongly dissected uplands of Northern 
+Africa, the Sahara, and in Southern, Central and Eastern Africa. Terracing is 
+the most important mechanism for cultivating these soils. Otherwise, they are 
+devoted to transhumance, forestry and tourism. 
+3.6.2 Problems and Conservation Measures 
+of Soils in Africa
+Problems of Soils in Africa
+What are the major problems of soil in Africa? What measures, do you think, 
+should be taken to conserve Africa’s soil resources?
+Unit 3: An Overview of Physical geography of Africa 181
+3.6 Soils Of Africa 3.6 Soils Of Africa
+Soil erosion and environmental degradation are among the major problems 
+concerning soils in Africa. The major causes of soil erosion and degradation in 
+the continent include traditional farming practices, overgrazing, deforestation, 
+and over-exploitation of vegetation for domestic uses. Due to these and many 
+other factors, the continent loses huge amounts of soil every year to erosion. 
+Also, such problems result in the deterioration of the quality and productivity of 
+the soil. 
+Soil erosion is affecting Africa in many ways. Among others, the following are 
+the major impacts. It results in the:
+F deterioration and depletion of agricultural and range (pasture) lands;
+F decline of productivity of the major cereal crops;
+F the collapse of agriculture and thereby the migration of people;
+F downstream pollution, sedimentation, floods and damage to settlements, 
+irrigation and farmlands;
+F comsumption of national economic resources to control erosion. For 
+example, Zimbabwe invests 3% of its total annual budget for applying 
+fertilizer to replace nutrients lost through erosion.
+As we have said earlier, soil erosion is serious throughout Africa. However, the 
+problem is more intense in some areas than others. 
+These areas are highly affected by the problem.
+F Most of the Sahel Region of Western Africa, and the Sahara and Namib 
+deserts of Africa where wind is the major agent of erosion;
+F The subhumid (savanna) regions and the tropical rainforests, where 
+water is the main agent of erosion; and
+F The tropical highlands and mountain areas of Africa such as those of 
+Ethiopia and other East African countries.
+Activity 3.13
+In a small group, discuss the following points.
+1 What are the impacts of soil erosion in your area? What about in Ethiopia and 
+Africa?
+2 What do people do to conserve soil in your area? What other measures do you 
+suggest to better conserve soil resources in Africa?
+Grade 11 Geography 182
+3.6 Soils Of Africa
+Conservation Measures
+Major soil conservation measures that could be taken to increase soil fertility in 
+Africa include the following.
+F Terracing: constructing stair like structures along hillsides to reduce 
+the speed at which water flows down the slope, thereby reducing erosion.
+F Agroforestry: is associating agriculture with forest development.
+F Afforestation: is planting trees in areas which originally were not 
+covered by forests. 
+F Reforestation: is planting tree seedlings to replace cut forests.
+F Windbreaks and shelter-belt plantations: planting trees along a line to 
+break the speed of the blowing wind and reduce its erosivity.
+F Check dams: are small ditches that are prepared along sloppy areas to 
+reduce the impact of the down slope surface flow.
+F Strip cultivation: is planting two or more types of crops on the same 
+farm, using a pattern of stripes of alternating crops. This approach 
+reduces soil erosion because different types of plants use different ways 
+of binding soil particles to themselves. 
+F Contour plowing: is plowing the land sideways, following contours. It 
+is commonly used in sloped areas, forming furrows perpendicular to 
+the angle of the slope. These furrows act as blocks, slowing the flow of 
+downhill water. 
+F Crop rotation: planting different crops alternately on a farm.
+F “Green manure”: This approach uses plants that have soil-nutrient 
+value to enrich the soil in the same way that animal faeces are used as 
+fertilizer. The “green manure” plants are cultivated on the land and 
+then ploughed under to mix them with the soil.
+F Mulching: is covering the soil with plant residue to let the soil regain 
+some nutrients as the residue decays.
+F Fallowing: is leaving the farm idle for a while until the soil regains its 
+fertility.
+Unit 3: An Overview of Physical geography of Africa 183
+Unit Review 3.6 Soils Of Africa
+Unit Review
+ UNIT SUMMARY
+Þ Africa is absolutely located between 37o21’ N and 34o52’ S latitude and 
+17o33’ W and 51o28’ E longitude.
+Þ As a result of the absolute location of Africa, the continent is characterized 
+by almost balanced east-west and north-south extent, tropical location, 
+and its being crossed by the equator almost at its half.
+Þ Relatively, the continent is close to Europe and Asia. It gets closer to Europe 
+across the Strait of Gibraltar, which is about 22 kms wide between Morocco 
+and Spain. With relation to Asia, the continent comes closer across the 
+Strait of Bab-el Mandab, which is about 40 kms wide. A narrow stretch of 
+land called Isthmus of Suez, which is now cut into an artificial canal called 
+the Suez Canal, connects Africa with Asia.
+Þ Africa has a total area of 30.4 million sq. km. Accounting for about 20.2% of 
+the world’s total land area, the continent is the second largest in the world, 
+next to Asia.
+Þ The presence of large area for settlement, high resource potentials, varied 
+climate, and plant and animal life are among the advantages of Africa’s 
+large area.
+Þ The absence of smooth coastlines and more or less equal north-south and 
+east-west distance makes Africa’s shape relatively compact.
+Þ The continent of Africa is generally divided into five major regional units. 
+These are Northern Africa, Southern Africa, Central Africa, Western Africa 
+and Eastern Africa.
+Þ Serious of denudation and peneplanation activities dominated Africa’s 
+geological history during the Palaeozoic era.
+Þ Alternate sinking and rising of the land of the Horn of Africa had been a 
+common geologic event of the Mesozoic era in Africa.
+Þ Most of the major landforms and relief features of Africa, including the 
+Great East African Rift Valley and the very high volcanic mountains and 
+plateaus, were formed during the Tertiary period of the Cenozoic era.
+Þ Much of Africa is dominated by plateau lands. Mountains and hills account 
+only for 4% of Africa’s relief while plains account for 25%.
+Grade 11 Geography 184
+Unit Review
+Þ Eastern Africa is the most elevated part of the continent having most of the 
+very high mountains that rise over 2000 meters.
+Þ The Great East African Rift Valley is the world’s largest rift valley system. 
+It stretches from Port Biera of Mozambique to Syria in the Middle East 
+travelling a total distance of about 7200 kms.
+Þ Africa is divided into seven major climatic regions. These are Equatorial 
+Climate, Tropical Continental (Savanna) Climate, Tropical Desert and Semidesert Climate, Tropical Maritime (Monsoon) Climate, Warm Temperate 
+Continental Climate, Highland (mountain) Climate, Mediterranean 
+Climate
+Þ Latitude, altitude, ocean currents, distance form the sea, winds and 
+atmospheric pressure are among the factors that affect the climate of 
+Africa.
+Þ Climatic change due to deforestation, overgrazing, and other unwise 
+ways of using the natural environment is the common problem in Africa. 
+This has resulted in repeated drought and other environmental hazards 
+and problems.
+Þ Africa is rich in terms of water resources. The continent has thousands of 
+rivers, many lakes and swamps. The rivers are generally categorized into 
+four major drainage basins. These are the Atlantic Ocean, the Indian 
+Ocean, the Mediterranean Sea and the Inland or Closed drainage system.
+Þ Presence of steep and long profile, rapids and falls, seasonal fluctuation 
+of the rivers, presence of deltaic mouth and mangrove swamps and the 
+exotic nature of the rivers are among the common characteristics of 
+Africa’s rivers.
+Þ Many lakes drain Africa. Most of these lakes are found in the rift valley 
+region.
+Þ Hydro-electric power generation, irrigation, fishing, transportation, tourism 
+and recreation are among the major uses of Africa’s rivers and lakes.
+Þ The diverse nature of Africa’s climate has resulted in the presence of 
+different vegetation zones. Forests, grasslands, desert and semi-desert 
+vegetations, high altitude plants, Mediterranean vegetation, etc are 
+among the major vegetation zones.
+Þ Deforestation, overgrazing, wild fire, shifting cultivation, etc are among the 
+major problems of natural vegetation in Africa.
+Þ Africa is also rich in terms of wild animal resources. Different species of wild 
+animals inhabit the continent.
+Þ Illegal hunting, human encroachment, deforestation, overgrazing, wild fire 
+and the like are among the major challenges that Africa’s wildlife face.
+Þ Conservation of the natural environment, establishing wildlife conservation 
+areas, controlling illegal hunting and raising people’s awareness could be 
+Unit 3: An Overview of Physical geography of Africa 185
+Unit Review
+among the major conservation measures of wild animals. 
+Þ Different soils with varied characteristics and agricultural potential cover 
+the continent of Africa.
+Þ Soil degradation due to soil erosion and unwise agricultural practices is the 
+most important problem of soils in Africa.
+Þ Terracing, crop rotation, green manure, mulching, strip cropping, contour 
+ploughing, and fallowing are among the possible soil conservation 
+measures.
+ REVIEW EXERCISE FOR UNIT 3
+I True or False: Write true for correct statements and false if 
+otherwise.
+1 The north-south and east-west extensions of Africa are almost equal.
+2 Being the world’s second largest continent, Africa covers nearly 20% of the 
+world’s total landmass.
+3 Though larger than Europe in terms of land area, Africa has a shorter 
+coastline. 
+4 Periods are the largest time divisions of the geological timescale.
+5 The Great East African Rift Valley was formed during the Mesozoic era.
+6 Mountains are the most dominant relief feature in Africa.
+7 The Atlas fold mountain ranges are found at the southern tip of Africa.
+8 June, July and August are months of heavy rainfall in Africa north of the 
+equator, except in the Mediterranean climate.
+9 The equatorial climatic region is wet all the year round with high total 
+annual rainfall.
+10 The Sahel is the area of Africa that is most affected by drought.
+II Multiple Choices
+11 Which one of the following factors affects the climate of East Africa the 
+most?
+A Distance from the sea
+B Latitude
+C Altitude
+D Ocean currents
+E Winds
+Grade 11 Geography 186
+Unit Review
+12 Of all the climatic regions of Africa, the one with the highest rainfall 
+variability is: 
+A Highland climatic region
+B Mediterranean climatic region
+C Warm temperate continental climate
+D Desert climatic region
+E Equatorial climatic region
+13 Which one of the following was an event of the Cenozoic era in Africa?
+A Formation of the basement complex rocks
+B Formation of many of the recent volcanic mountains of Africa
+C The denudation and peneplanation of the African landmass
+D Alternate sinking and rising of the land in the Horn of Africa
+E None of the above
+14 One among the following is false about Africa. Which one is it?
+A Nearly 2/3rd of Africa lies within the tropics.
+B Much of Africa gets rainfall in the winter season.
+C The Mediterranean climatic region has mild wet winters.
+D Eastern Africa is characterized by the Great Rift Valley system.
+E Africa has a short smooth coastline, which contributes to the fact that 
+its shape is compact.
+15 Which one of the following rivers is not part of the Atlantic Ocean Drainage 
+System in Africa?
+A Limpopo
+B Niger
+C Volta
+D Senegal
+E Congo
+16 The largest lake in Africa is Lake:
+A Tanganyika
+B Malawi
+C Chad
+D Victoria
+E Tana
+17 Identify the wrong pair.
+A Zambezi River-Kariba Dam
+B Niger River-Kaindji Dam
+Unit 3: An Overview of Physical geography of Africa 187
+Unit Review
+C Volta River-Akosombo Dam
+D Nile River-Aswan High Dam
+E Ghibe River-Koka Dam
+18 The equatorial rain forest of Africa is characterized by:
+A Broad-leafed evergreen trees
+B Hardwood trees
+C Three canopies
+D A small amount of undergrowth
+E All of the above
+19 Of the major problems of wild animals in Africa one is:
+A Afforestation
+B Illegal hunting
+C Reforestation
+D Wildfire
+E “B” and “D”
+20 A method of soil conservation that involves the construction of fencse-like 
+structures along hillsides to reduce erosion is:
+A Contour plowing
+B Mulching
+C Strip cropping
+D Terracing
+E Fallowing
+III Fill in the blank spaces with appropriate answers.
+21 Africa gets closer to Europe across the Strait of ___________.
+22 The natural land bridge that used to connect Africa with Asia is called 
+___________.
+23 Africa’s shape can be described as ___________.
+24 The northernmost point of Africa is called ___________.
+25 The narrow body of water that connects the Red Sea and the Gulf of Aden 
+is called ___________.
+26 The easternmost point of Africa is known as___________.
+27 Africa’s total area accounts for about _________% of the world’s land area.
+28 Much of Africa’s relief is dominated by ___________.
+29 The highest block mountain in Africa is Mount ___________.
+30 The lowest place in Africa is called ___________.
+31 Africa’s young fold mountains are found in the region called ___________.
+Grade 11 Geography 188
+Unit Review
+32 The part of the Ethio-Eritrea-Djibouti Rift Valley that branches out into 
+three at its northern end forms the __________.
+33 ___________ is the climatic region found along the southeast coast of 
+Africa.
+34 The wettest climatic region in Africa is ___________.
+35 In March, the ITCZ is located around ___________.
+36 The climatic region in Africa that is characterized by a mild wet winter 
+season is ___________.
+37 The wetness of the tropical monsoon climate in Africa is attributed 
+to___________.
+38 Rainfall in the Mediterranean climatic region is brought by the ___________
+winds.
+39 The climate of the equatorial and tropical highlands of Africa is highly 
+dominated by ___________.
+40 The most dominant type of rainfall in equatorial Africa is ___________.
+41 The Mediterranean type of climate in Africa is located in the ___________
+and ___________ regions.
+IV Arrange the following geologic events according to their 
+reverse chronological order, from the most recent to the oldest.
+a Formation of the Rift Valley.
+b Formation of the Atlas Mountains.
+c Occurrence of pluvial rains in Tropical Africa.
+d Formation of the Red Sea.
+e Formation of the basement complex rocks

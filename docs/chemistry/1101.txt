@@ -1,0 +1,1102 @@
+People in the industrialized nations enjoy not only the highest standard of living, that is,
+the material comforts which are measured by the goods, services and luxuries
+available to an individual, but also quality life. Quality life depends upon business and
+employment, services, health and nutrition, population, leisure time in addition to
+standard of living. Much of this is due to chemistry.
+Chemistry enables us to design all sorts of materials: drugs to fight diseases; pesticides
+to protect crops and our health; fertilizers to grow abundant food; fuel for
+transportation; fibres to provide comfort and variety in clothes; building materials for
+housing; plastics for diverse uses; and much more.
+When we address ourselves the most fundamental question: What is the nature of
+life? Chemistry provides essential information on this subject. The theories of
+chemistry illuminate our understanding of the material world from tiny atoms to giant
+polymers.
+Everything you see, smell, taste and touch is made up of matter. Even the way you
+perceive the world through your senses involves chemical reactions. With such an
+ CHEMISTRY GRADE 11
+4
+enormous range of topics, it is necessary to know about chemistry in order to
+understand the world around us.
+Agriculture
+* Fertilizers
+* Insecticide
+Chemistry
+in
+Everyday
+Life
+* Preservative
+* Contents
+* Yarn
+* Dyes
+Shelter
+* Cement
+* Plastics
+* Drugs
+* Medicine
+* Dynamite
+* Firework
+Petro-Chemicals
+* Diesel
+* Petrol
+Figure: 1.1 Chemistry in everyday life.
+Almost everything around us involves chemistry. The world around us consists of
+compounds made of various elements. Human body consists mainly of carbon, oxygen
+and hydrogen. Our environmental issues like global warming, ozone layer depletion,
+acid rain, etc., also require understanding of the fundamentals of chemistry.
+1.1 THE SCOPE OF CHEMISTRY
+At the end of this section, you should be able to:
+• define chemistry;
+• distingiuish the major fields of chemistry; and
+• distinguish the sub-divisions of the branches of chemistry.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+5
+Activity 1.1
+1.1.1 Definition of Chemistry
+Form a group and enlist the activities you perform daily such as brushing your teeth,
+getting ready for school, enjoying your meals, studying in the school, playing, off to bed
+etc.
+Now, discuss the following questions and share your ideas with rest of the class.
+1. What is your tooth brush, toothpaste and soap made of?
+2. Why do soaps have a cleansing action?
+3. What makes petrol/CNG (compressed natural gas) a better fuel than wood?
+4. Is it possible to use wires made of rubber for conduction of electricity?
+5. What properties of cement, iron and stone make them suitable for construction of
+houses, etc. but not for making an aircraft?
+6. Why metals like gold and silver are preferred for making jewellery?
+7. Why is it necessary to cook certain food items?
+Chemistry is the science that deals with matter and the changes that it undergoes. It is
+a study of the composition, structure, and properties of matter and of the changes that
+occur in matter.
+Perhaps the only permanent thing in the world is change. Iron rusts, snow melts,
+paints peel off and firewoods burn. We grow up, we grow old. Living plants and
+animals undergo ceaseless change, and even dead animals and plants continue to
+change as they decay. Such changes fascinated people and inspired them to look
+more closely at nature’s way of working.
+Understanding change is closely related to understanding the nature and composition
+of matter- the physical material of the universe. Matter is anything that occupies space
+and has mass.
+It has long been known that matter can change or be made to change from one form
+to another. These changes are broadly classified into chemical and physical changes.
+Chemical changes, more commonly called as chemical reactions are processes
+whereby one substance is transformed into another as a result of combination or
+ CHEMISTRY GRADE 11
+6
+dissociation of atoms. We can describe the transformation both qualitatively and
+quantitatively with the help of chemical equations for the reaction. Some of the
+examples of chemical change include oxidation of matter (rusting, burning),
+fermentation, changing milk in to yogurt, and addition of water to calcium oxide.
+Matter also undergoes other kinds of changes called physical changes. These changes
+differ from chemical reactions in that the involved substances do not change their
+identities. Each retains its composition. Most physical changes are accompanied by
+changes in physical state, such as the melting of solids and the boiling of liquids. For
+example, water remains H2O whether it is in solid state (ice), liquid water or gaseous
+state (steam). Physical change also involves making or separating mixtures. Dissolving
+table salt (NaCl) in water is a physical change.
+There are two kinds of physical properties, namely, extensive and intensive physical
+properties.
+Extensive physical properties are the properties, which depend on the amount or
+quantity of sample and therefore, can vary from sample to sample. The extensive
+property of a piece of copper wire, for instance, includes its length, diameter, mass,
+and electrical resistance.
+Intensive physical properties are properties which do not depend on the amount of a
+substance present. The intensive properties of a piece of copper wire include its
+density, colour, melting point, and hardness. Intensive properties are useful in
+distinguishing between different substances because they do not vary from sample to
+sample.
+Exercise 1.1
+1. How do physical and chemical changes differ?
+2. Classify the following properties of a piece of copper foil into extensive and
+intensive physical property:
+• Thickness • Area
+• Conductivity • Specific gravity
+• Solubility
+• freezing point • Weight of a substance
+• Smell (odour)
+3. Describe importance of chemistry with the help of examples.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+7
+1.1.2 Major Fields of Chemistry
+The universe is just like a very big chemical laboratory, rearranging atoms and subatomic particles to produce elements and compounds. While planets are made up of
+rocks which are nothing but arrangement of compounds, an atmosphere is a mixture
+of compounds separated by distance.
+Since chemistry is such an enormous area of science, for convenience it has been
+divided into disciplines. However, the division is never as clear-cut as it might appear
+to be. All sciences are related and depend on each other – they are interrelated.
+All the disciplines of science share information and methods with each other. For
+example, biology uses the findings of both physics and chemistry to study living
+organisms. Chemistry utilizes the information gathered by physics about the nature of
+matter and energy to study the properties and interactions of substances.
+There are several branches of chemistry, the major branches are, Inorganic chemistry,
+Organic chemistry, Physical chemistry and Analytical chemistry.
+• Inorganic chemistry is the study of all the elements and their compounds with
+the exception of carbon and its compounds (which falls under the category of
+organic chemistry). It investigates the characteristics of substances that are not
+organic, such as nonliving matter and minerals found in the earth's crust. Oxides,
+sulphides and carbonates form the important classes of inorganic compounds.
+• Organic chemistry is the chemistry of carbon compounds except carbides,
+cyanides, carbon dioxide, carbon monoxide, carbonates and hydrogen
+carbonates. Perhaps the most remarkable feature of organic chemistry is that it
+is the chemistry of carbon and a few other elements, chiefly, hydrogen, oxygen,
+nitrogen, halogens and sulphur. The major nutrients in the food comprises of
+organic compounds such as carbohydrates, proteins, fats, vitamins, etc.
+• Physical chemistry is the study of physical properties of materials, such as
+their thermal, electrical and magnetic behaviour and their interaction with
+electromagnetic fields. A chemical system can be studied from either a
+ CHEMISTRY GRADE 11
+8
+Activity 1.2
+microscopic or a macroscopic point of view. The microscopic point of view
+makes explicit use of the concept of molecules. The macroscopic point of view
+studies large-scale properties of matter without explicit use of the molecule
+concept. Some important divisions of physical chemistry are thermodynamics,
+spectroscopy, quantum chemistry, chemical kinetics and electrochemistry.
+• Analytical chemistry is a branch of chemistry which is concerned with the
+development of theoretical foundations and methods of chemical analyses. It
+involves separating, identifying and determining the relative amount of
+components in a sample of material. Chemical analysis may be qualitative or
+quantitative. Qualitative analysis reveals the chemical identity of the species in
+the sample while quantitative analysis establishes the relative amount of one or
+more of these species in numeric terms.
+There is yet another important branch of chemistry, which bridges chemistry and
+biology, known as biochemistry. It involves the study of the science of the
+molecules and chemical reactions of life, and utilizes the principles and language
+of chemistry to explain biology at the molecular level.
+Form a group and perform the following activities:
+1. Investigate the ways in which the major areas of chemistry are further subdivided. You
+can use reference books and the internet to augment your current ideas.
+2. Discuss the principles of chemistry involved in the daily-life and share your ideas with
+the rest of the class.
+Exercise 1.2
+1. Are the three states of matter inter-convertible? What type of change will it
+be?
+2. Classical, alchemical, medical and technological traditions were chemistry’s
+forerunners. Identify the contributions which each of these made to the
+development of chemistry.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+9
+1.2 MEASUREMENTS AND UNITS IN CHEMISTRY
+At the end of this section, you should be able to:
+• list and describe the seven SI units and their prefixes;
+• write the names and symbols of derived SI units;
+• use the factor-label method for solving problems and conversion to SI units;
+• describe uncertainty of measurement;
+• identify the digits that are certain and the ones that are uncertain given a number
+representing a measurement;
+• identify the causes of uncertainity in measurement;
+• define precision and accuracy;
+• estimate the precision that is possible for any instrument, you use in the
+laboratory;
+• explain system errors and random errors;
+• analyze the given data in terms of precision and accuracy;
+• define decimal places;
+• determine the number of decimal places in a calculated result;
+• define significant figures;
+• determine the number of significant figures in a calculated result; and
+• use scientific notation in writing very large or very small numbers.
+1.2.1 SI Units (The International System of Unit)
+In order to test a hypothesis, a scientist must gather data by measurement. Before the
+hypothesis is accepted, other scientists must reproduce the measured data. Data
+gathering and checking are much easier to accomplish if all scientists agree to use a
+common system of measurement. The system that has been agreed upon since 1960
+is the international system of units (Système International d’Unités). The System
+International is a set of units and notations that are standard in science. It is a
+modernized version of the metric system that was established in France in 1795.
+ CHEMISTRY GRADE 11
+10
+A unit of measurement is a definite magnitude of a physical quantity (mass, length,
+temperature, etc.) that has been chosen as the standard against which other
+measurements of the same physical quantity are made. For example, metre is the unit
+of measurement for length in the metric system.
+All measurements consist of two parts: a scalar (numerical) quantity and the unit
+designation. For example, when an object is 2 metres long, it means that the object is
+two times as long as the unit standard (1 metre). In this example, the scalar quantity is
+2 and the unit designation is metre.
+Basic SI Units
+In chemistry, two systems of units were commonly used for expressing the
+fundamental physical quantities such as mass, time, and current. They are:
+• The cgs system – centimetre-gram-second
+• The mks system – metre-kilogram-second
+In the cgs system, the basic unit of length is centimetre (cm), mass is gram (g), and of
+time is second (s). In the mks system, the basic unit of length is metre (m), of mass
+kilogram (kg), and of time is second (s). In this way, each system defines individual
+base units for each of the fundamental physical quantities. All measured quantities can
+be expressed in terms of the seven base units listed in Table 1.1.
+Table 1.1 The seven SI base units
+Physical Quantity SI Base unit Symbol of unit
+Mass kilogram kg
+Length metre m
+Time second s
+Temperature kelvin K
+Amount of substance mole mol
+Electric current ampere A
+Luminous intensity candela Cd
+From these seven base units, all except candela, are relevant to chemistry.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+11
+Activity 1.3
+Form a group and perform the following activity.
+Take a small piece of magnesium ribbon. Measure its mass and length. Now put it in 20
+mL of dilute hydrochloric acid and measure the time required for magnesium ribbon to
+dissolve completely. Record the temperature of solution before and after putting the
+magnesium ribbon in it.
+Discuss the following questions:
+1. What instruments/equipments did you use for measuring the physical quantities?
+2. What units did you use to express them?
+3. What is the difference between the physical quantities, namely mass and length?
+4. Which is the appropriate unit to express the time taken for the above reaction to go to
+completion?
+5. Explain the difference between heat and temperature.
+6. Which basic SI units are appropriate to express the:
+a length of a race track,
+b average room temperature, and
+c time duration for the earth to have one rotation around its axis?
+i) Mass
+Mass of an object is the amount of matter present in it. It is measured with an
+analytical balance and in contrast to weight, mass is not affected by gravity.
+ii) Length
+The SI base unit of length is the metre (m). To measure length much larger than the
+metre, we often use the kilometre (km).
+In the laboratory, lengths smaller than a metre are often most convenient. For
+example, the centimetre (cm) and the millimetre (mm).
+On the submicroscopic scale, the micrometre (µm), the nanometre (nm), etc., are
+used.
+ CHEMISTRY GRADE 11
+12
+iii) Time
+The SI base unit for measuring intervals of time is the second (s). Short times are
+expressed through the usual SI prefixes: milliseconds (ms), microseconds (µs),
+nanoseconds (ns), and picoseconds (ps). Long time intervals, on the other hand, are
+usually expressed in traditional, non – SI units: minute (min), hour (h), day (d), and
+year (y).
+iv) Temperature
+Temperature is a measure of the average energy of motion or kinetic energy, of a
+single particle in a system. The instrument for measuring temperature is called
+thermometer. From common experience, we know that if two objects at different
+temperatures are brought together, heat flows from the warmer to the colder object.
+For example, if you touch a hot test tube, heat will flow from the test tube to your
+hand. If the test tube is hot enough, your hand will get burned. The temperature of the
+warmer object drops and that of the colder object increases, until finally the two
+objects are at the same temperature (thermal equilibrium). Temperature is therefore a
+property that tells us in what direction heat flows.
+The SI basic unit of temperature is the Kelvin (K). For most routine laboratory work,
+we can use a more familiar temperature scale: the Celsius scale. On this temperature
+scale, the freezing point of water is 0°C, and its boiling point is 100°C. Another
+temperature scale, probably unfamiliar to most people, is the Fahrenheit scale. The
+relationship between these three temperature scales is given below:
+°C = 5 ( F 32) 9
+° −
+°F = 9 C 32
+5
+° +
+K = °C + 273.15
+The unit for temperature in the Kelvin scale is Kelvin (K, NOT k!).
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+13
+373 K
+310 K
+298 K
+273 K
+Kelvin
+100°C
+37°C
+25°C
+0°C
+Celsius Fahrenheit
+Boiling point
+of water
+Body
+temperature
+Room
+temperature
+Freezing point
+of water
+212°F
+98.6°F
+77°F
+32°F
+Figure1.2 The three temperature scales.
+Activity 1.4
+Form a group and describe the difference between mass and weight.
+Share your ideas with the class.
+The Kelvin scale assigns a value of zero Kelvin (0K) to the lowest possible
+temperature, which is called absolute zero and corresponds to –273.15°C. Note that
+the term absolute zero is used because this is a hypothetical temperature characterized
+by complete absence of thermal (kinetic) energy.
+v) Mole (Amount of Substance): A mole of any substance (atoms,
+molecules or ions) represents 6.023 × 1023 particles of that substance. This number
+is also known as Avagadro’s constant (No)
+Exercise 1.3
+1. The average temperature in Addis Ababa, during the summer, is about
+25°C. What is the equivalent Kelvin temperature?
+2. A parasite that causes trichinosis is killed when meat is cooked to 66°C. Assume
+you have only a Fahrenheit thermometer. Determine the minimum Fahrenheit
+temperature to which the meat should be heated when it is being cooked.
+ CHEMISTRY GRADE 11
+14
+Derived SI Units
+People often say that gold is “heavy” and aluminium is “light”. Do they
+mean that a gold bracelet weighs more than an aluminium extension ladder?
+Derived physical quantities are expressed in derived SI units. Although units used to
+express derived physical quantities are actually derived from basic SI units, they are
+often given special names for convenience. For example, force, volume, density,
+concentration, pressure, area, energy, etc., are derived quantities.
+i Force is the product of mass and acceleration.
+Force = mass × acceleration
+ = kg × m/s2 = kg m s–2
+Therefore, kilogram–metre per second squared is the SI unit of force. This
+combination of units is called the Newton (N).
+1 N = 1 kg m s–2
+ii Volume is the amount of space occupied by a solid, liquid or gas. The volume
+of a liquid can be measured by using graduated (measuring) cylinder, a
+burette, or a pipette while a volumetric flask is used to take measured volume
+of the liquid.
+mL
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+mL
+0
+1
+2
+3
+4
+15
+16
+17
+18]
+19
+20
+1 litre
+Pipette Volumetric flask 25 mL
+Burette Measuring cylinder
+(a) (b) (c) (d)
+Figure 1.3 Some commonly used measuring apparatus.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+15
+Volume is a derived quantity in chemistry, so it is given a special unit, the litre (L). In
+SI units, one litre is defined as being equal to 1000 cubic centimetres (cm3).
+1L = 1000 cm3
+1mL = 1 cm3
+1L = 1 dm3
+so, 1000 cm3 = 1dm3
+The volume of a solid object with a rectangular shape can be calculated as:
+Volume = length × width × height
+iii Density is the amount of mass in a unit volume of matter. Its symbol is ρ.
+Density =
+mass
+volume or ρ = 
+m
+v
+Density can be measured in units of g cm–3, kg m–3 or g/mL.
+For example, 1.00 g of water occupies a volume of 1.00 cm3 or 1 mL.
+ρ =
+m
+v
+ = 3
+1.00g
+1.00cm = 1.00 g cm–3
+It may be noted that the density of a substance is always measured at specific
+temperatures.
+Example 1.1
+Aluminium has a density of 2.70 g cm–3. What is the mass of a piece of
+aluminium with a volume of 0.525 cm3
+?
+Solution:
+Since ρ = m/V, it follows that m = ρ × V
+m = –3 2.70 g cm –3 ×0.525 cm
+= 1.42 g
+ CHEMISTRY GRADE 11
+16
+Exercise 1.4
+1. Ethanol is used in alcoholic beverages and has a density of 0.789 g/mL.
+What volume of ethanol (in litres) would have a mass of 500 g?
+2. Calculate the density of a rectangular block of metal whose length is 8.335
+cm, width is 1.02 cm, height is 0.982 cm and mass is 62.3538 g.
+3. A piece of silver metal weighing 194.3 g is placed in a graduated cylinder
+containing 242.0 mL of water. The volume of water now reads 260.5 mL.
+Calculate the density of the metal.
+4. Oil floats on the surface of water but mercury sinks. Explain why.
+iv Concentration: The concentration of a solution is the amount of solute
+present in a given quantity of solvent or solution.
+For many practical applications, the concentrations of solutions are expressed in
+molarity, molality and mole fraction.
+Can you predict the base unit for concentration from those derived units of
+concentration?
+For example, the molarity of a solution relates an amount of solute in moles (mol) and
+a solution volume in cubic decimetres (dm3
+), or the amount of solute in moles (mol)
+and solution volume in litres (L).
+Concentration in molarity = 
+number of moles of solute
+volume in litre of solution
+Units of molarity: mol dm–3 and mol L-1.
+v Pressure is defined as force per unit area over which the force is exerted.
+Pressure = 
+Force
+Area
+Thus, the SI unit of pressure is Newton per metre square (N m–2). This unit is called
+Pascal (Pa) (in honour of Blaise Pascal who investigated the effect of pressure on
+fluids).
+1 Pascal (1 Pa) = 1 Newton per metre square (1 N m–2).
+Frequently used non-SI units for expressing pressure are millimetre of mercury
+(mmHg), torr, and atmosphere (atm).
+1 atm = 760 mmHg = 760 torr = 101.3 kPa
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+17
+1.2.2 Common Prefixes Used in SI Units
+Activity 1.5
+Form a group and discuss the following:
+Why would it be difficult to use kilograms to express the amounts of chemicals used in
+large-scale industrial quantities and the amounts of chemicals used for laboratory
+experiments?
+ After the discussion, share your ideas with the rest of the class.
+We use prefixes to indicate decimal multiples or fractions of the base units. The
+international system uses a series of prefixes to indicate decimal fractions or multiples
+of various units by powers of 10. All numbers can be expressed in the form of
+a × 10b, where ‘a’ is a number between 1 and 10, and the exponent ‘b’ is an integer.
+This feature makes it easy to convert from one unit to another. Some of the most
+commonly encountered prefixes in chemistry are listed in Table 1.2.
+Table 1.2 Some common SI prefixes
+Prefix Meaning Symbol Multiple/Fraction
+tera trillion T 1012
+giga billion G 109
+mega million M 106
+kilo thousand k 103
+deci tenths of d 10–1
+centi hundredth of c 10–2
+milli thousandth of m 10–3
+micro millionth of µ 10–6
+nano billionth of n 10–9
+pico trillionth of p 10–12
+When we solve numerical problems, we use an approach to units called dimensional
+analysis. Dimensional analysis was developed to ensure that our answers yield proper
+units. It also offers a systematic approach to solve numerical problems and check our
+solutions for possible errors.
+In dimensional analysis, we carry units through all calculations. As we work, we
+multiply units together, divide them by each other, and ‘cancel’ them.
+ CHEMISTRY GRADE 11
+18
+The key to use dimensional analysis is the correct use of conversion factors in order
+to change one unit into another. A conversion factor is a fraction whose numerator and
+denominator are the same physical quantity expressed in different units. For example,
+100 cm and 1 m are the same length, 100 cm = 1 m. This relationship allows us to
+write two conversion factors:
+100 cm
+1 m and 
+1 m
+100 cm
+The first of these factors is used when we want to convert metres to centimetres and
+second centimetres to metres. For example, the length in centimetres of an object that
+is 8.50 m long is given by:
+Number of centimetres = 
+given unit
+desired unit
+100 cm 8.50 m × = 850 cm
+1 m
+Note that the unit of metre in the denominator of the conversion factor cancels the unit
+of metre in the measurement given (8.50 m). The centimetre in the numerator of the
+conversion factor becomes the unit of the final answer. In general, the units multiply
+and divide as follows:
+given unit desired unit 
+ × 
+given unit
+ = desired unit
+If the desired units are not obtained in a calculation, then we know that we made an
+error somewhere. Careful inspection of units often reveals the source of the error.
+Exercise 1.5
+1. If a man has a mass of 115 pounds, what is his mass in grams (1 lb =
+453.6 g)?
+2. A piece of aluminium foil is 8.0 × 10–5 cm thick. What is its thickness in
+micrometres?
+3. Convert 75 ng to mg.
+4. Convert 6.75 m3 to µL.
+5. Convert each of the following measurements to a unit that replaces the
+power of ten by a prefix.
+a 3.22 × 10–6 s b 9.56 × 10–3 m c 1.07 × 103 g
+6. Calcualte the mass in grams of two cubic inches (2.00 in3) of gold. Density
+of gold = 19.3 g cm–3.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+19
+1.2.3 Uncertainty in Measurements
+In scientific work, we recognize two kinds of numbers: exact numbers (whose values
+are known exactly) and inexact numbers (whose values have some uncertainty).
+Exact numbers are those that have defined values or are integers that result from
+counting number of objects. For example, by definition, there are exactly 12 eggs in a
+dozen and exactly 1000 g in a kilogram. The number one is any conversion factor
+between units, as in 1m = 100 cm, of course the number one is also an exact number.
+Numbers obtained by measurement are always inexact. Uncertainties always exist in
+measured quantities. There are many causes of uncertainty, but the most important are
+usually
+• the person doing the measurement,
+• the measuring device,
+• the environment where the measurement is being made, and
+• variability in the item being measured.
+Making a measurement usually involves comparing the item you are measuring with a
+unit or a scale of units. It is often impossible to obtain the exact value of the quantity
+measured, unless all the numbers are exact integers.
+Activity 1.6
+Form a group and perform the following activities.
+1. Make a chain of paper clips or other objects of uniform length. Then use a metre stick
+to measure a series of lengths on the chain. For example, measure sections containing
+one, two, three, etc., clips. Record your results and share them with your classmates.
+2. Using laboratory scale, take several mass reading for one, two, three objects of uniform
+size. You can use any convenient objects you find in the laboratory. Record your results
+and discuss them in your group. Focus especially on the similarities and differences in
+your measurement. Did you all find the same reading for the same object? What do
+you think are the cause of the uncertainties, if any?
+Discuss the results with the rest of the class.
+ CHEMISTRY GRADE 11
+20
+Activity 1.7
+1.2.4 Precision and Accuracy in Measurements
+Precision and accuracy are terms which are used to express uncertainties in
+measurement. Precision is a measure of how clearly individual measurements agree
+with one another. Accuracy refers to how closely individual measurements agree with
+the correct or ‘true’ value.
+Form a group, perform the following activities and discuss each of the following questions.
+After the discussion, share your ideas with the rest of the class.
+A laboratory instructor has given a sample of amino acid powder to four students, A, B, C
+and D. Each student is asked to weigh the sample and record his/her results. The true
+(accepted) value is 8.72 g. Their results for three trials are:
+Trials Student A Student B Student C Student D
+1 8.72 g 8.50 g 8.50 g 8.41 g
+2 8.74 g 8.77 g 8.48 g 8.72 g
+3 8.70 g 8.83 g 8.51 g 8.55 g
+a Calculate the average mass from each set of data, and determine which set is the most
+accurate.
+b Which set of data is the most precise? Is this set also the most accurate?
+c Which set of data is the least accurate? Is this set also the least precise?
+A possible set of results obtained from a measurement of the length of a table with a
+metre stick by five students is given in Table 1.3.
+Table 1.3 A set of measurements of length
+Student Length (m)
+1 2.157
+2 2.150
+3 2.153
+4 2.159
+5 2.156
+Average 2.155
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+21
+The precision of a set of measurements refers to the degree of reproducibility among
+the set. The precision is good (or high) if each of the measurements is close to the
+average of the series. The precision is low (or poor) if there is a wide deviation from
+the average value. The precision of the data in Table 1.3 is good. Each measurement
+is within 0.005 m of the average value. In contrast the accuracy of a set of
+measurement refers to the closeness of the average of the set to the ‘‘correct’’ or
+‘‘true’’ value.
+Measurements of high precision are more likely to be accurate than are those of poor
+precision, but even highly precise measurements are sometimes inaccurate.
+Example 1.2
+Four persons A, B, C and D used targets a, b, c and d respectively while
+practicing with a rifle. The results are illustrated in Figure 1.4. How do you explain
+the following results?
+a Target a represents low accuracy and low precision.
+b Target b represents low accuracy and high precision.
+c Target c represents high accuracy and low precision.
+d Target d represents high accuracy and high precision.
+Read the figure’s legend and tally with your answers.
+a b
+c d
+(The central blue region is the centre of the target)
+a measurements of low accuracy and low precision are scattered and off-centre;
+b those with low accuracy and high precision form a tight off-centre cluster;
+c those with high accuracy and low precision are evenly distributed but are distant
+from the centre; and
+d those with high accuracy and high precision are bunched in the centre of the target.
+Figure 1.4 Comparing precision and accuracy.
+ CHEMISTRY GRADE 11
+22
+Exercise 1.6
+Four students measured the mass of a piece of metal whose accurate mass is
+34.75 g. Their results are 34.2 g, 33.75 g, 35.0 g, and 34.69 g.
+a What is the best estimate for the mass of the piece of metal? Explain why?
+b Explain whether the results are precise or accurate?
+The precision of a result is a measure of the certainty of the value. Usually the result
+is quoted as a plus-or-minus (±) value. For example, the accepted value of a universal
+gas constant (R) is 8.314 J mol–1 K–1. One student might quote a result of (8.34 ±
+0.03) J mol–1 K–1, while another student gives a value of (8.513 ± 0.0006) J mol–1
+K–1. The result of the former student is more accurate (i.e., closer to the true
+(accepted) value), while that of the latter student is the more precise (i.e., has the
+smallest uncertainty).
+Precision and accuracy are linked with two common types of errors called Random
+and Systematic errors.
+Random error makes a measurement less precise but not in any particular direction. In
+other words, the actual value may be either greater or smaller than the value one
+records. Random errors arise mostly from inadequacies or limitations in the instrument.
+On the other hand this may be a result of how precisely someone can read a metre or
+a scale.
+For example, consider the measuring cylinder shown in Figure 1.3c; we would probably
+take the reading as 70.0, but in doing so, we say that it is nearer to 70.0 than it is to
+69.9 or 70.1. In other words, it is greater than 69.95 (had it been less we would have
+recorded it as 69.9) and smaller than 70.05 (had it been greater we would have
+recorded it as 70.1); hence, we should record this value as 70.0 ± 0.05.
+In some cases, such as many thermometers, it is only possible to read a scale to the
+nearest 0.2 (that is, one would record 28.0, 28.2, 28.4, 28.6, etc., but never an odd
+final digit such as 28.3, 28.5, 28.7 etc.). In this case, the uncertainty would be ± 0.1,
+because a reading of 28.2 means it is greater than 28.0, but less than 28.4.
+Systematic errors produce values that are either entirely higher or smaller than the
+actual value. It always affects a result in a particular direction, and skews the accuracy
+of the experiment in that direction. Systematic errors arise from flaws or defects in the
+instrument or from errors in the manner that the measurement was taken.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+23
+For example, when you are taking the initial reading of a burette that is placed well
+above head height, you might decide to read the top rather than the bottom of the
+meniscus. Systematic errors can lead to inconsistent results.
+Exercise 1.7
+Indicate which of the following allow you to give exact numbers when you
+measure them:
+a The mass of a paper clip;
+b The surface area of a coin;
+c The number of inches in a mile;
+d The number of ounce in a pound;
+e The number of microseconds in a week;
+f The number of pages in this text book.
+1.2.5 Decimal Places
+A decimal place refers to the number of digits to the right of the decimal point. Each
+successive position to the right of a decimal point has denominator increased by a
+power of ten. For example, 0.087 is a number given to three decimal places, and in
+0.087, 0 is the first decimal place, 8 is the second, 7 is the third.
+A point or dot (•) used to separate the whole number part from the fractional part of
+a number is called a decimal point.
+units
+1/10 (Tenth)
+1/1000 (Thousandth)
+1/100 (Hundredth)
+Tens 28 . 682
+Decimal point
+10 × larger
+10 × smaller
+ CHEMISTRY GRADE 11
+24
+To express a value to the nth decimal place, look at the values of the (n + 1)th digit,
+as stated in the following rules.
+1 If the (n + 1)th digit is 4 or less, leave the nth digit unchanged. For instance,
+369.648 rounds to 369.6 if we want one decimal place.
+2 If (n + 1)th digit is greater than 5 round up the nth digit. For instance, 936.758
+can be rounded to 936.76 if we want to express the result upto two decimal
+places.
+3 If the digit to be removed is 5, the preceding number increases by one unit if it is
+odd and remains unchanged if it is even. For example, 17.75 rounds to 17.8, but
+17.65 rounds to 17.6. Note that if 5 is followed only by zeros, the left-most digit
+is unchanged. But if the 5 is followed by non-zeros, the final digit is increased by
+1. For example, 17.6500 rounds to 17.6, but 17.6513 rounds to 17.7.
+Example 1.3
+1. Round 7.1284 to 2 decimal places.
+2. Round 0.1284 to 1 decimal place.
+3. Round 26.895 to 2 decimal places.
+Solution:
+1. The 3rd decimal number, 8, is bigger than 5, so we add 1 to the 2nd decimal
+number, 2, and drop the rest of the decimal numbers. Our answer is 7.13.
+2. The 2nd decimal number, 2, is less than 5, so we do nothing to the 1 and
+we drop the rest of the decimal numbers. Our answer is 0.1.
+3. The second decimal number, 9, is odd, so we add 1 to 9 to get 10, and
+drop the rest of the decimal numbers. But, we have to carry the 1 to the 8
+to get 9. So our answer is 26.90 or just 26.9.
+1.2.6 Significant Figures
+Significant figures are those digits that correctly indicate the precision of a
+measurement. So significant figures show both the limits of accuracy and where the
+uncertainty begins. For this reason, it is important to indicate the margin of error in
+measurement by clearly indicating the number of significant figures, which are the
+meaningful digits in a measured or calculated quantity.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+25
+It may be noted that measurements that were taken by the five students in Table 1.3
+agree on the first three digits (2.15); they differ only in the fourth digit. The last digit in
+a scientific measurement is usually regarded as uncertain. All digits known with
+certainty, plus one of uncertain value, are called significant figures.
+The measurements in Table 1.3 have four significant figures. In other words, we are
+quite sure that the length of the table is between 2.15 m and 2.16 m. Our best
+estimate, including the uncertain digit, is the average value, i.e., 2.155 m.
+The last digit in a significant figure is uncertain because it reflects the limit of accuracy.
+The following guidelines apply to determining the number of significant figures in a
+measured quantity. It has to be decided whether zeros are significant in three different
+situations.
+1. If the zeros precede the first non-zero digit, they are not significant. Such zeros
+merely locate the decimal point. i.e., they define the magnitude of measurement.
+For example, 0.004 m has one significant figure, and 0.00016 m has two
+significant figures.
+2. If the zeros are between non-zero digits, they are significant. For example,
+204408 kg has six significant figures while 0.05504 has four significant figures.
+3. If the zeros follow non-zero digits, there is ambiguity if no decimal point is given.
+For example, if a volume is given as 200 cm3, there is no way of expressing if
+the final two zeros are significant. But if the volume is given as 200 cm3, zeros
+after a non-zero digit preceded by a decimal point make all figures significant.
+Thus, 200 cm3 has three significant figures. If it is given as 200.0 cm3, it has
+four significant figures.
+4. Non-zero digits are always significant.
+Example 1.4
+1. How many significant figures are there in:
+a 0.0004802 b 6, 834 c 5, 2100
+2. A calculator display shows the result of a calculation to be 67340.468. How
+many significant figures are there?
+Solution:
+1. a four significant figures
+b four significant figures
+c ambiguous
+2. Eight significant figures.
+ CHEMISTRY GRADE 11
+26
+1.2.7 Scientific Notation
+The ambiguity in significant figures can be avoided by expressing the measurements in
+scientific notation. Scientific notation is a way of expressing large or small numbers as
+factors of the powers of 10. The exponents of 10 can be used to make the expression
+of scientific measurements more compact, easier to understand, and simpler to
+manipulate. For example, the mass of an electron is 0.000 000 000 000 000 000 000
+000 000 91 g, and the value of Avogadro’s number is 602, 000, 000, 000, 000, 000,
+000, 000 mol–1. In scientific notation, these values can be expressed as 9.1 × 10–28 g
+and 6.02 × 1023 mol–1 respectively.
+To express numbers in scientific notation, you use the form a × 10b, where a is a
+decimal number between 1 and 10 (but not equal to 10), and is known as the digit
+term, and b is a positive or negative integer or zero and is called the exponent.
+To express a number in scientific notation, count the number of places you must move
+the decimal point in order to get ‘a’ between 1 and 10. Moving the decimal point to
+the right (if the number is less than 1) indicates a negative exponent, and moving the
+decimal point to the left (if the number is greater than 1) indicates a positive
+exponent.
+Example 1.5
+Express the following numbers in scientific notation (each with three significant
+figures)
+a 7500000 b 0.000777
+Solution:
+a 7.50 × 106 b 7.77 × 10–4
+Exercise 1.8
+1. Express 0.0000000013 in scientific notation.
+2. Express each of the following with the number of significant figures indicated:
+a 5,000.083 (to three significant figures)
+b 3,986.0 (to four significant figures)
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+27
+Follow the following rules for poper answers of the results of substraction, addition,
+multiplication, and division of numerical values.
+1. For addition and subtraction, the answer should contain no more digits to the
+right of the decimal point than any individual quantity. i.e., use the least number of
+decimal places.
+2. For multiplication and division, a result can only be as accurate as the factor with
+the least number of significant figures that goes into its calculation. i.e., use the
+least number of significant figures.
+Example 1.6
+1. What is the area, in square metres, of a room that is 12.42 m long and
+4.81 m wide?
+2. Perform the following calculation and round off the answer to the correct
+number of digits.
+49.146 + 72.13 – 9.1434 = ?
+Solution:
+1. The length of the room is expressed to four significant figures and the width
+to three. By whatever method we use to carry out the multiplication, we are
+limited to three significant figures in our answer.
+12.42 m × 4.81 m = 59.7 m2
+2. In this calculation, we must add two numbers and, from their sum, subtract
+the third. We express the answer to two decimal places, the number of
+decimal places in ‘72.13’. We do this in two ways below:
+a 49.146
+72.13
+121.276 121.28
+9.1434 112.14
+112.1366
++
+=
+− =
+b 49.146
++72.13
+121.276
+ 9.1434
+112.1326 =112.13
+−
+The preferred method is b, where we do not round off the intermediate result:
+121.276.
+ CHEMISTRY GRADE 11
+28
+Exercise 1.9
+1. Perform the indicated operations and give answers with the proper number
+of digits.
+a 451 g – 15.46 g – 20.3 g
+b 15.436 L + 5.3 L – 6.24 L – 8.177 L
+c 48.2 m + 3.82 m + 48.4394 m
+d 148 g + 2.39 g + 0.0124 g
+e 37 m × 2.340 m × 0.52 m
+f 62.89 m ÷ 4.7 m
+2. The distance between carbon atoms in a diamond is 154 pm. Convert this
+distance to millimetres.
+3. In a certain part of the country, there is an average of 710 people per
+square mile and 0.72 internet services per person. What is the average
+number of internet services in an area of 5.0 km2?
+1.3 CHEMISTRY AS EXPERIMENTAL SCIENCE
+At the end of this section, you should be able to:
+• define scientific method;
+• describe the major steps of the scientific method;
+• use scientific methods in solving problems;
+• demonstrate some experimental skills in chemistry; and
+• describe the procedures of writing laboratory reports.
+1.3.1 The Scientific Method
+Activity 1.8
+Form a group and perform the following activity.:
+a Collect a pastic bag filled with different items provided by your teacher.
+b Decide on the question you would like to answer about your bag. Write it down.
+(Do not open the bag)
+c Guess what the answer to your question might be. Write down. (Do not open the bag)
+d Open your bag and answer the questions.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+29
+e Be sure to count the total number of items.
+Now, discuss which part of the activity (a, b, c, d, or e) introduces the scientific
+terminology: hypothesis, data collection, experimentation, etc.
+Discuss the results with the rest of the class.
+Science is an organized body of knowledge that is based on a method of looking at
+the world. The scientific methods are unique, and require any explanation of what is
+seen to be based on the results of experiments and observations. These experiments
+and observations must be verifiable by anyone who has the time and means needed to
+reproduce them.
+Although two different scientists rarely approach the same problem in exactly the
+same way, there are guidelines for the practice of science that have come to be
+known as the scientific method. These guidelines are outlined in Figure 1.5.
+Observations and
+experiemnts
+Find patterns,
+trends, and laws
+Formulate and
+test hypotheses
+Theory
+Data & information
+Figure1.5 Steps in scientific methods.
+The scientific method is a general approach to problems. It involves making
+observations, collecting information/data, seeking patterns in the observations,
+formulating hypothesis to explain the observations, and testing these hypothesis by
+further experiments. If a hypothesis successfully posses many tests, it becomes a
+theory, which is a tested explanation of a hypothesis.
+ CHEMISTRY GRADE 11
+30
+Activity 1.9
+Form a group and imagine/enact that you are a group of scientists who have discovered a
+new chemical compound of great use in curing cancer.
+1. How would you present your work to other scientists of the world?
+2. Is there a particular format to write scientific reports?
+Discuss the essential features of a well-designed experiment.
+3. Consider the following:
+a Strike a match stick to light it.
+b Record all your observations in writing.
+c Examine your written observations and consider their objectivity.
+Which of these do you think are just descriptions of your observations?
+In contrast, which are the ideas that you formed based on your observations?
+Finally, which of your data could be subjective or partly subjective? Why?
+Present your observations to your classmates. As you do so, describe the objectivity or
+subjectivity of each statement that you make. In particular, discuss those that you inferred
+based on observation.
+Scientists seek general relations that unify their observations. A concise verbal
+statement or a mathematical equation that summarizes a broad variety of observations
+and experience is known as scientific law. A familiar example is the law of gravity. It
+summarizes the experience that what goes up must come down.
+Scientists also seek to understand laws. A tentative explanation of a law is called a
+hypothesis. A hypothesis is useful if it can be used to make predictions that can be
+tested by further experiments and can thereby be verified.
+A hypothesis that continually withstands such tests is called a theory. A theory is an
+explanation of the general principles of certain phenomena that has considerable
+evidence or facts to support it. It may serve to unify a broad area and may provide a
+basis for explaining many laws.
+There is no fool-proof, step-by-step scientific method that people use. Their
+approaches depend on their temperaments, circumstances and training. Rarely will two
+people approach the same problem in the same way. Scientific progress is not
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+31
+smooth, certain and predictable. The path of any scientific study is likely to be
+irregular and uncertain. Progress is often slow, and many promising leads turn out to
+be dead ends. Serendipity (fortunate accidental discovery) as well as perseverance
+has played an important role in the development of science.
+1.3.2 Some Experimental Skills in Chemistry
+Activity 1.10
+Form a group and perform the following activities. Discuss the results with the rest of the
+class.
+Consider the reaction between a copper wire and concentrated nitric acid. Observe this
+reaction and suggest possible solutions for the following questions:
+Has the copper wire disappeared?
+Have the copper atoms disappeared? If not disappeared, where are they?
+What are the expected products?
+Is this change physical or chemical?
+Caution: The gaseous product formed is pungent, irritating and poisonous; do not inhale
+it and do not allow it to escape in the air.
+Experimental Skills
+Chemistry has two main roles in the curriculum. Chemistry is pre-requisite for many
+other courses in higher education, such as medicine, biological and environmental
+sciences. It is an experimental science that combines academic study with the
+acquisition of practical and investigatory skills in order to:
+• plan experimental activity, i.e., planning;
+• carry out experimental work, i.e., implementing;
+• analyse and draw conclusions from the results of experimental work, i.e.,
+analysing evidence and drawing conclusions; and
+• evaluate the work, i.e., evaluating evidence and procedures.
+To acquire these experimental skills and investigations you should be able to:
+ CHEMISTRY GRADE 11
+32
+• follow a sequence of instructions;
+• use techniques, apparatus and materials;
+• make and record observations, measurements and estimates;
+• interpret, evaluate and report upon observations and experimental results;
+• design/plan an investigation, select techniques, apparatus and materials; and
+• evaluate methods and suggest possible improvements.
+It is not possible to prepare an exhaustive list of skills, but the major skills that are
+ideally developed in a laboratory environment include:
+1. Skills in the safe handling of chemical materials, taking into account their
+physical and chemical properties, including any specific hazards associated with
+their use.
+2. Skills required for conducting the standard laboratory procedures involved in
+synthetic and analytical work, in relation to both inorganic and organic systems.
+3. Skills in monitoring, by observation and measurement, of chemical properties,
+events or changes, and the systematic and reliable recording and
+documentation thereof.
+4. Competence in planning, design and execution of practical investigations, from
+the problem-recognition stage to the evaluation and appraisal of results and
+findings; this includes the ability to select appropriate techniques and
+procedures.
+5. Skills in the operation of standard chemical instrumentation such as that used
+for structural investigations and separation.
+6. Ability to interpret data derived from laboratory observations and
+measurements in terms of their significance and the theory underlying them.
+7. Ability to conduct risk assessments concerning the use of chemical substances
+and laboratory procedures.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+33
+Chemistry Laboratory Apparatus
+Laboratory equipment comprises different sets of apparatus, which are designed to
+perform various tasks in the laboratory. On the basis of their use, these apparatus
+can be broadly classified into three categories:
+1. Reaction vessels, e.g., Beakers, flasks, boiling tubes and test tubes.
+2. Measuring equipments, e.g., Pippetes, burettes, balances and thermometers.
+3. Support and heating devices, e.g. Stand and clamp, tripod and gauze, spirit
+burner and Bunsen burner.
+The practical activities are intended to support conceptual development. Proficiency in
+handling of apparatus is the result of continual practice.
+Note: The information about care and safety associated with the use of some of these
+apparatus/devices have been discussed at various places in this unit. However,
+adequate information about these is obtained when these are actually used to perform
+experiments in the laboratory or elsewhere.
+Chemistry Laboratory Safety Rules
+The chemistry laboratory may be considered as a place of discovery and learning.
+However, by the very nature of laboratory work, it can be a place of danger if proper
+common-sense precautions are not taken. It is your duty in law to take reasonable
+care for your own health and safety and that of others working in the laboratory.
+Therefore, it is essential that the students are taught what can go wrong, how to
+prevent such events from occurring, and what to do in case of an emergency.
+Protect your eyes
+• Appropriate eye protection must be worn at all times! Inform your teacher if
+you wear contact lenses.
+Wear appropriate protective clothing
+• Your clothing should cover your legs to the knees; shorts are not appropriate
+for the laboratory. Loose clothing should not be worn because it may dip into
+ CHEMISTRY GRADE 11
+34
+chemicals or fall into a flame and catch fire. Further, laboratory aprons can be
+used to protect your clothing.
+Wear shoes that cover your feet
+• Due to the dangers of broken glass and corrosive liquid spills in the laboratory,
+open sandals or bare feet are not permitted in the laboratory. Remember!
+leather shoes protect your feet from chemical spills – canvas shoes do not.
+Tie back loose hair
+• Dangling hair can fall into the Bunsen burner and catch fire or can fall into a
+chemical solution
+Eating and drinking in the laboratory
+• Do not taste any chemical! Even food, drink and chewing gum are prohibited in
+the chemistry laboratory. These activities are ways by which you can
+accidentally ingest harmful chemicals
+Smelling chemicals
+• Do not smell any chemicals directly!
+• Smell chemicals only if your teacher specifically tells you to do so, then use
+your hand to fan the vapour towards your nose.
+Pipetteing out solutions
+• Do not suck the solutions in the pipette by mouth!
+• Use a rubber suction bulb (pipette bulb) or other device to fill a pipette.
+General precautions
+• Wash your hands with soap and water before leaving the laboratory even if you
+have been wearing gloves.
+• Know the hazards of the materials being used.
+• When lighting the Bunsen burner, first light the match stick then turn on the gas.
+• Know how to interpret data from a MSDS (Material Safety Data Sheets).
+• Read the labels on the reagent bottles carefully to make sure that you are using
+the right chemical.
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+35
+• Never add water to concentrated acid solutions. The heat generated may cause
+spattering. Instead, as you stir, add the acid slowly to water.
+• Hold your hand over the label while pouring.
+• For minor skin burns, immediately plunge the burned portion into cold water
+and inform the teacher.
+• If you get any chemical in your eye, immediately wash the eye with the eyewash fountain and notify the teacher.
+• Work with volatile chemicals under a fume hood.
+• Never look directly into a test tube. View the contents from the side.
+• Get acquainted with the location and proper usage of the safety equipments like
+eye wash fountain, safety shower, fire extinguisher, emergency exits.
+• Carry out only the experiments assigned by your teacher.
+• Use equipment only as directed.
+• Never place chemicals directly on the pan balances.
+• Use glycerin when inserting glass tubing into rubber stoppers.
+• Be cautious of glassware that has been heated. Handle hot glassware with
+gloves or beaker tongs.
+• Add boiling chips to liquid to be boiled.
+• Point test tubes that are being heated away from you and others.
+• Check glassware for stars or cracks.
+• Never use laboratory glassware for eating or drinking purposes.
+• Never remove chemicals from the laboratory.
+• Never work alone in the laboratory. In case of a problem, you may need
+another person to prevent injury or even save your life!
+Demonstrate safe behaviour
+• Obey all safety instructions given by your teacher or found in you experimental
+procedure.
+ CHEMISTRY GRADE 11
+36
+• Clean up spills immediately if you know. If you are uncertain how to clean up a
+spill or if a large spill occurs, notify your teacher immediately.
+• Before leaving the lab be sure to replace the lids to all containers, return
+equipment and chemicals to their proper places and clean up your work area.
+• Know how to dispose off waste. Dispose off all waste materials according to
+your instructional procedure or your teacher’s instructions.
+• Remember that the lab is a place for serious work! Careless behavior may
+endanger yourself and others and will not be tolerated!
+• Know how to respond to an emergency.
+• Report any accidents or unsafe conditions immediately!
+• For some experiments, it may be helpful to anticipate data. You should always
+read the experiment in advance.
+Note: Additional safety precautions will be announced in class prior to experiments
+where a potential danger exists.
+1.3.3 Writing a Laboratory Report
+The purpose of writing an introductory laboratory experiment is to give practice in
+writing laboratory reports that answer the general questions:
+• What did you do?
+• Why did you do it?
+• How did you do it?
+• What happened?
+A laboratory report is a written composition of the results of an experiment. It should
+be written precisely and clearly, using good grammar and punctuation. Each report
+must include: title, objective, materials and (equipment) used, procedure, observation,
+result, discussion, and conclusion.
+1. Title: Create a title in less than ten words that reflects the factual content of
+your report
+FUNDAMENTAL CONCEPTS IN CHEMISTRY
+37
+2. Objective: This section states the purpose of your experiment. Be specific
+about the outcomes that you plan to achieve when you designed your
+experiment.
+3. Materials used: Describe the substances, equipment and instrumentation that
+is to be used in your work. Copy the format for this section from your
+laboratory manual or from the standard procedure supplied by the teacher.
+4. Procedure: Describe how you performed the experiment, and mention each
+step in chronological order.
+5. Data/Observations: This section demonstrates that you carried out an
+experiment carefully and knowledgeably. The person reading your report
+should find it clear and convincing enough to take your experimental results
+seriously.
+6. Result and Discussion: In this section of the report, present your results and
+discuss them. Also report possible errors in the procedure and results,
+including possible inaccuracies.
+Include any problems that you encountered during your work. Present them
+objectively. If possible suggest ways in which such problems could be reduced
+at least if not overcome.
+7. Conclusion: This section should be brief, as it refers back to the objectives
+and considers how and to what degree they have been met. Review the
+purpose of the experiment, and summarize the implications of the results

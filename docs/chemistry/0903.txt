@@ -1,0 +1,822 @@
+A chemical bond is the attractive force that binds atoms together in a molecule, or a
+crystal lattice.
+After the periodic table and the concept of electron configuration were developed,
+scientists began to develop ideas about molecules and compounds. In 1916,
+G.N Lewis concluded that atoms combine in order to achieve a more stable electron
+configuration resulting in molecules or compounds.
+Gilbert Newton Lewis (1875 - 1946), introduced the theory of the
+shared-electron-pair chemical-bond formation in a paper
+published in the journal of the American chemical society. In
+honor of this contribution, we sometimes refer to “electron-dot”
+structures as “Lewis structures”.
+G.N. Lewis
+Historical Note
+Activity 3.1
+CHEMISTRY GRADE 9
+68
+As independent particles, atoms are at relatively high potential energy. Nature, favors
+arrangements in which potential energy is minimized. Most individual atoms exist in a
+less stable state than in their combined form.
+When atoms form bonds with each other, they attain lower potential energy states.
+This decrease in atomic energy generally results in a more stable arrangement of matter.
+When atoms interact to form a chemical bond, only their outer regions are in contact.
+In the process of the interaction, atoms achieve stable outermost shell configuration.
+For this reason, when we study chemical bonding, we are concerned primarily with
+the valence electrons. As described in Unit 2, valence electrons are electrons that exist
+in the outermost shell of an atom.
+Form a group and discuss the following:
+The following table shows elements of group VIIIA and their atomic numbers. In the space
+provided fill the valence shell electron configuration and number of valence electrons for
+the elements. In your discussion include why helium is placed in group VIIIA even though
+it has only 2 valence electrons.
+Elements Atomic Valence-Shell Number of Valence
+Number Electron Electrons
+Configuration
+Helium, He 2
+Neon, Ne 10
+Argon, Ar 18
+Krypton, Kr 36
+Xenon, Xe 54
+Radon, Rn 86
+Share your discussion with the rest of the class.
+Noble gas atoms with eight electrons (except for, He) in the outermost shell are stable.
+Thus, the ns2np6 electronic valence structure has maximum stability. Atoms containing
+less than eight electrons in their outermost shell are unstable. To attain stability, these
+atoms tend to have eight electrons in their valence shells. This leads to the explanation
+of the octet rule. The rule states that atoms tend to gain, lose or share electrons until
+there are eight electrons in their valence shell.
+The type or characteristic of the resulting arrangement depends largely on the type of
+chemical bonding that exists between the atoms. These are ionic, covalent, and metallic
+bonds.
+Activity 3.2
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+69
+Exercise 3.1
+1 Why do atoms combine to form compounds?
+2 How is a chemical bond formed to make a compound or molecule?
+3 Which electron (s) of an atom take (s) part in bond formation?
+4 How does the chemical reactivity of halogens compare with that of the noble-gas
+family?
+3.2 IONIC BONDING
+Competencies
+By the end of this section, you will be able to:
+• explain the term ion;
+• illustrate the formation of ions by giving examples;
+• define ionic bonding;
+• describe the formation of an ionic bond;
+• give examples of simple ionic compounds;
+• draw Lewis structures or electron-dot formulas of simple ionic compounds;
+• explain the general properties of ionic compounds; and
+• investigate the properties of given samples of ionic compounds.
+Form a group and discuss each of the following concepts. Share your ideas with the class.
+1. Why do some atoms easily lose electrons and others do not?
+2. Sodium chloride, NaCl is a good conductor in the form of liquid state, but a non
+conductor in the form of solid state.
+When an atom either loses or gains electrons, it becomes an ion. An ion is an electrically
+charged particles. Two different types of ions exist. These are the positive ions called
+cations and the negative ions called anions.
+The chemical properties of metals differ from those of non-metals. A metal has 1, 2,
+or 3 electrons in its outermost shell. Metals tend to lose these electrons and become
+positively charged ions. For example, if a metal (M) loses one electron, it becomes an
+ion with a charge of +1.
+Activity 3.3
+CHEMISTRY GRADE 9
+70
+However, if it loses two electrons it becomes an ion with a charge of +2:
+A non-metal may have 4, 5, 6, or 7 electrons in its outermost shell. Non-metals tend
+to gain electrons to form negatively charged ions. For example, if a non-metal (X)
+gains one electron, it becomes an ion with a charge of –1.
+Note that hydrogen can form both a cation, H+ (hydrogen ion) as in HCl, or an anion
+H– (hydride ion) as in NaH.
+Metals in Group IA, the alkali metals, tend to lose one electron when they combine
+with other elements, producing cations of +1 charge. For example, Na and K each
+lose one electron to form ions of +1 charge.
+Na → Na+ + e–
+sodium atom sodium ion
+K → K+ + e–
+potassium atom potassium ion
+On the other hand, Group VIIA elements, the halogens, usually gain one electron and
+produce an ion with –1 charge. For example, each Cl and Br atom accepts one
+electron to produce an ion with –1 charge.
+Cl + e– → Cl–
+chlorine atom chloride ion
+Br + e– → Br–
+bromine atom bromide ion
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+71
+Form a group and perform the following tasks:
+Consider the elements:
+1. Calcium (atomic number = 20)
+2. Barium (atomic number = 56)
+3. Oxygen ( atomic number = 8)
+4. Sulphur (atomic number = 16)
+a determine whether each of the elements gain or lose electrons in chemical bond
+formation.
+b write the type of ions they form; and
+c indicate the charges on the ions formed.
+Present your findings to the class.
+The following table relates the position of some elements in the periodic table to the ions
+they normally produce.Note that the charge is the same for each ion in a given group or
+column.
+Table 3.1 Selected ions in the periodic table.
+Ionic Bond formation
+When two atoms combine, one of the atoms gains electrons and becomes an anion
+and the other loses electrons to form a cation. When a cation and an anion are brought
+close to one another, an electrostatic force of attraction is set up between them. This
+force of attraction between oppositely charged ions is called an ionic bond. It is also
+called an electrovalent bond. The bond is produced when electrons are transferred
+from the outermost shell of a metal atom to the outermost shell of a nonmetal atom.
+To illustrate ionic bonding, let us consider the formation of the bond between sodium
+and chlorine. A sodium atom has 1 valence electron. In order to attain the electron
+configuration of the nearest noble gas (Ne), it has to lose its valence electron and
+form a sodium ion (Na+). Chlorine has 7 valence electrons. By gaining 1 electron,
+chlorine attains the electron configuration of argon (Ar) and form a chloride ion (Cl–).
+Activity 3.4
+CHEMISTRY GRADE 9
+72
+In general, an ionic bond is formed by the transfer of electron from a metal to a
+nonmetal- for example, sodium and chlorine. Atoms that are bound together by an
+ionic bond form ionic compounds. For example, Na+ and Cl– ions form sodium
+chloride, NaCl. The transfer of an electron from sodium to chlorine and the formation
+of the ionic bond in sodium chloride is shown with the following shell diagrams.
+Figure 3.3 Formation of sodium chloride.
+Electron-dot notation is often used to represent the outermost shell electron
+configurations of the elements. These formulas, also called Lewis formulas, consist of
+the symbol of the element plus dots equal to the number of valence electrons in the
+atom or ion. Since valence shells contain a maximum of eight electrons, electron-dot
+symbols contain a maximum of eight dots. Electron-dot formulas of sodium and chlorine
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+73
+are shown below. Sodium is an alkali metal with one valence electron:
+Na: 1s22s22p63s1
+The Lewis symbol for sodium is Na•.
+Chlorine is a halogen with seven valence electrons:
+Cl: 1s22s22p63s23p5
+The Lewis symbol for chlorine is Cl .
+The formation of ionic bond can also be represented by using electron-dot formulas.
+Therefore, the Lewis structure for the ionic compound sodium chloride will be
+Na + Cl – Na Cl +
+Form a group and perform each of the following task:
+Draw Bohr's diagrammatic representation and write the Lewis formula for the following
+ionic compounds:
+a Potassium chloride b Magnesium oxide c Calcium chloride
+d Potassium sulphide e Aluminium oxide
+Share your ideas with rest of the class.
+The following table illustrates the formation of ionic bonds between representative metals
+and non-metals. Careful observation indicates that, in each case, both the metal and
+the nonmetal acquire a noble-gas configuration. The compounds formed in each case
+are electrically neutral as the sum of positive charges equals the sum of negative charges.
+Table 3.2 Summary of formula of ionic-compounds.
+Metal group Non-metal group Formula of Ionic Examples
+Compound
+IA VIIA MX (M+X–) NaCl, KBr
+IA VIA M2X (2M+X2–) Li2O, K2O
+IA VA M3X (3M+X3–), Na3N, K3P
+IIA VIIA MX2 (M2+2X–
+), MgCl2, CaI2
+IIA VIA MX (M2+ X2–), BaS, MgO, MgS
+IIA VA M3X2 (3M2+ 2X3–) Ca3N2, Mg3P2
+IIIA VIIA MX3 (M3+ 3X–), AlF3
+IIIA VIA M2X3 (2M3+3X2–) Al2O3
+IIIA VA MX (M3+ X3–) AlN
+Note: M = metal; X = non-metal.
+Activity 3.5
+CHEMISTRY GRADE 9
+74
+Activity 3.6
+Exercise 3.2
+1. Draw the Lewis structure for the nitrogen atom, nitrogen molecule and ammonia.
+2. Show that the following species have the same number of electrons.
+Na+, Mg2+, O2–, and Ne
+How do you name ionic compounds, for example NaCl?
+To name an ionic compound that is formed from a metal and a non-metal, follow the
+given procedure, by considering the example of NaCl:
+1. Write the name of the metal (sodium).
+2. Modify the last characters of the name of the non-metal (chlorine) to end it with
+ide. (Chloride).
+Therefore, the name of NaCl is sodium chloride. Similarly, MgO is named as magnesium
+oxide, Na3N is named as sodium nitride.
+General Properties of Ionic Compounds
+Form a group and perform the following task: Collect samples of ionic compounds from
+your school laboratory and investigate whether the samples are:
+a hard or soft b brittle or strong c liquids or solids
+What is your generalization about the physical properties of ionic compounds? Share your
+ideas with the rest of the class.
+ Experiment 3.1
+Investigating the Physical Properties of Ionic Compounds
+I Melting Point and Solubility
+Objective: To investigate the melting point and solubility of some ionic compounds.
+Apparatus: Test -tube, Bunsen burner.
+Chemicals: NaCl, CuCl2, ethanol, hexane and benzene.
+Procedure:
+Perform the following three experiments:
+1. Put a few crystals of dry sodium chloride (NaCl) and copper (II) chloride
+(CuCl2) into separate glass test tubes. Heat strongly on a Bunsen burner. What
+do you observe?
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+75
+2. Place about 1 g each of sodium chloride (NaCl) and copper (II) chloride
+(CuCl2) in separate test tubes. Add about 5 mL of water (polar solvent) and
+shake well.
+3. Repeat experiment 2 using the following solvents instead of water. Ethanol
+(polar solvent), hexane and benzene (non-polar solvents). These solvents are
+highly flammable and should be kept away from flames.
+Observations and analysis
+a In experiment 1, do the crystals melt? Do they have high or low melting
+points?
+b In experiment 2 and 3, does each of the solids dissolve in the given solvents?
+Why? Do they have low or high solubility in the given solvents?
+Prepare a table as shown below and fill in the results of the solubility tests.
+Substances Water Ethanol Hexane Benzene
+NaCl (s)
+CuCl2 (s)
+II Conductivity
+Objective: To investigate the conductivity of some ionic compounds.
+Apparatus: Beaker, conductivity cell, graphite or iron rods, bulb, wire, battery.
+Chemicals: Sodium chloride, copper (II) chloride, benzene and charcoal.
+Procedure:
+1. Put some amount of sodium chloride crystals in a beaker.
+2. Place two electrodes that are made of iron or graphite in the beaker.
+3. Connect the two electrodes to a bulb and a 6-volt battery as shown in
+Figure 3.5.
+Record your observation.
+4. Now add distilled water to the beaker and stir dissolve the salt. Observe the
+changes.
+5. Repeat the experiment using aqueous copper (II) chloride, benzene and
+charcoal.
+CHEMISTRY GRADE 9
+76
+Dry cells
+Graphite
+electrodes
+NaCl solution
+Bulb
+Figure 3.5 Conductivity of sodium chloride solution.
+Observations and analysis
+a Does sodium chloride conduct electricity in its solid state?
+b What do you observe in the bulb when the sodium chloride is dissolved?
+What does this indicate?
+c What can you conclude from this experiment?
+d What are your observations for aqueous copper (II) chloride, benzene and
+charcoal?
+Conclusion:
+What are your conclusions about:
+a melting point,
+b solubility in polar and non-polar solvents, and
+c electrical conductivity of ionic compounds?
+A summary of the general properties of ionic compounds:
+1. Ionic compounds do not contain molecules. They are aggregates of positive ions
+and negative ions. In the solid state, each ion is surrounded by ions of the opposite
+charge, producing an orderly array of ions called crystal.
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+77
+Figure 3.4 Arrangement of ions.
+2. At room temperature ionic compounds are hard and rigid crystalline solids. This is due
+to the existence of strong electrostatic forces of attraction between the ions.
+3. Ionic compounds have relatively high melting and boiling points. This is due to
+the presence of strong electrostatic forces between the ions. These forces can
+be overcome only by applying very large amounts of energy.
+4. Ionic compounds can conduct electric currents when molten or in aqueous
+solution. This is due to the presence of mobile ions in molten state or in solution.
+However, ionic compounds do not conduct electricity in the solid state.
+5. Ionic compounds are soluble in polar solvents such as water. They are insoluble
+in non-polar solvents such as benzene.
+Exercise 3.3
+1. KCl is soluble in water but insoluble in benzene. Explain.
+2. Which of the following substances conduct electricity? Give reasons for your
+answer in each case:
+a NaCl (aq) b NaCl (l) c NaCl (s)
+3. Name the ionic compounds formed from the following pairs of elements:
+a calcium and sulphur b sodium and iodine c silver and bromine
+4. List the properties of ionic compounds.
+3.3 COVALENT BONDING
+Competencies
+By the end of this section, you will be able to:
+• define covalent bonding,
+• describe formation of a covalent bond,
+CHEMISTRY GRADE 9
+78
+• draw Lewis structures or electron-dot formulas of simple covalent molecules,
+• give examples of different types of covalent molecules,
+• make models of covalent molecules to show single, double and triple bonds
+using sticks and balls or locally available materials,
+• explain polarity in covalent molecules,
+• distinguish between polar and non-polar covalent molecules,
+• define coordinate (dative) covalent bond,
+• illustrate the formation of coordinate covalent bond using appropriate examples,
+• explain the general properties of covalent compounds, and
+• investigate the properties of given samples of covalent compounds.
+Form a group and discuss each of the following concepts.
+1. What is the difference between the bond when two chlorine atoms combine to form a
+chlorine molecule (Cl2
+) and that formed when sodium combines with chlorine to form
+sodium chloride (NaCl)?
+2. Carbon tetrachloride (CCl4
+) is a covalent compound. Would you expect it to be :
+i) a conductor of electricity
+ii) soluble in water.
+Share your ideas with the class.
+Many molecules are formed when outermost shell or valence electrons are shared
+between two atoms. This sharing of electrons creates a covalent bond.
+Covalent bond formation can be illustrated by the sharing of electrons between two
+hydrogen atoms to form a molecule of hydrogen.
+Figure 3.6 Sharing of electrons between hydrogen atoms in H2 molecule.
+In the hydrogen molecule, each hydrogen atom attains the stable electron configuration
+of helium.
+In a covalent bond, each electron in a shared pair is attracted to the nuclei of both
+atoms as shown in Figure 3.6. The shared electrons spend most of their time between
+the two nuclei. The electrostatic attraction between the two positively charged nuclei
+and the two negatively charged electrons hold the atoms in the molecule together. This
+Activity 3.7
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+79
+attractive force between positively charged nuclei of atoms and the shared electrons in
+a molecule is known as covalent bond.
+A molecule of hydrogen chloride is also formed by a pair of electrons shared between
+the two atoms. Each atom in the molecule attains a stable electron configuration.
+Figure 3.7 Hydrogen and chlorine share a pair of electrons in HCl.
+The concept of Lewis formula representation can also be extended to covalent bonds.
+The Lewis structure for a covalent compound shows the arrangement of atoms in a
+molecule and all the valence electrons for the atoms involved in the compound. It is
+conventional to represent the non-bonding (lone pair) electrons by dots and the pair
+of electrons that are shared between atoms by a dash. For example, consider the
+hydrogen molecule:
+The electron-dot formula of the hydrogen molecule is:
+H• + •H → H H
+The covalent bond in hydrogen molecule is also written as H – H.
+The formation of the covalent bond in hydrogen chloride is shown by the following
+electron-dot formula. This formula must satisfy the octet rule (for chlorine) and the
+doublet rule (for hydrogen). As shown in the illustration, these requirements are satisfied.
+The shared pair belongs to both of the atoms (hydrogen and chlorine) in the hydrogen
+chloride molecule. The resulting valence electron configuration provides two valence
+electrons to hydrogen and eight to chlorine.
+The chlorine atom in the molecule has three pairs of electrons, which are not used for
+bonding. Pairs of electrons that is not used for bonding are called lone-pair electrons.
+Pairs that are used for bonding are called bonding-pair electrons.
+CHEMISTRY GRADE 9
+80
+Consider the fluorine molecule, F2
+. The electron configuration of fluorine is 2, 7. Thus
+each fluorine atom has seven valence electrons. Accordingly, there is only one unpaired
+electron on fluorine. Therefore, the formation of the fluorine molecule is represented as
+Note that only two valence electrons participate in the formation of fluorine molecule.
+The others are non-bonding electron (lone pairs). Thus each fluorine atom in fluorine
+molecule has three lone-pairs of electrons. The resulting molecule is a diatomic molecule.
+A diatomic molecule consists of two atoms. All the other members of the halogen
+family form diatomic molecules in the same way as fluorine does.
+The maximum number of covalent bonds that an atom can form can be predicted
+from the number of electrons needed to fill its valence shell. For example, each member
+of Group IVA elements has four electrons in its valence shell, and it needs four more
+electrons to achieve stable noble-gas electron configuration. Thus, it forms four covalent
+bonds for carbon in methane, CH4 as shown below:
+H H C
+H
+H
+C
+H
+H H H
+or
+Elements of Group VA need three additional electrons to achieve noble gas configuration
+and they form three covalent bonds as shown below for nitrogen in ammonia NH3.
+N H
+H
+N
+H
+H
+H or
+H
+Similarly, elements of group VIA form two covalent bonds and Group VIIA elements
+form single covalent bonds.
+Types of Covalent Bonds
+How do you compare the nature and strength of the bonds in H2 , O2
+ and N2
+?
+Atoms can form different types of covalent bonds. These are single bonds, double
+bonds and triple bonds.
+In a single bond two atoms are held together by one electron pair.
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+81
+How are the covalent bonds in H2
+, Cl2
+ and HCl formed?
+Many covalent compounds are held together by multiple bonds. Multiple bonds are
+formed when two or three electron pairs are shared by two atoms. If two atoms
+share two pairs of electrons, the covalent bond is called a double bond. For example,
+double bonds are found in molecules of carbon dioxide (CO2) and ethene (C2H4).
+C or C
+Carbon dioxide
+H
+C C
+H
+H H
+or C C
+H H
+H H
+Ethene
+A triple bond is formed when two atoms share three pairs of electrons, as in the
+nitrogen molecule (N2).
+The ethyne (acetylene) molecule (C2H2) also contains a triple bond. In this case the
+bond is between two carbon atoms.
+H H C C or H C C H
+Ethyne
+Form a group and perform the following tasks:
+1. Construct a molecular model for each of the following species using locally available
+materials such as toothpicks to represent bonds, and styrofoam spheres to represent
+atoms.
+a N2 b H2 c O2 d C2
+H4
+2. Based on your models, identify which species contain:
+i) only single bonds
+ii) double bonds
+iii) triple bonds
+Present your models and findings to the rest of the class.
+Activity 3.8
+CHEMISTRY GRADE 9
+82
+Exercise 3.4
+1. How many bonding pair and lone pair electrons are found in each of the
+following molecules?
+a CO2 b C2H4 c N2 d C2H2
+2. Consider molecules of carbon disulfide, CS2
+, and hydrogen cyanide, HCN.
+a What types of bonds do they contain?
+b Draw their electron-dot formulas.
+c Are there any lone-pair electrons in these molecules?
+3. Why is the melting point of ionic compounds higher than that of covalent
+compounds?
+Reading Check
+Does the hydrogen atom form covalent as well as ionic bonds? How?
+3.3.1 Polarity in Covalent Molecules
+Form a group and discuss the following idea:
+The covalent bonds are formed by sharing of electrons. Compare covalent bonds formed
+between atoms of the same elements and those formed between atoms of different
+elements. (Example: H2
+ and HCl).
+Present your conclusion to the class.
+A covalent bond is formed when electron pairs are shared between two atoms. In
+molecules like H2, in which the atoms are identical, the electrons are shared equally
+between the atoms. A covalent bond in which the electrons are shared equally between
+the two atoms is called a non-polar covalent bond.
+H – H
+In other words, a non-polar bond is a covalent bond in which bonding electrons are
+shared equally between identical atoms, resulting in a balanced distribution of electrical
+charge.
+In contrast, in the covalently bonded HCl molecule, the H and Cl atoms are of different
+elements; therefore, they do not share the bonding electrons equally.
+Activity 3.9
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+83
+A chemical bond in which shared electrons spend more time in the vicinity of one
+atom than the other is called a polar covalent bond, or simply a polar bond.
+Polarity of bonds is caused by differences in the electronegativity of the two atoms
+forming the bonds. Electronegativity is the ability of an atom to attract the shared
+electrons in a chemical bond toward itself.
+Elements with high electronegativity have a higher tendency to attract electrons than
+elements with low electronegativity. For example, in the case of HCl, the electronegativity
+of the chlorine atom is higher than that of the hydrogen atom. The shared pair of
+electrons is more strongly attracted to the nucleus of the chlorine atom. As a result,
+the chlorine atom acquires a partial negative charge (δ–) whereas the hydrogen atom
+acquires a partial positive charge (δ+). The delta is read as "partial" or "slightly."
+If a molecule has a positive end and a negative end, it is said to be polar and posses
+a dipole. Dipole means 'two poles'.
+Experimental evidence indicates that, in the HCl molecule, the electrons spend more
+time near the chlorine atom. We can think of this unequal sharing of electrons as a
+partial electron transfer or a shift in electron density as shown below:
+This unequal sharing of the bonding electron pair results in a relatively higher electron
+density near the chlorine atom and a correspondingly lower electron density near
+hydrogen.
+Exercise 3.5
+1. How many electrons are shared in a:
+a single bond, b double bond, and c triple covalent bond?
+2. Draw Lewis structures for:
+a H2 b Cl2 c C3H6
+3. Draw Lewis structures for each of the following molecules:
+a HBr b CO2 c H2O
+Also indicate the partial charges using δ+ and δ–.
+3.3.2 COORDINATE COVALENT BOND
+A covalent bond in which one atom donates both electrons of the bond is called a
+coordinate covalent bond. It is also called a dative bond. Such a bond is hypothetically
+represented as:
+CHEMISTRY GRADE 9
+84
+Once formed, a coordinate covalent bond has the same properties as any other covalent
+bond. The atom that contributes both electrons for the bond is the donor atom, and
+the atom that shares the electron pair is the acceptor atom.
+For an atom to act as a donor, it must contain lone pair of electrons in its valence
+shell and the acceptor atom must have at least one vacant orbital.
+For example, the ammonium ion, NH+
+4, is formed by a coordinate covalent bond in
+which the two non-bonding electrons on NH3
+ bond with a hydrogen ion, H+, which
+has no electrons to contribute.
+In the resulting ion, NH+
+4, the four N – H bonds are identical.
+Similarly, a coordinate covalent bond can be formed between a hydrogen ion and a
+molecule of water, which has two lone pairs of electrons.
+Carbon monoxide, CO, also has a coordinate covalent bond. In order for both carbon
+and oxygen atoms to attain noble-gas electron arrangements, oxygen donates a pair of
+electrons to the carbon atom. In the process a coordinate covalent bond is formed
+between the two atoms.
+General properties of covalent compounds
+1. Covalent compounds are generally liquids or gases at ordinary temperature. For
+example : water and ethyl alcohol are liquids. Hydrogen chloride, methane and
+cabon dioxide are gases. Same covalent compounds are solids (e.g. sugar)
+2. As compared to ionic compounds, covalent compounds have relatively lower
+melting points and boiling points.
+3. They do not conduct electric current when molten or in aqueous solution, because
+they consist of molecules rather than of ions.
+4. Covalent compounds are insoluble in polar solvents such as water. They are
+soluble in non-polar solvents such as benzene and carbon tetrachloride.
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+85
+ Experiment 3.2
+Investigating the Physical Properties of Covalent Compounds
+I. Melting point
+Objective: To investigate the effect of heat on covalent compounds.
+Apparatus: Test tube, Bunsen burner.
+Chemicals: Naphthalene, graphite, iodine.
+1. Put a small amount of naphthalene into a dry test tube. Heat it strongly.
+Naphthalene is toxic. Do not inhale it or get it on your skin.
+a What do you observe? Does the solid melt or vaporize?
+b Is the melting point high or low?
+2. Repeat the procedure with graphite, and iodine separately. Iodine vapor is
+toxic. Do not inhale it.
+Observe and record your observation in a tabular form as shown below.
+Substance Melted, vaporized or High or low
+nothing happened melting point
+Naphthalene
+Graphite
+Iodine
+II. Solubility
+Objective: To investigate the solubility of covalent compounds.
+Apparatus: Test-tubes, test tube rack.
+Chemicals: Naphthalene, graphite, iodine, ethanol, hexane and benzene.
+3. Arrange 12 test tubes in three sets (A, B, C) of 4 test tube each. To each
+test tube of set A, add 1 g of naphthalene. To each test tube of set B add 1
+g of graphite and to each test tube of set C add 1 g of iodine.
+4. Add about 10 mL of each the following solvents to the four test tubes of each
+set separately and shake well.
+• Water
+• Ethanol
+• Hexane
+• Benzene
+Caution: Ethanol, hexane and benzene are all highly flammable.
+Observe and record whether the solids are very soluble, slightly soluble or insoluble.
+CHEMISTRY GRADE 9
+86
+Substance Solubility
+Water Ethanol Hexane Benzene
+Naphthalene
+Graphite
+Iodine
+Observations and analysis
+Draw general conclusions on the
+a melting points,
+b solubility in polar and non-polar solvents of the covalent compounds given.
+Exercise 3.6
+1. Which of the following molecules contain a covalent bond?
+a CaO d SO2 g MgO
+b HCl e Na2O h NaH
+c CO2 f PCl3 i CH4
+2. Which of the following contain a dative bond?
+a H3O+ b NH3 c NH2
+– d CaO
+3. Which of the following molecules are polar ?
+a SO2 c H2O e BCl3 g CH3Cl
+b CO2 d CS2 f CH4
+4. Which of the following are non-polar covalent compounds?
+a O2 c CH4 e H2O g Br2
+b HCl d O3 f Cl2
+Activity 3.10
+Form a group and perform the following task:
+Collect samples of covalent compounds from your school laboratory and investigate
+whether the samples are:
+a liquids or solids b hard or soft c brittle or strong
+What is your generalization about the physical properties of covalent compounds? Share
+your ideas with the class.
+Reading Check
+What is the difference between a coordinate covalent bond and covalent bond?
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+87
+3.4 METALLIC BONDING
+Competencies
+By the end of this section, you will be able to:
+• explain the formation of metallic bond;
+• explain the electrical and thermal conductivity of metals in relation to metallic
+bonding; and
+Activity 3.11
+Form a group and discuss the following concepts and present your discussion to the class.
+a Metals are solids. They contain large number of atoms in their crystals. What kind of
+force do you think holds these metal atoms together?
+b How do you account for the properties of metals, such as conductivity, malleability, and
+ductility in terms of the bonds in metals?
+The highest energy orbitals of most metals are occupied by very few electrons. In
+s-block metals, for example, one or two valence electrons occupy s orbitals in the
+outermost levels (for example Na and Mg). Furthermore, the p orbitals of the outer
+most level are also occupied partially in p-block metals (example Tl, Pb and Bi).
+The d-block metals contain partially filled (n–1)d levels in their atomic states or principal
+oxidation states. The bonding in metals is different from that in other types of crystals.
+The valence electrons of metals are not held by individual atoms. Rather, they are
+delocalized and mobile (free to move throughout the structure).
+The valence electrons form a sea of electrons around the metal ions and these metal
+ions are organized as a crystal. Metallic bonding results from the attraction between
+the metal ions and the surrounding sea of electrons.
+For example, as illustrated in Figure 3.8, a sodium metal crystal is a lattice-like array
+of Na+ ions surrounded by a sea of mobile bonding valence electrons.
+Figure 3.8 Metallic bonding in sodium metal.
+CHEMISTRY GRADE 9
+88
+The bonding valence electrons move freely throughout the entire crystal. This freedom
+of movement is responsible for the electrical conductivity of metals.
+Properties of Metallic Bonding
+Have you ever visited a goldsmith workshop? Why are metals easily shaped into
+thin sheets and drawn into wires?
+The freedom of movement of bonding valence electrons is responsible for the high
+electrical and thermal conductivity that characterizes the metals. Other properties of
+metallic bonding contribute to unique properties of metals. For example, most metals
+are easy to shape due to their malleability and ductility.
+Malleability allows a substance such as a metal to be reshaped. By hammering and
+bending some metals, you can create thin sheets. Ductility allows a substance to be
+drawn or pulled out into long thin pieces, such as wires.
+Metals are malleable and ductile because metallic bonding is the same in all directions
+throughout the solid.
+When we apply a force to metal, its cations swim freely within the sea of electrons
+without breaking the crystal structure. For example, when you hammer, bend, or pull
+on a metal to reshape it, you shift its cations around. The force you apply moves the
+atoms around, for example, around corners in the lattice. This is the basis for malleability
+and ductility of metals, which allows you to change its shape.
+Model of a Metallic Crystal
+Put about one hundred balls (for example, marble balls or balls made from other locally
+available materials) into a rectangular glass trough. Shake the trough. Allow the balls to
+settle.
+a Draw a two-dimensional diagram to show how the marble balls are now arranged in
+the trough.
+b If the balls represent atoms in a metallic lattice, which species are occupying the
+‘empty’ space between and around them?
+Present your model and findings to the class.
+Exercise 3.7
+1. Describe how a metallic bond is different from those of an ionic bond and a
+covalent bond.
+2. Explain thermal and electrical conductivity in metals.
+3. Is metallic bonding responsible to form compounds?
+Project work
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+89
+3.5 INTERMOLECULAR FORCES
+Competencies
+By the end of this section, you will be able to:
+• define inter-molecular forces;
+• explain hydrogen bonding;
+• explain the effects of hydrogen bonding on the properties of substances;
+• describe Van der Waal's forces;
+• explain dipole-dipole forces;
+• give examples of molecules with dipole-dipole forces;
+• explain dispersion forces;
+• give examples of molecules in which dispersion force is important; and
+• compare and contrast the three types of intermolecular forces.
+Form a group and discuss the following phenomenon: Why do covalent compounds
+usually exist as gases and liquids?
+Share your views with the rest of the class.
+Inter-molecular forces are relatively weak forces of attraction that occur between
+molecules. Inter-molecular forces vary in strength but are generally weaker than the
+bonds that join atoms in molecules, ions in ionic compounds, and metal atoms in solid
+metals. Inter-molecular forces acting between molecules include: dipole-dipole forces,
+London dispersion forces and hydrogen bonding. Dipole-dipole attractions and
+London forces are collectively called Van der Waal's forces.
+A Dipole-Dipole Forces
+Dipole-dipole forces are strong inter-molecular forces between polar molecules. A dipole
+is created by equal but opposite charges separated by a short distance. A polar molecule
+acts as a tiny dipole because of its uneven charge distribution.
+A dipole is represented by an arrow with a head pointing toward the negative pole
+and crossed tail situated at the positive pole. The dipole created by a hydrogen chloride
+molecule, which has its negative end at the more electronegative chlorine atom, is as
+shown below:
+Figure 3.9 Dipole-dipole interactions in HCl molecules.
+Activity 3.12
+CHEMISTRY GRADE 9
+90
+The negative end in one polar molecule attracts the positive end in an adjacent molecule
+in a liquid or solid. Dipole-dipole forces occur in molecules such as ethyl alcohol and
+water.
+B London Dispersion Forces
+All molecules, including those without dipole moments, exert forces on each other. We
+know this because all substances, even the noble gases, change from liquid to solid
+state under different conditions.
+Figure 3.10 Induced dipole-induced dipole forces between non-polar molecules.
+London dispersion forces act between all atoms and molecules. They are the only
+forces that exist between noble gas atoms and non-polar molecules. This fact is reflected
+in the low boiling points of noble gases and non-polar molecules. Because dispersion
+forces result from temporary redistribution of the electrons causing induced dipoledipole interactions, their strength increases with the number of electrons in the interacting
+atoms or molecules. Hence, dispersion forces increase with atomic number or molar
+mass. This trend can be seen by comparing the boiling points of gases (helium, He,
+and argon, Ar), (hydrogen, H2, and oxygen, O2
+), and (chlorine, Cl2, and bromine,
+Br2).
+As an illustration, the boiling points of the noble gases are presented in Table 3.4.
+Table 3.3 Boiling points of noble gases.
+Noble gas Boiling Point (oC) Number of electrons
+He -269 2
+Ne -246 10
+Ar -186 18
+Kr -152 36
+Xe -107 54
+Rn -62 86
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+91
+As you look down the column of noble gases, you note that boiling point increases.
+This is because the induced dipole-dipole interaction increases.
+C Hydrogen Bonding
+Hydrogen bonding is a particular type of intermolecular force arising when a hydrogen
+atom is bonded to highly electronegative elements, fluorine, oxygen and nitrogen.
+Hydrogen bonding is a particular type of dipole-dipole interactions between polar
+compounds. In such compounds, large electronegativity differences between the hydrogen
+and the fluorine, oxygen, or nitrogen atoms make the bonds connecting them highly
+polar. This polarity gives the hydrogen atom a positive charge. Moreover, the small
+size of the hydrogen atom allows the atom to come very close to an unshared pair of
+electrons on an adjacent molecule. Hydrogen bonding is responsible for the unusual
+high boiling points of some compounds such as hydrogen fluoride (HF), water (H2O)
+and ammonia (NH3).
+Hydrogen bonds are usually represented by dotted lines connecting the hydrogen atom
+to the unshared electron pair of the electronegative atom to which it is attracted. For
+example, the hydrogen bond in hydrogen fluoride, HF, results when the highly
+electronegative F atom attracts the H atoms of an adjacent molecule.
+Do you think that the intermolecular forces between molecules containing C-H,
+N-H, and O-H bonds are as strong as the intermolecular forces containing F-H
+bonds?
+Exercise 3.8
+1. Which of the following exists predominately in the water (H2O) molecule?
+a Van der Waal's force c coordinate covalent bond
+b hydrogen bond d none of these
+2. Which of the following has the highest induced dipole interactions in its molecule?
+a He c Ne
+b Ar d Kr
+Critical Thinking
+Oxygen 16
+8( O) and Sulphur 32
+16 ( S) are in the same group in the periodic table.
+They form compounds with hydrogen, H2O and H2
+S. However, H2O is a liquid,
+whereas H2S is a gas at room temperature. Give explanation?
+CHEMISTRY GRADE 9
+92
+Unit Summary
+• A chemical bond is the attractive force that binds atoms together to form a
+molecule (or a crystal lattice), an ionic or metallic crystal lattice.
+• An ionic bond is the electrostatic attraction between oppositely charged ions
+(cations and anions).
+• A covalent bond is formed by a shared pair of electrons.
+• A covalent bond in which one pair of electrons is shared is known as a single
+bond; for example, H2 written as H – H.
+• Atoms can also share more than one pair of electrons to form a multiple bond.
+• The sharing of three pairs of electrons forms a triple bond - for example, N2,
+written as N≡N.
+• A dative or coordinate covalent bond is a bond in which one of the atoms
+supplies both of the shared electrons to the covalent bond.
+• A metallic bond is the electrostatic attraction between positive metal ions and
+delocalized electrons.
+Check List
+Key terms of the unit
+• Anions
+• Bonding-pair electrons
+• Cations
+• Chemical bond
+• Conductivity
+• Coordinate/dative bond
+• Covalent bond
+• Delocalized electrons
+• Dipole
+• Dipole-dipole interaction
+• Double-bond
+• Ductility
+• Electronegativity
+• Electrovalent bond
+• Hydrogen bonding
+• Inter-molecular forces
+• Ionic bonding
+• Ionization energy
+• London forces
+• Lone-pair electrons
+• Malleability
+• Metallic bond
+• Mobile electrons
+• Noble gases
+• Non-bonding electrons
+• Octet rule
+• Polar bond
+• Polar covalent bond
+• Polarity
+• Sea of electrons
+• Single-bond
+• Triple-bond
+• Valence electrons
+• Van der Waal's forces
+CHEMICAL BONDING AND INTERMOLECULAR FORCES
+93
+• Inter-molecular forces are forces of attraction between covalently bonded
+molecules. These include: London forces, dipole-dipole forces, and hydrogen
+bonding.
+• London forces are forces of attractions between nonpolar molecules.
+• Dipole-dipole forces are the attractions between dipoles of polar molecules.
+• Hydrogen bonding is the attraction of covalently bonded hydrogen to lone pairs
+on N, O, or F atoms in other molecules or in the same molecule (if the molecule
+is large enough).

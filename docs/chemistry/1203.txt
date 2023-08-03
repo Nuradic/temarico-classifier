@@ -1,0 +1,1219 @@
+In Grade 11 Chemistry, you learned about chemical kinetics. What are the main
+concerns of chemical kinetics? How do you relate it to thermodynamics?
+Thermodynamics is the study of energy and its transformation. In a chemical reaction,
+thermodynamics determines whether a reaction is possible and how much product can be
+formed.
+Thermodynamics deals with energy changes and applies to physical as well as chemical
+changes. However, it does not give any information about the duration of time required for
+the related processes. Which area of chemistry is concerned with that topic?
+Figure 3.1 depicts the concern of chemical kinetics and chemical thermodynamics.
+Start-up Activity
+CHEMISTRY GRADE 12
+120
+Energy
+Reaction Reaction progress progress
+Domain of
+thermodynamics
+(the initial and
+final states)
+Domain of kinetics
+(the reaction pathway)
+Reactants
+Products
+Figure 3.1 Concerns of kinetics and thermodynamics.
+Activity 3.1
+Read chemistry books and other resource materials, and define the following terms:
+a thermodynamics g equation of state
+b system h heat capacity
+c surroundings i specific heat
+d isothermal process j state function
+e adiabatic process k state variable
+f state
+Try to explain these terms verbally to your classmates.
+ 3.1 COMMON THERMODYNAMIC TERMS
+At the end of this topic, you will be able to:
+• define chemical thermodynamics;
+• define system;
+• give examples of system;
+• explain open, closed and isolated systems;
+• classify system as open, closed and isolated;
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+121
+• define state function and path function;
+• distinguish between intensive and extensive properties; and
+• define spontaneous and non-spontaneous process.
+When we study a set of energy changes, we focus our attention on a limited and welldefined part of the universe. In your discussion of Activity 3.1, have you recognized that
+we are considering systems? A thermodynamic system may be a solution in a beaker, a gas
+in a cylinder, a reaction vessel, an engine, an electrochemical cell, a biological cell, etc.
+What do you call the rest of the universe outside a system? Because energy is neither
+created nor destroyed, any gain or loss of energy by a system must be accompanied by an
+equivalent loss or gain of energy in the surroundings.
+There are three types of thermodynamic systems based on the boundary between the
+system and its surroundings.
+An open system – is a system that can exchange mass and energy, usually in the form
+of heat, with its surroundings.
+For example, an open system may consist of a quantity of water in an open container,
+as shown in Figure 3.2 a.
+A closed system – is a system which transfers energy, but not mass across its boundary
+with its surroundings. If you close the flask, as in Figure 3.2 b, so that no water vapor
+can escape from or condense into the container, you create a closed system.
+An isolated system – is a system in which neither the transfer of mass nor that of
+energy takes place across its boundary with the surroundings. By placing the water in a
+totally insulated container, as shown in Figure 3.2 c, we construct an isolated system.
+a open system b closed system
+Insulator
+c isolated system
+Figure 3.2 The three classes of system.
+CHEMISTRY GRADE 12
+122
+A system is said to be in a certain state if T, P, V, n (observable variables) do not change
+with time. An equation that relates these observable variables is called an equation of state.
+An ideal-gas equation is an example of equation of state. A thermodynamic function
+(expressed in quantity) that depends on the initial and final state of a system, regardless of
+how that condition was achieved, is called a state function. Examples are energy, volume,
+pressure, etc. Functions that depend on the path are path functions. Examples are heat,
+work, etc.
+The properties of a system can be intensive or extensive based on its dependence on
+amount of a substance.
+Intensive properties are those that do not depend on the amount of matter present.
+Some examples include colour, temperature and density.
+Extensive properties are those properties, that depend on the amount of matter, for
+example, mass, internal energy, volume, and pressure.
+Activity 3.2
+In your group list properties of a system you know. Classify them as intensive or extensive.
+Record your conclusions by coping and filling out the following table. Follow the example
+that is given in the first line of the tabulation.
+Properties Intensive Extensive
+Colour 3
+A spontaneous process is a process that occurs without external influence. Once
+started, requires no action from outside in order to continue. On the other hand, a
+non-spontaneous process will not occur unless some external action is continuously
+applied.
+A rock that is rolling down from the top of a hill continues to roll down. Heat flows from an
+object of high temperature to an object of low temperature. Iron rusts in moist air. Each of
+these processes occurs spontaneously, without requiring an outside force or agency. If
+these processes were to go in the opposite direction, they would be non spontaneous.
+Can you mention some other examples of spontaneous and nonspontaneous processes
+you encounter in your daily life?
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+123
+An isothermal processis a process in which temperature remains constant, DT = 0. This
+typically occurs when a system in contact with an outside thermal reservoir (heat bath),
+and the change occurs slowly enough to allow the system to continually adjust to the
+temperature of the reservoir through heat exchange.
+An alternative special case in which a system exchanges no heat with the surroundings (Dq = 0)
+is called an adiabatic process. In an isothermal process, the value of DT = 0 but Dq π 0,
+while in an adiabatic process, DT π 0 but Dq = 0.
+3.2 THE FIRST LAW OF THERMODYNAMICS AND SOME
+THERMODYNAMIC QUANTITIES
+At the end of this topic, you will be able to:
+• explain internal energy in relation to the concepts of thermodynamics;
+• explain heat in relation to the concepts of thermodynamics;
+• explain work in relation to the concepts of thermodynamics;
+• state the first law of thermodynamics;
+• explain the first law of thermodynamics; and
+• calculate the change in the internal energy of a system based on a given
+information.
+3.2.1 Internal Energy (E)
+Activity 3.3
+If you have pumped air into a bicycle tyre, you probably noticed a warming effect in the
+valve stem. Discuss in a group from where this heat is originated and write a short report
+and present to the class.
+The internal energy (E) of a system is the total energy contained within a system, partly as
+kinetic energy and partly as potential energy. When a chemical system changes from reactants
+to products and the product return to the starting reactant, the internal energy has changed.
+To determine this change, DE, we measure the difference between the systems internal
+energy after the change (Efinal) and before the change (Einitial).
+DE = Efinal – Einital
+CHEMISTRY GRADE 12
+124
+The kinetic energy component of internal energy consists of various types of molecular
+motion and the movement of electrons within molecules.
+Potential energy is a factor of:
+* attractive and repulsive interaction between molecules;
+* attractive interactions between electrons and nuclei within molecules;
+* repulsive interactions between electrons within molecules; and
+* repulsive interactions between nuclei within molecule.
+Activity 3.4
+Take ordinary electric bulbs of 100 W, and 150 W; put separate white papers (of equal size
+and weight) above the bulbs; after noting the initial temperature of the paper, switch the
+bulbs on. Note the temperature of the papers after 15 minutes and 30 minutes
+respectively. Do you observe any change in temperature of the papers? Discuss the results
+with your classmates.
+3.2.2 Heat (Q)
+Heat (thermal energy) is the energy transferred between a system and its surroundings as
+a result of a difference in their temperatures. Heat passes spontaneously from the region of
+higher temperature to the region of lower temperature. Heat transfer stops when the system
+and surroundings reach the same temperature and therefore the system and surroundings
+are at thermal equilibrium.
+Heat and Calorimetry
+A chemical reaction or a physical change that releases heat is said to be an exothermic
+process. The burning of charcoal, for example, is an exothermic process. A reaction or a
+physical change that absorbs heat is an endothermic process. The melting of ice is an
+endothermic process, because heat is absorbed when ice melts. The SI unit of heat is joule
+(J). Another unit of heat is calorie. A calorie (Cal) is the amount of heat, or other energy,
+necessary to raise the temperature of 1 g of water by 1 degree Celsius. A kilocalorie
+(kCal) is 1000 calories, and 4.184 Joules is equivalent to 1.0 calorie.
+Experimentally, we can determine the heat flow associated with chemical reaction by
+measuring the temperature change it produces. The measurement of heat flow is called
+calorimetry. An apparatus that measures heat is called a calorimeter.
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+125
+The temperature change experienced by an object when it absorbs a certain amount of
+energy is determined by its heat capacity. Heat capacity is defined as the amount of heat
+energy required to raise its temperature by 1° (or 1 K). For pure substances, heat capacity
+is usually given for a specified amount of the substance. The heat capacity of 1 mol of a
+substance is called its molar heat capacity. In all thermodynamic calculations temperature
+must be expressed in Kelvin (K).
+The heat capacity of 1g of a substance is called its specific heat. Specific heat of a substance
+can be determined experimentally by measuring the temperature change (DT) for a known
+mass (m) of a substance that gains or loses a specific quantity of heat, q.
+( ) ( )
+quantity of heat transferred Specificheat gramsof substance temperaturechange = ×
+= × ∆
+q
+m T
+Table 3.1 shows the specific heat of some common substances.
+ Table 3.1 The specific heat of some common substances.
+Substance Specific heat [Jg–1K–1]
+Aluminum, Al (s) 0.90
+Gold, Au (s) 0.13
+Carbon (graphite) 0.72
+Carbon (diamond) 0.50
+Copper, Cu (s) 0.38
+Iron, Fe (s) 0.45
+Mercury, Hg (l) 0.14
+Water, H2O (l) 4.18
+Ethanol, C2H5OH (l) 2.46
+ Example 3.1
+A 466 g sample of water is heated from 8.5°C to 74.6°C. Calculate the
+amount of heat absorbed by the water in kilojoules.
+Solution:
+We know the quantity of water and the specific heat of water (4.18 J/g.K). On
+applying the equation:
+CHEMISTRY GRADE 12
+126
+Specific heat = × ∆
+q
+m T
+( ) 4.18J / g.K 466 g 347.60 K – 281.5 K
+= ×
+q
+q = 4.18 J/g.K × 466 g × 66.1 K = 129 kJ
+Exercise 3.1
+1. How much heat is required to raise the temperature of 250 g of water from 22°C
+to near its boiling point, 98°C?
+2. What is the molar heat capacity of water?
+Activity 3.5
+Take 50 mL water in two different beakers; heat one beaker to 10°C above room
+temperature and cool the other beaker 10°C below room temperature. Note the time taken
+by both the beakers to attain the room temperature. Discuss the results with your teacher.
+3.2.3 Work (W)
+How do you determine the pressure-volume work of a gas?
+Work, like heat, is an energy transferred between a system and its surroundings. There are
+several types of work, but here we will consider only the pressure-volume work that is
+done when gases are compressed or expanded.
+Suppose we have a gas confined to a cylindrical container that is fitted with a movable
+piston as shown in Figure 3.3, where F is the force acting on the piston of area A. Since
+pressure is defined as force per unit area, the pressure of the gas is P = 
+F
+A .
+Work is defined as a force applied over a given distance, so if the piston moves a distance
+Dh, as shown in Figure 3.3, then the magnitude of the work is
+Work = force × distance = F × Dh
+Since P = 
+F
+A , or F = P × A, then
+Work = F × Dh = P × A × Dh
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+127
+The product of the cross-sectional area of the cylinder, A, and the height, Dh, represents
+the change in volume of the gas, which is designated by the symbol DV. By replacing
+A × Dh with its equivalent, DV, we see that the work associated with a gas that expands at
+constant pressure is described by the following equation.
+Work = P × A × Dh = PDV
+The product of pressure and a change in volume is usually called “pressure-volume” work.
+When a gas expands, DV is positive, and the work is negative.
+Work (W) = – PDV
+A negative quantity of work signifies that the system loses energy, and that this, energy is
+transferred from the system to the surroundings.
+When a gas is compressed by its surroundings, DV is negative, the quantity of work is
+positive and energy is gained by the system.
+Figure 3.3 a The piston, moving a distance Dh against a pressure P, does work on the
+surroundings.
+b Since the volume of a cylinder is the area of the base times its height, the
+change in volume of the gas (DV) is given by A× Dh.
+Activity 3.6
+Observe different types of energy transformations occurring at home and around you, and
+make a list of these. Discuss the nature and type of transformations with your friends and
+present your findings in the class.
+CHEMISTRY GRADE 12
+128
+3.2.4 The First Law of Thermodynamics
+What are the concepts studied in the first law of thermodynamics?
+The first law of thermodynamics, which is a restatement of the law of conservation of
+energy, states that the total amount of energy in the universe is constant. When a system
+undergoes any chemical or physical change, the accompanying change in its internal energy,
+DE, is given by the heat added to the system, q, plus the work done by the system, W.
+DE = q + W
+Thermodynamic quantities always consist of two parts:
+* a number plus units, which gives the magnitude of the change; and
+* a sign that indicates the direction of the flow.
+The sign reflects the system’s point of view. For example, if a quantity of energy flows into
+the system as heat, q is equal to + q, where the positive sign indicates that the system’s
+energy is increasing. On the other hand, when energy flows out of the system as heat, q
+equal to – q, where the negative sign indicates that the system’s energy is decreasing.
+This suggests that we need sign conventions to be used with the first law of thermodynamics.
+The conventions are as follows:
+* If heat is absorbed by the system, q > 0. If work is done on a system, W > 0.
+* If heat is given off by a system, q < 0. If work is done by a system, W < 0.
+ Example 3.2
+A gas does 135 J of work while expanding and at the same time, it absorbs 156 J
+of heat. What is the change in internal energy?
+Solution:
+Note that heat is absorbed by the system (a positive quantity, + 156 J) and work
+is done by the system (a negative quantity, – 135 J). Because more heat is absorbed
+than work done, the internal energy increases:
+DE = q + W = (+ 156 J) + (–135 J) = + 21 J
+Exercise 3.2
+1. Calculate DE for a process in which the system absorbs 65 J of heat and 12 J of
+work is done on it by the surroundings.
+2. A balloon is inflated to its full extent by heating the air inside it. In the final stages of
+this process, the volume of the balloon changes from 4.00 × 106 L to 4.50 × 106
+L by addition of 1.3 × 108 J of energy as heat. Assuming the balloon expands
+against a constant pressure of 1.0 atm, calculate DE for the process.
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+129
+3.3 THERMOCHEMISTRY
+At the end of this topic, you will be able to:
+• define enthalpy change, DH;
+• derive an expression for the enthalpy change of an ideal gas, based on the first law
+of thermodynamics;
+• calculate enthalpy change for ideal gases, from a given information;
+• define standard state;
+• define standard molar enthalpy of combustion, C
+° ∆H ;
+• describe how heats of combustion can be used to estimate the energy available
+from foods;
+• define standard molar enthalpy of formation, f
+° ∆H ;
+• define standard molar enthalpy of neutralization, DH°
+neut;
+• carry out an activity to measure standard molar enthalpy of neutralization;
+• state Hess’s law;
+• apply Hess’s law to solve problems on enthalpy changes of chemical reactions;
+• explain bond energy;
+• calculate the bond energies of substances in a given chemical reaction; and
+• calculate the standard enthalpy changes of reaction from given enthalpy changes of
+reactants and products.
+Activity 3.7
+Form a group and discuss the following questions:
+Can water freeze at room temperature; why?
+When ice melts at room temperature, the enthalpy decreases or increases? Explain.
+Write a short report and present it to the class.
+Thermochemistry is the study of energy changes that occur during chemical reactions.
+Usually we assess these energy changes in terms of losing and gaining energy in a system.
+CHEMISTRY GRADE 12
+130
+When we warm our cold hands over a campfire, the burning wood gives off energy as
+heat and our hands gain energy, raising their temperature.
+3.3.1 Heats of Reactions
+In the first law of thermodynamics, you have learned that,
+DE = q + pDV
+If a reaction occurs at constant volume, then DV = 0 and no pressure-volume work is
+done. Thus, DE = (q)
+V.
+ Where the subscript V indicates a constant-volume process.
+Constant volume conditions are often inconvenient, and sometimes impossible, to measure.
+What is enthalpy?
+Most physical and chemical changes, including those in living systems, take place under
+the constant pressure of the earth’s atmosphere. In the laboratory, for example, reactions
+are generally carried out in containers that are open to the atmosphere, such as beakers
+and test tubes. For most processes, especially those that do not involve gases, only small
+amount of work is performed as the system expands or contracts slightly against the pressure
+of the atmosphere. Thus, most of the energy gained or lost by the system during these
+processes is in the form of heat. The heat absorbed or released by a system at constant
+pressure is called enthalpy (H).
+Enthalpy is defined as the sum of the internal energy and the pressure-volume product of a
+system.
+H = E + PV
+or DH = DE + PDV (at constant pressure)
+DE = q – PDV
+then DH = q – PDV + PDV
+DH = (q)
+P
+Thus, the change in enthalpy equals the heat gained or lost at constant pressure.
+What is the relationship between DH and DE?
+In case of an ideal gas, we can express change in enthalpy, using the ideal-gas law:
+PV = nRT
+DH = DE + D(PV)
+DH = DE + D(nRT)
+If the temperature is constant
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+131
+DH = DE + DnRT
+or DE = DH – DnRT
+where ∆ =nn n ∑ ∑P R – of the gaseous substances.
+ Example 3.3
+Calculate the change in enthalpy when 2 moles of CO is converted to 2 moles of
+CO2
+ at 1 atm and 25°C.
+2CO (g) + O2
+ (g) Æ 2CO2 (g) DE = – 563.5 kJ
+Solution:
+Given T = 25°C = 298 K
+ DE = – 563.5 kJ
+ Dn = number of moles of gaseous products – number of moles of gaseous reactants
+ = 2 – 3 = – 1
+ R = 0.082 
+L.atm
+mol.K = 8.314 J/mol.K
+ DH = DE + DnRT
+= – 563.5 kJ + (8.314J/mol.K × 298 K × –1 mol)
+= – 563.5 kJ – (8.314 × 298) J
+= – 563.5 kJ – 2477.6 J
+= – 563.5 kJ – 2.5 kJ
+= – 566.0 kJ
+Is there a significant difference between the values of DH and DE?
+Note that if a physical process or reaction occurs under constant-volume conditions, then
+the heat change, (q)V, is equal to DE. On the other hand, when a physical process or
+reaction is carried out at constant pressure, the heat change, (q)
+P, is equal to DH.
+Consider the combustion of methane:
+CH4
+(g) + 2O2
+(g) Æ CO2
+(g) + 2H2
+O(l); C –890.3kJ ° ∆ = H
+We say that the enthalpy change in the combustion of 1 mol CH4
+(g) at 25°C is 890.3 kJ.
+The negative value of DH shows that the combustion of methane at constant pressure is an
+exothermic reaction.
+CHEMISTRY GRADE 12
+132
+Some Properties of Enthalpy
+1. Enthalpy is an extensive property. The enthalpy of a system depends on the quantities
+of substances present. Consider the formation of ammonia from nitrogen and
+hydrogen;
+1/2N2
+(g) + 3/2H2
+(g) U NH3
+(g); ∆Hf
+ = –45.9 kJ/mol
+It is found experimentally that –45.9 kJ of heat is produced when 1/2 mole of
+nitrogen reacts with 3/2 moles of hydrogen to produce 1 mole of ammonia at constant
+pressure system.
+1 mole of nitrogen reacts with 3 moles of hydrogen to form 2 moles of NH3
+ and
+– 91.8 kJ of heat is produced.
+2. The enthalpy change for a reaction is equal in magnitude but opposite in sign to DH
+for the reverse reaction. For example, if we assume for the reverse reaction of the
+formation of ammonia (forward reaction for decompostion of ammonia):
+NH3
+(g) U 1/2N2
+(g) + 3/2H2
+(g); ∆Hr
+ = +45.9 kJ/mol
+H = +45.9 kJ r H = –45.9 kJ f
+1/2N (g) + 3/2H (g) 2 2
+NH3(g)
+Figure 3.4 Reversing a reaction changes the sign but not the magnitude of the
+enthalpy change: DHr
+ = – DHf
+.
+3. The enthalpy change for a reaction depends on the state of the reactants and the
+products. If the product in the combustion of methane were gaseous H2
+O instead of
+liquid H2
+O, DH would be – 802 kJ instead of – 890.3 kJ. This is due to the absorption
+of 88 kJ of heat when 2 mol of liquid water is changed to gaseous water.
+2H2
+O(l) Æ 2H2
+O(g); ∆ =+ H 88kJ
+Therefore, the states of the reactants and products must be specified.
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+133
+3.3.2 Standard States
+Is there any difference between standard states of ideal gases and standard states
+of thermodynamic properties?
+The standard state for a substance is the most stable form at temperature of 25°C and at
+atmospheric pressure of 1 atm. We can define the standard enthalpy of combustion, DH°
+C,
+as the change in enthalpy that accompanies the combustion of 1 mole of a substance in
+oxygen at standard conditions. Most chemical reactions that produce heat are combustion
+reactions. The food we eat is combusted in our bodies in order to give us energy. Most of
+the energy our bodies need comes from carbohydrates and fats. Carbohydrates are
+decomposed in the intestines into glucose, C6
+H12 O6
+.
+Glucose is soluble in blood and is known as blood sugar. It is transported by the blood to
+cells, where it reacts with O2
+ in a series of steps, eventually producing CO2
+(g), H2
+O(l),
+and energy.
+C6
+H12O6
+(s) + 6O2
+(g) Æ 6CO2
+(g) + 6H2
+O(l); ° ∆ = HC – 2816 kJ
+The breakdown of carbohydrates is rapid, so their energy is quickly supplied to the body.
+Standard Enthalpies of Formation
+The standard enthalpy of formation, f
+° ∆H , is the change in enthalpy in the reaction when
+one mole of a substance is formed from the elements in their standard states. By definition,
+the standard enthalpy of formation of the most stable form of any element is zero.
+Table 3.2 Standard enthalpies of formation, ° ∆Hf , of some substances at 25°C.
+ Substance Formula ° ∆Hf (kJ/mol)
+Acetylene C2H2(g) 226.7
+Ammonia NH3(g) – 46.11
+Benzene C6H6(l) 48.99
+Calcium carbonate CaCO3(s) – 1207.1
+Calcium oxide CaO(s) – 635.5
+Carbon dioxide CO2(g) – 393.5
+Diamond C(s) 1.88
+Ethane C2H6(g) – 84.68
+Ethanol C2H5OH(l) – 277.7
+Ethylene C2H4(g) 52.26
+ Glucose C6H12O6(s) – 1260
+CHEMISTRY GRADE 12
+134
+ Substance Formula ° ∆Hf (kJ/mol)
+Hydrogen bromide HBr(g) – 36.23
+Hydrogen chloride HCl(g) – 92.30
+Hydrogen fluoride HF(g) – 271.1
+Hydrogen iodide HI(g) 26.48
+Methane CH4(g) – 74.85
+Methanol CH3OH(l) – 238.6
+Nitric oxide NO(g) 90.25
+Nitrous oxide N2O(g) 82.05
+Nitrogen dioxide NO2(g) 33.18
+Propane C3H8(g) – 103.85
+Silver chloride AgCl(s) – 127.0
+Sodium bicarbonate NaHCO3(s) – 947.7
+ Sodium carbonate Na2CO3(s) – 1130.9
+Sodium chloride NaCl(s) – 441.0
+Sulfur dioxide SO2(g) – 296.8
+Sulfur trioxide SO3(g) – 395.7
+Water H2O(l) – 285.8
+Water vapor H2O(g) – 241.8
+Now let us explore how we can use standard enthalpies of formation to determine standard
+enthalpy changes of chemical reactions.
+We sum the enthalpies of formation of all reaction products, taking care to multiply each
+molar enthalpy of formation by the coefficient of that substance in a balanced equation.
+From this, we subtract a similar sum of the enthalpies of formation for the reactants:
+( ) ( ) rxn f products f reactants n –m ° ° ° ∆=∆ ∆ HH H ∑ ∑
+where, n and m are the stoichiometric coefficients of the chemical reaction.
+Example 3.4
+The standard enthalpies of formation of NH3, H2
+O and NO are –46.2, –241.8
+and 90.3 kJ/mol, respectively. Calculate the enthalpy of the reaction:
+4NH3
+ (g) + 5O2
+ (g) Æ 6H2
+O(l) + 4NO (g)
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+135
+Solution:
+The convenient way to begin this kind of calculation is to list f
+° ∆H under the
+formula of each substance in the equation.
+4NH3
+ (g) + 5O2
+ (g) Æ 6H2
+O (l) + 4NO (g)
+–46.2 kJ 0 –241.8 kJ 90.3 kJ
+Now we can multiply these f
+° ∆H values by the numbers of moles given by the
+coefficients in the equation. In substituting these values into the general equation for
+f
+° ∆H , remember that we must subtract the sum of the terms for the reactants from
+the sum of the terms for products.
+rxn f 2 ( ) ( ) ( ) () f f 3 f 2 6 H O 4 NO – 4 NH – 5 O °° ° ° ° ∆ =∆ +∆ ∆ ∆           HH H H H
+= 6 (–241.8 kJ/mol) + 4 (90.3 kJ/mol) – 4 (–46.2 kJ/mol) – 5 (0 kJ/mol)
+= –1450.8 kJ + 361.2 kJ + 184.8 kJ – 0
+= –904.8 kJ
+Example 3.5
+Calculate DH°
+ for combustion of propane, C3
+H8
+, from the f
+° ∆H values of the
+products and reactants.
+C3
+H8
+ (g) + 5O2
+ (g) Æ 3CO2
+ (g) + 4H2
+O (l)
+Solution:
+As usual, first we list f
+° ∆H under the formula of each substance in the equation:
+C3
+H8
+(g) + 5O2
+(g) Æ 3CO2
+(g) + 4H2
+O(l)
+–103.8 kJ 0 –393.5 kJ –285.8 kJ
+DHrxn = 3(–393.5 kJ/mol) + 4 (–285.8 kJ/mol) – (–103.8 kJ/mol) – 5(0)
+ = (–2324) – (–103.8)
+ = –2220 kJ
+Exercise 3.3
+1. Using the standard enthalpies of formations given in Table 3.2, calculate the DH °
+for the reaction:
+CH4
+ (g) + 2O2
+ (g) Æ CO2 (g) + 2H2O (l)
+CHEMISTRY GRADE 12
+136
+2. Compare the quantity of heat produced by combustion of 1.00 g of propane,
+C3
+H8
+, with that produced by 1.00 g of benzene, C6
+H6
+. (Hint: refer to Example
+3.5, above).
+The standard molar enthalpy of neutralization is the change in enthalpy, DHneut, when
+one mole of an acid or a base is completely neutralized. For example, the heat of
+neutralization for
+HCl(aq) + NaOH(aq) Æ NaCl(aq) + H2
+O(l) DHneut= –56.2 kJ/mol
+ Example 3.6
+1.00 × 102 mL of 0.5 M HCl was mixed with 1.00 × 102 mL of 0.5 M NaOH. The
+initial temperature of the HCl and NaOH solution was the same, i.e., 22.5°C, and
+the final temperature of the mixed solution was 25.86°C. Calculate the heat change
+for the neutralization reaction on a molar basis.
+NaOH(aq) + HCl(aq) Æ NaCl(aq) + H2
+O(l)
+Assume that the densities and specific heats of the solutions are the same as for
+water (1.00 g/mL, and 4.184 J/g°C, respectively)
+Solution:
+Assuming no heat lost to the surroundings, qsys
+ = qsoln + qrxn = 0, so qrxn = –qsoln,
+where qsoln is the heat absorbed by the combined solution. Because the density of
+the solution is 1.00 g/mL, the mass of a 100 mL solution is 100 g. Thus
+Specificheat q
+m T = × ∆
+qsoln = m × CDT
+ = (1.00 × 102 g + 1.00 × 102 g) (4.184 J/g°C) (25.86°C – 22.50°C)
+ = 2.81 × 103 J = 2.81 kJ
+Because qrxn = –qsoln, qrxn = –2.81kJ
+The number of moles of both HCl and NaOH in 1.00 × 102 mL solution is:
+0.5mol×0.1L = 0.05mol
+1L
+Therefore, the heat of neutralization when 1.00 moles of HCl react with 1.00
+moles of NaOH is 2.81kJ – –56.2kJ/ mol
+0.05mol =
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+137
+Exercise 3.4
+2.00 × 102 mL of 0.862 M HCl is mixed with 2.00 × 102 mL of 0.431 M Ba(OH)2
+ in a
+constant-pressure calorimeter of negligible heat capacity. The initial temperature of the
+HCl and Ba(OH)2
+ solution is the same, at 20.48°C.
+For the process
+H+
+(aq) + OH–
+(aq) Æ H2
+O(l)
+the heat of neutralization is –56.2 kJ/mol. What is the final temperature of the
+mixed solution?
+3.3.3 Hess’s Law
+Hess’s law states that if different processes are used to bring about the same change the
+enthalpy changes during these processes are the same.
+Consider the following cycle, in which Path x from step A Æ B, represents one process,
+and path y represents second process through three steps: A Æ C, C Æ D, and D Æ B.
+Both paths result in the same change.
+DH1
+ = HB – HA
+If we know how to calculate the enthalpy from A to C, from C to D, and from D to B, then
+we can calculate the enthalpy from A to B for path x. This is possible because enthalpy is
+a state function. By definition,
+DH2
+ = HC – HA
+DH3
+ = HD – HC
+DH4
+ = HB – HD
+According to Hess’s Law, if we add up DH2
+, DH3
+ and DH4
+, we get:
+∆ +∆ +∆ = + + = =∆ H2 3 4 CA D C B D BA 1 H H HH H H HH HH H ( ) – – –– ( ) ( )
+DH1
+ = DH2
+ + DH3
+ + DH4
+This shows that the change in the heat of a reaction is constant, whether the reaction is
+carried out directly in one step or through a number of steps.
+CHEMISTRY GRADE 12
+138
+To apply Hess’s law, you can generally expect to do the following.
+Reverse certain equations and change the signs of their DH values. Multiply certain quantities
+and their DH values by appropriate factors. The factors may be whole numbers or fractions.
+Example 3.7
+The enthalpies of combustions, of C to CO2
+ and CO to CO2 are –393.5 kJ/mol
+and –283.0 kJ/mol, respectively.
+1. C(s) + O2
+(g) Æ CO2
+(g); DH = –393.5 kJ
+2. CO(g) + 1/2 O2
+(g) Æ CO2
+(g); DH = –283.0 kJ
+Using these data, calculate the enthalpy of combustion of C to CO.
+C(s) + 1/2 O2
+(g) Æ CO(g)
+Solution:
+To apply Hess’s Law, we need to arrange the above equations, (Equation (1) and
+equation (2)) so that C(s) on the reactant side and CO(g) on the product side of
+the arrow are the same, as we can see in the target equation.
+To do this, we need to reverse equation (2) so that CO(g) is a product. Remember
+that when reactions are reversed, the sign of DH is also reversed. We arrange the
+two equations so that they can be added to give the target equation:
+C (s) + O2
+ (g) Æ CO2 (g); DH = –393.5 kJ
+CO2 (g) Æ CO (g) + 1/2 O2
+ (g); DH = 283.0 kJ
+ C (s) + 1/2O2
+ (g) Æ CO (g); DH = –110.5 kJ
+ Example 3.8
+Calculate the enthalpy for the following reaction:
+C (graphite) Æ C (diamond)
+Given the data:
+1. C (graphite) + O2
+ (g) Æ CO2
+ (g); DH = –393.5 kJ
+2. C (diamond) + O2
+ (g) Æ CO2
+ (g); DH = –395.4 kJ
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+139
+Solution:
+To get the target equation C (graphite) Æ C (diamond) from equation (1) and (2),
+we reverse equation (2) and add to equation (1).
+C (graphite) + O2 (g) Æ CO2 (g); DH = –393.5 kJ
+CO2 (g) Æ C (diamond) + O2 (g); DH = 395.4 kJ
+ C (graphite) Æ C (diamond); DH = 1.9 kJ
+Exercise 3.5
+1. From the following enthalpies of reaction:
+a 2SO2
+(g) + O2
+(g) Æ 2SO3
+(g); DH = –196 kJ
+b 2S(s) + 3O2
+(g) Æ 2SO3
+(g); DH = –790 kJ
+Calculate the enthalpy change for the reaction:
+S(s) + O2
+(g) Æ SO2
+(g)
+2. Calculate DH for the reaction:
+2C(s) + H2
+(g) Æ C2
+H2
+(g)
+Given the following reactions and their respective enthalpy changes:
+a C2
+H2
+(g) + 5/2O2
+(g) Æ 2CO2
+(g) + H2
+O(l); DH = –1296.6 kJ
+b C(s) + O2
+(g) Æ CO2
+(g); DH = –393.5 kJ
+c H2
+(g) + 1/2O2
+(g) Æ H2
+O(l); DH = –285.9 kJ
+3.3.4 Bond Energies
+Why is bond energy defined only for gases?
+Bond energy is the enthalpy required to break a particular bond in 1 mole of gaseous
+molecules. This energy is generally expressed in kilojoules per mole of bonds (kJ/mol).
+It is easy to understand bond-dissociation energy (D) for diatomic molecules because
+there is only one bond (single, double or triple) per molecule. We can represent bonddissociation energy as an enthalpy change or a heat of reaction. The enthalpy change for
+the reverse reaction, which is bond formation, is the negative of the bond-dissociation
+energy. For example
+Bond breaking: Cl2
+ (g) Æ 2Cl (g); DH = +243 kJ/mol
+CHEMISTRY GRADE 12
+140
+Bond forming: 2Cl (g) Æ Cl2
+ (g); DH = –243 kJ/mol
+Notice that the bond energy is always a positive quantity; energy is always required to
+break chemical bonds. Conversely, energy is released when a bond forms between two
+gaseous atoms or molecular fragments. Of course, the greater the bond energy, the stronger
+the bond.
+Calculations Involving Bond Energies
+How do we apply bond energies to calculate DH?
+For chemists, reactions involve the breaking and remaking of bonds. So, we can imagine
+a process in which we break all the reactant molecules into their respective atoms, and
+then recombine the atoms in the way we want. In other words the process we follow is:
+Gaseous reactants Æ gaseous atoms Æ gaseous products
+The enthalpy of the reaction is estimated as the total energy required to break the bonds
+minus the total bond energies of the new bonds formed.
+∆ = H ∑ ∑ ( ) bondenergiesof bondsbroken – bondenergiesof ( ) bondsformed
+Table 3.3 Average bond energies of some substances (kJ/mol).
+Bond Bond Energy Bond Bond Energy
+H — H 436 N — H 389
+H — F 565 N — N 163
+H — Cl 427 N — O 201
+H — Br 366 N — F 272
+H — I 295 N — Br 243
+C — H 413 N — I 159
+C — C 348 O — H 463
+C — N 305 O — F 190
+C — O 358 O — Cl 203
+C — F 485 O — I 234
+C — Cl 328 F — F 155
+C — Br 276 Cl — F 253
+C — I 240 Br — Br 193
+Multiple bonds
+C C 614 N N 418
+C C 839 N O 607
+C N 615 O O 498
+C O 799 N N 945
+C O 1072
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+141
+Example 3.9
+Estimate DH for the following reaction:
+2 6 2 2 2
+7 C H (g) O (g) 2CO (g) 3H O (g) 2
++→ +
+Solution:
+Among the reactants, we must break six C – H bonds and one C – C bond in
+C2
+H6
+. We also break 7 O O bonds.
+2 = Among the products, we form four C = O
+bonds (two in each CO2
+) and six O – H bonds (two in each H2
+O). We may
+rewrite the equation, using Lewis structures of each substance involved in the
+reaction.
+H — C — C — H (g) + O O (g) 2O C O (g) + 3H — O — H (g)
+H H
+H H
+7
+2
+( )( ) ( ) ( )( ) ( ) 7 ∆ = 6 C – Η + C–C + O=O – 4 C= Ο +6 H–O
+2
+      H
+ ( ) ( )( ) 7 = 6 413 kJ + 348 kJ /mol + 498 kJ/mol – 4 799 kJ/mol – 6(463 kJ/mol) 2
+ = 4558 kJ/mol – 5974 kJ/mol = –1416 kJ/mol
+Example 3.10
+Estimate the enthalpy of the formation of gaseous hydrazine, N2
+H4
+(g)
+N2
+(g) + 2H2
+(g) Æ N2
+H4
+(g)
+Solution:
+To know the bond energies, we need to write a Lewis structure for each substance
+involved in the reaction.
+DH = 945 kJ + 2(436 kJ) – 4(389 kJ) – 163 kJ
+= 1818 kJ – 1719 kJ
+= 99 kJ
+CHEMISTRY GRADE 12
+142
+Exercise 3.6
+Using bond energies given in Table 3.3, estimate DH for each of the following gasphase reactions.
+a CH3
+OH(g) + HBr(g) Æ CH3
+Br(g) + H2
+O(g)
+b CO(g) + H2
+O(g) Æ H2
+(g) + CO2
+(g)
+ Experiment 3.1
+Measuring the standard molar enthalpy of neutralization
+Objective: To measure the standard molar enthalpy of the neutralization of sodium
+hydroxide and hydrochloric acid.
+Apparatus: Plastic cup, beaker, thermometer, measuring cylinder, cotton wool.
+Chemicals: Sodium hydroxide, hydrochloric acid.
+Procedure:
+1. Measure 50 mL of 1M NaOH solution and put it in the plastic cup. Measure its
+initial temperature and record it.
+2. Add 50 mL of 1 M HCl to the beaker containing 50 mL of 1 M NaOH and stir the
+solution with the thermometer. Record the maximum temperature of the mixture.
+Thermometer
+Plastic cup
+Cotton wool
+1 M NaOH + 1 M HCl
+Beaker
+Figure 3.5 Apparatus to measure standard molar enthalpy of neutralization.
+3. Record the temperature as follows:
+Initial temperature of NaOH ...............
+Temperature of the mixture of NaOH and HCl ...............
+Change in temperature, DT = ...............
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+143
+4. The total mass of the solution is 100 g (100 mL), and the specific heat of the
+solution is ...............
+[Given: Specific heat of water = 4.18 J/g.°C]
+Observations and analysis:
+1. Calculate the heat of neutralization.
+2. Is the value obtained for the heat of neutralization larger or smaller than 57.3 kJ?
+Why?
+3. If more acid is added after neutralization, no more rise in temperature will take
+place. What is the reason?
+3.4 ENTROPY AND THE SECOND LAW OF
+THERMODYNAMICS
+At the end of this topic, you will be able to:
+• explain entropy and entropy change;
+• calculate entropy change, from the given standard entropies of substances;
+• state the second law of thermodynamics;
+• explain the second law of thermodynamics;
+• calculate the entropy changes from the given enthalpy changes of the system and
+absolute temperature;
+• explain free energy and free-energy change;
+• calculate the standard free-energy change, DG°, from given standard free energies
+of reactants and products;
+• describe the relationship between DG°, DH° and S° of a reaction; and
+• determine the spontaneity of a given reaction.
+3.4.1 Entropy and Spontaneous Process
+Activity 3.8
+Discuss the following issues in group and present your ideas to the class.
+1. Why a ball rolls down a hill but not up?
+CHEMISTRY GRADE 12
+144
+2. Does this rolling of ball down a hill need any action from outside to occur?
+3. List any process that can occur in a system by itself.
+4. Decide whether the following become ordered or disordered.
+a Solids melt to liquids.
+b Solids or liquids vaporize to form gases.
+c Solids or liquids dissolve in a solvent to form solutions.
+d A chemical reaction produces more number of molecules of gases.
+A spontaneous process (change) is a change in a system that proceeds without any outside
+influence on the system. For example, when we add solid salt to water, the solid dissolves
+without any outside influence. The dissolution is spontaneous. Liquid water freezes to ice
+spontaneously below 0°C; ice melts spontaneously at 25°C. When a solution of an acid is
+added to a solution of a base, the hydronium ions and hydroxide ions combine spontaneously.
+We know well that certain other processes don’t occur by themselves. They are said to be
+non-spontaneous. For example, water does not freeze to form ice at room temperature.
+The iron oxide of a rusty nail does not revert to iron metal and oxygen gas, solid sodium
+chloride does not decompose into sodium metal and chloride gas.
+A non-spontaneous process is one that cannot take place without outside influence on the
+system.
+The fact that a process is spontaneous does not mean that it will occur at an observable
+rate. A spontaneous reaction may be very fast, as in the case of acid-base neutralization, or
+very slow, as in the case of the rusting of iron. Thermodynamics can tell us the direction
+and extent of a reaction, but it can say nothing about its speed. Which field of chemistry
+studies the rates of reactions?
+What factors make a process spontaneous?
+In the previous section, we have seen that the enthalpy change, DH, for a process is an
+important factor in determining whether the process is favorable. Those exothermic
+processes for which DH is very negative are frequently spontaneous. For example, enough
+heat to melt and ignite the metal may be produced by the spontaneous reaction of sodium
+with water, and the reaction is exothermic.
+2Na (s) + 2H2
+O (l) Æ 2NaOH (s) + H2 (g); DH°298 = – 281.9 kJ
+However, we shall see that considering only the enthalpy change of a process is not enough.
+The spontaneity of a process also depends on how the disorder of the system changes
+during the process.
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+145
+Entropy and Entropy Change
+Entropy (S) is the thermodynamic property of a system that is related to its degree of
+randomness, or disorder. The greater the randomness, or disorder, in a system, the higher
+is its entropy. Entropy is one of the most important scientific concepts.
+The SI unit of entropy is JK–1 (Joule per Kelvin), which is the same unit as that of heat
+capacity. Every substance has entropy as one of its characteristic properties, just as it has
+colour, hardness, volume, melting point, density and enthalpy. Is entropy an intensive or
+extensive property?
+The entropy change, DS, for a chemical change is equal to the sum of the entropies of the
+products minus the sum of the entropies of the reactants.
+DSrxn = Â mS (product) – Â nS(reactant)
+where m and n are the amounts of the individual species represented by their coefficients
+in the balanced equation. For a reaction,
+aA + bB Æ cC + dD, the entropy change is
+∆ ( )( ) ( )( ) CD AB = c×S + d×S – a ×S + b×S       S
+where SA is the entropy of A, SB is the entropy of B, and so on.
+* DS > 0 indicates an increase in randomness, or disorder, during the change.
+* DS < 0 indicates a decrease in randomness, or an increase in order.
+In Activity 3.8, in which case does the entropy increase? In which case does the entropy
+have a negative sign?
+The difference between the entropy change for a process at 298 K and that same process
+at some other temperature is generally small and is often ignored. It is common practice to
+make the approximation that DS°298 equals DS° for the same process.
+DS°rxn = Â mS°(product) – Â nS°(reactant)
+ Example 3.11
+Predict whether each of the following leads to an increase or decrease in the
+entropy.
+a H2
+O(l) Æ H2
+O(g)
+b C12H22O11(s) Æ C12H22O11(aq)
+CHEMISTRY GRADE 12
+146
+c Ag+ (aq) + Cl– (aq) Æ AgCl(s)
+d N2
+(g) + 3H2
+(g) Æ 2NH3
+(g)
+Solution:
+a The vaporization of a liquid is accompanied by an increase in volume, because
+the molecules are distributed throughout a much larger volume in the gaseous
+state than in the liquid state, an increase in disorder accompanies vaporization,
+thus producing an increase in entropy.
+b Sucrose molecules are highly ordered in the solid state, however they are
+randomly distributed in aqueous solution. We predict an increase in entropy.
+c In this process, the ions that are free to move about the larger volume of the
+solution form a solid in which the ions are confined to highly ordered positions.
+Thus there is a decrease in entropy.
+d Four moles of gaseous reactants produce two moles of gaseous products.
+Because two moles of gas in a highly disorganized state of matter are lost, we
+predict a decrease in entropy.
+Exercise 3.7
+1. Indicate whether each of the following reactions produces an increase or decrease
+in the entropy of the system, and predict whether DS is positive or negative in each
+case.
+a CO2 (s) Æ CO2 (g)
+b CaO (s) + CO2
+(g) Æ CaCO3 (s)
+c NH3 (g) + HCl (g) Æ NH4
+Cl (s)
+d 2KClO3 (s) Æ 2KCl (s) + 3O2 (g)
+2. Predict the sign of entropy change for each of the following processes:
+a cooling nitrogen gas from 80°C to 20°C
+b freezing liquid bromine below its melting point
+c evaporating ethanol
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+147
+Activity 3.9
+3.4.2 The Second Law of Thermodynamics
+Write a brief paragraph on the following topic and present it to the class.
+If the processes of the universe are not at equilibrium, what would be the effect of the
+solar energy on living things?
+The connection between entropy and the spontaneity of a reaction is expressed by the
+second law of thermodynamics, which states that “The entropy of the universe increases
+in a spontaneous process and remains unchanged in an equilibrium process.” Because
+the universe is made up of the system and its surroundings, the entropy change in the
+universe (DSuniv) for any process is the sum of the entropy changes in the system (DS
+sys)
+and the surroundings (DSsur).
+Mathematically, we can express the second law of thermodynamics as follows:
+For a spontaneous process: DSuniv = DS
+sys
+ + DSsur > 0
+For an equilibrium process: DSuniv = DS
+sys
+ + DSsur = 0
+For a spontaneous process, the second law says that DSuniv must be greater than zero, but
+it does not place a restriction on either DS
+sys
+ or DSsur. Thus it is possible for either DS
+sys
+ or
+DSsur to be negative, as long as the sum of these two quantities is greater than zero. For an
+equilibrium process, DSuniv is zero. In this case DS
+sys
+ and DSsur must be equal in magnitude
+but opposite in sign.
+Free Energy and Free Energy Change
+We have seen that the spontaneity of a reaction involves two thermodynamic concepts,
+enthalpy and entropy. A new quantity that tells us whether a reaction will be spontaneous
+was first developed by the American mathematician J. Willard Gibbs. He proposed a
+new state function, now called the Gibbs free energy, or just free energy, designated
+by G.
+The Gibbs free energy, G, is defined as
+G = H – TS
+where T is the absolute temperature, S is an entropy and H is an enthalpy.
+CHEMISTRY GRADE 12
+148
+Activity 3.10
+For a process occurring at constant temperature, the change in free energy is given by the
+expression
+DG = DH – TDS
+The Gibbs free energy change gives an unambiguous prediction of the spontaneity of a
+chemical reaction run at constant temperature and pressure, because it combines the effect
+of both DH and DS. Since temperature, T, has positive value, DS determines the sign of
+TDS terms, and the following can be summarized for DG = DH – TDS:
+* For a change in which DH < 0 and DS > 0, the change in Gibbs free energy becomes
+less than zero (DG < 0), and the process is spontaneous.
+* If DH > 0 and DS < 0, the change in Gibbs free energy becomes positive (DG > 0),
+and the process is non-spontaneous.
+* If DH > 0 and DS > 0, DG may or may not be negative, but only if DH < TDS,
+DG < 0.
+* If DH < 0 and DS < 0, DG < 0 if TDS is small. This occurs at small value of
+temperature.
+* If DG is zero, the process is at equilibrium and there is no driving force tending to
+make the reaction go in either direction.
+Table 3.4 Criterion for spontaneous change: DG = DH – TDS.
+Case DH DS DG Result Example
+1. – + – Spontaneous at all T 2O3(g) Æ 3O2(g)
+2. – – – Spontaneous toward low T N2(g) + 3H2(g) Æ 2NH3(g)
+– – + Non-spontaneous toward high T
+3. + + + Non-spontaneous toward low T 2H2O(g) Æ 2H2(g) + O2(g)
++ + – Spontaneous toward high T
+4. + – + Non-spontaneous at all T 2C (graphite) + 2H2(g) Æ C2H4(g)
+Do the following as a group assignment:
+1. Given the following DH and DS values, determine the temperatures at which these
+reactions would be spontaneous:
+a DH = 10.5 kJ; DS = 30 J/K
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+149
+b DH = 1.8 kJ; DS = 113 J/K
+c DH = –11.7 kJ; DS = –105 J/K
+2. Consider the reaction:
+2HI (g) Æ H2 (g) + I2 (g)
+a Is DS° > 0, DS° = 0 or DS° < 0 ?
+b Indicate the sign of DG° at high and low temperature, and predict whether the
+reaction is spontaneous or non-spontaneous
+c What is the answer for the questions a and b if the reaction is reversed?
+Example 3.12
+The reaction of calcium oxide with the pollutant sulfur trioxide has been proposed
+as one way of removing SO3
+ from burning high sulfur coal.
+CaO(s) + SO3
+(g) Æ CaSO4
+(s)
+Using the following DH°
+f
+ and S°
+298 values, calculate the standard free-energy change
+for the reaction under standard state conditions and predict whether the reaction is
+spontaneous or non spontaneous.
+CaO(s): DH°
+f
+ = –635.5 kJ/mol; S°
+298 = 40 J/mol K
+SO3
+(g): DH°
+f
+ = –395.7 kJ/mol; S°
+298 = 256.6 J/mol K
+CaSO4
+(s); DH°
+f
+ = –1432.7 kJ/mol; S°
+298 = 107 J/mol K
+Solution:
+We calculate DH°
+298 and S°
+298 for the reaction from the data and then calculate
+DG°
+298 from the free energy equation.
+DH°
+298= Â DH °
+f (product) – Â DH °
+f (reactant)
+= ° °° ∆ f 4 f f3 H HH CaSO (s) – ∆ CaO(s) – ∆ SO (g)
+= 1 mol (–1432.7 kJ/mol) –1 mol (–635.5 kJ/mol) –1 mol (395.7 kJ/mol)
+= –401.5 kJ = –401,500 J
+298 (products) (reactants) ∆SS S ° = – ∑ ∑ ° °
+ = CaSO (s) CaO(s) SO (g) 4 3
+S SS ° °° – –
+DS°
+298 =1 mol (107 J/mol K) – 1mol (40 J/mol K) –1mol (256.6 J/mol K)
+= –189.6 J/K
+CHEMISTRY GRADE 12
+150
+The free-energy change of a chemical process equals the sum of the free energies
+of formation of the products minus the sum of the free energies of formation of the
+reactants.
+For the reaction
+aA + bB Æ cC + dD
+the free energy change is
+298 (products) (reactants) ∆ ° ° ° GG G = ∑ ∑ ∆ – ∆
+ = ( )( )( )( ) °°° °
+fC fD fA fB   c × ∆ + d × ∆ – a × ∆ – b × ∆   GGGG
+The standard molar free energy of formation of any free element in its most stable
+state is zero. So, for the above example,
+298 298 298 ∆ ° ° ° GH S = ∆ – T∆
+ = –401,500 J – (298.15 K) × (–189.6 J/K)
+ = –344,971 J ª –345.0 kJ
+Since, DG°
+298 is negative, therefore, the reaction will be spontaneous.
+Exercise 3.8
+Classify each of the following reactions as belonging to the four possible cases summarized
+in Table 3.4.
+22 3
+22 3
+24 2
+ N g
+g
+g
+(g) + 3F (g) 2NF ( )
+ ∆ ° = – 249 kJ; ∆ = – 278 J/K
+N (g) + 3Cl ( ) 2NCl (g)
+ ∆ ° = 460 kJ; ∆ ° = – 275 J/K
+ N F (g) 2NF ( )
+ ∆ ° = 85 kJ
+1
+; ∆ ° = 
+2
+3 
+198 
+→
+°
+→
+→
+H S
+H S
+H S J/K
+4 Calculate the standard free energy change, for the reaction
+2Ag S(s) 2H O(l) 4Ag(s) 2H S(g) O (g) 2 2 + →+ + 2 2
+Standard molar free energies of formation of Ag2
+S, H2
+O and H2
+S are – 40.7, – 237.2
+and –33.6 kJ/mol, respectively.
+INTRODUCTION TO CHEMICAL THERODYNAMICS (UNIT 3)
+151
+Unit Summary
+• Thermodynamics is the study of heat, work, and energy and the rules that
+govern their inter-conversion. Among its basic ideas are the notion of a
+system and its surroundings, the concepts of kinetic energy, potential energy,
+and the internal energy and the distinction between two types of energy
+exchanges, heat (q) and work (W).
+• The first law of thermodynamics (the law of conservation of energy) tells us
+that the energy is conserved. That is the energy lost by a system equals that
+gained by its surroundings and vice versa.
+• Enthalpy change (DH) can be written into chemical equations and
+incorporated into conservation factors that relate amounts of substances
+with quantities of heat released or absorbed in chemical reactions. In an
+exothermic reaction, enthalpy of the system decreases and heat is given off
+to the surroundings. In an endothermic reaction, enthalpy increases and heat
+is absorbed from the surroundings.
+• The standard enthalpy change, DH°, and the standard enthalpy of formation
+(heat of formation), DHf
+°, are important thermodynamic quantities. The
+standard enthalpy of formation of a substance is defined as the enthalpy
+change for the formation of 1 mole of that substance from the elements,
+with all reactants and products in their standard states.
+rxn (products) (reactants)
+∆H nH H ° = ∑ ∑ ∆ ° °
+f f – m ∆
+• A spontaneous change in a system occurs by itself without outside
+intervention. The enthalpy change of a system, DH, is a measure of the heat
+change in a process. Exothermic processes (DH < 0) tend to occur
+spontaneously. The spontaneous character of a reaction is also determined
+by the change in randomness or disorder of the system, measured by the
+entropy, S. Processes that produce an increase in randomness or disorder of
+the system (DS > 0) tend to occur spontaneously.
+• The second law of thermodynamics tells us that in any spontaneous process
+the entropy of the universe increases. That is
+DSsystem + DSsurroundings > 0
+• The standard entropy change in a system, DS°, can be calculated from
+tabulated standard entropy values, S°, as follows:
+DS° = ∑ ∑ (products) m (reactants) o o nS – S
+CHEMISTRY GRADE 12
+152
+• The Gibbs free energy, G, is a thermodynamic state function that combines
+the two state functions enthalpy and entropy:
+• G = H – TS. For processes that occur at constant temperature,
+DG = DH – TDS
+• For a spontaneous process at constant temperature and pressure, DG must
+be negative, that is DG < 0. In many cases, the sign of DG can be predicted
+just by knowing the signs of DH and DS.
+• The standard free energy change, DG°, for any process can be calculated
+from tabulated standard free energies of formation,DG°

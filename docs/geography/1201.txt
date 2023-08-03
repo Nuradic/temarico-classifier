@@ -1,0 +1,902 @@
+Do you remember the definitions of geography you learned in previous grades?
+Geography is a discipline that attempts to understand human and physical 
+aspects of the world. Its primary concerns are location, time and the concept that 
+everything that happens to us is affected by our surroundings, including other 
+people and the places within which we live, work and travel. (Khaskar: 1)
+Geography helps us to understand how the world is changing. By studying 
+geography, you will conceive:
+F how places and landscapes are formed
+F how people and their environments interact
+F what decisions we make to further our social interests 
+F what causes the diverse range of cultures and societies, and what results 
+from these. 
+Considering such issues motivates us to: 
+F formulate questions
+F develop intellectual skills for finding answers (solutions) 
+F introduce investigative tools
+Because of the wide range of geography’s human and physical concerns, the 
+questions that arise in its study ultimately lead us to perform research. The goals 
+of this research include: 
+F producing definite answers to the questions 
+F improving existing answers to the questions 
+F performing research that leads to a consensus regarding the answers
+Unlike the concerns of most social sciences, the social concerns of geography 
+are relatively dynamic. To provide sustainable solutions for this fast-changing 
+subject, we must use skilled action research. 
+In this unit you will learn the skills and attitudes that this approach to research
+requires. This information could lead you to become one of tomorrow's 
+experienced researchers. 
+Unit 1: Basic Research Methodologies In Geography 3
+Introduction 1.2 The Significance Of Research
+1.1 DEFINITION AND CONCEPT
+At the end of this section, you will be able to:
+Þ explain the concept of research. 
+Key Terms
+³ Research 
+³ Research method
+³ Systematic inquiry
+³ Discovery
+Have you ever attempted a small research project at your class or section level? 
+The term research came into English from 
+F the old French root word “cerchier,” which means to search or seek; 
+and 
+F the prefix ‘re-’ which means again. 
+Research, therefore, means to seek again with a view to becoming certain. (Desta 
+Hamito; 2000) 
+By the term definition, we mean a generally agreed-on opinion about the subject 
+under clarification. When we define research it is in this sense. We define research 
+as a scientific method of investigating answers for the problems identified. It 
+is also a systematic inquiry into causes or the discovery of new facts through 
+planned and organized effort that requires time, money and skill. 
+In short, research is the search for knowledge through objective and systematic 
+methods of finding solutions to problems.
+1.2 THE SIGNIFICANCE OF RESEARCH
+At the end of this section, you will be able to:
+Þ show appreciation to the significance of research in tackling social 
+problems.
+Key Terms
+³ Development 
+³ Problem solving 
+³ Problem identification 
+³ Rational decisions 
+³ Policy 
+Grade 12 Geography 4
+1.2 The Significance Of Research
+Have you ever imagined or thought about the importance of research?
+Development in any country depends, among other things, upon its research 
+capability and the extent to which this capability is channeled into action. Also, 
+to result in action, the research must be accessible to appropriate institutions, etc. 
+Sometimes capable research work never reaches its targeted destinations.
+Advances in science, technology and welfare are often considered to be the result 
+of capable research. Governments in developed countries allocate huge sums of 
+money for research work. Developing countries are also adopting this approach. 
+This situation has made research work a good business for professionals. 
+Research as a science or professional trade for studying geography:
+1 identifies the causes of problems, and the degree or extent of these problems.
+Example: The occurrences of hunger, flood, epidemics, etc.
+2 adds to the body of knowledge about the problem by providing new 
+information and knowledge.
+3 enables us to visualize or understand the gap between the real world and 
+the formulated theory.
+4 provides a basis for additional investigations that validate the research 
+findings or that advance the study of the problem by acquiring more data. 
+5 widens/enlarges one’s own or a group’s or society's reading and thinking 
+scope. 
+6 strengthens our capacity for critical observation and enforces our power 
+of prediction. 
+7 enables us to make rational decisions.
+8 serves as an aid to formulating policy. 
+Activity 1.1
+1 Can you distinguish the differences between these tasks? 
+F writing an essay
+F writing a report
+F writing up research work
+2 Ask your geography teacher and others to tell you about the significance of 
+research.
+3 Use the internet to find information about the importance of research.
+Unit 1: Basic Research Methodologies In Geography 5
+1.2 The Significance Of Research 1.3 Approaches Of Research (qualitative And Quantitative)
+1.3 APPROACHES OF RESEARCH 
+(QUALITATIVE AND QUANTITATIVE)
+At the end of this section, you will be able to:
+Þ use different geographic research approaches in action research. 
+Key Terms
+³ Quantitative 
+³ Qualitative 
+³ Theory 
+³ Independent variable 
+³ Dependent variable 
+³ Inference 
+³ Model
+³ Approach 
+What do you mean by an approach to treating a problem? 
+There are two basic approaches to research. Their differences are mainly in 
+the attributes to be measured and the techniques to be used for collecting and 
+analyzing data. These approaches are called
+A the quantitative approach B the qualitative approach
+A Quantitative Approach 
+We use the quantitative approach when trying to verify a given geographical 
+theory. We translate the concepts of the theory into variables that can be measured 
+with statistical techniques. 
+The advantage of this approach is that the quantitative technique employed by 
+one researcher can be used by another researcher for different objectives or for 
+further developing the same information. Very simple examples of this approach 
+are given below:
+F the decrease in land-lease prices as one travels from the center of a city 
+to its suburbs;
+F the decrease in population density as one travels from the center of a 
+city to its edges;
+F the decrease in temperature towards the poles from the equator.
+All of the preceding examples investigate changes that occur as a function of 
+distance from a defined point – for example, from the center of a city. In the 
+examples, distance is the determining variable. A determining variable influences
+the variation of other phenomena.
+Grade 12 Geography 6
+1.3 Approaches Of Research (qualitative And Quantitative)
+The quantitative approach can be subdivided:
+F Inferential quantitative approach: the target-study uses an existing 
+data base and infers characteristics or relationships from it.
+F Experimental quantitative approach: the research work manipulates 
+variables to see their effects on other variables. This approach 
+requires considerable control over the research environment in order 
+to manipulate the determining variables. As described above, distance 
+is the manipulated variable that affects lease price, population and 
+temperature.
+F Simulation (model) approach: this approach involves constructing an 
+artificial environment (model) to represent the actual environment we 
+are studying. The artificial environment functions in way that parallels 
+the actual environment and generates similar information. We use that 
+information to study the phenomena we are investigating.
+Example: 
+S = f (Pm, S1
+, Cl, …etc)
+This algebraic model simulates the characteristics and development of soil 
+as a system. In the model, 
+S = soil, Pm = parent materials (rock),
+S1
+ = slope, Cl = climate. 
+The algebraic model explains soil as a function of its parent material, climate and 
+slope. 
+The quantitative approach and hypotheses regarding an existing theory are 
+established and tested. Also, mathematical analysis is frequently used.
+Note
+In the preceding examples, distance from a center is the 
+determining variable. It determines the variation of these 
+phenomena:
+Â land-lease prices 
+Â population density 
+Â temperature 
+In all of the examples, we assume that any variable that has not 
+been mentioned is unchanging (is controlled).
+Unit 1: Basic Research Methodologies In Geography 7
+1.3 Approaches Of Research (qualitative And Quantitative) 1.3 Approaches Of Research (qualitative And Quantitative)
+B Qualitative Approach 
+What does qualitative method imply in the field of geography? 
+In the qualitative approach, data are used to explain a new theory. No previously 
+existing theory or hypothesis is tested by way of this approach. Quantitative 
+techniques are not employed. Therefore, the study cannot be repeated by other 
+researchers. 
+Common techniques for gathering data in the qualitative approach are: 
+Â group interviews
+Â questionnaires
+Â personal observations 
+Some examples of subjects that could be studied with the qualitative approach to 
+research are: 
+F differences between urban and rural populations of Ethiopia.
+F differences in academic achievement between boys and girls.
+F effects of harsh climate on human activity.
+F effects of poor leadership on students’ national examination results.
+ Exercise 1.1
+I Complete the following sentences correctly.
+1 The approach we take to research is a function of the subject or attributes 
+of the study and of the techniques to be used for collecting and analyzing 
+data. The approaches we choose from are ___________ and ___________.
+2 The technique of using interviews and questionnaires in data collection 
+comes under the ___________ approach.
+3 In the quantitative approach, hypotheses are established and ___________.
+4 If a given theory is not to be verified and no hypothesis about it is to be 
+established, the approach employed will be ___________.
+5 To examine the relationship between availability of books and student 
+grades in college entrance exam, we would use the ___________ approach 
+to research.
+telephone interviews 
+in-person interviews (face-to-face)
+Grade 12 Geography 8
+1.4 The Nature Of Geographic Research
+II Vocabulary Skills: See if you can match the items under column A with 
+their definitions under column B. Ignore the unrelatable ones. 
+A B
+1.4 THE NATURE OF GEOGRAPHIC 
+RESEARCH
+At the end of this section, you will be able to:
+Þ reflect the distinct nature of geographic research from other disciplines. 
+Key Terms
+³ Spatial distribution ³ GIS ³ Spatial data 
+Do you always focus on the same issue or center of interest?
+Geography's focus has developed in scope and approach over time through the 
+development of technology and accumulation of information.
+Traditionally, geographical research is related to the locations of places and 
+A A tested hypothesis.
+B A proposed idea or explanation that is 
+based on observed or known facts but 
+has not yet been proved. A predictive 
+statement that can be tested. 
+C Energetic and fast changing.
+D Simulation of the real world to explain 
+a designed feature.
+E To be proved.
+F Careful observation.
+G Characters.
+H To deal with problems.
+I A document or case that serves as a 
+source or reference.
+J Substances or factors whose effects 
+are studied.
+K Measures or investigates.
+1 To tackle problems
+2 Dynamic
+3 Theory
+4 Critical observation
+5 Attributes
+6 To be verified
+7 Inference
+8 Model
+9 Hypothesis
+10 Variables
+Unit 1: Basic Research Methodologies In Geography 9
+1.4 The Nature Of Geographic Research 1.4 The Nature Of Geographic Research
+people. In the eighteenth century, geography’s focus shifted to the physical 
+and human characteristics of places in our world. In the mid-twentieth century, 
+geographical research focused mainly on: 
+F the spatial distributions of phenomena and things
+F the resulting patterns and interactions
+F the forces responsible for the formation of the patterns
+Very lately, geographical research has begun to deal with environmental issues 
+like hunger, global warming, poverty and the sustainable development of our 
+ecosystem. 
+In July of 2006, in Brisbane, Australia, the International Geographical Union 
+(IGU) commission was formed under the UN Charter that commands worldwide 
+geographical education. The commission’s position is that the academic discipline 
+of geography is crucial to achieving sustainable worldwide development.
+ Human Population
+Human population is an issue of concern to geography, sociology, economics, 
+political science, etc. Each discipline has its own concerns and approaches to this 
+issue. However, the ideas of all these fields of study about population overlap.
+Economists’ sphere of interest is largely aggregate demand and supply and 
+responses to production. Sociologists’ research work greatly emphasizes cultural 
+values, the effect of the population factor on the occurrence of crimes, harmony 
+disorders, etc. 
+The concerns of geography and geographers are mainly to:
+F assess the spatial distribution of the population 
+F determine the forces that governed the distribution: 
+K is the distribution due to physical factors? or
+K is it due to economic factors?
+F examine patterns of population distribution: (is it sparsely or densely 
+populated, is there uniformity or not?) 
+F question whether there is a relationship between the distribution and 
+the factor observed:
+K are areas sparsely or densely populated?
+Grade 12 Geography 10
+1.5 Basic Research Methodology In Geography
+K is there uniformity or not?
+F To investigate possible relationships between population distribution and 
+other factors.
+F look at the impact of populations on the surrounding natural resources 
+F foreward views on the sustainability of the area or locality for the future
+Thus, we see the differences and similarities between the various disciplines’ 
+approaches to the issue of population and we see geography’s specific concerns 
+and approaches to population.
+In the 1950s and 1960s, the adoption of quantitative techniques in geographic 
+research revolutionized the field. Its interest in human-environment relations 
+became deeper and wider. At the end of the millennium, the development of the 
+Geographical Information system (GIS) produced a powerful investigative tool 
+for geographic research.
+Do you know what information sciences is? Please study the next section 
+carefully.
+ Geographic Information System (GIS)
+The Geographic Information System (GIS) is a computer system that records, 
+stores and analyzes information about features of the earth’s surface. The break 
+through that GIS provided is its ability to generate two-dimensional and threedimensional images of an area. Also, it can receive geographical data from maps, 
+satellites, photographs, and printed texts and books. GIS allows geographers to 
+conduct research on environmental changes. GIS, as an information-acquisition 
+and interpretation device, has enhanced geographers’ ability to perform accurate 
+high-level research. (Encarta, 2007)
+1.5 BASIC RESEARCH METHODOLOGY IN 
+GEOGRAPHY
+At the end of this section, you will be able to:
+Þ use basic elements of research in your action research. 
+Unit 1: Basic Research Methodologies In Geography 11
+1.5 Basic Research Methodology In Geography 1.5 Basic Research Methodology In Geography
+Key Terms
+³ Research problem
+³ Hypothesis 
+³ Interview 
+³ Sampling 
+³ Questionnaire 
+³ Research report 
+³ Bibliography 
+³ Data analysis 
+³ Primary data 
+³ Secondary data 
+Can you distinguish a research method from a research methodology? 
+The following three terms are related to one another, but vary in scope.
+F research, research method, and research methodology.
+A research project is an inquiry into a problem. The researcher’s motivation 
+might be curiosity or a specific objective. Research is the foundation of research 
+methods and methodology. Research results are important guides for solving 
+many business, social, academic and other problems.
+A research method or technique is a skill that uses different steps or elements to solve 
+the identified problem and arrive at a possible solution. The main methods are: 
+F the collection and organization of data necessary or related to the 
+problem.
+F the use of statistical parameters to treat and interpret the organized 
+data.
+F the evaluation of the accuracy of the result obtained.
+The concept of research methodology is much broader than the former two 
+concepts. It is a science that studies how research is done scientifically. It 
+considers:
+a why the study is undertaken (its significance at various levels)
+b how the research problem is identified 
+c what assumptions or hypotheses are formulated
+d what type of data are collected
+e why a particular method or technique of analyzing the data is chosen
+In short, research methodology has wider dimensions than research method 
+or technique. It is the philosophy or logic behind the research. Studying basic 
+geographic research methodology gives you the training you need to acquire the 
+skills below:
+F gathering materials and data and arranging them 
+Grade 12 Geography 12
+1.5 Basic Research Methodology In Geography
+F participating in field work
+F preparing questionnaires, interviews, etc. 
+F using statistical techniques
+F interpreting and reporting results of the study that you have designed 
+or proposed.
+Activity 1.2
+Form a group and study the following two options for your group work. Choose the 
+one that best suits your school environment and perform the activity.
+1 Ask your teacher to identify some one who is experienced in performing 
+research. Invite that person to visit your class and conduct a discussion session 
+on 
+a what research is
+b the significance of research
+c the relevance of research for geography
+2 Using Encarta or Internet or other possibly accessible materials, conduct a 
+group discussion inferring the different concepts stated between a research 
+technique and a research methodology.
+Basic Elements of Research 
+After considering basic questions of the research methodology for their projects, 
+geographers conduct their research by performing the following tasks:
+F identifying or formulating the research problem
+F defining the significance of the study for solving the problem
+Note
+Research is a time, money and other costs consuming activity 
+but empowers you to understand, be logical and be a good 
+observer.
+Unit 1: Basic Research Methodologies In Geography 13
+1.5 Basic Research Methodology In Geography 1.5 Basic Research Methodology In Geography
+F defining the study of the problem area
+F defining the objectives of the study 
+F defining the scope and limitations of the study
+F reviewing the literature
+F developing a working hypothesis 
+F preparing the research design 
+F defining the sample design
+F collecting and organizing the data 
+F analyzing the data by using statistical techniques 
+F generalizing and interpreting the data 
+F preparing the research report, based on the findings
+F compiling the bibliography/references 
+In what follows, we look at these elements:
+A Identifying or Formulating the Research Problem
+At the very beginning of a research project, the researcher must choose the 
+problem to study. In other words, the researcher must define the area of interest. 
+A good approach to defining a research problem is to discuss it with people who 
+have significant experience performing research in the study area and to read the 
+literature related to that area. 
+Investigating the causes of a problem is an important factor for identifying its 
+solutions. In some cases, a problem has multiple causes that you must identify.
+B Defining the significance of the study for Solving the 
+problem
+The significance of a research project differs from its objectives. Its significance 
+is its importance at a local, regional, national or global level. 
+To be significant, a study must benefit a society or community by: 
+F providing new discoveries
+F improving existing situations
+F demanding new decisions
+F enriching or refuting already existing theories
+Grade 12 Geography 14
+1.5 Basic Research Methodology In Geography
+C Studying the Problem Area
+When we study the problem area that a research project addresses, we create a 
+detailed bird's eye-view for ourselves and others who will access the research. 
+As we study the problem area, we identify problems and eliminate ambiguity. 
+This step is particularly important when we research the spatial distribution of 
+phenomena and things.
+D Defining the Objectives of the Study
+A study’s objectives are the goals the researcher intends to achieve through the 
+research project. In this step, general and specific objectives are set. The general 
+objectives provide short statements of the goal, while the specific objectives 
+provide detailed inter-connected statements.
+E Defining the Scope and Delimitation of the Study
+Research requires time, financing and skilled manpower or professionals. These 
+factors are not always available at required levels. Shortages of these resources 
+limits the spatial dimension that the research can cover. It also limits the quality 
+of the research work. The greater the accessibility or spatial extent, the wider is 
+the scope and the amount and quality of information to be obtained; which, in 
+turn, leads to greater competency.
+F Reviewing the Literature
+Did you have the experience of reviewing books? After reviewing, you may 
+have the main idea. Try to remember that idea.
+Reviewing the literature means identifying, reading and analyzing documentation 
+related to the research you plan to perform. For example,
+F books
+F academic journals 
+F conference proceedings
+F government reports
+F published and unpublished documents related to the problem
+For quantitative research, the literature review can help you identify the variables 
+and their relationships. You need to understand them in order to establish an 
+appropriate hypothesis. 
+Unit 1: Basic Research Methodologies In Geography 15
+1.5 Basic Research Methodology In Geography 1.5 Basic Research Methodology In Geography
+For qualitative research, the literature review helps you to expand your knowledge 
+of the research subject.
+G Developing or Formulating a Working Hypothesis
+How do we develop a working hypothesis?
+A hypothesis is a preliminary assumption or tentative explanation that accounts 
+for a set of facts, taken to be true for the purpose of investigation and testing a 
+theory.
+Establishing a working hypothesis is crucial for research in all disciplines 
+including geography. The information you gain from your literature review will 
+help you to formulate an appropriate hypothesis. 
+The hypothesis you develop will guide you as you define the types of data to 
+collect and decide which methods of data analysis you will use.
+A working hypothesis can be formulated based on the ideas you gather from: 
+a conducting discussions with experts, 
+b inferring from the work of others on similar studies, 
+c personal investigations of conducting original field interviews with 
+interested parties and individuals.
+A hypothesis must have the following characteristics. It 
+a should be clear and precise
+b should be capable of being tested or verified
+c should state relationships between the variables determined
+d must explain the facts that give rise to the explanation
+H Preparing the Research Design
+What is the basis for preparing a research design? 
+After formulating the research problem, you prepare a research design. The 
+research design is the conceptual framework within which the research could 
+be conducted. It helps you collect related evidence. It also helps you to limit 
+required time, effort and expense. 
+Grade 12 Geography 16
+1.5 Basic Research Methodology In Geography
+The preparation of an appropriate research design for a particular problem 
+involves the following considerations. 
+i the means of obtaining the information
+ii the competence of the researcher
+iii the time available for the research
+iv the money available for the research
+A research design answers such questions as these about your research project 
+and its subject: what, where, when, how much and by what means.
+I Defining the Sample Design
+What factors influence in determining the sample design? 
+We typically study samples of the total population in question, rather than studying 
+the entire population. If a population is very large, and we try to address the 
+entire population, our project might be too large to be practical. For example, the 
+amount of information we would need to identify, gather, organize and analyze 
+might be too large to manage.
+Choosing the population sample is called sampling. The resulting study is called 
+a “sample study”. To serve a useful purpose, a sample should be free from bias 
+and should appropriately represent the population.
+Example
+Population
+B Sample
+A = Population, which is the total unit (for example, the total number of 
+students in a school).
+B = Sample, which is only part of the total unit but is representative of it 
+(for example, only the students in two or three grade levels).
+Where
+Unit 1: Basic Research Methodologies In Geography 17
+1.5 Basic Research Methodology In Geography 1.5 Basic Research Methodology In Geography
+J Designing The Main Techniques for Sampling
+What are the basic techniques adopted in sampling? 
+There are two main sampling techniques: non-probability and probability.
+i Non-Probability Sampling
+F This approach is sometimes known as deliberate or purposive sampling.
+F The items for the sample are selected deliberately by the researcher.
+F The basis of such samplings is personal decision. 
+F There is always a danger of bias in such sampling. 
+ii Probability Sampling (also known as 'random sampling') 
+F This approach is often called chance or lottery sampling.
+F Under this approach to sampling, every item of the population has an 
+equal chance of being included (lottery method).
+F Only chance determines whether an item is selected or not. Once an 
+item is selected for the sample, it cannot appear again.
+There are different types of probability sampling (Random sampling). You will 
+learn about them when you reach the college level.
+K Collecting and Organizing the Data
+What is data? How do you collect it? 
+There are two types of data collection: primary and secondary.
+i Primary Data Collection: This type of data collection is original in character. 
+The research produces the data, rather than relying on existing data. 
+Note
+The appropriate percentage or ratio of the size of a 
+population sample to the entire population depends upon 
+the variability of the population. If the population under 
+study is homogeneous (similar) a small sample is sufficient. 
+On the other hand, if the population is heterogeneous, a 
+much larger size is necessary.
+Grade 12 Geography 18
+1.5 Basic Research Methodology In Geography
+There are several ways of collecting primary data. The important ones are based on 
+F The researcher's personal observations. 
+F Interviews conducted through telephone conversations and in person. 
+F Questionnaires: A questionnaire consists of a number of questions 
+printed or typed on a form or set of forms. The questionnaire is given 
+to the respondents, who then fill it out by themselves. The questionnaire 
+could be given to and collected from the respondents through the mail, 
+by e-mail, or in person.
+F discussion with groups of people.
+F Primary data collection may also make use of schedules. 
+This approach is similar to the use of questionnaires but differs in one 
+aspect. An assigned enumerator fills out the questionnaire. The enumerator 
+schedules appointments with the respondents, meets with them in person, 
+asks them the questions from the questionnaire, and records their answers.
+ii Secondary Data Collection: This type of data collection investigates data 
+that has already been collected, organized and arranged by someone else. 
+Secondary data may be either published or unpublished: 
+F Published data include:
+K publications by governments
+K publications by NGOs
+K journals
+K magazines and newspapers
+K reports by universities, scholars, etc.
+K historical records, etc.
+F Unpublished data include:
+K diaries
+K letters
+K unpublished biographies, etc.
+L Analysis of the Data
+Data analysis is an essential aspect of the scientific study of problems and 
+discovering their solutions. This step involves the use of statistical techniques to 
+measure relationships of the geographic variables defined in the hypothesis. The 
+Unit 1: Basic Research Methodologies In Geography 19
+1.5 Basic Research Methodology In Geography 1.5 Basic Research Methodology In Geography
+important issue in this step is the selection of appropriate measuring techniques.
+Different statistical techniques are employed in analyzing collected data. The 
+statistical techniques vary, depending on the nature of the geographical research, 
+the variables investigated, the ability of the researcher etc. 
+At this class level, you can use:
+i simple ratios and percentages
+ii pie charts and compound graphs
+iii measures of averages and raw-data variances 
+Processing research data with statistical techniques results in new discoveries 
+or findings, followed by interpretations. Then, based on the findings, 
+recommendations are made.
+ 
+M Preparing the Research Report, Based on the Findings
+The research report is a major component of the study. Until the report is written 
+or presented, no one can use the research results. The report must be clear and 
+accurate. 
+Even if your hypothesis is brilliant, your research sampling and statistical 
+technique accurate, and your results extremely important, they are of value only 
+if your readers can understand and appreciate them. 
+To create a good report, you must prepare it carefully. A good report is the product 
+of concentration, accuracy and the logical arrangement of your facts and ideas.
+N Compiling the Bibliography /References
+Compiling a bibliography is the final step of your research project. A bibliography 
+is a list of written materials relevant to the research study you have performed. 
+It includes all books, documents, etc that you referred to as you prepared for and 
+conducted your project. 
+Note
+Be sure that your recommendations are realistic.
+Grade 12 Geography 20
+1.5 Basic Research Methodology In Geography
+Arrange the items in your bibliography alphabetically. Use these formats:
+For Books and Pamphlets
+1 Name of the author, last name first.
+2 Title, underlined or in italics 
+3 Place, publisher and date of publication
+4 Volume(s) number(s)
+Example: Getas A, (2007), Introduction to Geography, 2nd edition, 
+Mc Graw Hill, New york. 
+For Magazines and Newspapers
+1 Name of the author, last name first
+2 Title of article, in quotation marks
+3 Name of the periodical, underlined to indicate the practice of italics 
+in printouts.
+4 Volume number 
+5 The date of the issue
+6 Page or page range 
+ Research Process in Flow Chart
+F
+FF
+ where 
+= feedback (Helps in controlling the subsystem to which it is transmitted)
+= feed forward (Serves the vital function of providing criteria for 
+evaluation) 
+Define
+research
+problem
+Review concetps
+and theories
+Review previous
+research finding
+Review the literature
+I
+II
+III
+Formulate
+hypotheses
+IV
+Design research
+(including
+sample design)
+Collect data
+(Execution)
+V
+Analyse data
+(Test hypothesis 
+ if any)
+Interpret
+and report
+VI VII
+FF
+FF
+F
+F F
+Unit 1: Basic Research Methodologies In Geography 21
+1.5 Basic Research Methodology In Geography 1.6 Conducting Action Research
+1.6 CONDUCTING ACTION RESEARCH
+At the end of this section, you will be able to:
+Þ conduct action research on selected problems.
+Key Terms
+³ Action research 
+³ Qualitative approach 
+³ Data collection 
+³ Sample size 
+³ Data analysis 
+³ Data interpreter
+Please think of various problems that exist at your school. Then perform the 
+following project.
+Under subtopic 1.5, we saw the basic research methodology and elements of 
+research work. Based on that, you will attempt to do a research project practically. 
+It is advisable for you do this in groups. 
+Action research is an ongoing research process by which a particular real 
+problem is identified, information/data are gathered, practical solutions are 
+tested, conclusions and recommendations are reached and finally improvements 
+are made. 
+The following are basic features of action research. 
+F It is based on reality. 
+F It enables researchers to put ideas into action.
+F There is rapid feedback. 
+F It aims at improving situations, not at producing new knowledge. 
+F It encourages reflections and further developments. 
+When we come to action research at this grade level, you are expected to exercise 
+elementary research work activities since they are also engaged in studying 
+other subjects. Here, the problems identified or selected should be very easy and 
+accessible to the students' capacity, time and availability of sources. Hence, the 
+following steps are thought to be helpful in conducting action research at this 
+level.
+Grade 12 Geography 22
+1.6 Conducting Action Research
+Step 1: Selecting the Problem
+In identifying or selecting the problem, this gives opportunities to select problems 
+since a problem must come out from the researcher's mind like a fountain comes 
+out from a mountain. The following points may be thoroughly considered in 
+selecting a research problem:
+F the problem selected should not be overdone
+F it should not be a debatable issue
+F it must be simple and clear so that it does not discourage the participants 
+or the students involved in research-work 
+Example: 
+Assume that the selected problem from the three proposed problems is 
+“Low grade achievement of arts students in mathematics exams.” 
+Step 2: Objectives of the Study
+The objective of the action research is to discover the reasons why art students 
+are low achievers and finally find a solution to minimize the problem. This step 
+or process is a very pertinent part that will lead to decide on the type and nature 
+of data to be collected.
+Step 3: Making Review of Literature
+This process actually gives the students more ideas, clues and attempted solutions 
+from previous work about how to minimize achievement of low grades in a given 
+subject. Review literatures should be related to the selected problem that should 
+be dealt with. The availability of a good library or previously done papers is 
+very essential for this. Teachers should guide the students from where to get 
+the required materials. If documents are not available in the school library, the 
+teacher should visit affiliated offices and agencies to get information.
+Step 4: Establishing Working Hypothesis 
+A hypothesis is often considered as the principal tool in research. Its main 
+function is to put forward an assumption that can be verified by the research. 
+In fact, many action research projects, establish hypotheses. However, it will 
+be difficult for grade 12 students to conduct hypothesis formulating and testing 
+processes. Both skills demand high competence and experience. It is because of 
+this fact that the problem identified, "why most art students often achieve low 
+grades in mathematics than science stream students", is forwarded for conducting 
+action research at this level.
+Unit 1: Basic Research Methodologies In Geography 23
+1.6 Conducting Action Research 1.6 Conducting Action Research
+This action research makes use of the qualitative approach. The data collectable 
+could be based on interviews and questionnaires. Sample questionnaire formats 
+are suggested below. 
+Activity 1.3
+Investigating and finding a solution why most art students are less competent 
+than science students in mathematics. 
+Sample Questionnaire Format
+Step 5: Determining the Sample Size
+When research is done, taking a sample is essential. Determining your sample 
+size can vary because all the students learning this topic at this grade level have 
+different class size, different student combination of age, caliber, etc). Let us 
+say that 20 % of the population under study will suffice as the sample size. If 
+the class size is 100, twenty students are taken as the sample size. In order to 
+avoid personal interest or making the sampling random, use a technique of lottery 
+system.
+Questionnaire format B
+(to be filled by mathematics teachers)
+1 Name of the school ____________
+2 Grade level _____ section _______ 
+Academic year ____________
+3 What percent of your 
+a arts-stream students are good 
+in mathematics? _________
+b science stream students 
+are good in mathematics? 
+_________
+4 Which-stream is active when you 
+teach? Arts or science ___________
+5 Please give us your opinions about 
+why art students are not as competent 
+in mathematics as science students. 
+_______________________________
+Thank you,
+Questionnaire format A 
+(to be filled in by students) 
+1 Name of the school ________
+2 Grade level _____section ____ 
+Academic year _______
+3 Average grade results in 
+grade 9 __________
+grade 10 __________
+grade 11 __________
+4 Which subject do you like best? 
+Mention only three of them.
+1 ___________
+2 ___________
+3 ___________
+5 Are you good in mathematics 
+(Yes or No) _______
+6 If your answer is no, give your 
+reasons __________________ 
+________________________
+ Thank you, 
+Grade 12 Geography 24
+1.6 Conducting Action Research
+The selected 20 students represent the 100 students. All the information they 
+give represents the whole class or section.
+Step 6: Collecting the Required Data
+Under this research work, the easiest way of collecting data from the selected 
+sample size could be: 
+a either through personal interview or
+b through questionnaires
+The students should prepare questionnaires made up of items that attempt to get 
+answers regarding why most arts students are relatively lower grade achievers in 
+mathematics than most of science students.
+Step 7: Analysis of the Data
+In order to analyze the collected data, the teacher should help the students 
+understand how to organize the data in a tabular or graphic form. From the table, 
+the students can create:
+a simple ratios/proportions 
+b bar graphs/line graphs
+Step 8: Generalization and Interpretation
+After applying simple ratios or graphs, the students can make comparisons 
+and generalizations. They can prove that most science students are good in 
+mathematics than arts students. After that, possible solutions could be gathered 
+from the questionnaire and employ the solution to reduce the number of art 
+students scoring low marks in mathematics. 
+Step 9: Preparation of the Report 
+It may be difficult to hear the report of every student. Students could be grouped 
+as it was done at the very beginning. The students should bear in mind that their 
+reports must include: 
+a a clear statement of the objective and the explanation of the method 
+used to analyze the data,
+b a summarized generalization of the discovery or finding obtained, 
+and 
+c finally forward the possible solutions that could change the attitude 
+of most arts students towards mathematics.
+It is advisable that selected students read their report to the class, or if possible 
+even at the flag ceremony.
+Unit 1: Basic Research Methodologies In Geography 25
+1.6 Conducting Action Research Unit Review
+Unit Review
+ UNIT SUMMARY 
+Þ Research is a scientific method of investigating answers for the problems 
+identified. 
+Þ Development in any country depends, among other things, upon its 
+research capability. 
+Þ There are two basic approaches often used in geographical research 
+works. They are quantitative and qualitative approaches. Their difference 
+lie mainly in the attributes considered to be measured and the techniques 
+chosen to be used. 
+Þ Geographical research works are different from the research work of 
+other disciplines/sciences. They are very much concerned with spatial 
+distributions and organizations of things and phenomena in time bound. 
+They also consider the forces that results in determine the distributions. 
+Þ In the study and analysis of spatial aspects, geographical research 
+procedures and techniques with other sciences. For example, identifying 
+the research problem, defining the objective and significance of the 
+research, reviewing literature related to the study, formulating a working 
+hypothesis, etc. 
+Þ Finally, developing the skill of making action research to solve their 
+problems. 
+ REVIEW EXERCISE FOR UNIT 1
+I Multiple Choices: Choose the best answer from the given alternatives for 
+the following statements and questions. 
+1 Which of the following geographical approaches is used for confirming a 
+given theory? 
+A quantitative approach
+B qualitative approach
+C A and B
+D descriptive approach
+Grade 12 Geography 26
+Unit Review
+2 When distance as a varying factor determines the variation of other factors, 
+then distance in research is a
+A dependent variable
+B Subordinate variable 
+C independent variable
+D A and B
+3 Traditional geographic research was largely concerned with the study of
+A sustainable environments
+B spatial analysis
+E locations of places and people
+F environmental hazards
+4 The International Geographic Union Commission's priority vision is
+A the promotion of geographical education all over the world at all 
+grade levels
+B the promotion of geographical education in developing countries
+C the achievement of sustainable development through the spread of 
+geographical education
+D A and C
+5 The 1950s and 1960s were decades of great changes in the science of 
+geography because
+A geography revolutionized its research methods, adopting quantitative 
+techniques.
+B the launching of the space shuttle took place.
+C geography was assisted by computer-based data sources.
+D the technology of remote sensing was adopted in teaching geography
+6 Which of the following concepts are guiding and especially useful in 
+research practices in geography?
+A research technique
+B research method
+C research methodology
+D research desire
+E A, B and C
+7 Which of the following steps should come first during a geographical 
+research project?
+A identifying causes
+B identifying problems
+C formulating hypotheses
+D designing research sampling techniques
+Unit 1: Basic Research Methodologies In Geography 27
+Unit Review
+8 Reviewing literature in geographical research 
+A widens the researcher’s knowledge of the issue to be researched
+B helps the researcher to formulate working hypotheses
+C helps the researcher to identify appropriate methods
+D all of the above
+9 One can claim that a geographical research project is complete when the
+A working hypothesis is made
+B sampling design is finished
+C collected data is analyzed
+D report is presented
+II Questions to Think Over: 
+10 What are the main problems in performing research projects in your own 
+school? Please discuss this question in your group.
+11 Have you ever thought of questioning why your grades are good or poor 
+in mathematics? Please discuss the issue with your art-stream group and 
+science-stream group peers. 
+12 National and international groups are giving serious attention to the impact 
+of AIDS. Can you go to a nearby health center and collect data regarding 
+the number of victims in different age groups? After performing this 
+investigation, compare the percentage of young victims to the total number 
+of victims.

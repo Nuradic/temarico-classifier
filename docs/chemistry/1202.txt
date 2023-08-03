@@ -1,0 +1,1729 @@
+Acids and bases are important in numerous chemical processes that occur around us.
+Their importance vary greatly, for example, from industrial processes to biological ones
+and from reactions in the laboratory to those in our environment. Proteins, enzymes, food
+products, medicines, blood, genetic material, and other components of living matter contain
+both acids and bases.
+In this unit you will learn three definitions of acids and bases that will allow you to understand
+ever-increasing numbers of reactions in different phases of life. While dealing with the
+acids and the basis, you will also be able to apply the principles of chemical equilibrium to
+this essential group of substances.
+After presenting the classical (Arrhenius) acid-base definition, we will examine the acid
+dissociation to see why acids vary in strength. The pH scale is introduced as a means of
+comparing the acidity or basicity of aqueous solutions. Then, we will notice that the short
+coming of the Arrhenius theory are overcome by the theory proposed independently by
+J.N. Brønsted in Denmark and T.M. Lowry in Great Britian.
+ACID-BASE EQUILIBRIA (UNIT 2)
+69
+Weak acids and weak bases are important weak electrolytes. They are found in many
+chemical and biological processes of interest. Amino acids, for example, are both weak
+acids and weak bases. In this unit, we will learn some ways of expressing concentrations
+of hydronium ions and of hydroxide ions in solutions of weak acids and weak bases. Then
+you will examine equilibria involving these weak electrolytes. You will also see that the
+indicators, used in titration, such as phenolphthalein, are weak acids or weak bases. Finally
+you will learn how to use these properties to select an appropriate indicator for a titration.
+2.1 ACID-BASE CONCEPTS
+At the end of this subunit, you will be able to:
+• define acid by the Arrhenius concept;
+• explain why proton exists bounded to water molecules, as H3O+, in all acid-base
+reactions;
+• give examples of Arrhenius acids;
+• define base using the Arrhenius concept;
+• give examples of Arrhenius bases;
+• define acid using the Brønsted-Lowry concept;
+• give examples of Brønsted-Lowry acids;
+• define base using the Brønsted-Lowry concept;
+• give examples of Brønsted-Lowry bases;
+• explain what conjugate acids and conjugate bases are;
+• identify the acid-base conjugate pairs from a given reaction;
+• write an equation for self-ionization of water and ammonia;
+• explain what is meant by amphiprotic species;
+• give examples of reactions of amphiprotic species;
+• define an acid by using Lewis concept;
+• give examples of Lewis acids;
+• define a base using the Lewis concept;
+• give examples of Lewis bases.
+Activity 2.1
+In grade 10 Chemistry, you have learnt the acid-base concepts. Recall this and discuss the
+following questions in group. After discussion write a report and present to the class:
+1. Explain the concept of acid-base using examples.
+2. Which of the concepts is more general?
+CHEMISTRY GRADE 12
+70
+2.1.1 The Arrhenius Concept of Acids and Bases
+Svante August Arrhenius (1859-1927), was a Swedish chemist
+helped lay the foundations of modern chemistry. Born near
+Uppsala, Sweden, he was educated at the University of Uppsala
+and received his Ph.D. in 1884. While still a student, he studied
+the conductive properties of electrolytic (charge-conducting)
+solutions. In his doctoral thesis, he formulated the theory of
+electrolytic dissociation.
+This theory holds that, in electrolytic solutions, the dissolved
+chemical compounds in the solution are dissociated into ions,
+even when there is no current flowing through the solution.
+Arrhenius also postulated that the degree of dissociation
+increases as the solution becomes more dilute. This hypothesis
+later turned out to be significantly true only for weak
+electrolytes. His theory was initially thought to be completely
+wrong, and his thesis was given the lowest possible passing
+grade. Later, however, Arrhenius’ theory of electrolytic
+dissociation became generally accepted, and eventually became
+one of the cornerstones of modern physical chemistry and
+electrochemistry.
+Svante August
+Arrhenius
+Biography
+Activity 2.2
+Form groups and discuss the following questions and write a report of your discussion.
+1. Explain Arrhenius acids and bases concepts using suitable examples?
+2. Does hydrogen ion exist freely in water?
+What are the drawbacks of the Arrhenius’ concepts of acids and bases?
+The Arrhenius definition of acids and bases has the following limitations.
+* It defines acids and bases in terms of what happens when compounds dissolve in
+water. However, similar chemistry occurs in many reactions that take place in solvents
+other than water, and this definition does not work for such reactions.
+* It does not explain why some compounds in which hydrogen has an oxidation
+number of + 1 (such as HCl) dissolve in water to give acidic solutions, whereas
+others (such as NH3) do so.
+ACID-BASE EQUILIBRIA (UNIT 2)
+71
+* Only the compounds that contain the OH–
+ ion can be classified as Arrhenius bases.
+The Arrhenius definition does not explain why compounds such as Na2CO3 have
+basic properties.
+Exercise 2.1
+Based on their dissociations in water solution, classify each of the following
+compounds as Arrhenius acid, Arrhenius base, or as a compound that cannot be
+classified as an Arrhenius acid or Arrhenius base.
+a H3PO4 (l) + H2O (l) U H2PO4
+– (aq) + H3O+ (aq)
+b NaCl (s) + H2O (l) U Na+ (aq) + Cl– (aq)
+c Ca(OH)2 + H2O (l) U Ca2+ (aq) + 2OH– (aq)
+d NH3 (l) + H2O (l) U NH4
++ (aq) + OH– (aq)
+2.1.2 Brønsted-Lowry Concept of Acids and Bases
+Activity 2.3
+From what you have learnt in Grade 10 Chemistry discuss the following questions.
+1. What are acids and bases according to Brønsted-Lowry concept?
+2. How does it differ from Arrhenius definition? What are the similarities?
+3. Give two Brønsted-Lowry bases that are not Arrhenius bases.
+4. Are there any Brønsted acids that do not behave as Arrhenius acids?
+Consider the ionization of hydrochloric acid in water:
+Which one is a Brønsted-Lowry acid and which one is a Brønsted-Lowry base?
+The Brønsted-Lowry concept is not limited to reactions in aqueous solution. For example,
+HCl is an acid in liquid ammonia, NH3(l), just as it is in water.
+CHEMISTRY GRADE 12
+72
+The Brønsted-Lowry concept successfully explains how ammonia acts as a base in water,
+which the Arrhenius definition fails to do. In the ionization of ammonia, NH3, water is the
+acid. The ionization of ammonia in water is a reversible reaction. This reversible acid-base
+reaction can be written as:
+Once an acid has given up a proton, the remaining part can be a proton acceptor and is,
+now called a conjugate base. On the other hand, when a base accepts a proton, the
+species formed is called conjugate acid.
+Every acid has a conjugate base, and every base has a conjugate acid. Thus, for any
+conjugate acid-base pair:
+• The conjugate base has one less H and one more minus charge than the acid.
+• The conjugate acid has one more H and one less minus charge than the base.
+Table 2.1 The conjugate pairs in some Acid-Base Reactions.
+Acid + Base Conjugate +base Conjugate acid
+HF + H2O U F– + H3O+
+HCOOH + CN– U HCOO– + HCN
+NH4
++ + CO3
+2– U NH3 + HCO3
+–
+H2PO4
+– + OH– U HPO4
+2– + H2O
+H2SO4 + N2H5
++ U HSO4
+– + N2H6
+2+
+HPO4
+2– + SO3s
+2– U PO4
+3– + HSO3
+–
+Example 2.1
+Identify the Brønsted-Lowry acids and bases and their respective conjugates
+in each of the following reactions.
+a H2S + NH3 U NH4
++ + HS–
+b OH– + H2PO4
+– U H2O + HPO4
+2–
+ACID-BASE EQUILIBRIA (UNIT 2)
+73
+Solution:
+To identify Brønsted-Lowry acids and bases, we look for the proton donors
+and proton-acceptors in each reaction.
+a H2S is converted to HS– by donating a proton. So, H2S is an acid, and
+HS- is its conjugate base. NH3 accepts the proton lost by the H2S. As a
+result, NH3 is a base, and NH4
++ is its conjugate acid.
++ – H S + NH NH + HS 23 4
+Acid Conjugate acid Base Conjugate base
+U
+b OH– accepts a proton from H2PO4
+–. Therefore, OH– is a base and H2O is
+its conjugate acid. H2PO4
+– donates a proton to OH–. Thus, H2PO4
+– is an
+acid, and HPO4
+2– is its conjugate base.
+– – 2– OH + H PO H O + HPO 2 4 2 4
+Base Acid Conjugate Acid Conjugate Base
+U
+Exercise 2.2 Exercise Exercise 
+Identify the Brønsted-Lowry acids, bases, conjugate acids and conjugate bases in each
+of the following reactions.
+a NH3 + HCO3
+– U NH4
++ + CO3
+2–
+b H3PO4 + H2O U H2PO4
+– + H3O+
+c H2O + SO3
+2– U OH– + HSO3
+–
+d CH3COOH + H2O U CH3COO– + H3O+
+Strengths of Conjugate Acid-Base Pairs
+The stronger the acid, the weaker is its conjugate base. Similarly, the stronger the base,
+the weaker is its conjugate acid. For example, HCl is a strong acid, and its conjugate
+base Cl–, is a weak base. Acetic acid, CH3COOH, is a weak acid, and its conjugate
+base, CH3COO–,is a strong base. The following chart shows the strength of conjugate
+acid-base pairs .
+CHEMISTRY GRADE 12
+74
+HCl
+H SO
+NO
+H O
+HSO
+H SO
+H PO
+HF
+CH COOH
+H CO
+H S
+HS
+H PO
+HCN
+NH
+HCO
+HPO
+H O
+HS
+OH
+2 4
+3
+3
+4
+2 3
+3 4
+3
+2 3
+2
+2 4
+4
+3
+4
+2
+H
+O
++
+–
+–
++
+–
+2–
+–
+–
+3
+–
+Cl
+HSO
+NO
+H O
+SO
+HSO
+H PO
+F
+CH COO
+HCO
+HS
+SO
+HPO
+CN
+NH
+CO
+PO
+OH
+S
+O
+–
+–
+2 –
+–
+–
+–
+–
+–
+–
+2 –
+2 –
+–
+2–
+3 –
+–
+2–
+2–
+4
+3
+2
+4
+3
+2 4
+3
+3
+3
+4
+3
+3
+–
+4
+Acid Base
+Strong Negligible
+Weak Weak
+Negligible Strong
+Acid strength
+Base strength
+Chart 1.1 Strengths of Conjugate Acid-Base Pairs.
+Auto-ionisation of Substances
+Name the ions present in water. How are they formed?
+The auto-ionisation (self-ionization) of a substance involves the transfer of a proton from
+one molecule of the substance to another molecule of the same substance. For example,
+water undergoes auto-ionisation as shown below:
+O+ O
+H H
+Act as a
+base
+H
+H
+Act as an
+acid
+U
+H O—H H +
+O
+H
++
+–
+Hydronium ion Hydroxide ion
+ 
+This can be represented by the following equation:
+2H2O(l) U H3O+(aq) + OH–(aq)
+ACID-BASE EQUILIBRIA (UNIT 2)
+75
+Note that, in this reaction, some water molecules behave as acids, donating protons, while
+the other water molecules behave as bases, accepting protons.
+Amphiprotic Species
+Many molecules and ions gain or lose a proton, under appropriate conditions. Such species
+are said to be amphiprotic. For example,
+HCO3
+–(aq) U H+(aq) + CO3
+2–(aq)
+HCO3
+–(aq) + H+(aq) U H2CO3(aq)
+In other words, amphiprotic species are species that can act as both an acid and a base.
+Can you suggest more examples of amphiprotic species?
+Exercise 2.3 Exercise Exercise 
+1. Define each of the following terms and give examples for each.
+a autoionization
+b amphiprotic species
+2. Identify the amphiprotic species in each of the following reactions.
+a HPO4
+2–(aq) + H3O+(aq) U H2
+O(l) + H2PO4
+–(aq)
+HPO4
+2–(aq) + H2
+O(l) U H3O+(aq ) + PO4
+3–(aq)
+b NH3(g) + H2O(l) U NH4
++(aq) + OH–(aq)
+HCl(g) + H2
+O(l) U H3O+(aq ) + Cl–(aq)
+3. Which of the two is the stronger base? Give your reason.
+a HPO4
+2– or PO4
+3– b HS– or S2– c CO2–
+3 or HCO–
+3
+4. What is the weakness of the Brønsted-Lowry acids and bases theory?
+5. Write the self-ionization of water and ammonia.
+2.1.3 Lewis Concept of Acids and Bases
+Activity 2.4
+Form groups and discuss the following and report the result of your discussion to your
+teacher.
+1. Explain Lewis concept of acids and bases.
+2. How do Lewis acids and bases differ from Brønsted-Lowry acids and bases?
+CHEMISTRY GRADE 12
+76
+3. Are all Brønsted-Lowry acids and bases are also acids and bases according to Lewis
+concept?
+4. Is there any limitation to the Brønsted-Lowry definition of acids and bases? Explain if any.
+The Lewis acid-base concept includes many reactions that do not involve proton- transfer
+reactions. Consider, for example, the reaction between boron trifluoride (BF3
+) and ammonia
+to form a compound, BF3 ¨ :NH3.
+N + B H—N B—F
+H
+H H
+F
+F F H
+H F
+F
+Lewis base Lewis acid
+The boron atom in boron trifluoride, BF3, has only six electrons in its valance shell and
+needs two electrons to satisfy the octet rule. Consequently, BF3 (Lewis acid) accepts a
+pair of electrons from NH3 (Lewis base).
+This example suggests that in a Lewis acid-base reaction, we should look for:
+1. a species that has an available empty orbital to accommodate an electron pair such
+as the B atom in BF3, and
+2. a species that has lone-pair electrons such as NH3.
+The Lewis definition allows us to consider typical Brønsted-Lowry bases, such as OH–,
+NH3, and H2O, as Lewis bases. They all have electron pairs available to donate for
+electron-deficient species.
+Note that any molecule or negatively charged species having an excess of electrons can be
+considered as a Lewis base, and any electron-deficient molecule or positively charged
+species can be considered as a Lewis acid.
+Exercise 2.4 Exercise Exercise 
+Identify Lewis acids and Lewis bases in each of the following reactions.
+a SiCl4 + 2Cl– Æ [SiCl6]
+2–
+b PF5 + F– Æ [PF6]
+¯
+c Cu2+ + 4NH3 Æ [Cu(NH3)4]
+2+
+d CO2 + H2O Æ H2CO3
+e Ni + 4CO Æ Ni(CO)4
+ACID-BASE EQUILIBRIA (UNIT 2)
+77
+2.2 IONIC EQUILIBRIA OF WEAK ACIDS AND BASES
+At the end of this subunit, you will be able to:
+• describe the ionization of water;
+• derive the expression of ion product for water, Kw;
+• explain the effect of temperature on Kw;
+• explain why water is a weak electrolyte;
+• use Kw to calculate [H3O+] or [OH–
+] in aqueous solution;
+• define pH;
+• define pOH;
+• explain the relationship between pH and pOH;
+• calculate pH from [H+] and [H+] from pH;
+• calculate pOH from [OH–] and [OH–] from pOH;
+• write an expression for the percent ionization of weak acids or weak bases;
+• calculate the percent dissociation of weak acids and bases;
+• write the expression for the acid-dissociation constant, Ka
+;
+• calculate Ka
+ for an acid from the concentration of a given solution and its pH;
+• calculate [H+] and pH of an acidic solution from given values of Ka
+ and the initial
+concentration of the solution;
+• write the expression for the base-dissociation constant, Kb;
+• calculate Kb for a base from the concentration of a basic solution and its pOH; and
+• calculate the [OH–] and pOH of a basic solution from a given value of Kb and the
+initial concentration of the solution.
+2.2.1 Ionization of Water
+How do you calculate the concentration of H3O+ ions if the concentrations of
+OH– ions and Kw, at 25°C are given?
+Recall that water is amphiprotic. So, to a slight extent, water molecules can transfer protons
+among themselves. In the self-ionization of water, the proton lost by one water molecule is
+gained by the other.
+CHEMISTRY GRADE 12
+78
+O+ O
+H H
+Act as a
+base
+H
+H
+Act as an
+acid
+U
+H O—H H +
+O
+H
++
+–
+Hydronium ion Hydroxide ion
+The self-ionization of water can be represented by the following equation:
+2H2O(l) U H3O+(aq) + OH–(aq)
+Since this reaction is reversible, we can apply the law of mass action to write the equilibrium
+constant expression.
++ –
+3 c 2
+2
+[H O ] [OH ]
+ = 
+[H O]
+K where, Kc
+ is the equilibrium constant, in terms of concentration.
+Because only very small fractions of water molecules are ionized, the concentration of
+water, [H2
+O], remains unchanged. This equilibrium expression can be simplified by including
+the constant [H2
+O]2 term with the value of Kc
+ to obtain a new equilibrium constant, the
+ion-product for water, Kw.
+Kc
+ [H2O]2 = KW = [H3O+] [OH–]
+Note that Kw is the product of the molar concentrations of H3O+ and OH– ions at a
+particular temperature.
+Since we use H+(aq) and H3
+O+(aq) interchangeably to represent the hydrated proton, the
+equilibrium constant can also be expressed as
+Kw = [H+][OH–]
+In pure water at 25°C, the concentrations of H+ and OH– ions are equal and found to be
+[H+] = 1.0 × 10–7 M and [OH–] = 1.0 × 10–7 M at 25°C,
+Kw = [H+][OH–] = (1.0 × 10–7) (1.0 ×10–7) = 1.0 × 10–14
+As you have learned in your studies of chemical equilibrium in Grade 11, the value of Kc
+,
+in this case Kw, changes as temperature changes. In any aqueous solution at 25°C, no
+matter what it contains, the product of [H+] and [OH–] must always equal 1.0 × 10–14.
+There are three possible situations.
+a A neutral solution, where [H+] = [OH–].
+b An acidic solution, where [H+] > [OH–].
+c A basic solution, where [OH–] > [H+]
+ACID-BASE EQUILIBRIA (UNIT 2)
+79
+Form groups and discuss the following. Write a report on the discussion and present to the
+classs.
+Many substances undergo auto-ionization in analogous to water. For example, the autoionization of liquid ammonia is:
+2NH3
+ U NH4
++ + NH2
+–
+a Write a Kc
+ expression for auto-ionization of ammonia that is analogous to the Kw
+expression for water.
+b Name the strongest acids and strongest bases that can exist in liquid ammonia?
+c For water, a solution with [OH–
+] < [H3
+O+] is acidic. What are the analogous relationships
+in liquid ammonia?
+Exercise 2.5 Exercise Exercise 
+1. Calculate [H+] or [OH–], as required, for each of the following solutions at 25°C,
+and state whether the solution is neutral, acidic, or basic.
+ a [OH–] = 1.0 ×10–4 M c [H+] = 1.0 × 10–7 M
+ b [OH–] = 1.0 × 10–8 M
+2. Calculate the concentration of OH– in a solution in which
+a [H3O+] = 2.0 × 10–5 M
+b [H3O+] = [OH–]
+c [H3O+] = 102 × [OH–]
+3. Calculate [H3O+] in a solution that is at 25°C and has [OH–] = 6.7 × 10–2 M. Is
+the solution neutral, acidic, or basic?
+4. At 40°C, the value of Kw is 2.92 × 10–14. Calculate the [H+] and [OH–] of pure
+water at 40°C.
+5. Why water is a weak electrolyte?
+The pH scale
+The concentration of H+ in aqueous solution is usually very small and inconvenient to
+express and to draw as graphs. Sören Sörensen, in 1909, developed the pH scale to
+solve this problem. The pH of a solution is defined as the negative logarithm of the hydrogen
+ion concentration (in mol/L):
+pH = –log [H3O+] or pH = –log [H+]
+Activity 2.5
+CHEMISTRY GRADE 12
+80
+Note that the negative logarithm gives us positive numbers for pH. What is the pH value
+of a neutral, basic and acidic solution?
+A pH-meter (Figure 2.1) is used to measure the pH of a solution.
+Figure 2.1 pH-meter.
+Activity 2.6
+In your group, measure the pH of the following substances, using a pH-meter. Copy and fill
+in the following table. Compare your results with those of other groups. Find the pH
+values of the substances in reference books and other sources and compare your results
+with the values you observed.
+Substance pH Acidic, Basic or Neutral
+Beer
+Milk of Magnesia
+Tomato juice
+Lemon juice
+Human saliva
+Drinking water
+ACID-BASE EQUILIBRIA (UNIT 2)
+81
+pH decreases as the concentration of H+ ions increases; in other words, the more acidic
+the solution, the lower its pH; the more basic the solution, the higher its pH.
+The pH notation has been extended to other exponential quantities. For example, hydroxide
+concentrations can be expressed in terms of pOH, where pOH = –log [OH–]. Similarly,
+pKw can be expressed as –log Kw .
+Activity 2.7
+Derive the relationship, pH + pOH = pKw = 14 at 25°C.
+Example 2.2
+Calculate the pH of a basic solution, in which [OH–] = 2.0 × 10–3 at 25°C.
+Solution:
+From the given [OH–], we can determine [H+], using the relation
+ 
+–14
++ –12 W
+– –3
+1.0 × 10 [H ] = = = 5.0 × 10 M
+[OH ] 2.0 × 10 
+K
+ pH = –log (5.0 × 10–12) = 11.30
+ Example 2.3
+Calculate:
+a the pH and pOH of a juice solution in which [H3O+] is 5.0 ×10–3 M
+b the [H3O+] and [OH–] of human blood at pH = 7.40
+Solution:
+a Given: Required:
+[H3O+] = 5.0 ×10–3 M pH = ? and pOH = ?
+pH =–log[H3O+] = –log (5.0 × 10–3)
+ = 3 – log 5.0 = 2.3
+pH + pOH = 14
+pOH = 14 – pH =14 – 2.3 = 11.7
+CHEMISTRY GRADE 12
+82
+b pH = 7.40, [H3O+] = ? [OH–] = ?
+–log [H3O+] = 7.40
+log [H3O+] = –7.40
+[H3O+] = 10–7.40
+= 4.0 ×10–8 M
+–14
+– –7 W
++ –8
+3
+1.0 × 10 [OH ] = = = 2.5 × 10 M
+[H O ] 4.0 × 10 
+K
+Exercise 2.6
+1. A solution formed by dissolving an antacid tablet has a pH of 9.18 at 25°C. Calculate
+[H+], [OH–] and pOH.
+2. A solution is prepared by diluting concentrated HNO3 to 2.0 M, 0.30 M and
+0.0063 M HNO3 at 25°C. Calculate [H3O+], [OH–], pH and pOH of the three
+solutions.
+2.2.2 Measures of the Strengths of Acids and Bases in
+Aqueous Solution
+The strength of acids and bases can be described in many ways. Some of the ways are
+the concentration of hydrogen and hydroxide ions, pH and pOH, percent dissociation,
+Ka
+ and Kb
+.
+1. Concentration of hydrogen and hydroxide ions
+Acid strength refers to the ability of an acid to release protons. A strong acid gives up
+protons more easily than a weak acid. For two acids of equal concentrations, the strongest
+acid produces the greater quantity of hydrogen ions. Base strength refers to the ability of a
+base to accept protons. A strong base accepts more protons readily than a weak base. A
+solution of a stronger base will contain a larger concentration of hydroxide ions than a
+solution of a weaker base if both solutions are of equal concentration.
+Activity 2.8
+In unit two of Grade 10 Chemistry, you learned about the strength of acids and bases.
+By referring to this text book and other chemistry books, list strong acids, strong bases,
+weak acids and weak bases. Then discuss what you have written with the rest of the class.
+ACID-BASE EQUILIBRIA (UNIT 2)
+83
+2. pH and pOH
+If the pOH of a solution at 25°C is 12, is it acidic, neutral or basic?
+It is possible to predict the strength of acids from their pH values. The smaller the pH
+value, the stronger the acid. The concentration of hydroxide ions in a solution can be
+expressed in terms of the pOH of the solution. Hence, the strength of bases can also be
+determined from their pOH values. The smaller the pOH value, the stronger the base.
+3. Percent Ionization
+How do you determine the percent ionization of an acid or a base?
+The extent to which an acid or base ionizes is called percent ionization. Mathematically,
+Percent ionization = Ionized acid or base concentration at equilibrium × 100
+Initial concentration of ionized acid or base
+The strength of an acid depends on the percentage of the acid molecules that dissociate in
+water solution. If a higher percentage of the original acid molecules dissociate, then the
+acid is a strong acid. Strong acids and strong bases ionize nearly completely in water.
+However, weak acids and weak bases dissociate partially in water, and their percent of
+ionization is small.
+4. Dissociation (Ionization) Constants
+Acid Dissociation Constant, Ka
+What is the relationship between strength of acids with their acid-dissociation
+constant values?
+The acid-dissociation constant is a quantitative measure of the strength of the acid in a
+given solvent. For the dissociation of the acid, HA;
+HA(aq) + H2O(l) U H3O+(aq) + A–(aq)
+the dissociation-constant expression can be written as:
+[ ]
++ –
+3
+2
+HO A
+ = 
+H O HA
+K
+     
+   
+Since the concentration of water is nearly constant, we can write;
+[ ]
++ –
+3
+2
+HO A
+[H O]=
+HA
+      K
+CHEMISTRY GRADE 12
+84
+The product of the two constants, K and [H2
+O], is itself a constant. It is designated as Ka
+,
+which is the acid-dissociation constant or the acid-ionization constant. Hence for a weak
+acid, HA:
+[ ]
++ –
+3
+a
+HO A
+= HA
+K
+     
+The Ka
+ value for a strong acid is very large, because [HA] in the denominator is very small
+since the acid dissociates essentially completely. Similarly, the Ka
+ value for a weak acid is
+relatively small, since [H3
+O+] and [A–] are very small, and [HA] in the denominator is large.
+The ionization-constants of some weak monoprotic acids are tabulated in Table 2.2.
+Table 2.2 Ionization constant of some weak monoprotic acids at 25°C.
+Name of the Acid Formula Ka
+Acetic acid CH3COOH 1.8 × 10–5
+Ascorbic acid C6H8O6 8.0 × 10–5
+Benzoic Acid C6H5COOH 6.5 × 10–5
+Formic acid HCOOH 1.7 × 10–4
+Hydrocyanic acid HCN 4.9 × 10–10
+Hydrofluoric acid HF 6.8 × 10–4
+Hypobromous acid HOBr 2.5 × 10–9
+Hypochlorous acid HOCl 3.0 × 10–8
+Nitrous acid HNO2 4.5 × 10–4
+How do you calculate the pH of weak acids?
+Generally, we can calculate the hydrogen-ion concentration or pH of an acid solution at
+equilibrium, given the initial concentration of the acid and its Ka
+ value. Alternatively, if we
+know the pH of a weak acid solution and its initial concentration, we can determine its Ka
+.
+The following may help you to solve weak-acid dissociation problems.
+1. identify the major species that can affect the pH of the solution. In most cases we
+can ignore the dissociation of water. Why?
+2. write balanced equations for the reactions producing H3
+O+.
+3. list the initial concentration of the species participating in the equilibrium.
+4. define the change needed to achieve equilibrium. That is, define x.
+5. write the equilibrium concentration, in terms of x.
+6. write the acid dissociation constant, Ka
+, in terms of equilibrium concentration.
+ACID-BASE EQUILIBRIA (UNIT 2)
+85
+7. first solve for x by the approximation method. If the approximation is not valid, use
+the quadratic equation.
+8. having solved for x, calculate the equilibrium concentrations of all species and/or the
+pH of the solution.
+Example 2.4
+Calculate the pHof a 0.50 M HF solution at 25°C. The ionization of HF is given by
+HF(aq) + H2O(l) U H3O+(aq) + F–(aq)
+Solution:
+The species that can affect the pH of the solution are HF, and the conjugate base F–,
+Let x be the equilibrium concentration of H3
+O+ and F-
+ ions in molarity (M). Thus,
+ HF(aq) + H2O(l) U H3O+(aq) + F–(aq)
+Initial, M 0.50 0.00 0.00
+Change, M –x +x +x
+Equilibrium, M (0.50 – x) x x
++ –
+a
+[H ][F ] = [HF]
+K
+Substituting the concentration of HF, H+ and F–, in terms of x, gives:
+( )( ) –4
+a = = 6.8×10
+0.50 –
+x x
+K
+x
+Rearranging this expression provides:
+x2 + 6.8 × 10–4 x – 3.4 × 10–4 = 0
+This is a quadratic equation that can be solved, using the quadratic formula, or you
+can use the approximation method for x. Because HF is a weak acid, and weak
+acids ionize only to a slight extent, x must be small compared to 0.50. Therefore,
+you can make this approximation:
+0.50 – x ª 0.50
+Now, the ionization constant expression becomes
+2 2
+–4 = 6.8×10
+0.50 – 0.50
+x x
+x ≈
+CHEMISTRY GRADE 12
+86
+Rearranging this equation gives:
+x2 = (0.5)(6.8 × 10–4) = 3.4 × 10–4
+x = 
+–4 3.4×10 = 1.8 × 10–2 M
+Thus, we have solved for x without using the quadratic equation. At equilibrium, we have
+[HF] = (0.50 – 0.018) M = 0.48 M
+[H3O+] = 0.018 M
+[F–] = 0.018 M
+and the pH of the solution is
+pH = –log(0.018) = 1.74
+How good is this approximation? Because Ka
+ values for weak acids are generally
+known to an accuracy of only ±5%, it is reasonable to require x to be less than 5%
+of 0.50, the number from which it is subtracted. In other words, the approximation
+is valid if the percent ionization is equal to or less than 5%.
+0.018 ×100% = 3.6%
+0.50 Is the approximation valid?
+Exercise 2.7 Exercise Exercise 
+For a 0.036 M HNO2 solution.
+a Write a chemical equation that shows the ionization of nitrous acid in water.
+b Calculate the equilibrium concentration of hydrogen ions and nitrous acid at 25°C,
+using the approximation method. Then check whether the approximation is valid or
+not.
+c If the approximation is invalid, use the quadratic formula to calculate the
+concentration of hydrogen ions.
+d Calculate the pH of the solution.
+Base dissociation constant, Kb
+In the same way as for acids, the dissociation of a base in water can be written as
+B(aq) + H2O(l) U BH+(aq) + OH–(aq)
+which gives the equilibrium expression of the form:
+[ ]
++ –
+b
+BH OH
+= B
+K
+     
+ACID-BASE EQUILIBRIA (UNIT 2)
+87
+where Kb
+ is the base dissociation constant. Kb
+ values for strong bases are large, while Kb
+values for weak bases are small. Table 2.3 shows the Kb values of some common weak
+bases at 25°C.
+Table 2.3 Values of Kb for some Common Weak Bases at 25°C.
+Base Formula Kb
+Ammonia NH3 1.8 × 10–5
+Aniline C6H5NH2 4.0 × 10–10
+Ethylamine C2H5NH2 4.7 × 10–4
+Hydrazine N2H4 1.7 × 10–6
+Hydroxylamine NH2OH 1.1 × 10–6
+Methylamine CH3NH2 4.4 × 10–4
+Pyridine C5H5N 1.7 × 10–9
+In solving problems involving weak bases, you should follow the same guidelines as you
+followed for weak acids. The main difference is that we calculate [OH–
+] first, instead of [H+].
+Exercise 2.8
+For a 0.040 M ammonia solution:
+a Write a chemical equation that shows the ionization of ammonia in water.
+b Calculate the equilibrium concentration of ammonia, ammonium ions and hydroxide
+ions, using the approximation method. Check whether the approximation is valid
+or not.
+c If the approximation is invalid, use the quadratic formula to calculate the
+concentration of ammonia, ammonium ions and hydroxide ions.
+d Calculate the pOH and pH of the solution.
+2.3 COMMON ION EFFECT AND BUFFER SOLUTION
+At the end of this subunit, you will be able to:
+• define the common-ion effect;
+• explain the importance of the common-ion effect;
+• define buffer solution;
+• give some common examples of buffer systems;
+• explain the action of buffer solutions and its importance in chemical processes;
+• calculate the pH of a given buffer solution; and
+• demonstrate the buffer action of CH3COOH/CH3COONa.
+CHEMISTRY GRADE 12
+88
+2.3.1 The Common ion Effect
+Activity 2.9
+In Grade 11 Chemistry, you learned Le Chatelier’s principle. Make a group and discuss the
+following and present your report to the class.
+Industrially, ammonia is produced by the Haber process.
+1. Write a chemical equation for the production of ammonia in the process.
+2. Assume that the reaction is at equilibrium. What is the effect of
+a adding more ammonia to the equilibrium system?
+b removing ammonia from the equilibrium system?
+c adding more hydrogen gas to the equilibrium system?
+d decreasing the concentration of both hydrogen and nitrogen gases from the
+equilibrium system?
+e increasing temperature?
+f decreasing pressure?
+g adding finely divided iron as a catalyst?
+The common-ion effect is caused by the addition of a compound having an ion in common
+with the dissolved substance that shift the equilibrium.
+The presence of the common ion suppresses the ionization of a weak acid or a weak base.
+For example, if sodium acetate and acetic acid are dissolved in the same solution, they
+both dissociate and ionize to produce CH3COO– ions.
+CH3COONa (s) Æ CH3COO– (aq) + Na+ (aq)
+CH3COOH (aq) + H2O (l) U CH3COO– (aq) + H3O+ (aq)
+Sodium acetate, CH3COONa, is a strong electrolyte, so it dissociates completely in
+solution, but acetic acid, CH3COOH, is a weak acid and ionizes partially. According to
+Le Chatelier’s principle, the addition of CH3COO– ions from CH3COONa to a solution
+of CH3COOH will suppress the ionization of CH3COOH and decrease the concentration
+of hydrogen ions.
+Therefore, a solution containing both CH3COOH and CH3COONa will be less acidic
+than a solution containing only CH3COOH of the same concentration. The shift in equilibrium
+of the acetic acid ionization is caused by the acetate ions from the sodium acetate. CH3
+COO–
+is the common ion because it is supplied by both CH3COOH and CH3COONa.
+ACID-BASE EQUILIBRIA (UNIT 2)
+89
+Example 2.5
+Determine the [H3O+] and [CH3COO–] in a solution that is 0.10 M in both
+CH3COOH and HCl.
+Solution:
+0.10 M HCl ionizes completely to form 0.10 M H3O+ and 0.10 M Cl– ions. The
+Cl– ion is a spectator ion, and it has no influence on the concentrations of CH3
+COO–
+and H3O+.
+CH3COOH(aq) + H2O(l) U CH3COO–(aq) + H3O+(aq)
+Initial, M 0.10 0.00 0.10
+Change, M –x +x + x
+Equilibrium, M (0.10 – x) x 0.10 + x
+[ ]
+( )( ) + –
+3 3
+a
+3
+H O CH COO 0.10 + = = CH COOH 0.10 –
+x x
+K
+x
+     
+( ) –5 1.00 + 
+1.8 × 10 =
+1.00 –
+x x
+x
+If x is very small, you can approximate (1.00 – x) and (1.00 + x) to 1.00.
+–5
+1.00
+ 1.8 × 10 =
+x( )
+( ) 1.00
+x = [H3O+] = 10–5 M
+ pH = –log [H3O+]
+= –log (18×10–5) = 4.74
+Exercise 2.9
+a Calculate the pH of a solution containing 0.20 M CH3COOH and 0.30 M
+CH3COONa.
+b What would be the pHof a 0.20 M CH3COOH solution if no salt were present?
+CHEMISTRY GRADE 12
+90
+2.3.2 Buffer Solutions
+How does a buffer solution resist a pH change?
+A buffer solution is a solution that resists changes in pH from the addition of a limited
+amount of an acid or a base. Table 2.4 shows how the pH of unbuffered and buffered
+solutions change when a small amount of acid or base is added.
+Table 2.4 Comparison of buffered and unbuffered solutions.
+Initial pH of pH after addition of pH after addition of
+1.0 L sample 0.010 mol NaOH 0.010 mol HCl
+Unbuffered solution: 4.8 12.0 2.0
+1.28 × 10–5 M HCl
+Buffered solution: 4.8 4.8 4.7
+0.099 M CH3COOH
+0.097 M CH3COONa
+Buffers contain either a weak acid and its conjugate base or a weak base and its
+conjugate acid.
+A buffer solution must contain a relatively large concentration of acid to react with any
+OH– ions that are added to it. Similarly, it must contain a relatively large concentration of
+base to react with any H+ ions. To understand the action of buffer, consider a buffer that
+contains approximately equal molar amounts of a weak acid, HA, and its conjugate base,
+A–
+. When a strong acid is added to the buffer, it supplies hydrogen ions that react with the
+base A–.
+H+ (aq) + A– (aq) Æ HA (aq)
+On the other hand, when a strong base is added to the buffer, it supplies hydroxide ions
+that react with the acid, HA.
+OH– (aq) + HA (aq) Æ H2O (l) + A– (aq)
+Thus, a buffer solution resists changes in pHthrough its ability to combine with the H+ and
+OH– ions.
+Buffers are very important to chemical and biological systems. The pH in the human body
+varies greatly from one fluid to another. For example; the pH of blood is about 7.4, whereas
+the gastric juice in our stomach has a pH of about 1.5. The pH values, which are crucial for
+proper enzyme function and the balance of osmotic pressure, are maintained by buffers in
+most cases.
+ACID-BASE EQUILIBRIA (UNIT 2)
+91
+By reading references or using other sources, write a report on the buffer system in
+human blood. Discuss the report with the rest of the class.
+Example 2.6
+1. Calculate the pH of a buffer system containing 1.0 M CH3COOH and 1.0 M
+CH3COONa.
+2. What is the pH of the buffer system in (1) after the addition of 0.10 mol of gaseous
+HCl to 1.0 L of the solution? Assume that the volume of the solution does not
+change when HCl is added.
+Solution:
+1. In this case, you are asked to calculate the pH of the buffer system of CH3COOH/
+CH3COONa before adding HCl. Hence, you can apply the same method you
+have used to calculate a solution containing common ions:
+ CH3COOH(aq) + H2O(l) U H3O+(aq) + CH3COO–(aq)
+Initial, M 1.0 0 1.0
+Change, M –x +x +x
+Equilibrium, M (1.0 – x) x (1.0 + x)
+[ ]
+( )( ) + –
+3 3 –5
+a
+3
+H O CH COO 1.0 +
+= = = 1.8 × 10
+CH COOH 1.0 –
+x x
+K
+x
+     
+Assuming 1.0 + x ª 1.0 and 1.0 – x ª 1.0, we obtain
+( )( )
+( )
+( ) –5 1.0 + 1.0
+1.8×10 = =
+1.0 – 1.0
+x xx
+x
+x = [H3O+] = 1.8 × 10–5 M
+pH = –log (1.8×10–5) = 4.74
+2. The H+ ions provided by the strong acid, HCl, react completely with the conjugate
+base of the buffer, which is CH3COO–.
+CH3COO–(aq) + H+(aq) Æ CH3COOH(aq)
+The moles of H+ ions added = 0.10 mol.
+The moles of acetate ions before HCl is added = 1.0 M × 1 L= 1.0 mol.
+Activity 2.10
+CHEMISTRY GRADE 12
+92
+0.10 mol H+ consumes 0.10 mol CH3COO–.
+Therefore, the number of moles of CH3COO– that remains unreacted = 1.0 mol –
+0.10 mol = 0.9 mol.
+Moles of CH3COOH formed = 0.10 mol
+Total moles of CH3COOH = 0.10 mol + 1.0 mol = 1.1 mol
+[CH3COO–] = 
+0.9 mol
+1 L = 0.9 M
+[CH3COOH] = 
+1.1 mol
+1 L = 1.1 M
+ CH3COOH (aq) + H2O(l) U CH3COO– (aq) + H3O+ (aq)
+Initial, M 1.1 0.90 0.00
+Change, M –x +x +x
+Equilibrium, M (1.1 – x) (0.90 + x) x
+[ ]
+( )( ) – +
+3 3 –5
+a
+3
+CH COO H O 0.90 + 
+= = = 1.8×10
+CH COOH 1.1–
+x x
+K
+x
+     
+Since x is very small compared to 1.1 and 0.9, 0.90 + xª 0.90 and 1.1 – xª 1.1, you
+obtain:
+1.8 × 10–5 = ( ) 0.90 + 0.90 ( )
+1.1- 1.1
+x x x
+x =
+x = [H3O+] = 2.2 × 10–5 M
+pH = –log (2.2 × 10–5) = 4.66
+ Experiment 2.1
+The Buffer Action of Solutions
+Objective: To investigate the buffer action of CH3COOH/CH3COONa.
+Apparatus: 20 mL test tubes, droppers, beakers and pH meter.
+Chemicals: CH3
+COOH, CH3COONa, distilled water, 0.01 M HCl, universal indicator,
+0.010 M NaOH.
+ACID-BASE EQUILIBRIA (UNIT 2)
+93
+Procedure:
+1. Mix 5 mL of 0.10 M CH3COONa with 5 mL of 0.10 M CH3COOH in a 200 mL
+test tube. In a second test tube add 100 mL of distilled (or de-ionized) water. Add
+5 drops of universal indicator to each sample and estimate pH.
+2. Add 5 mL of 0.010 M HCl to each test tube, estimate pH, and record each pH
+change. If universal indicator is not available, add 2 drops of methyl orange indicator
+to each and record the volume (drops) of 0.10 M HCl to reach its end-point.
+3. Again prepare a solution in step 1. Test the buffering capacity of each with 5 mL of
+0.010 M NaOH. If universal indicator is not available, add 2 drops of alizarin
+yellow R and record the volume (drops) of 0.010 M NaOH to reach its end-point.
+Results and discussion:
+a What did you observe from procedure 1?
+b What did you observe from procedure 2?
+c Give your conclusion on each step.
+Exercise 2.10
+Calculate the pH:
+a of a buffer solution containing 0.1 M acetic acid and a 0.1 M solution of sodium
+acetate.
+b when 1.0 mL of 0.10 M HCl is added to 100 mL of the buffer in (a);
+c when 1.0 mL of 0.10 M NaOH is added to 100 mL of the buffer in (a);
+d of an unbuffered solution containing 1.8 × 10–5 HCl;
+e change of the an unbuffered solution in (d) after adding
+i) 1.0 mL of 0.1 M NaOH to 100 mL of the solution,
+ii) 1.0 mL of 0.10 M HCl to 100 mL of the solution.
+2.4 HYDROLYSIS OF SALTS
+At the end of this subunit, you will be able to:
+• define hydrolysis;
+• explain why a salt of weak acid and strong base gives a basic solution;
+• explain why a salt of strong acid and weak base gives an acidic solution; and
+• explain why salts of weak acids and weak bases give acidic, basic or neutral
+solutions.
+CHEMISTRY GRADE 12
+94
+What does salt hydrolysis mean?
+The word “hydrolysis’ is derived from the Greek words hydro, meaning “water”, and
+lyses, meaning “to split apart”. Solutions of salts contain two types of ions, namely cations
+and anions. The term salt hydrolysis describes the reaction of an anion or a cation of a salt,
+or both, with water. Depending on the strengths of the parent acids and bases, the cation
+of a salt can serve as an acid, base or neutral.
+2.4.1 Hydrolysis of Salts of Strong Acids and Strong Bases
+The anions derived from strong acids are weak conjugate bases and do not undergo hydrolysis.
+The strong bases are the ionic hydroxides of Group IA and IIA metals. The cations of these
+metals also do not hydrolyze. For example, sodium chloride, NaCl, is a salt of a strong acid,
+HCl, and a strong base, NaOH. Since chloride ions, Cl–, and sodium ions, Na+, do not
+hydrolyze, the solution of the salt will be neutral. Can you give more examples?
+2.4.2 Hydrolysis of Salts of Weak Acids and Strong Bases
+Solutions of these salts are basic because the anion of the weak acid is a moderately strong
+base and can be hydrolyzed as follows.
+X– + H2O Æ HX + OH–
+Activity 2.11
+Consider Na2
+CO3
+ and discuss the following :
+a What are the ‘parents’ (acid and base) of this salt?
+b Which ions of the salt can be hydrolyzed?
+c What will be the nature of Na2
+CO3
+ solution? Will it be acidic, basic or neutral?
+2.4.3 Hydrolysis of Salts of Strong Acids and Weak Bases
+A cation (the conjugate acid of a weak base) hydrolyzes as an acid. As in the first case,
+anions of a strong acid are weak conjugate bases and do not hydrolyze.
+Consider the hydrolysis of NH4Cl. Ammonium ion, NH4
++, is acidic and reacts with water
+to produce ammonia and hydronium ions.
+NH4
++ + H2O U NH3 + H3O+
+ACID-BASE EQUILIBRIA (UNIT 2)
+95
+What will be the pH of the solution of this salt? Is it acidic, basic or neutral?
+2.4.4 Hydrolysis of Salts of Weak Acids and Weak Bases
+The solution of these salts contain both a strong acid (the cation of the weak base) and a
+strong base (the anion of the weak acid). Whether the solution of such a salt is acidic, basic
+or neutral depends on the relative strengths of the acidic cation and the basic anion. If the
+acid is stronger than the base, the solution is acidic and if the base is stronger than the acid,
+the solution is basic. If they are of equal strengths, the solution is neutral.
+How do you determine the strength of the acid and the base?
+Activity 2.12
+In the following table you are given Ka
+ and Kb values of some cations and anions,
+respectively.
+Anion Kb Cation Ka
+F– 1.4 × 10–11 NH4
++ 5.6 × 10–10
+CNS– 2.0 × 10–5
+CH3
+COO– 5.6 × 10–10
+Using the above table, determine whether the solutions of NH4
+F, NH4
+CNS and CH3
+COONH4
+are acidic, basic or neutral. Discuss your results with your classmates.
+2.5 ACID–BASE INDICATORS AND TITRATIONS
+At the end of this subunit, you will be able to:
+• define acid-base indicators;
+• write some examples of acid-base indicators;
+• suggest a suitable indicator for a given acid-base titration;
+• explain the equivalents of acids and bases;
+• calculate the normality of a given acidic or basic solution;
+• define acid-base titration;
+• define end point;
+• define equivalence point;
+• distinguish between end point and equivalent point; and
+• discuss titration curves.
+CHEMISTRY GRADE 12
+96
+2.5.1 Acid–Base Indicators
+How do acid-base indicators change colour?
+Acid-base indicators are weak organic acids or weak organic bases that indicate whether
+a solution is acidic, basic or neutral.
+Let us consider a weak organic acid that is denoted by HIn. In order to be effective
+indicators, HIn, and its conjugate base, In–, must have different colours. In solution, the
+acid ionizes as follows:
+HIn(aq) + H2O(l) U H3O+(aq) + In–(aq)
+If the indicator is in sufficiently acidic medium, the equilibrium, according to Le Chatelier’s
+principle, shifts to the left and the predominant colour of the indicator is that of nonionized
+form (HIn). On the other hand, in a basic medium, the equilibrium shifts to the right and the
+colour of the solution will be that of the ionized form (In–).
+Since the indicator molecule is a weak acid, the ratio of HIn and In– is governed by the
+[H3O+] of the test solution.
+HIn(aq) + H2O(l) U H3O+(aq) + In–(aq)
+[ ]
++ –
+3
+In
+H O In
+= 
+HIn
+K
+     
+Rearranging this equation gives
+[ ] +
+3
+–
+In
+HIn H O
+ = 
+In K
+   
+   
+To illustrate how an indicator works, consider an indicator that has a yellow colour in acid
+form (HIn) and a red colour in basic form (In–). KIn is 1.0 × 10–6. Thus, we have
+[ ] +
+3
+– –6
+HIn H O
+ = 
+1.0 × 10 In
+   
+   
+The colour we observe in a solution of this indicator depends on the ratio of [HIn] to
+[In–]. In a solution of pH = 4.0, [H3O+] is 1 ×10–4, so
+[ ] –4
+– –6
+HIn 1.0×10 100
+ = =
+  In 1.0 × 10 1  
+ACID-BASE EQUILIBRIA (UNIT 2)
+97
+This means that the concentration on HIn is 100 times that of In–, and so the solution
+appears yellow.
+A solution having a pH of 5, [H3O+] = 1.0 ×10–5
+[ ] –5
+– –6
+HIn 1.0 × 10 10
+ = =   In 1.0 × 10 1   , still appears yellow.
+At pH of 6.0, [H3O+] is 1 × 10–6, and 
+[ ] –6
+– –6
+HIn 1.0 × 10 1 = =   In 1.0 × 10 1  
+Equal concentrations of HIn and In– give the solution an orange colour.
+At pH = 7.0, [H3O+] is 1× 10–7, and 
+[ ] –7
+– –6
+HIn 1.0×10 1
+ = =   In 1.0 × 10 10  
+Here the concentration of In–
+ is 10 times that of HIn, and so the solution appears red.
+Indicators are used in the laboratory for estimating the pH of a solution and to reveal the
+equivalence point of a titration. Equivalence point is the point at which stoichiometrically
+equivalent quantities of an acid and a base have been brought together.
+Some common indicators and their colors in acids and in bases are shown in Table 2.5.
+Table 2.5 Some common indicators.
+Indicator Acid Colour Base Colour pH range of Colour
+change
+Methyl violet Yellow Violet 0.0 – 1.6
+Methyl orange Red Yellow 3.2 – 4.4
+Bromcresol green Yellow Blue 3.8 – 5.4
+Methyl red Red Yellow 4.8 – 6.0
+Litmus Red Blue 5.0 – 8.0
+Bromthymol blue Yellow Blue 6.0 – 7.6
+Thymol blue Yellow Blue 8.0 – 9.6
+Phenolphthalein Colorless Pink 8.2 – 10.0
+Thymolphthalein Colorless Blue 9.4 – 0.6
+Alizarin yellow R Yellow Red 10.1 – 12.0
+The colour change of phenolphthalein in acidic and basic solutions is shown in Figure 2.2.
+CHEMISTRY GRADE 12
+98
+ 
+a b
+Figure 2.2 The colour changes of phenolphthalein in basic (a) and acidic (b) solutions.
+2.5.2 Equivalents of Acids and Bases
+Activity 2.13
+Disucss the following quesitons in group and write a short report.
+1. What is an equivalent of an acid and a base?
+2. How does the equivalent mass of an acid and a base obtained?
+3. What is the difference between normality and molarity? Discuss this in terms of acidbase reaction and in terms of oxidation-reduction reactions.
+According to the definition of normality, the number of equivalents is the normality multiplied
+by the volume of solution, in litres. If we add enough acid to neutralize a given volume of
+base, the following equation holds:
+N1V1 = N2V2
+Where N1
+ and V1
+ refer to the normality, and volume of the acid solution, respectively, and
+N2 and V2 refer to the normality and volume of the base solution, respectively.
+ACID-BASE EQUILIBRIA (UNIT 2)
+99
+Example 2.7
+What volume of 2.0 N NaOH is required to neutralize 25.0 mL of 2.70 N H2
+SO4
+?
+Solution:
+N1V1 = N2V2
+ ( ) 2 4 ( ) 1 1
+2
+2
+N V 2.70 N H SO 25.0 mL
+V = = = 33.8 mL
+N 2.00 N NaOH
+Example 2.8
+What is the number of equivalents in 4.00 mol H2SO4, assuming that the H2
+SO4
+will react with a base to replace both hydrogen atoms?
+Solution:
+1 mol H2SO4 Æ 2 equiv
+4.00 mol H2SO4 Æ ?
+ 2 4
+2 4
+4.00 mol H SO ×2equiv = 8.00 equiv 1.00 mol H SO
+Exercise 2.11
+1. What volume of 0.1 N HNO3 is required to neutralize 50.0 mL of a 0.15 N
+solution of Ba(OH)2?
+2. A solution of H2SO4 is made by dissolving 196 g of the acid in enough water to
+produce a 500.0 mL solution. Determine the normality of the solution.
+2.5.3 Acid–Base Titrations
+ Experiment 2.2
+Acid-base Titration
+Objective: To find the normality of a given hydrochloric acid solution by titrating
+against 0.1 N standard sodium hydroxide solution.
+Apparatus: 10 mL pipette, burette, 150 mL Erlenmeyer flask, beaker, funnel,
+burette clamp and metal stand.
+CHEMISTRY GRADE 12
+100
+Procedure:
+1. Clean the burette with distilled water and rinse it with the 0.1 N sodium hydroxide
+solution; and fix the burette on the burette clamp in vertical position (Figure 2.3).
+2. Using a funnel, introduce 0.1 N sodium hydroxide solution into the burette. Allow
+some of the solution to flow out and make sure that there are no air bubbles in the
+solution (why?). Record level of the solution, corresponding to the bottom of the
+meniscus, to the nearest 0.1 mL. Measure exactly 10 mL of hydrochloric acid
+solution (given) with the help of a10 mL pipette and add it into a clean 150 mL
+Erlenmeyer flask and add two or three drops of phenolphthalein indicator.
+Caution: When you suck hydrochloric acid or any reagent solution, into a pipette,
+have the maximum caution not to suck it into your mouth.
+Titration: First hold the neck of the Erlenmeyer flask with one hand and the stopcock with the other. As you add the sodium hydroxide solution from the burette,
+swirl the content of the flask gently and continuously. Add sodium hydroxide
+solution until the first faint pink colour comes which disappears on swirling. Add
+more sodium hydroxide drop wise until the pink colour persists for a few seconds.
+Find the difference between the initial level and the end point level of the burette.
+Observations and analysis:
+1. Colour change at the end point is from __________ to _________.
+2. What is the volume of sodium hydroxide added at the end point?
+3. What is the normality of hydrochloric acid at the end point?
+4. What is the similarity and difference between equivalence point and end point
+level after reaching the end point.
+Burette
+Clamp
+Stop cock
+Erlenmeyer flask
+Stand
+Figure 2.3 Titration Setup.
+ACID-BASE EQUILIBRIA (UNIT 2)
+101
+A titration is a technique in which a solution of known concentration is used to determine the
+concentration of an unknown solution. Typically, the titrant (the known solution) is added
+from a burette to a known quantity of the analyte (the unknown solution) until the neutralization
+reaction is complete. The point at which the acid has completely reacted with or been
+neutralized by the base, or vice versa, is called the equivalence point of the titration.
+Knowing the volume of titrant added allows the determination of the concentration of the
+unknown. Often, an indicator is used to signal the end of the reaction, the end point. The
+end point of titration is the pH at which the indicator changes colour. A graph of pH as a
+function of the added titrant is called a titration curve. Figure 2.4 shows the technique of
+titration.
+a bc
+Figure 2.4 The Techinques of Titration.
+a A precisely measured volume HCl(aq) is discharged from a pipette into a quantity
+of water in small flask. Then a few drops of phenolphthalein indicator solution are
+added. The solution is colourless. What does this indicate?
+b NaOH(aq) is slowly added from a burette into the flask. Until all of the HCl has
+been neutralized, the HCl is in excess and the NaOH is the limiting reactant. The
+solution remains colourless, indicating that it is still acidic.
+c At the point when the acid has just been completely neutralized, which is the
+equivalence point, HCl and NaOH are in stoichiometric proportions. An additional
+drop of NaOH(aq) beyond this point makes the solution slightly basic, and the
+indicator turns to a light pink colour. The titration is stopped, and the volume of
+solution delivered from the burette is recorded.
+To perform a successful titration, we must use an indicator that changes color at the
+equivalence point.
+CHEMISTRY GRADE 12
+102
+Strong Acid-Strong Base Titrations
+What is the pH of a solution of strong acid-strong base titration at the equivalence
+point? What are the indicators used in this type of titration?
+Take 20 mL of 0.5 M HCl (a strong acid), in a small flask and slowly add 0.5 M NaOH (a
+strong base) to it. To establish data for a titration curve, we can calculate the pH of the
+accumulated solution at different points in the titration. Then we can plot these pH values
+versus the volume of NaOH(aq) added. From the titration curve, we can establish the pH
+at the equivalence point and identify appropriate indicators for the titration. The pH at
+different points in the titration of 20 mL of 0.5 M HCl with 0.5 M NaOH can be calculated
+as follows:
+a Before the addition of any NaOH
+Because HCl is a strong acid, it ionizes completely. Therefore, the initial solution has
+[H3O+] = 0.5 M
+pH = –log [H3O+] = –log (0.5) = 0.3
+b After the addition of 5 mL of 0.5 M NaOH
+The total number of moles of H3O+ to be titrated is:
+0.02 L × 0.5 mol/L = 0.0l mol
+The number of moles of OH– in 5 mL of 0.5 M NaOH is:
+0.005 L ×0.5 mol/L = 0.0025 mol
+Since 0.0025 moles of NaOH neutralizes 0.0025 moles of HCl, the number of
+moles of H3
+O+ ion unneutralized is 0.01 mol – 0.0025 mol = 0.0075 mol.
+The total volume is 20 mL + 5 mL = 25 mL = 0.025 L.
+Concentration of H3
+O+ unneutralized is:
+0.0075mol = 0.3mol/L
+0.025L
+pH = –log 0.3 = 0.52
+c pH after the addition of 10.0 mL NaOH
+The moles of H3O+ to be titrated is again 0.02 L × 0.5 M = 0.01 mol.
+The moles of OH– added is 0.01 L × 0.5 M = 0.005 mol
+Since 0.005 mol OH– neutralizes 0.005 mol H3O+, then the amount of H3O+ that
+remains unneutralized is 0.01 mol – 0.005 mol = 0.005 mol.
+ACID-BASE EQUILIBRIA (UNIT 2)
+103
+The total volume of the solution is 20 mL + 10 mL = 30 mL = 0.03 L.
+The concentration of unneutralized H3
+O+ is:
+0.005mol = 0.17 M
+0.030 L
+pH = – log [H3O+] = –log 0.17 = 0.77
+d pH after the addition of 15.0 mL NaOH
+The number of mole of H3O+ here is also 0.01 mol.
+The moles of OH– ion added is 0.5 M × 0.015 L = 7.5 × 10–3 mol.
+7.5 × 10–3 moles OH– ions neutralizes 7.5 × 10–3 mol H3O+ ions.
+Then, the amount of H3
+O+ ions that remain unneutralized is:
+0.01 mol – 7.5 × 10–3 mol = 2.5 × 10–3 mol
+Total volume is 20 mL + 15 mL = 35 mL = 0.035 L
+The concentration of H3
+O+ unneutralized is:
+–3 2.5×10 mol = 0.07 M
+0.035L
+pH = –log [H3O+] = –log 0.07 = 1.15
+e pH after the addition of 20 mL NaOH
+This is a simple calculation, because it involves a complete-neutralization reaction,
+and the salt (NaCl) does not undergo hydrolysis. What do you call this point?
+At this point, [H3O+] = [OH–] = 1.0 × 10–7
+pH = –log [H3O+] = –log (1.0× 10–7) = 7
+f pH after the addition of 25 mL NaOH
+Do any moles of H3O+ remain unneutralized here?
+The moles of OH– ions added is 0.5 M × 0.025 L = 0.0125 mol. Since all the H3O+
+ions are neutralized, there is only 0.0125 mol OH–.
+The total volume here is 20 mL+ 25 mL = 45 mL = 0.045 L.
+CHEMISTRY GRADE 12
+104
+Concentration of OH– is:
+0.0125mol = 0.28M
+0.045L
+pOH = –log[OH–] = –log 0.28 = 0.55
+pH = 14 – 0.55 = 13.45
+Can you now calculate the pH after the addition of 30 mL of 0.5 M NaOH?
+Now you have the data for a titration curve.
+Volume of 0.5 M NaOH 0.00 5.00 10.00 15.00 20.00 25.00 30
+added (mL)
+pH 0.30 0.52 0.77 1.15 7.00 13.45 ?
+Figure 2.5 shows the titration curve of 20.00 mL of 0.5 M HCl by 0.5 M NaOH.
+14.0
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+pH
+5.0 10.0 15.0 20.0 25.0 30.0
+Colour change
+methyl violet
+Equivalence
+point
+Colour change
+bromthymol blue
+Colour change
+bromophenol blue
+Colour change
+phenolphthalein
+Colour change
+Alizarin yellow R
+Volume of 0.5 M NaOH, mL
+Figure 2.5 Titration curve of 20 mL of 0.5 M HCl by 0.5 M NaOH.
+ACID-BASE EQUILIBRIA (UNIT 2)
+105
+Features of the titration curve for the titration of a strong acid with a strong base.
+* The pH is low at the beginning of the titration.
+* The pH change slowly until just before the equivalence point.
+* Just before the equivalence point, the pH rises sharply.
+* At the equivalence point, the pH is 7.00.
+* Just past the equivalence point, the pH continues its sharp rise.
+* Further beyond the equivalence point, the pH continues to increase, but much less
+slowly.
+* Any indicator whose colour changes in the pH range from about 4 to 10 can be
+used in the titration of a strong acid with a strong base. Methyl violet changes colour
+too soon, and alizarin yellow R too late. So, bromthymol blue and phenolphthalein
+are preferred for this titration.
+Exercise 2.12
+Calculate the pH when the following quantities of 0.1 M NaOH solution have been
+added to 50 mL of 0.1 M HCl solution.
+a 49.00 mL b 49.90 mL c 50.00 mL d 50.10 mL
+Weak Acid-Strong Base Titrations
+Can you predict the pH range at the equivalence point?
+The titration of a weak acid by a strong base is slightly more complicated than the titration
+of a strong acid by a strong base. The conjugate base of a weak acid will undergo hydrolysis,
+which will affect the pH of the solution. Thus, we need to consider the stoichiometric
+reaction between the acid and the base and the equilibrium reaction of the species that
+remain.
+In contrast to the titration of a strong acid with a strong base, the titration of a weak acid
+with a strong base, has these features:
+* The initial pH is higher because the weak acid is only partially ionized.
+* At the half-neutralization, pH = pKa
+. The solution at this point is a buffer solution in
+which the concentration of the weak acid and its conjugate base are equal.
+* The pH is greater than 7 at the equivalence point because the anion of the weak acid
+hydrolyzes.
+CHEMISTRY GRADE 12
+106
+* The steep portions of the titration curve just prior to and just beyond the equivalence
+point is confined to a smaller pH range.
+* The choice of indicator for the titration is more limited. The color change must occur
+in a basic solution. Generally, the midpoint of the pH range in which the indicator
+changes colour must be well above pH 7.
+As an example, let us consider the titration of 20 mL of 0.5 M acetic acid, CH3
+COOH,
+with 0.5 M NaOH. To establish data for the titration curve, we calculate the pH at different
+points in the titration, as follows:
+a pH before addition of any NaOH
+Here we have only 0.5 M acetic acid, and we calculate the equilibrium concentration
+of H3O+ ions to calculate the pH.
+ CH3COOH(aq) + H2O(l) U H3O+(aq) + CH3COO–(aq)
+Initial, M 0.5 0 0
+Change, M –x +x +x
+Equilibrium, M (0.5 – x) x x
+[ ]
++ – 2 3 3 –5
+a
+3
+H O CH COO
+ = = = 1.8 × 10
+CH COOH 0.5 – 
+        x K
+x
+We can make the actual assumption, that is x << 0.5.
+2
+–5 = = 1.8 × 10
+0.5 – a
+x K
+x
+ x2 = 0.5 × 1.8 × 10–5
+ x2 = 9.0 × 10–6
+ x = –6 –3 + 9.0 × 10 = 3.0 × 10 = H O3    
+pH = –log [H3O+] = –log (3.0 × 10–3) = 2.57
+b pH after the addition of 5.00 mL NaOH
+The original number of moles of CH3COOH is 0.5 M × 0.020 L = 0.01 mol.
+The moles of OH– added is 0.5 M × 0.005 L = 0.0025 mol.
+All the OH– ions have reacted, converting 0.0025 mol CH3
+COOH to CH3COO–.
+So, at this point we have 0.0025 mol CH3COO– and (0.01 – 0.0025) mol
+CH3COOH or 0.0075 mol CH3COOH.
+ACID-BASE EQUILIBRIA (UNIT 2)
+107
+The total volume of the solution is 20 mL + 5 mL = 25 ml = 0.025 L.
+The concentration of CH3COO– and CH3COOH in 0.025 L solution can be
+calculated as
+[CH3COOH] = 
+0.0075mol = 0.3 M
+0.025L
+[CH3COO–] = 
+0.0025mol = 0.1 M
+0.025L
+ CH3COOH(aq) + H2O(l) U CH3COO–(aq) + H3O+(aq)
+Initial, M 0.3 0.1 0
+Change, M –x +x +x
+Equilibrium, M 0.3 – x 0.1+ x x
+Ka
+ = –5 (0.1 + ) = 1.8 × 10
+0.3 – 
+x x
+x
+Assuming that x is very small when compared to 0.1 and 0.3, then 0.1 + x = 0.1,
+and 0.3 – x = 0.3, respectively. Thus,
+1.8 × 10–5 = 
+0.1
+0.3
+x
+x = 
+–5
+–5 +
+3
+0.3 × 1.8 × 10 = 5.4 × 10 = [H O ] 0.1
+pH = –log [H3O+] = –log (5.4 × 10–5) = 4.26
+c pH after the addition of 10 mL of 0.5 M NaOH
+Number of moles of the original CH3COOH = 0.01 mol.
+Number of moles of OH– ions added 0.5 M × 0.01 L = 0.005 mol.
+0.005 mol OH– ions convert 0.005 mol of CH3COOH to CH3COO–. So, at this
+point, we have 0.005 mol CH3COO– and (0.01 – 0.005) mol CH3COOH or
+0.005 mol CH3COOH.
+The total volume of the solution is 20 mL + 10 mL = 30 mL = 0.03 L.
+Concentration of CH3COOH and CH3COO– in 0.03 L solution is
+CHEMISTRY GRADE 12
+108
+[CH3COOH] = 
+0.005 mol = 0.17 M
+0.03L
+[CH3COO–] = 
+0.005mol = 0.17 M
+0.03 L
+ CH3COOH(aq) + H2O(l) U CH3COO–(aq) + H3O+(aq)
+Initial, M 0.17 0.17 0
+Change, M –x +x +x
+Equilibrium, M (0.17– x) (0.17+x) x
+–5
+a
+(0.17 + ) K = = 1.8 × 10
+0.17 – 
+x x
+x
+By assuming that x is very small
+0.17 + x ª 0.17, 0.17 – x ª 0.17
+1.8 × 10–5 = 
+( ) 0.17
+0.17
+x
+x = 1.8 × 10–5 = [H3O+]
+pH = –log 1.8 × 10–5 = 4.47
+d pH, after addition of 20 mL of 0.5 M NaOH
+This is the equivalence point. Do you think that the pH at this point equals 7?
+Number of moles of OH– ions added
+0.5 M × 0.020 L = 0.01 mol
+Since 0.01 mol OH– converts 0.01 mol of CH3COOH to CH3COO–, no more
+CH3COOH remains at this point. But now we have 0.01 M CH3COO–.
+ CH3COO–(aq) + H2O(l) U CH3COOH(aq) + OH–(aq)
+Initial, M 0 0 0
+Change, M –x +x +x
+Equilibrium, M ( 0.01– x ) x x
+[ ] –
+3
+b –
+3
+CH COOH OH
+ = 
+CH COO
+K
+   
+   
+ACID-BASE EQUILIBRIA (UNIT 2)
+109
+2
+–10 5.6 × 10 = 
+0.01–
+x
+x
+Assuming that x is very small, 0.01 – x ≈0.01
+2
+–10 5.6 × 10 = 
+0.01
+x
+x2 = 0.01 × 5.6 × 10–10 = 5.6 × 10–12
+x = –12 5.6 × 10 = 2.37 × 10–6 = [OH–]
+pOH = –log 2.37 × 10–6 = 5.63
+pH = 14 – 5.63 = 8.37
+e pH after the addition of 25 mL of 0.5 M NaOH
+number of mole of OH– added 0.5 M × 0.025 L = 0.0125 mol
+Now the equivalence point is passed, and there is no more CH3COOH to react
+with the excess OH– ion that are added.
+The number of moles of OH– in excess is (0.0125 – 0.01) mol or 0.0025 mol.
+Total volume of the solution is 20 mL + 25 mL = 45 mL = 0.045 L
+The concentration of the excess OH– ions is
+0.0025 mol
+0.045 L = 0.055 = [OH–]
+pOH = –log [OH–] = – log 0.055 = 1.26
+pH = 14 – 1.26 = 12.74
+Can you calculate the pH after the addition of 30 mL of 0.5 M NaOH?
+From the volume of NaOH added and the pH values calculated, you can tabulate
+as follows:
+Volume of NaOH 0.00 5.00 10.00 20.00 25.00 30.00
+added (mL)
+pH 2.57 4.26 4.47 8.37 12.74 ?
+CHEMISTRY GRADE 12
+110
+Figure 2.6 shows the titration curve for 20.00 mL of 0.5 M CH3COOH by 0.5 M
+NaOH.
+14.0
+12.0
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+pH
+5.0 10.0 15.0 20.0 25.0 30.0
+Colour change
+methyl violet
+Equivalence
+point
+Colour change
+phenolphthalein
+Volume of 0.5 M NaOH, mL
+Figure 2.6 Titration curve of 20.00 mL of 0.5 M CH3
+COOH by 0.5 M NaOH.
+Exercise 2.13
+Calculate the pH when the following quantities of 0.1 M NaOH solution have been
+added to 25.0 mL of 0.1 M acetic acid:
+a 10.00 mL b 25.00 mL c 35.00 mL
+ACID-BASE EQUILIBRIA (UNIT 2)
+111
+Weak Base-Strong Acid Titrations
+How does the titration curve of a weak base with a strong acid differ from the
+titration curves you have seen so far? What is the pH at equivalence point?
+Consider the titration of ammonia, NH3
+, with a strong acid, HCl.
+HCl (aq) + NH3 (aq) Æ NH4Cl (aq)
+or simply
+H+ (aq) + NH3 (aq) Æ NH+
+4 (aq)
+The pH at the equivalence point is less than 7. Why?
+Activity 2.14
+A 25.0 mL sample of 0.1 M NH3
+ is titrated with 0.1 M HCl.
+a Calculate the pH values of the solution after the following volumes of 0.1 M HCl are
+added. 0.00 mL, 5.00 mL, 10.00 mL, 15.00 mL, 20.00 mL, 22.00 mL, 24.00 mL, 25.00
+mL and 26.00 mL.
+b Draw a table and put the pH values corresponding to each volume in the table.
+c Draw the titration curve.
+d Name the appropriate indicator for this titration.
+Unit Summary
+• The classical (Arrhenius) definition of acids and bases has many limitations
+but still we cannot ignore it.
+• The Brønsted-Lowry definition is more general, and considers an acid as a
+proton donor and a base as a proton acceptor. In this definition, every acid
+has a conjugate base and every base has a conjugate acid. The stronger the
+acid, the weaker its conjugate base. Similarly, the stronger a base, the weaker
+its conjugate acid.
+• According to Lewis, a base is any species that donates an electron pair, and
+an acid is any species that accepts an electron pair.
+• Water spontaneously ionizes to a slight extent (self-ionization or
+autoionization), forming H3O+(aq) and OH–(aq). The extent of ionization is
+expressed by the ion-product constant for water, Kw.
+CHEMISTRY GRADE 12
+112
+• The strength of acids and bases in aqueous solution depends on several factors
+such as the percent of dissociation, the dissociation constant, the
+concentration of hydrogen ions and hydroxide ions, pH and pOH.
+• The extent to which a weak acid ionizes can be expressed by using the
+equilibrium constant for the ionization reaction.
+• Generally, we can calculate the hydrogen-ion concentration or pH of an
+acid solution at equilibrium, given the initial concentration of the acid and
+its Ka value.
+• The common-ion effect tends to suppress the ionization of a weak acid or a
+weak base. This action can be explained by Le Chatelier’s principle.
+• A buffer solution is a combination of either a weak acid and its conjugate
+base or a weak base and its conjugate acid. The solution reacts in such a
+way that the pH of the solution remains nearly constant. Buffer systems play
+a vital role in maintaining the pH of body fluids.
+• Acid-base indicators are weak organic acids or bases. They change colour
+near the equivalence point in an acid-base neutralization reaction.
+• The pH at the equivalence point of an acid-base titration depends on
+hydrolysis of the salt formed in the neutralization reaction. For strong acidstrong base titrations, the pH at the equivalence point is 7. For weak acid
+strong base titrations, the pH at equivalence point is greater than 7. For
+weak base–strong acid titrations, the pH at the equivalence point is less
+than 7.
